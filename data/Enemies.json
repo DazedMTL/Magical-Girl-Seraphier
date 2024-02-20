@@ -1,0 +1,3093 @@
+[
+    null,
+    {
+        "id": 1,
+        "actions": [
+            {
+                "skillId": 278,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 152,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 102,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 153,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 103,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 154,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 104,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 278,
+                "rating": 4,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "blacksuits04",
+        "dropItems": [
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 16
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 16
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 16
+            }
+        ],
+        "exp": 100,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            }
+        ],
+        "gold": 50,
+        "name": "監視員",
+        "note": "<HPバーY: 0>",
+        "params": [
+            200,
+            0,
+            35,
+            10,
+            0,
+            10,
+            10,
+            0
+        ]
+    },
+    {
+        "id": 2,
+        "actions": [
+            {
+                "skillId": 273,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 164,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 102,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 165,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 103,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 166,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 104,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 273,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            }
+        ],
+        "battlerHue": 29,
+        "battlerName": "dolone01",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 80,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            }
+        ],
+        "gold": 50,
+        "name": "小型ガードドローン",
+        "note": "<HPバーY: 0>",
+        "params": [
+            400,
+            0,
+            50,
+            10,
+            0,
+            10,
+            10,
+            0
+        ]
+    },
+    {
+        "id": 3,
+        "actions": [
+            {
+                "skillId": 278,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 295,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 102,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 296,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 105,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 278,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "blacksuits05",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 7,
+                "denominator": 5
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 16
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 16
+            }
+        ],
+        "exp": 70,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            }
+        ],
+        "gold": 50,
+        "name": "巡回警備員",
+        "note": "<HPバーY: 0>",
+        "params": [
+            300,
+            0,
+            35,
+            10,
+            0,
+            10,
+            10,
+            0
+        ]
+    },
+    {
+        "id": 4,
+        "actions": [
+            {
+                "skillId": 278,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 275,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 152,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 102,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 153,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 103,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 154,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 104,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 160,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 106,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 278,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 275,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 156,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 107,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 157,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 108,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 158,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 109,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 159,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 110,
+                "conditionParam2": 0
+            }
+        ],
+        "battlerHue": 25,
+        "battlerName": "blacksuits06",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 8,
+                "denominator": 1
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 16
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 16
+            }
+        ],
+        "exp": 700,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            }
+        ],
+        "gold": 100,
+        "name": "警備員リーダー",
+        "note": "<HPバーY: 0>",
+        "params": [
+            1200,
+            0,
+            70,
+            10,
+            0,
+            10,
+            10,
+            0
+        ]
+    },
+    {
+        "id": 5,
+        "actions": [
+            {
+                "skillId": 273,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 173,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 274,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 164,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 102,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 165,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 103,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 166,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 104,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 167,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 106,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 273,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 274,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 168,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 107,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 169,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 108,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 170,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 109,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 171,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 110,
+                "conditionParam2": 0
+            }
+        ],
+        "battlerHue": 242,
+        "battlerName": "dolone02",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 10,
+                "denominator": 1
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 900,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            }
+        ],
+        "gold": 200,
+        "name": "大型ガードドローン",
+        "note": "<HPバーY: 0>",
+        "params": [
+            2000,
+            0,
+            80,
+            10,
+            0,
+            10,
+            10,
+            0
+        ]
+    },
+    {
+        "id": 6,
+        "actions": [
+            {
+                "skillId": 273,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 274,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 269,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 102,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 270,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 105,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 273,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 274,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "SF_Drone",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 110,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            }
+        ],
+        "gold": 50,
+        "name": "巡回ドローン",
+        "note": "<HPバーY: 0>",
+        "params": [
+            400,
+            0,
+            60,
+            10,
+            0,
+            10,
+            10,
+            0
+        ]
+    },
+    {
+        "id": 7,
+        "actions": [
+            {
+                "skillId": 278,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 275,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 203,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 102,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 204,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 105,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 278,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 275,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "SF_Specialforces",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 200,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 80,
+        "name": "警備兵",
+        "note": "",
+        "params": [
+            500,
+            0,
+            70,
+            10,
+            0,
+            20,
+            10,
+            0
+        ]
+    },
+    {
+        "id": 8,
+        "actions": [
+            {
+                "skillId": 176,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 177,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 102,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 180,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 112,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 178,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 113,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 179,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 114,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 176,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 181,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 107,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 182,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 108,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 183,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 109,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 184,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 110,
+                "conditionParam2": 0
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "SF_Cyborg",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 6000,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 1000,
+        "name": "追跡者（鎖）",
+        "note": "",
+        "params": [
+            5000,
+            0,
+            150,
+            10,
+            0,
+            50,
+            10,
+            0
+        ]
+    },
+    {
+        "id": 9,
+        "actions": [
+            {
+                "skillId": 187,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 197,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 102,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 188,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 114,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 189,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 105,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 190,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 106,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 191,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 112,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 192,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 113,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 195,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 193,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 107,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 194,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 108,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 196,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 110,
+                "conditionParam2": 0
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "SF_Madscientist",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 2100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 200,
+        "name": "科学者",
+        "note": "",
+        "params": [
+            2500,
+            0,
+            90,
+            10,
+            0,
+            50,
+            10,
+            0
+        ]
+    },
+    {
+        "id": 10,
+        "actions": [
+            {
+                "skillId": 207,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 130,
+                "rating": 5,
+                "conditionType": 1,
+                "conditionParam1": 1,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 209,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 102,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 210,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 105,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 211,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 106,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 212,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 112,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 213,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 107,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 214,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 215,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 113,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 216,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 108,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 219,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 110,
+                "conditionParam2": 0
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "SF_Mechasphere",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 3300,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 300,
+        "name": "球体ドローン",
+        "note": "",
+        "params": [
+            3000,
+            0,
+            100,
+            10,
+            0,
+            50,
+            10,
+            0
+        ]
+    },
+    {
+        "id": 11,
+        "actions": [
+            {
+                "skillId": 222,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 231,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 223,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 102,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 224,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 103,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 225,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 104,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 226,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 106,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 222,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 231,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 227,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 107,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 228,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 108,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 229,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 109,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 230,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 110,
+                "conditionParam2": 0
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "SF_Workrobot",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 4700,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 400,
+        "name": "お掃除ロボ",
+        "note": "",
+        "params": [
+            3500,
+            0,
+            110,
+            10,
+            0,
+            80,
+            10,
+            0
+        ]
+    },
+    {
+        "id": 12,
+        "actions": [
+            {
+                "skillId": 278,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 276,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 236,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 102,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 237,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 105,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 278,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 276,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "SF_Skullmask",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 600,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 100,
+        "name": "特殊警備兵",
+        "note": "",
+        "params": [
+            800,
+            0,
+            100,
+            10,
+            0,
+            80,
+            10,
+            0
+        ]
+    },
+    {
+        "id": 13,
+        "actions": [
+            {
+                "skillId": 252,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 253,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 254,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 102,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 255,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 105,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 256,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 106,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 252,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 253,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 257,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 107,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 258,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 108,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 259,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 109,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 260,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 110,
+                "conditionParam2": 0
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "SF_Cyborg2",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 10000,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 700,
+        "name": "追跡者（触手）",
+        "note": "",
+        "params": [
+            6000,
+            0,
+            180,
+            10,
+            0,
+            80,
+            10,
+            0
+        ]
+    },
+    {
+        "id": 14,
+        "actions": [
+            {
+                "skillId": 242,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 243,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 244,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 102,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 245,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 105,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 246,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 106,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 242,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 243,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 247,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 107,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 248,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 108,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 249,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 109,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 250,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 110,
+                "conditionParam2": 0
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "MG_Actor1_7_1",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 6300,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 500,
+        "name": "リベレイター【セーレ】",
+        "note": "",
+        "params": [
+            4000,
+            100,
+            100,
+            10,
+            0,
+            120,
+            999,
+            0
+        ]
+    },
+    {
+        "id": 15,
+        "actions": [
+            {
+                "skillId": 262,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 263,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 266,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 264,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 102,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 265,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 105,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 262,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 263,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "MG_Actor2_4_1",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 8100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 600,
+        "name": "リベレイター【アミィ】",
+        "note": "<HPバーY: 100>",
+        "params": [
+            6000,
+            100,
+            150,
+            10,
+            0,
+            150,
+            10,
+            0
+        ]
+    },
+    {
+        "id": 16,
+        "actions": [
+            {
+                "skillId": 292,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 283,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 284,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 285,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 102,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 286,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 105,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 287,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 106,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 288,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 107,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 289,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 108,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 290,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 109,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 291,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 110,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 292,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 283,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 284,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 282,
+                "rating": 9,
+                "conditionType": 4,
+                "conditionParam1": 180,
+                "conditionParam2": 0
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "robo",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 10100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 800,
+        "name": "魔導兵器【オーグル】",
+        "note": "<HPバーY: 100>",
+        "params": [
+            7000,
+            0,
+            180,
+            10,
+            0,
+            180,
+            10,
+            0
+        ]
+    },
+    {
+        "id": 17,
+        "actions": [
+            {
+                "skillId": 273,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 274,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 269,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 102,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 270,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 105,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 273,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 274,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "SF_Drone2",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 800,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            }
+        ],
+        "gold": 50,
+        "name": "強化巡回ドローン",
+        "note": "<HPバーY: 0>",
+        "params": [
+            1000,
+            0,
+            100,
+            10,
+            0,
+            120,
+            10,
+            0
+        ]
+    },
+    {
+        "id": 18,
+        "actions": [
+            {
+                "skillId": 42,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 302,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 303,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 222,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 304,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 102,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 305,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 105,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 306,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 106,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 302,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 303,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 222,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 42,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 307,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 107,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 308,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 108,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 309,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 109,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 310,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 110,
+                "conditionParam2": 0
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "MG_Actor1_7",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 12100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 800,
+        "name": "リベレイター【ザガン】",
+        "note": "<HPバーY: 100>",
+        "params": [
+            8000,
+            0,
+            180,
+            10,
+            0,
+            180,
+            10,
+            0
+        ]
+    },
+    {
+        "id": 19,
+        "actions": [
+            {
+                "skillId": 276,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 277,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 269,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 102,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 270,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 105,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 276,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 277,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 279,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "SF_Slaughterrobot",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 1500,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 200,
+        "name": "大型ガードロボ",
+        "note": "",
+        "params": [
+            3000,
+            0,
+            150,
+            10,
+            0,
+            180,
+            10,
+            0
+        ]
+    },
+    {
+        "id": 20,
+        "actions": [
+            {
+                "skillId": 324,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 322,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 325,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 102,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 326,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 105,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 327,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 106,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 328,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 107,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 329,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 108,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 330,
+                "rating": 4,
+                "conditionType": 4,
+                "conditionParam1": 109,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 331,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 110,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 324,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 322,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 323,
+                "rating": 9,
+                "conditionType": 4,
+                "conditionParam1": 180,
+                "conditionParam2": 0
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "SF_Cyborg3",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 13000,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 900,
+        "name": "追跡者（十字架）",
+        "note": "",
+        "params": [
+            10000,
+            0,
+            200,
+            10,
+            0,
+            200,
+            10,
+            0
+        ]
+    },
+    {
+        "id": 21,
+        "actions": [
+            {
+                "skillId": 130,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 122,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 346,
+                "rating": 2,
+                "conditionType": 4,
+                "conditionParam1": 112,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 342,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 343,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 344,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 101,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 347,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 123,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 348,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 124,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 349,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 105,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 350,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 107,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 351,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 107,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 352,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 108,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 353,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 109,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 354,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 109,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 355,
+                "rating": 3,
+                "conditionType": 4,
+                "conditionParam1": 110,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 342,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 343,
+                "rating": 1,
+                "conditionType": 4,
+                "conditionParam1": 111,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 345,
+                "rating": 9,
+                "conditionType": 4,
+                "conditionParam1": 180,
+                "conditionParam2": 0
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "MG_Actor1_1",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 14300,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 63,
+                "dataId": 1,
+                "value": 1
+            }
+        ],
+        "gold": 1000,
+        "name": "リベレイター【ベリアル】",
+        "note": "",
+        "params": [
+            14000,
+            0,
+            200,
+            10,
+            0,
+            200,
+            10,
+            0
+        ]
+    },
+    {
+        "id": 22,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 23,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 24,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 25,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 26,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 27,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 28,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 29,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 30,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    }
+]

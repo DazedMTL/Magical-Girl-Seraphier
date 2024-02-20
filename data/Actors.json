@@ -1,0 +1,591 @@
+[
+    null,
+    {
+        "id": 1,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "$Seraphiaile01",
+        "classId": 1,
+        "equips": [
+            1,
+            2,
+            3
+        ],
+        "faceIndex": 0,
+        "faceName": "001",
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 41,
+                "dataId": 3,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "セラフィエール",
+        "nickname": "",
+        "note": "<コマンド:攻撃,1, ,1565>\n<コマンド:スキル/杖魔法,2, ,1552>\n<コマンド:スキル/詠唱魔法,3, ,1567>\n<コマンド:スキル/特殊行動,4, ,1575>\n<コマンド:防御,5, ,1569>\n<コマンド:アイテム,6, ,1761>\n<コマンド:逃げる,70, ,82>",
+        "profile": "天川光羽（てんかわこはね）魔法少女やってます。"
+    },
+    {
+        "id": 2,
+        "battlerName": "",
+        "characterIndex": 1,
+        "characterName": "$Kohane01",
+        "classId": 2,
+        "equips": [
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "002",
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 41,
+                "dataId": 3,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 1,
+        "name": "天川こはね",
+        "nickname": "魔法少女",
+        "note": "<コマンド:スキル/特殊行動,4, ,1575>\n<コマンド:防御,5, ,1569>\n<コマンド:アイテム,6, ,1761>\n<コマンド:スキル/5,7>",
+        "profile": "天川光羽（てんかわこはね）魔法少女やってます。"
+    },
+    {
+        "id": 3,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "Nature",
+        "classId": 3,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "犬",
+        "nickname": "犬",
+        "note": "",
+        "profile": "犬"
+    },
+    {
+        "id": 4,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "$Kohane03e",
+        "classId": 2,
+        "equips": [
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "002",
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 41,
+                "dataId": 3,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 1,
+        "name": "天川こはね",
+        "nickname": "魔法少女",
+        "note": "<コマンド:スキル/特殊行動,4, ,1575>\n<コマンド:防御,5, ,1569>\n<コマンド:アイテム,6, ,1761>\n<コマンド:スキル/5,7>",
+        "profile": "天川光羽（てんかわこはね）魔法少女やってます。"
+    },
+    {
+        "id": 5,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "$Kohane01e",
+        "classId": 2,
+        "equips": [
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "002",
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 41,
+                "dataId": 3,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 1,
+        "name": "天川こはね",
+        "nickname": "魔法少女",
+        "note": "<コマンド:スキル/特殊行動,4, ,1575>\n<コマンド:防御,5, ,1569>\n<コマンド:アイテム,6, ,1761>\n<コマンド:スキル/5,7>",
+        "profile": "天川光羽（てんかわこはね）魔法少女やってます。"
+    },
+    {
+        "id": 6,
+        "battlerName": "",
+        "characterIndex": 7,
+        "characterName": "MG_Actor2",
+        "classId": 4,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 7,
+        "faceName": "MG_Actor2",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "アミィ",
+        "nickname": "少女",
+        "note": "",
+        "profile": "研究所にいた女の子"
+    },
+    {
+        "id": 7,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 8,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 9,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 10,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 11,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 12,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 13,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 14,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 15,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 16,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 17,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 18,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 19,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 20,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 21,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 22,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 23,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 24,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    }
+]

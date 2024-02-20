@@ -1,0 +1,36 @@
+[
+    null,
+    {
+        "id": 1,
+        "animationId": 1,
+        "description": "ガーディアンズがこはねのために開発した杖。\n神霊力を収束させて放つことができる。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 1,
+                "value": 1
+            }
+        ],
+        "iconIndex": 204,
+        "name": "セラフィック・ケイン",
+        "note": "<RemoveState49Common:9>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    }
+]
