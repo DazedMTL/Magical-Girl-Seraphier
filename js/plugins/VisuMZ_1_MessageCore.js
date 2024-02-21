@@ -1203,7 +1203,7 @@ VisuMZ.MessageCore.version = 1.29;
  * @text Text Macros
  * @type struct<TextMacro>[]
  * @desc Macros that are used to quickly write batches of text.
- * @default ["{\"Match:str\":\"Example Macro\",\"TextStr:str\":\"This is the text that will be displayed when you type [Example Macro].\",\"TextJS:func\":\"\\\"return 'Text';\\\"\"}","{\"Match:str\":\"Leader\",\"TextStr:str\":\"\\KOHANE\",\"TextJS:func\":\"\\\"return 'Text';\\\"\"}"]
+ * @default ["{\"Match:str\":\"Example Macro\",\"TextStr:str\":\"This is the text that will be displayed when you type [Example Macro].\",\"TextJS:func\":\"\\\"return 'Text';\\\"\"}","{\"Match:str\":\"Leader\",\"TextStr:str\":\"\\\\P[1]\",\"TextJS:func\":\"\\\"return 'Text';\\\"\"}"]
  *
  * @param TextSpeed:struct
  * @text Text Speed Option Settings
