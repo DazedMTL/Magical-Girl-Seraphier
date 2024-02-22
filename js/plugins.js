@@ -463,7 +463,7 @@ var $plugins = [
       name: "SimpleVoice",
       status: true,
       description: "簡易ボイスプラグイン",
-      parameters: { optionName: "イベントボイス 音量", optionValue: "100" },
+      parameters: { optionName: "Event Voice Volume", optionValue: "100" },
     },
     {
       name: "Madante",
@@ -573,7 +573,7 @@ var $plugins = [
       parameters: {
         base: "",
         baseItems:
-          '["{\\"name\\":\\"立ち絵表示\\",\\"commonEvent\\":\\"21\\",\\"switchId\\":\\"367\\",\\"visibility\\":\\"true\\",\\"note\\":\\"\\"}","{\\"name\\":\\"淫紋ゲージ表示\\",\\"commonEvent\\":\\"5\\",\\"switchId\\":\\"0\\",\\"visibility\\":\\"true\\",\\"note\\":\\"\\"}"]',
+          '["{\\"name\\":\\"Standing CG Display\\",\\"commonEvent\\":\\"21\\",\\"switchId\\":\\"367\\",\\"visibility\\":\\"true\\",\\"note\\":\\"\\"}","{\\"name\\":\\"Lewd Crest Display\\",\\"commonEvent\\":\\"5\\",\\"switchId\\":\\"0\\",\\"visibility\\":\\"true\\",\\"note\\":\\"\\"}"]',
       },
     },
     {
@@ -698,10 +698,10 @@ var $plugins = [
         menuHelpWindowEnable: "true",
         menuHelpTexts:
           '["{\\"symbol\\":\\"アイテム\\",\\"helpText\\":\\"入手したアイテムを使用します。\\"}","{\\"symbol\\":\\"スキル\\",\\"helpText\\":\\"習得したスキルを使用します。\\"}","{\\"symbol\\":\\"装備\\",\\"helpText\\":\\"装備を変更します。\\"}","{\\"symbol\\":\\"ステータス\\",\\"helpText\\":\\"ステータスを確認します。\\"}","{\\"symbol\\":\\"並び替え\\",\\"helpText\\":\\"パーティの並び順を変更します。\\"}","{\\"symbol\\":\\"オプション\\",\\"helpText\\":\\"オプション画面を開きます。\\"}","{\\"symbol\\":\\"セーブ\\",\\"helpText\\":\\"セーブ画面を開きます。\\"}","{\\"symbol\\":\\"ゲーム終了\\",\\"helpText\\":\\"ゲームを終了します。\\"}","{\\"symbol\\":\\"立ち絵表示\\",\\"helpText\\":\\"マップ画面での立ち絵表示／非表示を切り替えます。\\"}","{\\"symbol\\":\\"淫紋ゲージ表示\\",\\"helpText\\":\\"淫紋ゲージの状態を表示します。\\"}"]',
-        leftBlockLabel: "現在地：",
+        leftBlockLabel: "Location: ",
         leftBlockValue: "$gameMap.displayName()",
         leftBlockAlign: "left",
-        rightBlockLabel: "プレイ時間：",
+        rightBlockLabel: "Playtime: ",
         rightBlockValue: "$gameSystem.playtimeText()",
         rightBlockAlign: "right",
         rightBottomBlockLabel: "",
@@ -862,7 +862,7 @@ var $plugins = [
       description: "各シーンに追加で任意のウィンドウを表示します。",
       parameters: {
         WindowList:
-          '["{\\"SceneName\\":\\"Scene_Status\\",\\"x\\":\\"25\\",\\"y\\":\\"225\\",\\"width\\":\\"1220\\",\\"height\\":\\"90\\",\\"LineHeight\\":\\"30\\",\\"Text\\":\\"\\\\\\\\C[16]絶頂回数\\\\\\\\C[0]  \\\\\\\\V[21]     \\\\\\\\C[16]性交回数\\\\\\\\C[0]  \\\\\\\\V[22]     \\\\\\\\C[16]拘束回数\\\\\\\\C[0]  \\\\\\\\V[27]     \\\\\\\\C[2]\\\\\\\\V[28]\\\\\\\\C[0]\\\\n\\\\\\\\C[16]口虐回数\\\\\\\\C[0]  \\\\\\\\V[26]     \\\\\\\\C[16]胸虐回数\\\\\\\\C[0]  \\\\\\\\V[24]     \\\\\\\\C[16]膣虐回数\\\\\\\\C[0]  \\\\\\\\V[25]     \\\\\\\\C[16]尻虐回数\\\\\\\\C[0]  \\\\\\\\V[35]     \\\\\\\\C[2]\\\\\\\\V[97]\\\\\\\\C[0]\\",\\"FontSize\\":\\"0\\",\\"WindowSkin\\":\\"Window_null\\",\\"SwitchId\\":\\"0\\",\\"ShowOpenAnimation\\":\\"false\\"}","{\\"SceneName\\":\\"Scene_Status\\",\\"x\\":\\"800\\",\\"y\\":\\"16\\",\\"width\\":\\"445\\",\\"height\\":\\"200\\",\\"LineHeight\\":\\"32\\",\\"Text\\":\\"\\\\\\\\C[16]口感度\\\\\\\\C[0] \\\\\\\\V[37]％  \\\\\\\\C[16]Ｍ感度\\\\\\\\C[0] \\\\\\\\V[55]％\\\\n\\\\\\\\C[16]胸感度\\\\\\\\C[0] \\\\\\\\V[40]％  \\\\\\\\C[16]淫乱度\\\\\\\\C[0] \\\\\\\\V[29]％\\\\n\\\\\\\\C[16]膣感度\\\\\\\\C[0] \\\\\\\\V[38]％\\\\n\\\\\\\\C[16]尻感度\\\\\\\\C[0] \\\\\\\\V[39]％\\\\n\\\\n\\",\\"FontSize\\":\\"0\\",\\"WindowSkin\\":\\"Window_null\\",\\"SwitchId\\":\\"0\\",\\"ShowOpenAnimation\\":\\"false\\"}"]',
+          '["{\\"SceneName\\":\\"Scene_Status\\",\\"x\\":\\"25\\",\\"y\\":\\"225\\",\\"width\\":\\"1220\\",\\"height\\":\\"90\\",\\"LineHeight\\":\\"30\\",\\"Text\\":\\"\\\\\\\\C[16]Climax\\\\\\\\C[0]  \\\\\\\\V[21]     \\\\\\\\C[16]Sex\\\\\\\\C[0]  \\\\\\\\V[22]     \\\\\\\\C[16]Restraint\\\\\\\\C[0]  \\\\\\\\V[27]     \\\\\\\\C[2]\\\\\\\\V[28]\\\\\\\\C[0]\\\\n\\\\\\\\C[16]Oral Abuse\\\\\\\\C[0]  \\\\\\\\V[26]     \\\\\\\\C[16]Breast Abuse\\\\\\\\C[0]  \\\\\\\\V[24]     \\\\\\\\C[16]Vaginal Abuse\\\\\\\\C[0]  \\\\\\\\V[25]     \\\\\\\\C[16]Anal Abuse\\\\\\\\C[0]  \\\\\\\\V[35]     \\\\\\\\C[2]\\\\\\\\V[97]\\\\\\\\C[0]\\",\\"FontSize\\":\\"0\\",\\"WindowSkin\\":\\"Window_null\\",\\"SwitchId\\":\\"0\\",\\"ShowOpenAnimation\\":\\"false\\"}","{\\"SceneName\\":\\"Scene_Status\\",\\"x\\":\\"800\\",\\"y\\":\\"16\\",\\"width\\":\\"445\\",\\"height\\":\\"200\\",\\"LineHeight\\":\\"32\\",\\"Text\\":\\"\\\\\\\\C[16]Oral Sensitivity\\\\\\\\C[0] \\\\\\\\V[37]％  \\\\\\\\C[16]M Sensitivity\\\\\\\\C[0] \\\\\\\\V[55]％\\\\n\\\\\\\\C[16]Breast Sensitivity\\\\\\\\C[0] \\\\\\\\V[40]％  \\\\\\\\C[16]Lewdness\\\\\\\\C[0] \\\\\\\\V[29]％\\\\n\\\\\\\\C[16]Vaginal Sensitivity\\\\\\\\C[0] \\\\\\\\V[38]％\\\\n\\\\\\\\C[16]Anal Sensitivity\\\\\\\\C[0] \\\\\\\\V[39]％\\\\n\\\\n\\",\\"FontSize\\":\\"0\\",\\"WindowSkin\\":\\"Window_null\\",\\"SwitchId\\":\\"0\\",\\"ShowOpenAnimation\\":\\"false\\"}"]',
       },
     },
     {
@@ -1058,7 +1058,7 @@ var $plugins = [
         enemyVolume: "90",
         enemyPitch: "100",
         enemyPan: "0",
-        "Battle Voice Name at Option": "バトルボイス",
+        "Battle Voice Name at Option": "Battle Voice",
         firstMsgTiming: "0",
       },
     },
@@ -1172,7 +1172,7 @@ var $plugins = [
       name: "MAT_LoadComSim",
       status: true,
       description: "ver1.00 メニューコマンドに「ロード」を追加します。",
-      parameters: { loadtext: "ロード", testenable: "false" },
+      parameters: { loadtext: "Load", testenable: "false" },
     },
     {
       name: "SealEscapeCommand",
