@@ -10517,7 +10517,7 @@
                                 "notify",
                                 "通知の表示",
                                 {
-                                    "message": "処女喪失",
+                                    "message": "Virginity Lost",
                                     "icon": ""
                                 }
                             ]
@@ -20792,7 +20792,7 @@
                                 "notify",
                                 "通知の表示",
                                 {
-                                    "message": "処女喪失",
+                                    "message": "Virginity Lost",
                                     "icon": ""
                                 }
                             ]
