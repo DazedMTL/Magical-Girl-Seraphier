@@ -170,9 +170,9 @@
     },
     "skillTypes": [
         "",
-        "Staff Magic",
-        "Chanting Magic",
-        "Special Action"
+        "Staff",
+        "Chanting",
+        "Special"
     ],
     "sounds": [
         {
@@ -1049,7 +1049,7 @@
         "mainFontFilename": "Corporate-Logo-Medium-ver2.ttf",
         "numberFontFilename": "851Gkktt_005.ttf",
         "fallbackFonts": "Verdana, sans-serif",
-        "fontSize": 30,
+        "fontSize": 26,
         "windowOpacity": 128,
         "screenScale": 1
     },
