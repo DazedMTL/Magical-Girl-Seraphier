@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "研究所屋上",
+    "displayName": "Research Lab Rooftop",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -8353,21 +8353,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]これがバリアの発生装置だね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よーし、それじゃあいっくよー！"
+                                "\\PartyFace[1]\\FaceIndex[4]This must be the barrier generator! Alright, here I go!"
                             ]
                         },
                         {
@@ -8378,14 +8371,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]はあああああっ！！"
+                                "\\PartyFace[1]\\FaceIndex[11]Haaaaaaah!!"
                             ]
                         },
                         {
@@ -8784,7 +8777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {
@@ -9334,21 +9327,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よう、待ってたぜお嬢ちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここにあるバリア発生装置がお目当てなんだろ？"
+                                "Hey there, missy! You're here for the barrier generator,\naren't you?"
                             ]
                         },
                         {
@@ -9418,14 +9404,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]どうして…わたしがここに来るってわかったの？"
+                                "\\PartyFace[1]\\FaceIndex[4]How did you know... I was coming here?"
                             ]
                         },
                         {
@@ -9436,14 +9422,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベリアルから聞いたのさ、アミィが裏切ってお嬢ちゃんを逃がしたってなぁ。"
+                                "Heard it from Belial. Amy betrayed us and let you escape,\nhuh."
                             ]
                         },
                         {
@@ -9454,21 +9440,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まったく…これだから女は信用ならねぇんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "黙って男の言うことを聞いていればいいのによぉ。"
+                                "Seriously... This is why you can't trust women. Just stay\nquiet and do as men say."
                             ]
                         },
                         {
@@ -9538,14 +9517,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]女の子は…男の奴隷じゃない！！"
+                                "\\PartyFace[1]\\FaceIndex[11]Girls are... not slaves to men!!"
                             ]
                         },
                         {
@@ -9556,21 +9535,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さっきもそんなことを言ってたなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが男と女は力の差が歴然としてるんだ、弱い者が強い者に従うのは当然だろう？"
+                                "You said something like that before. But the difference in\nstrength between men and women is clear; it's only natural\nfor the weak to obey the strong, right?"
                             ]
                         },
                         {
@@ -9640,21 +9612,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]確かに女の子は単純な力だけなら男の人に勝てないかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、その代わりに命を育む強さがある！"
+                                "\\PartyFace[1]\\FaceIndex[4]It's true that girls might not be able to beat men in sheer\nstrength. But instead, we have the strength to nurture life!"
                             ]
                         },
                         {
@@ -9724,14 +9689,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]あなたが強いって言うのなら、女の子を護るためにその力を使ったらどうなの！？"
+                                "\\PartyFace[1]\\FaceIndex[4]If you're so strong, why don't you use that strength to\nprotect girls!?"
                             ]
                         },
                         {
@@ -9742,21 +9707,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハッハッハ！面白いことを言うお嬢ちゃんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何でオレがそんなことのために力を使わなくちゃいけねぇんだ？"
+                                "Hahahaha! What an amusing thing to say, missy. Why should I\nuse my power for something like that?"
                             ]
                         },
                         {
@@ -9767,14 +9725,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オレはオレが満足するためだけに自分の力を使うぜ！"
+                                "I use my power solely for my own satisfaction!"
                             ]
                         },
                         {
@@ -9844,14 +9802,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]そんな力の使い方は間違ってる！"
+                                "\\PartyFace[1]\\FaceIndex[4]That's a wrong way to use power!"
                             ]
                         },
                         {
@@ -9862,14 +9820,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なら証明してみせろよ、その「正しい力の使い方」って奴をな！"
+                                "Then prove it to me, show me this 'right way to use power'\nof yours!"
                             ]
                         },
                         {
@@ -10282,14 +10240,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]な、なにこのおっきいの！？"
+                                "\\PartyFace[1]\\FaceIndex[11]Wh-what's this huge thing!?"
                             ]
                         },
                         {
@@ -10300,14 +10258,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オレ達が造り上げた、神霊力で動く魔導兵器さ。"
+                                "This is a magical weapon powered by spiritual energy that\nwe've created."
                             ]
                         },
                         {
@@ -10377,14 +10335,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]まさか…さらった女の子達から集めた神霊力をこれに…"
+                                "\\PartyFace[1]\\FaceIndex[4]Don't tell me... you've gathered the spiritual energy from\nthe kidnapped girls for this..."
                             ]
                         },
                         {
@@ -10395,14 +10353,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだ、こいつがあればガーディアンズなど簡単に潰せるぜ！"
+                                "That's right, with this thing we can easily crush the\nGuardians!"
                             ]
                         },
                         {
@@ -10472,14 +10430,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]そんなことのために…たくさんの女の子を…"
+                                "\\PartyFace[1]\\FaceIndex[4]For such a purpose... so many girls..."
                             ]
                         },
                         {
@@ -10490,21 +10448,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お嬢ちゃんにはこいつのテスト相手になってもらう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せいぜい頑張っていいデータを取らせてくれよ！"
+                                "Missy, you'll be the test subject for this thing. Do your\nbest to give us some good data!"
                             ]
                         },
                         {
@@ -10609,14 +10560,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いけ！魔導兵器【オーグル】"
+                                "Go! Magical Weapon [Ogre]!"
                             ]
                         },
                         {
@@ -10804,14 +10755,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "な…なんだと！？"
+                                "What the...!?"
                             ]
                         },
                         {
@@ -10912,14 +10863,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]はぁ…はぁ…手強かったけど、何とかなったね。"
+                                "\\PartyFace[1]\\FaceIndex[6]*pant*... *pant*... That was tough, but somehow we managed."
                             ]
                         },
                         {
@@ -10930,14 +10881,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "くそっ！"
+                                "Damn it!"
                             ]
                         },
                         {
@@ -11256,14 +11207,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "しっかり働けよこのポンコツが！！"
+                                "Work properly, you piece of junk!!"
                             ]
                         },
                         {
@@ -11569,14 +11520,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "な、なんだ！？"
+                                "Wha- What's this!?"
                             ]
                         },
                         {
@@ -11809,14 +11760,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{\\{うわあああああああっ！！"
+                                "Aaaaaaaahhhhhhh!!"
                             ]
                         },
                         {
@@ -11886,21 +11837,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[8]あらぁ…落ちていっちゃった…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まあリベレイターならたぶん死んでないとは思うけど…"
+                                "\\PartyFace[1]\\FaceIndex[8]Oh my... He fell down... Well, if he's a Liberator, he's\nprobably not dead, I guess..."
                             ]
                         },
                         {
@@ -11970,14 +11914,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]とりあえずバリアを破壊しなきゃね。"
+                                "\\PartyFace[1]\\FaceIndex[4]Anyway, we need to break the barrier first."
                             ]
                         },
                         {
@@ -12181,14 +12125,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "一度見た敗北シーンです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "再度見ますか？"
+                                "Have you seen this defeat scene before? Would you like to\nsee it again?"
                             ]
                         },
                         {
@@ -12196,8 +12133,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "見る",
-                                    "見ない"
+                                    "View",
+                                    "Do Not View"
                                 ],
                                 1,
                                 0,
@@ -12696,14 +12633,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "懲りもせずにまた来たのかお嬢ちゃん。"
+                                "You've come back for more, young lady?"
                             ]
                         },
                         {
@@ -12714,14 +12651,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何度来ても結果は同じだぜ。さあ来い！"
+                                "No matter how many times you come, the result will be the\nsame. Come at me!"
                             ]
                         },
                         {
@@ -13169,14 +13106,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いけ！魔導兵器【オーグル】"
+                                "Go! Magical Weapon [Ogre]!"
                             ]
                         },
                         {
@@ -13263,14 +13200,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]バリア発生装置を破壊しなきゃ！"
+                                "\\PartyFace[1]\\FaceIndex[4]We have to destroy the barrier generator!"
                             ]
                         },
                         {

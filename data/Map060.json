@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下プラントゲートB",
+    "displayName": "Underground Plant Gate B",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -7859,7 +7859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにもうトラップはないようだ。"
+                                "It seems there are no more traps in this area."
                             ]
                         },
                         {
@@ -8688,7 +8688,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "バインドガードが拘束トラップを防いだ！"
+                                "Bind Guard prevented the restraint trap!"
                             ]
                         },
                         {
@@ -8708,14 +8708,14 @@
                                 10,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぶなかったなー。気を付けないと。"
+                                "That was close... We need to be careful."
                             ]
                         },
                         {
@@ -9117,7 +9117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いきなり出現したフレームバインダーに拘束されてしまった！"
+                                "Suddenly, a Flame Binder appeared and restrained me!"
                             ]
                         },
                         {
@@ -9663,21 +9663,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]ふぅ…あぶなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "罠には気を付けないとだね。"
+                                "\\PartyFace[1]\\FaceIndex[0]Phew... That was close. We really need to be careful of\ntraps, huh?"
                             ]
                         },
                         {
@@ -9688,14 +9681,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ホントだよ…"
+                                "Really..."
                             ]
                         },
                         {

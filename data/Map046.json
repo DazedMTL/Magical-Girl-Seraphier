@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下牢前通路B",
+    "displayName": "Underground Prison Front Passage B",
     "encounterList": [],
     "encounterStep": 30,
     "height": 32,
@@ -9944,21 +9944,14 @@
                                 0,
                                 0,
                                 2,
-                                "システム"
+                                "System"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＨＰ、ＭＰを全回復できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全回復しますか？"
+                                "You can fully recover HP and MP. Would you like to fully\nrecover?"
                             ]
                         },
                         {
@@ -9966,8 +9959,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10221,7 +10214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {

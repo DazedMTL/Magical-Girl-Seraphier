@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下施設通路A",
+    "displayName": "Underground Facility Passage A",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -15083,14 +15083,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれ、開かない…"
+                                "Huh, it won't open..."
                             ]
                         },
                         {
@@ -15101,21 +15101,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この扉のロックを制御しているのは別の場所みたいだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たぶん管理室があるはずだからそこを探してみて。"
+                                "It seems like the lock for this door is controlled from\nsomewhere else. There's probably a control room around, so\nlet's try looking for that."
                             ]
                         },
                         {
@@ -15761,21 +15754,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<center>この先の戦闘で敗北すると敗北Ｈシーンに移行します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "敗北Ｈを経験したくない場合はセーブしておくことをおススメします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "※戦闘に勝利するだけで敗北Ｈシーンが回想に追加されます。</center>"
+                                "<center>If you are defeated in the upcoming battle, you will\ntransition to a defeat H-scene. If you do not wish to\nexperience the defeat H-scene, we recommend saving your\ngame.※Defeat H-scenes will be added to recollection just by\nwinning the battle.</center>"
                             ]
                         },
                         {
@@ -15803,7 +15782,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<center>この先はボス戦となります。</center>"
+                                "<center>The next encounter will be a boss battle.</center>"
                             ]
                         },
                         {
@@ -15831,21 +15810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<center>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "準備はよろしいですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "</center>"
+                                "<center>Are you prepared?</center>"
                             ]
                         },
                         {
@@ -15853,8 +15818,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16487,14 +16452,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれ、開かない…"
+                                "Huh, it won't open..."
                             ]
                         },
                         {
@@ -16505,21 +16470,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この扉のロックを制御しているのは別の場所みたいだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たぶん管理室があるはずだからそこを探してみて。"
+                                "It seems like the lock for this door is controlled from\nsomewhere else. There's probably a control room around, so\nlet's try looking for that."
                             ]
                         },
                         {
@@ -16922,14 +16880,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれ、開かない…"
+                                "Huh, it won't open..."
                             ]
                         },
                         {
@@ -16940,21 +16898,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この扉のロックを制御しているのは別の場所みたいだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たぶん管理室があるはずだからそこを探してみて。"
+                                "It seems the lock for this door is controlled from somewhere\nelse. There's probably a control room around, so let's try\nlooking for that."
                             ]
                         },
                         {
@@ -18238,21 +18189,14 @@
                                 0,
                                 0,
                                 2,
-                                "システム"
+                                "System"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＨＰ、ＭＰを全回復できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全回復しますか？"
+                                "You can fully recover HP and MP. Would you like to fully\nrecover?"
                             ]
                         },
                         {
@@ -18260,8 +18204,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -22008,7 +21952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {

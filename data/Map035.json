@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "上層階行きエレベーター",
+    "displayName": "Upper Floors Elevator",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -3005,7 +3005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {
@@ -4099,14 +4099,14 @@
                                 10,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[10]びっくりしたなぁ、もう。"
+                                "\\PartyFace[1]\\FaceIndex[10]That really surprised me!"
                             ]
                         },
                         {
@@ -4117,14 +4117,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "油断しちゃダメってことだね。"
+                                "It means we mustn't let our guard down, huh."
                             ]
                         },
                         {
@@ -4247,14 +4247,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "一度見た敗北シーンです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "再度見ますか？"
+                                "It's a defeat scene you've seen before. Would you like to\nview it again?"
                             ]
                         },
                         {
@@ -4262,8 +4255,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "見る",
-                                    "見ない"
+                                    "View",
+                                    "Do Not View"
                                 ],
                                 1,
                                 0,

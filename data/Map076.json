@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "特別監禁室",
+    "displayName": "Special Confinement Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -3777,14 +3777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "追跡者に敗北したセラフィエールは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その触手に呑み込まれてしまっていた。"
+                                "Seraphier, defeated by the pursuer, was being engulfed by\nits tentacles."
                             ]
                         },
                         {
@@ -3802,14 +3795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "体内に取り込んだ少女から神霊力を吸収するために、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "触手が選択した責めは…"
+                                "To absorb the divine power from the girl it had taken into\nits body, the torment chosen by the tentacles was..."
                             ]
                         },
                         {
@@ -3833,8 +3819,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "丸呑み締め付け",
-                                    "丸呑み三穴挿入※処女喪失"
+                                    "Constricting Swallow Whole",
+                                    "Triple Penetration Swallow Whole※Virginity Lost"
                                 ],
                                 -1,
                                 0,
@@ -3913,8 +3899,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "丸呑み締め付け",
-                                    "丸呑み三穴挿入"
+                                    "Constriction after swallowing whole",
+                                    "Triple penetration after swallowing whole"
                                 ],
                                 -1,
                                 0,
@@ -4218,14 +4204,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]う…ここは…"
+                                "\\PartyFace[1]\\FaceIndex[6]Uh... where is this..."
                             ]
                         },
                         {
@@ -4243,21 +4229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "目を覚ました魔法少女は自分が何処にいるかわからずに戸惑った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "周囲は暗く近くのものも良く見えない状態ではあるが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "辛うじて肉壁のようなものが目の前にあるのが確認できた。"
+                                "The magical girl who awoke was confused, not knowing where\nshe was. The surroundings were dark, and she could barely\nsee anything nearby, but she could just make out something\nlike a wall of flesh in front of her."
                             ]
                         },
                         {
@@ -4287,14 +4259,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]なに…これ…動いてる…"
+                                "\\PartyFace[1]\\FaceIndex[6]What... is this... it's moving..."
                             ]
                         },
                         {
@@ -4312,14 +4284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "視界の前で蠢く肉壁に嫌悪感を覚えるKOHANE。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それから離れるために身体を動かそうとするが…"
+                                "Kohane felt a sense of disgust at the writhing flesh wall\nbefore her eyes. She tried to move her body to get away from\nit, but..."
                             ]
                         },
                         {
@@ -4330,14 +4295,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あれ？身体…うごかない…"
+                                "\\PartyFace[1]\\FaceIndex[6]Huh? My body... won't move..."
                             ]
                         },
                         {
@@ -4355,14 +4320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気が付くと、その四肢はねっとりと粘液を纏わせた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "触手に巻き付かれ、抑えつけられていた。"
+                                "She realized that her limbs were wrapped and held down by\ntentacles, slick with sticky mucus."
                             ]
                         },
                         {
@@ -4373,14 +4331,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ま、まさか…ここって…"
+                                "\\PartyFace[1]\\FaceIndex[6]No way... is this place..."
                             ]
                         },
                         {
@@ -4398,14 +4356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その時になってようやく自分が触手の怪物の体内に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "呑み込まれてしまっていることに気が付いた少女。"
+                                "It was then that the girl finally realized she had been\nswallowed into the body of a tentacle monster."
                             ]
                         },
                         {
@@ -4423,14 +4374,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]いや、ここから出して！！"
+                                "\\PartyFace[1]\\FaceIndex[6]No, let me out of here!!"
                             ]
                         },
                         {
@@ -4448,14 +4399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "KOHANEは誰に懇願すれば良いかわからないまま叫ぶ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、それに応えるものはいない。"
+                                "Kohane screamed, not knowing to whom she should plead.\nHowever, there was no one to respond."
                             ]
                         },
                         {
@@ -4466,14 +4410,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]やだ、こんなの…こわいよ…"
+                                "\\PartyFace[1]\\FaceIndex[6]No, I don't want this... it's scary..."
                             ]
                         },
                         {
@@ -4491,14 +4435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "妖しい肉壁の内部に囚われた状態で身動きも取れない現状に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恐怖を覚え軽くパニックになる少女。"
+                                "The girl became slightly panicked, feeling terror at being\ntrapped inside the sinister flesh wall, unable to move."
                             ]
                         },
                         {
@@ -4516,7 +4453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それに反応したかのように少女を捕らえた触手が蠢き始める。"
+                                "As if responding to her, the tentacles that had captured the\ngirl began to squirm."
                             ]
                         },
                         {
@@ -4546,14 +4483,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]え…な…なに…やだ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Eh... what... no..."
                             ]
                         },
                         {
@@ -4571,14 +4508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "困惑する少女の身体を這いずり回る触手の感触に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その身体がびくんと跳ねる。"
+                                "The sensation of the tentacles crawling over the confused\ngirl's body made her twitch involuntarily."
                             ]
                         },
                         {
@@ -4596,14 +4526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女の手足、腹、首に巻き付いた触手は蠢きながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次第にその締め付けを強くしていく。"
+                                "The tentacles wrapped around the girl's arms, legs, belly,\nand neck began to squirm and gradually tighten their grip."
                             ]
                         },
                         {
@@ -4651,14 +4574,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]う…ぐ…く…くるしい…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ugh... it's... tight..."
                             ]
                         },
                         {
@@ -4676,7 +4599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "全身をぎゅうぎゅうと締め付けられ、苦悶の表情を浮かべる魔法少女。"
+                                "The magical girl grimaced in agony as she was squeezed\ntightly all over her body."
                             ]
                         },
                         {
@@ -4687,14 +4610,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]たすけて……誰か……"
+                                "\\PartyFace[1]\\FaceIndex[6]Help... someone..."
                             ]
                         },
                         {
@@ -4712,7 +4635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誰にも届かない助けを乞いながら、少女は締め付けられていく。"
+                                "As she begged for help that would reach no one, the girl\ncontinued to be constricted."
                             ]
                         },
                         {
@@ -4742,14 +4665,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]う…く…ぅ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Uh... ah... ugh..."
                             ]
                         },
                         {
@@ -4767,14 +4690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次第に、少女の手足から抵抗が失われて、意識が朦朧としてくる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その様子を確認したかのように、触手は少女の神霊力を奪いにかかる。"
+                                "Gradually, the girl lost resistance in her limbs and her\nconsciousness began to blur. As if noticing this, the\ntentacles began to drain her spiritual power."
                             ]
                         },
                         {
@@ -4822,14 +4738,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]え…や…っ…吸い取られる…"
+                                "\\PartyFace[1]\\FaceIndex[6]Eh... no... it's being drained..."
                             ]
                         },
                         {
@@ -4847,14 +4763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "身体から神霊力が抜けていくのを感じた少女は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "より一層の恐怖の色をその表情に宿した。"
+                                "The girl felt her spiritual power being drawn out of her\nbody and fear deepened on her face."
                             ]
                         },
                         {
@@ -4865,14 +4774,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（だめ、これ以上神霊力を取られたら…）"
+                                "\\PartyFace[1]\\FaceIndex[6](No, if I lose any more spiritual power...)"
                             ]
                         },
                         {
@@ -4890,14 +4799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦いに敗北した後、まだ回復しきっていない力を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "更に吸収されてしまっては、命にかかわる…"
+                                "Having been defeated in battle and not yet fully recovered,\nlosing even more power could be life-threatening..."
                             ]
                         },
                         {
@@ -4915,14 +4817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その事実に気付いた少女は僅かに残った力を振り絞って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "触手の拘束から逃れようと抵抗する。"
+                                "The girl, realizing this fact, mustered the little strength\nshe had left in an attempt to escape the tentacles' grasp."
                             ]
                         },
                         {
@@ -4940,14 +4835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし、それが許されるはずもなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "より疲労を重ねてしまう結果となるだけだった。"
+                                "However, escape was not permitted, and she only ended up\nexhausting herself further."
                             ]
                         },
                         {
@@ -4988,14 +4876,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]やめて…もう…とらないで…"
+                                "\\PartyFace[1]\\FaceIndex[6]Stop... please... don't take any more..."
                             ]
                         },
                         {
@@ -5013,14 +4901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "瞳に涙を浮かべ、意志があるかないかもわからない触手に懇願する少女。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、それに応える者はやはりいない。"
+                                "The girl pleaded with tears in her eyes to the tentacles,\nwhose will was unknown. Still, there was no one to respond."
                             ]
                         },
                         {
@@ -5038,14 +4919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぎゅうぎゅうと締め付けられ、神霊力を奪われ続ける…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな時間が続き…やがて…"
+                                "As she was squeezed tightly and her spiritual power\ncontinued to be drained... time went on... and eventually..."
                             ]
                         },
                         {
@@ -5063,14 +4937,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（やだ……もう……意識が……）"
+                                "\\PartyFace[1]\\FaceIndex[6](No... I can't... stay conscious...)"
                             ]
                         },
                         {
@@ -5088,14 +4962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大量の神霊力を失い、生命の危機を覚えながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少女の意識は闇へと落ちていく。"
+                                "Having lost a great deal of spiritual power and sensing a\nthreat to her life, the girl's consciousness slipped into\ndarkness."
                             ]
                         },
                         {
@@ -5113,14 +4980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガクっと全身の力を失った少女の身体を弄ぶように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "暫くの間触手は蠢いていた。"
+                                "For a while, the tentacles writhed as if playing with the\nbody of the girl who had lost all strength."
                             ]
                         },
                         {
@@ -5435,14 +5295,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]う……"
+                                "\\PartyFace[1]\\FaceIndex[6]Ugh..."
                             ]
                         },
                         {
@@ -5460,14 +5320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気を失ってから暫くして、ようやく目を覚ました魔法少女は "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "身体の違和感に気付いた。"
+                                "After a while of being unconscious, the magical girl finally\nwoke up and noticed a strange sensation in her body."
                             ]
                         },
                         {
@@ -5478,14 +5331,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（あれ？私……たしか……）"
+                                "\\PartyFace[1]\\FaceIndex[6](Huh? I... surely I...)"
                             ]
                         },
                         {
@@ -5503,7 +5356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気絶する前の記憶を辿ろうとするが何故かうまく思い出せない。"
+                                "She tries to trace her memories before fainting, but for\nsome reason, she can't remember clearly."
                             ]
                         },
                         {
@@ -5514,14 +5367,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（わたしって……確か…怪物に呑み込まれて…）"
+                                "\\PartyFace[1]\\FaceIndex[6](I... surely... was swallowed by a monster...)"
                             ]
                         },
                         {
@@ -5539,7 +5392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこで少女は身体のあちこちで感じる違和感に気が付く。"
+                                "That's when the girl notices the strange sensations all over\nher body."
                             ]
                         },
                         {
@@ -5606,14 +5459,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]う…ふぐううううっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Ugh... mmmphhhhh!!"
                             ]
                         },
                         {
@@ -5631,14 +5484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受け入れがたいあまりの状況に少女の口からくぐもった悲鳴が漏れる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "口、膣口、尻穴に触手がその頭を埋めていた。"
+                                "A muffled scream escapes from the girl's mouth in the\nunbearable situation. Tentacles had buried their heads in\nher mouth, pussy, and ass."
                             ]
                         },
                         {
@@ -5656,14 +5502,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]う、ううううう、ふううううううっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Uh, uuuuuu, mmmmmmmph!!"
                             ]
                         },
                         {
@@ -5681,7 +5527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "塞がれた口で悲鳴を漏らしながら、パニックに陥る魔法少女。"
+                                "While letting out muffled screams with her mouth blocked,\nthe magical girl falls into panic."
                             ]
                         },
                         {
@@ -5833,14 +5679,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（わたしのはじめてが…こんなのって…う…うぅ…）"
+                                "\\PartyFace[1]\\FaceIndex[6](My first time... to be like this... ugh... uhh...)"
                             ]
                         },
                         {
@@ -5875,14 +5721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あまりの悲惨な状況にその瞳からは大粒の涙が溢れ出す。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その少女の様子を気に留めることもなく、触手は無慈悲な責めを開始する。"
+                                "As large tears overflow from her eyes due to the dire\nsituation, the tentacles begin their merciless torment\nwithout paying any heed to the girl's state."
                             ]
                         },
                         {
@@ -5930,14 +5769,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふぐぅ、うううう、うん、うううんんんんっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Mmmph, uuuuu, mmm, mmmmmnnnnn!!"
                             ]
                         },
                         {
@@ -5955,21 +5794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "口、膣、尻を同時に触手に突かれ、くぐもった悲鳴を上げる少女。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "体力も、神霊力も奪われ尽くした身体では抵抗らしい抵抗もできず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただ触手に蹂躙されるままになる。"
+                                "With her mouth, pussy, and ass being simultaneously\npenetrated by tentacles, the girl lets out muffled screams.\nWith her physical and spiritual strength completely drained,\nshe can't put up any real resistance and is simply ravaged\nby the tentacles."
                             ]
                         },
                         {
@@ -5980,14 +5805,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]うんっ！んぐぅ、ううっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Mmm! Mmphh, uuhh!!"
                             ]
                         },
                         {
@@ -5998,14 +5823,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（いや……やめて……こんなのもう嫌なのに……）"
+                                "\\PartyFace[1]\\FaceIndex[6](No... stop... I hate this already...)"
                             ]
                         },
                         {
@@ -6023,14 +5848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女は必死に声を上げるが当然それで止まるはずもなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寧ろより激しく責め立てるのだった。"
+                                "The girl desperately raises her voice, but naturally, that\ndoes nothing to stop it; on the contrary, the assault\nbecomes even more intense."
                             ]
                         },
                         {
@@ -6053,14 +5871,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（た……たすけて……）"
+                                "\\PartyFace[1]\\FaceIndex[6](So... somebody save me...)"
                             ]
                         },
                         {
@@ -6078,14 +5896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絶望の中で与えられる快楽にその心を蝕まれながらも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "心の中で助けを求める少女。"
+                                "Even as her heart is eroded by the pleasure given in\ndespair, the girl inwardly cries for help."
                             ]
                         },
                         {
@@ -6103,14 +5914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな悲痛な心の声など気に掛けることもなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "触手は快楽を与え続ける。"
+                                "Without any concern for such a sorrowful inner voice, the\ntentacles continue to provide pleasure."
                             ]
                         },
                         {
@@ -6121,14 +5925,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（あ、頭が……もう……真っ白に……）"
+                                "\\PartyFace[1]\\FaceIndex[6](Ah, my head is... getting... all white...)"
                             ]
                         },
                         {
@@ -6146,7 +5950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次第に思考すらままならなくなるKOHANE。"
+                                "Gradually even KOHANE's thoughts become incoherent."
                             ]
                         },
                         {
@@ -6164,7 +5968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そしてその心を追い詰めるように触手は少女の体内へと液体を流し込む。"
+                                "And as if to corner her mind further, the tentacles begin to\npour liquid inside the girl's body."
                             ]
                         },
                         {
@@ -6237,14 +6041,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]んっ！？んぐぅ！んんんんんっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Mmm!? Mmphh! Mmmmmnnnn!!"
                             ]
                         },
                         {
@@ -6255,14 +6059,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（いやっ！もう出さないでっ！！だめえええぇぇ！！）"
+                                "\\PartyFace[1]\\FaceIndex[6](No! Don't release anymore!! Stop ittttt!!)"
                             ]
                         },
                         {
@@ -6280,7 +6084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "注ぎ込まれる液体に身体を痙攣させながら絶頂する魔法少女。"
+                                "The magical girl convulses as the liquid is poured into her,\nclimaxing."
                             ]
                         },
                         {
@@ -6335,7 +6139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな彼女の悲鳴を愉しむように触手はその体内へと液体を注ぎ続ける。"
+                                "As if enjoying her screams of agony, the tentacles continue\nto inject liquid into her body."
                             ]
                         },
                         {
@@ -6346,14 +6150,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]う……あ……"
+                                "\\PartyFace[1]\\FaceIndex[6]Ugh... ah..."
                             ]
                         },
                         {
@@ -6371,14 +6175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どれだけの時間が流れたのだろうか、少女の身体がぐったりと脱力する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな魔法少女の様子を確認したのか、ゆっくりと触手が引き抜かれていく。"
+                                "How much time had passed? The girl's body goes limp.\nNoticing the state of the magical girl, the tentacles slowly\nbegin to withdraw."
                             ]
                         },
                         {
@@ -6407,14 +6204,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]……あ……"
+                                "\\PartyFace[1]\\FaceIndex[6]...Ah..."
                             ]
                         },
                         {
@@ -6432,14 +6229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "全身をひくひくと震わせて絶頂の余韻に浸っていたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やがて、その思考がふっと途切れ、少女は意識を失った。"
+                                "Her body trembles with aftershocks of climax, but soon her\nthoughts fade away, and the girl loses consciousness."
                             ]
                         },
                         {

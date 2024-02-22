@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下研究室ゲート前通路",
+    "displayName": "Underground Laboratory Gate Corridor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -3798,7 +3798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {

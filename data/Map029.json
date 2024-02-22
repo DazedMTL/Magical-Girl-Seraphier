@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "数字の書かれた部屋（西）",
+    "displayName": "Room with Numbers (West)",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -3217,14 +3217,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]あっ、なんか音がした！"
+                                "\\PartyFace[1]\\FaceIndex[2]Ah, I heard some kind of noise!"
                             ]
                         },
                         {
@@ -3235,21 +3235,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "√2(root2)は1.41421356だから、そこの数字が間違ってる…って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よくわかったね。"
+                                "Since √2 (root2) is 1.41421356, that number there is\nwrong... you figured it out well."
                             ]
                         },
                         {
@@ -3271,14 +3264,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]（適当に踏んでたら当たったとは言えない）"
+                                "\\PartyFace[1]\\FaceIndex[0](I can't say I hit it by just stepping around randomly)"
                             ]
                         },
                         {
@@ -3299,14 +3292,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]やればできる子なんです。"
+                                "\\PartyFace[1]\\FaceIndex[0]I'm a child who can do it if I try."
                             ]
                         },
                         {
@@ -3377,7 +3370,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何処かで何かが作動する音がした。"
+                                "You could hear something being activated somewhere."
                             ]
                         },
                         {
@@ -3388,14 +3381,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]扉が開いたっぽい！！"
+                                "\\PartyFace[1]\\FaceIndex[1]It seems like a door has opened!!"
                             ]
                         },
                         {
@@ -8761,14 +8754,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]謎の数字がある。"
+                                "\\PartyFace[1]\\FaceIndex[2]There are some mysterious numbers here."
                             ]
                         },
                         {
@@ -8779,14 +8772,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒントだそうか？"
+                                "Could it be a hint?"
                             ]
                         },
                         {
@@ -8794,8 +8787,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "自分でがんばる！",
-                                    "お願いします！"
+                                    "I'll do my best on my own!",
+                                    "Please help me!"
                                 ],
                                 1,
                                 0,
@@ -8819,14 +8812,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]自分で考えるもん！！"
+                                "\\PartyFace[1]\\FaceIndex[11]You're supposed to figure it out yourself!!"
                             ]
                         },
                         {
@@ -8837,14 +8830,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "大丈夫かなぁ。"
+                                "I wonder if it's okay."
                             ]
                         },
                         {
@@ -8868,28 +8861,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "部屋の奥にROUTE2って書いてあるよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "√2（root2）のことだと思うから、その小数表示が床の数字だとすると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\C[2]1.41421356…\\C[0]となるから、数字の間違っている場所を調べればいいと思うよ。"
+                                "There's something written in the back of the room that says\nROUTE2. I think it refers to √2 (root2), so if we assume\nthat the decimal representation on the floor is the number,\nit would be \\C[2]1.41421356...\\C[0]. So, we should check the\nplace where the numbers are wrong, I guess."
                             ]
                         },
                         {
@@ -8900,14 +8879,14 @@
                                 9,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[9]やっぱりね、そうだと思ったよ！"
+                                "\\PartyFace[1]\\FaceIndex[9]I knew it, that's what I thought!"
                             ]
                         },
                         {
@@ -8918,14 +8897,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……………"
+                                "..."
                             ]
                         },
                         {
@@ -9053,14 +9032,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]もうこの部屋に用はなさそう。"
+                                "\\PartyFace[1]\\FaceIndex[2]It seems we have no more business in this room."
                             ]
                         },
                         {
@@ -9152,7 +9131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {

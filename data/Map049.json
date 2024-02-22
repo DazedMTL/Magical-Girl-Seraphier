@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "研究所B1F中央",
+    "displayName": "Research Lab B1F Central",
     "encounterList": [],
     "encounterStep": 30,
     "height": 34,
@@ -7826,14 +7826,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]今は急いで屋上に行こう！"
+                                "\\PartyFace[1]\\FaceIndex[4]Let's hurry to the rooftop now!"
                             ]
                         },
                         {
@@ -7904,14 +7904,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]今は急いで屋上に行こう！"
+                                "\\PartyFace[1]\\FaceIndex[4]Let's hurry to the rooftop now!"
                             ]
                         },
                         {
@@ -7982,14 +7982,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]今は急いで屋上に行こう！"
+                                "\\PartyFace[1]\\FaceIndex[4]Let's hurry to the rooftop now!"
                             ]
                         },
                         {
@@ -8060,14 +8060,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]今は急いで屋上に行こう！"
+                                "\\PartyFace[1]\\FaceIndex[4]Let's hurry to the rooftop now!"
                             ]
                         },
                         {
@@ -8154,7 +8154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {

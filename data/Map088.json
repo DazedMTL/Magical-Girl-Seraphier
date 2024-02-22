@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "クリアデータ",
+    "displayName": "Clear Data",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1460,7 +1460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここまでのプレイ状況をセーブします。"
+                                "I will save your progress up to this point."
                             ]
                         },
                         {
@@ -1667,7 +1667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<center>このままのレベルで二周目を始めますか？</center>"
+                                "<center>Would you like to start a second playthrough with\nthe current level?</center>"
                             ]
                         },
                         {
@@ -1675,9 +1675,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "レベル維持で二周目を始める",
-                                    "ボス戦前に戻る",
-                                    "タイトルに戻る"
+                                    "Start New Game+ with current level",
+                                    "Return to before the boss battle",
+                                    "Return to title screen"
                                 ],
                                 -1,
                                 0,

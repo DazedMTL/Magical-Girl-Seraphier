@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下研究室ゲート",
+    "displayName": "Underground Laboratory Gate",
     "encounterList": [],
     "encounterStep": 30,
     "height": 22,
@@ -4181,7 +4181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {
@@ -4292,14 +4292,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]アレがこのエリアのガードロボかな？"
+                                "\\PartyFace[1]\\FaceIndex[4]Is that the guard robot of this area?"
                             ]
                         },
                         {
@@ -4310,21 +4310,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員さんの話によれば\\c[2]神霊力リフレクター\\c[0]で神霊力の攻撃を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "反射してくるらしいから、気を付けてね。"
+                                "According to the researcher, it seems to reflect spiritual\npower attacks with a \\c[2]Spirit Power Reflector\\c[0], so be\ncareful."
                             ]
                         },
                         {
@@ -4335,14 +4328,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]わかった！やってみる！"
+                                "\\PartyFace[1]\\FaceIndex[4]Got it! I'll give it a try!"
                             ]
                         },
                         {
@@ -4365,14 +4358,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]それじゃあいっくよーーっ！！"
+                                "\\PartyFace[1]\\FaceIndex[11]Here I go--!!"
                             ]
                         },
                         {
@@ -4762,14 +4755,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "一度見た敗北シーンです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "再度見ますか？"
+                                "Have you seen this defeat scene before? Would you like to\nsee it again?"
                             ]
                         },
                         {
@@ -4777,8 +4763,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "見る",
-                                    "見ない"
+                                    "View",
+                                    "Do Not View"
                                 ],
                                 1,
                                 0,
@@ -5048,14 +5034,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]ふぅ…ちかれた"
+                                "\\PartyFace[1]\\FaceIndex[2]Phew... I'm tired."
                             ]
                         },
                         {
@@ -5125,21 +5111,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここまで来たらたぶん向こうも本格的に警戒してくるだろうから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここからは一層慎重に動かなきゃね。"
+                                "Now that we've come this far, they're probably going to be\non full alert. We'll have to be even more careful from here\non out."
                             ]
                         },
                         {
@@ -5209,14 +5188,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]おっけー！慎重にガンガン進むよー！"
+                                "\\PartyFace[1]\\FaceIndex[1]Okay! We'll proceed with caution and gusto!"
                             ]
                         },
                         {
@@ -5286,14 +5265,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほんとにわかってるのかなぁ…"
+                                "I wonder if you really understand..."
                             ]
                         },
                         {

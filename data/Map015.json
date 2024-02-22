@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "研究室B",
+    "displayName": "Laboratory B",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -3005,7 +3005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {
@@ -9160,14 +9160,14 @@
                                 0,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おーい、助けてくれー！"
+                                "Hey, help me out here!"
                             ]
                         },
                         {
@@ -9178,14 +9178,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]どーゆー状況！？"
+                                "\\PartyFace[1]\\FaceIndex[11]What's the situation!?"
                             ]
                         },
                         {
@@ -9196,21 +9196,14 @@
                                 0,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究しながら飲み食いしてたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "部屋がゴミだらけで動けなくなってしまったんだ！"
+                                "I was eating and drinking while researching, and now my room\nis so full of trash I can't move!"
                             ]
                         },
                         {
@@ -9221,14 +9214,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[3]そんなことってある！？"
+                                "\\PartyFace[1]\\FaceIndex[3]Can that even happen!?"
                             ]
                         },
                         {
@@ -9239,14 +9232,14 @@
                                 0,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "頼む、ゴミを綺麗に片づけてくれ！！"
+                                "Please, I'm begging you, clean up this mess!!"
                             ]
                         },
                         {
@@ -9354,21 +9347,14 @@
                                 0,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "キーは見つかったかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ああ、もし必要なら使った後で返してくれたらいいから。"
+                                "Did you find the key? Ah, if you need it, you can just\nreturn it after you use it."
                             ]
                         },
                         {
@@ -9389,14 +9375,14 @@
                                 0,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どうした？まだゴミが残っているぞ？"
+                                "What's wrong? There's still trash left, isn't there?"
                             ]
                         },
                         {
@@ -9416,14 +9402,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]イラッ"
+                                "\\PartyFace[1]\\FaceIndex[4]Ugh"
                             ]
                         },
                         {
@@ -9619,21 +9605,14 @@
                                 4,
                                 0,
                                 2,
-                                "お掃除ロボ"
+                                "Cleaning Robot"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴミ　カイシュウカンリョウ　シマシタ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ショウキャクシセツ　ニ　ハコビマス。"
+                                "Garbage collection complete. Transporting to the\nincineration facility."
                             ]
                         },
                         {
@@ -9835,14 +9814,14 @@
                                 0,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとう！助かったよ！"
+                                "Thank you! You've been a big help!"
                             ]
                         },
                         {
@@ -9853,21 +9832,14 @@
                                 0,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何？セキュリティーキーが欲しいのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…どこにやったかな。"
+                                "What? You want the security key?... Where did I put it."
                             ]
                         },
                         {
@@ -9878,14 +9850,14 @@
                                 0,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしかしたら君が今片づけたゴミの中に混ざっていたかもしれないな。"
+                                "It might have gotten mixed up with the trash you just\ncleaned up."
                             ]
                         },
                         {
@@ -9912,21 +9884,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]\\{\\{なんだってーー！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はやくロボを追いかけなきゃ！！\\}\\}"
+                                "\\PartyFace[1]\\FaceIndex[11]What--!! I've got to chase after that robot fast!!"
                             ]
                         },
                         {

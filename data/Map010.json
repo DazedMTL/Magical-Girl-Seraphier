@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下研究室ゲート前通路",
+    "displayName": "Underground Laboratory Gate Corridor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -3612,7 +3612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {
@@ -3750,14 +3750,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]あれ？そういえばあの人にわたしの本名って教えたっけ？"
+                                "\\PartyFace[1]\\FaceIndex[2]Huh? Did I ever tell that person my real name?"
                             ]
                         },
                         {
@@ -3768,21 +3768,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]セラフィエールがガーディアンズ創設者の娘っていうのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "公表してるけど、本名までは出してなかったような。"
+                                "\\PartyFace[1]\\FaceIndex[2]It's public knowledge that Seraphier is the daughter of the\nGuardians' founder, but I don't think I've disclosed my real\nname."
                             ]
                         },
                         {
@@ -3793,14 +3786,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まあ、調べようと思ったら調べられる時代だからね。"
+                                "Well, it's an era where if someone wants to find out, they\ncan."
                             ]
                         },
                         {
@@ -3811,14 +3804,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]余程熱心なファンってことかな！"
+                                "\\PartyFace[1]\\FaceIndex[1]Maybe they're a really enthusiastic fan!"
                             ]
                         },
                         {
@@ -4072,21 +4065,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…僕の協力は必要無かったみたいだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それなら勝手に調査すればいい。"
+                                "...It seems my assistance wasn't needed after all. If that's\nthe case, feel free to investigate on your own."
                             ]
                         },
                         {
@@ -4097,14 +4083,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[10]あらぁ…怒らせちゃったみたいだね…"
+                                "\\PartyFace[1]\\FaceIndex[10]Oh dear... it looks like I've made him angry..."
                             ]
                         },
                         {
@@ -4115,14 +4101,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そりゃあそうだよね…"
+                                "Well, that's to be expected..."
                             ]
                         },
                         {
@@ -4133,28 +4119,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "忠告だけさせてもらうと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この先に居るガードドローンは僕が開発した\\C[2]神霊力リフレクター\\C[0]を装備している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "展開されると\\C[2]神霊力による攻撃\\C[0]が\\C[2]全て反射\\C[0]されてしまう。"
+                                "Just a word of advice, the Guard Drone up ahead is equipped\nwith the \\C[2]Spirit Power Reflector\\C[0] I developed. Once\nactivated, it will \\C[2]reflect all attacks using spirit\npower\\C[0]."
                             ]
                         },
                         {
@@ -4165,14 +4137,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せいぜい気を付けることだね。"
+                                "Be very careful, alright?"
                             ]
                         },
                         {
@@ -4183,14 +4155,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[8]あら優しい。"
+                                "\\PartyFace[1]\\FaceIndex[8]Oh, how kind."
                             ]
                         },
                         {
@@ -4486,14 +4458,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]あれ？そういえばあの人にわたしの本名って教えたっけ？"
+                                "\\PartyFace[1]\\FaceIndex[2]Huh? Did I ever tell that person my real name?"
                             ]
                         },
                         {
@@ -4504,21 +4476,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]セラフィエールがガーディアンズ創設者の娘っていうのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "公表してるけど、本名までは出してなかったような。"
+                                "\\PartyFace[1]\\FaceIndex[2]It's public knowledge that Seraphier is the daughter of the\nGuardians' founder, but I don't think I've disclosed my real\nname."
                             ]
                         },
                         {
@@ -4529,14 +4494,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まあ、調べようと思ったら調べられる時代だからね。"
+                                "Well, it's an era where if someone wants to find out, they\ncan."
                             ]
                         },
                         {
@@ -4547,14 +4512,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]余程熱心なファンってことかな！"
+                                "\\PartyFace[1]\\FaceIndex[1]Maybe they're a really enthusiastic fan!"
                             ]
                         },
                         {
@@ -4808,21 +4773,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…僕の協力は必要無かったみたいだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それなら勝手に調査すればいい。"
+                                "...It seems my assistance wasn't needed after all. If that's\nthe case, feel free to investigate on your own."
                             ]
                         },
                         {
@@ -4833,14 +4791,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[10]あらぁ…怒らせちゃったみたいだね…"
+                                "\\PartyFace[1]\\FaceIndex[10]Oh dear... it looks like I've made you angry..."
                             ]
                         },
                         {
@@ -4851,14 +4809,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そりゃあそうだよね…"
+                                "Well, that's to be expected..."
                             ]
                         },
                         {
@@ -4869,28 +4827,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "忠告だけさせてもらうと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この先に居るガードドローンは僕が開発した\\C[2]神霊力リフレクター\\C[0]を装備している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "展開されると\\C[2]神霊力による攻撃\\C[0]が\\C[2]全て反射\\C[0]されてしまう。"
+                                "Just a word of advice, the Guard Drone up ahead is equipped\nwith the \\C[2]Spirit Power Reflector\\C[0] I developed. Once\nit's deployed, \\C[2]all attacks using spirit power\\C[0] will\nbe \\C[2]completely reflected\\C[0]."
                             ]
                         },
                         {
@@ -4901,14 +4845,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せいぜい気を付けることだね。"
+                                "Be very careful, alright?"
                             ]
                         },
                         {
@@ -4919,14 +4863,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[8]あら優しい。"
+                                "\\PartyFace[1]\\FaceIndex[8]Oh, how kind of you."
                             ]
                         },
                         {
@@ -5222,14 +5166,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]あれ？そういえばあの人にわたしの本名って教えたっけ？"
+                                "\\PartyFace[1]\\FaceIndex[2]Huh? Did I ever tell that person my real name?"
                             ]
                         },
                         {
@@ -5240,21 +5184,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]セラフィエールがガーディアンズ創設者の娘っていうのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "公表してるけど、本名までは出してなかったような。"
+                                "\\PartyFace[1]\\FaceIndex[2]It's public knowledge that Seraphier is the daughter of the\nGuardians' founder, but I don't think my real name has been\ndisclosed."
                             ]
                         },
                         {
@@ -5265,14 +5202,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まあ、調べようと思ったら調べられる時代だからね。"
+                                "Well, it's an era where if someone wants to find out, they\ncan."
                             ]
                         },
                         {
@@ -5283,14 +5220,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]余程熱心なファンってことかな！"
+                                "\\PartyFace[1]\\FaceIndex[1]Maybe they're a really enthusiastic fan!"
                             ]
                         },
                         {
@@ -5544,21 +5481,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…僕の協力は必要無かったみたいだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それなら勝手に調査すればいい。"
+                                "...It seems my assistance wasn't needed after all. If that's\nthe case, feel free to investigate on your own."
                             ]
                         },
                         {
@@ -5569,14 +5499,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[10]あらぁ…怒らせちゃったみたいだね…"
+                                "\\PartyFace[1]\\FaceIndex[10]Oh dear... It looks like I've made him angry..."
                             ]
                         },
                         {
@@ -5587,14 +5517,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そりゃあそうだよね…"
+                                "Well, that's to be expected..."
                             ]
                         },
                         {
@@ -5605,28 +5535,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "忠告だけさせてもらうと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この先に居るガードドローンは僕が開発した\\C[2]神霊力リフレクター\\C[0]を装備している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "展開されると\\C[2]神霊力による攻撃\\C[0]が\\C[2]全て反射\\C[0]されてしまう。"
+                                "Just a word of advice, the Guard Drone up ahead is equipped\nwith the \\C[2]Spirit Power Reflector\\C[0] I developed. Once\nit's deployed, \\C[2]all attacks using spirit power\\C[0] will\nbe \\C[2]completely reflected\\C[0]."
                             ]
                         },
                         {
@@ -5637,14 +5553,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せいぜい気を付けることだね。"
+                                "Be sure to take care."
                             ]
                         },
                         {
@@ -5655,14 +5571,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[8]あら優しい。"
+                                "\\PartyFace[1]\\FaceIndex[8]How kind of you."
                             ]
                         },
                         {
@@ -6069,21 +5985,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先に居るガードドローンは僕が開発した\\C[2]神霊力リフレクター\\C[0]を装備している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "展開されると\\C[2]神霊力による攻撃\\C[0]が\\C[2]全て反射\\C[0]されてしまう。"
+                                "The Guard Drone ahead is equipped with the \\C[2]Spiritual\nPower Reflector\\C[0] I developed. Once deployed, \\C[2]all\nattacks using spiritual power\\C[0] will be \\C[2]completely\nreflected\\C[0]."
                             ]
                         },
                         {
@@ -6094,14 +6003,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せいぜい気を付けることだね。"
+                                "You'd best be careful."
                             ]
                         },
                         {
@@ -6163,21 +6072,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうやらガードドローンに苦戦しているようだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…仕方がないな。"
+                                "It seems you're having a tough time with the Guard Drone...\nCan't be helped."
                             ]
                         },
                         {
@@ -6188,14 +6090,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これを使うといい。"
+                                "You should use this."
                             ]
                         },
                         {
@@ -6228,21 +6130,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは神霊力リフレクターの動作を強制停止させる装置だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これを使えば、魔法攻撃を反射させずに済む。"
+                                "This is a device that forcibly stops the operation of the\nSpirit Power Reflector. With this, you can avoid having your\nmagic attacks reflected."
                             ]
                         },
                         {
@@ -6253,14 +6148,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]ありがとう！"
+                                "\\PartyFace[1]\\FaceIndex[1]Thank you!"
                             ]
                         },
                         {
@@ -6271,14 +6166,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]でもそれならドローン自体を強制停止させる装置とかないの？"
+                                "\\PartyFace[1]\\FaceIndex[2]But then, isn't there a device that can forcibly stop the\ndrone itself?"
                             ]
                         },
                         {
@@ -6289,21 +6184,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドローンはセキュリティのために配置されているからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "研究員の権限じゃ動作を停止させるまでは出来ないんだ。"
+                                "The drones are placed for security purposes. With a\nresearcher's authority, we can't stop their operation."
                             ]
                         },
                         {
@@ -6314,14 +6202,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]なんだ、残念！"
+                                "\\PartyFace[1]\\FaceIndex[2]What a shame!"
                             ]
                         },
                         {
@@ -6332,21 +6220,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕達もここに閉じ込められている状態だからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ドローンを倒して１階への道を切り開いて欲しい。"
+                                "We're also trapped here. I'm counting on you to defeat the\ndrone and open the way to the first floor."
                             ]
                         },
                         {
@@ -6357,14 +6238,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]がんばってみる！"
+                                "\\PartyFace[1]\\FaceIndex[4]I'll do my best!"
                             ]
                         },
                         {
@@ -6375,14 +6256,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "期待してるよ、天川こはねちゃん。"
+                                "I'm looking forward to it, Amagawa Kohane-chan."
                             ]
                         },
                         {
@@ -6452,28 +6333,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リフレクターキャンセラーは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "神霊力リフレクターの動作を強制停止させる装置だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これを使えば、魔法攻撃を反射させずに済む。"
+                                "The Reflector Canceller is a device that forcibly stops the\noperation of the Spirit Power Reflector. With this, you can\nendure magical attacks without reflecting them."
                             ]
                         },
                         {
@@ -6484,14 +6351,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "期待してるよ、天川こはねちゃん。"
+                                "I'm counting on you, Amagawa Kohane-chan."
                             ]
                         },
                         {
@@ -6639,21 +6506,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<center>この先の戦闘で敗北すると敗北Ｈシーンに移行します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "敗北Ｈを経験したくない場合はセーブしておくことをおススメします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "※戦闘に勝利するだけで敗北Ｈシーンが回想に追加されます。</center>"
+                                "<center>If you are defeated in the upcoming battle, you will\ntransition to a defeat H-scene. If you do not wish to\nexperience the defeat H-scene, it is recommended that you\nsave your game.※Defeat H-scenes will be added to the\nrecollection even if you win the battle.</center>"
                             ]
                         },
                         {
@@ -6681,7 +6534,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<center>この先はボス戦となります。</center>"
+                                "<center>The next encounter will be a boss battle.</center>"
                             ]
                         },
                         {
@@ -6709,21 +6562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<center>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "準備はよろしいですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "</center>"
+                                "<center>Are you prepared?</center>"
                             ]
                         },
                         {
@@ -6731,8 +6570,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7258,21 +7097,14 @@
                                 0,
                                 0,
                                 2,
-                                "システム"
+                                "System"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＨＰ、ＭＰを全回復できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全回復しますか？"
+                                "You can fully recover HP and MP. Would you like to fully\nrecover?"
                             ]
                         },
                         {
@@ -7280,8 +7112,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

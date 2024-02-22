@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "磔部屋",
+    "displayName": "Crucifixion Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -4008,7 +4008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {
@@ -4344,14 +4344,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]な、なんてひどいことを！！"
+                                "\\PartyFace[1]\\FaceIndex[11]What a terrible thing to do!!"
                             ]
                         },
                         {
@@ -4362,14 +4362,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]今助けてあげるからね！"
+                                "\\PartyFace[1]\\FaceIndex[11]I'll save you right now!"
                             ]
                         },
                         {
@@ -4749,14 +4749,14 @@
                                 0,
                                 0,
                                 2,
-                                "科学者"
+                                "Scientist"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くっくっく、良いコレクションだろう？"
+                                "Heh heh heh, quite the collection, don't you think?"
                             ]
                         },
                         {
@@ -4767,14 +4767,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]なんでこんなことを…"
+                                "\\PartyFace[1]\\FaceIndex[11]Why would you do such a thing..."
                             ]
                         },
                         {
@@ -4785,21 +4785,14 @@
                                 0,
                                 0,
                                 2,
-                                "科学者"
+                                "Scientist"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "神霊力を効率的に吸収するためには心の防壁を取り除く必要がある、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これはそのための実験だよ…"
+                                "To efficiently absorb spiritual power, it's necessary to\nremove the barriers of the heart, this is an experiment for\nthat..."
                             ]
                         },
                         {
@@ -4810,14 +4803,14 @@
                                 0,
                                 0,
                                 2,
-                                "科学者"
+                                "Scientist"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "多少は私の趣味も入っているがね、くっくっく。"
+                                "Of course, a bit of my personal taste is involved as well,\nheh heh heh."
                             ]
                         },
                         {
@@ -4837,14 +4830,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]こんなこと…許せない！"
+                                "\\PartyFace[1]\\FaceIndex[11]Such things... unforgivable!"
                             ]
                         },
                         {
@@ -4855,28 +4848,14 @@
                                 0,
                                 0,
                                 2,
-                                "科学者"
+                                "Scientist"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだ、せっかくなら君も協力してくれないかね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ガーディアンズの魔法少女の神霊力を研究できる機会など"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なかなか無いからなぁ。"
+                                "That's right, since you're here, why don't you cooperate as\nwell? Opportunities to study the spiritual power of a\nGuardians' magical girl are quite rare, after all."
                             ]
                         },
                         {
@@ -4887,21 +4866,14 @@
                                 0,
                                 0,
                                 2,
-                                "科学者"
+                                "Scientist"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "丁度、磔台も一人分余っていることだし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君もコレクションに加えてあげよう。"
+                                "Just so happens there's one cross left over, I'll add you to\nmy collection as well."
                             ]
                         },
                         {
@@ -5131,14 +5103,14 @@
                                 0,
                                 0,
                                 2,
-                                "科学者"
+                                "Scientist"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや、また実験に協力してくれるのかい？"
+                                "Oh, are you going to help with the experiment again?"
                             ]
                         },
                         {
@@ -5149,14 +5121,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]今度は…負けないから！"
+                                "\\PartyFace[1]\\FaceIndex[11]This time... I won't lose!"
                             ]
                         },
                         {
@@ -5427,14 +5399,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "一度見た敗北シーンです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "再度見ますか？"
+                                "Would you like to view the defeat scene again?"
                             ]
                         },
                         {
@@ -5442,8 +5407,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "見る",
-                                    "見ない"
+                                    "Watch",
+                                    "Don't Watch"
                                 ],
                                 1,
                                 0,
@@ -5671,14 +5636,14 @@
                                 0,
                                 0,
                                 2,
-                                "科学者"
+                                "Scientist"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むぅ…ここまでの力を持っているとは…"
+                                "Hmm... I didn't expect you to be this powerful..."
                             ]
                         },
                         {
@@ -5689,14 +5654,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]この子たちは解放してもらうから！"
+                                "\\PartyFace[1]\\FaceIndex[11]I'm going to free these kids!"
                             ]
                         },
                         {
@@ -5707,14 +5672,14 @@
                                 0,
                                 0,
                                 2,
-                                "科学者"
+                                "Scientist"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ、好きにするがいい。"
+                                "Ah, do as you like."
                             ]
                         },
                         {
@@ -5725,14 +5690,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[10]でも、こんなに多くの子を一度には連れて歩けないな…"
+                                "\\PartyFace[1]\\FaceIndex[10]But, I can't possibly take so many kids with me at once..."
                             ]
                         },
                         {
@@ -5879,21 +5844,14 @@
                                 5,
                                 0,
                                 2,
-                                "ユーリ・オルロフ"
+                                "Yuri Orlov"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その子たちは私が地下施設に連れていってあげましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あそこの警備システムは私が掌握しているので、牢の中にいる方が安全ですよ。"
+                                "I'll take those kids to the underground facility. I have\ncontrol over the security system there, so they'll be safer\ninside the cells."
                             ]
                         },
                         {
@@ -5904,21 +5862,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[10]それはありがたいけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかしてそれって…"
+                                "\\PartyFace[1]\\FaceIndex[10]That's kind of you, but... could it be that..."
                             ]
                         },
                         {
@@ -5929,14 +5880,14 @@
                                 5,
                                 0,
                                 2,
-                                "ユーリ・オルロフ"
+                                "Yuri Orlov"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もちろん、後で協力の代金は請求させていただきますので。"
+                                "Of course, I will be expecting compensation for my\ncooperation later on."
                             ]
                         },
                         {
@@ -5956,14 +5907,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[8]ですよねー。"
+                                "\\PartyFace[1]\\FaceIndex[8]I thought so..."
                             ]
                         },
                         {
@@ -5974,14 +5925,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]あ、それならこの子も一緒に…"
+                                "\\PartyFace[1]\\FaceIndex[2]Oh, then please take this child with you as well..."
                             ]
                         },
                         {
@@ -5999,7 +5950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…ボクは…お姉ちゃんについてく…"
+                                "...I... will follow big sister..."
                             ]
                         },
                         {
@@ -6010,14 +5961,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[3]え、でも…危ないから…"
+                                "\\PartyFace[1]\\FaceIndex[3]Eh, but... it's dangerous..."
                             ]
                         },
                         {
@@ -6035,7 +5986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "助けてくれるって…言ったから…"
+                                "You said... you'd help me..."
                             ]
                         },
                         {
@@ -6055,14 +6006,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]わかった…絶対に護ってあげるからね。"
+                                "\\PartyFace[1]\\FaceIndex[0]Alright... I promise to protect you no matter what."
                             ]
                         },
                         {
@@ -6462,14 +6413,14 @@
                                 0,
                                 0,
                                 2,
-                                "科学者"
+                                "Scientist"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おや、実験に協力してくれる気になったのかね？"
+                                "Oh, have you decided to cooperate with my experiment?"
                             ]
                         },
                         {
@@ -6480,14 +6431,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[10]…実験って何？"
+                                "\\PartyFace[1]\\FaceIndex[10]...What experiment?"
                             ]
                         },
                         {
@@ -6498,21 +6449,14 @@
                                 0,
                                 0,
                                 2,
-                                "科学者"
+                                "Scientist"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ああ、私の研究の成果なんだがね…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "神霊力を爆発的に高めることが出来るモノの開発に成功したのだよ。"
+                                "Ah, it's the fruit of my research... I've successfully\ndeveloped something that can explosively increase spiritual\npower."
                             ]
                         },
                         {
@@ -6523,14 +6467,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[10]それがホントなら魅力的だけど…"
+                                "\\PartyFace[1]\\FaceIndex[10]If that's true, it sounds tempting..."
                             ]
                         },
                         {
@@ -6541,14 +6485,14 @@
                                 0,
                                 0,
                                 2,
-                                "科学者"
+                                "Scientist"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちょっとした施術が必要なんだが…どうだ、試してみるかね？"
+                                "It requires a bit of a procedure... How about it, will you\ngive it a try?"
                             ]
                         },
                         {
@@ -6556,8 +6500,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "受け入れる",
-                                    "やめておく"
+                                    "Accept",
+                                    "Decline"
                                 ],
                                 1,
                                 0,
@@ -6581,14 +6525,14 @@
                                 0,
                                 0,
                                 2,
-                                "科学者"
+                                "Scientist"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "くっくっく、素直で宜しい。"
+                                "Heh heh heh, that's very honest of you."
                             ]
                         },
                         {
@@ -6624,14 +6568,14 @@
                                 0,
                                 0,
                                 2,
-                                "科学者"
+                                "Scientist"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ふむ、残念だ…気が変わったらいつでも来てくれたまえ。"
+                                "Hmm, that's too bad... If you change your mind, feel free to\ncome by anytime."
                             ]
                         },
                         {
@@ -6662,14 +6606,14 @@
                                 0,
                                 0,
                                 2,
-                                "科学者"
+                                "Scientist"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "実験に協力してくれる気になったらいつでも来てくれたまえ。"
+                                "If you ever feel like helping out with the experiment, come\nby anytime."
                             ]
                         },
                         {
@@ -6741,21 +6685,14 @@
                                 0,
                                 0,
                                 2,
-                                "科学者"
+                                "Scientist"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "刻んだ紋様の具合はどうだい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつでも結果を報告しに来てくれたまえ。"
+                                "\"How is the condition of the engraved pattern? Please come\nto report the results at any time.\""
                             ]
                         },
                         {
@@ -6946,14 +6883,14 @@
                                 0,
                                 0,
                                 2,
-                                "科学者"
+                                "Scientist"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだ、君にいいものをプレゼントしてあげよう。"
+                                "Right, I have a nice gift for you."
                             ]
                         },
                         {
@@ -7018,14 +6955,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[10]…いいもの？"
+                                "\\PartyFace[1]\\FaceIndex[10]...A nice gift?"
                             ]
                         },
                         {
@@ -7036,14 +6973,14 @@
                                 0,
                                 0,
                                 2,
-                                "科学者"
+                                "Scientist"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただし、ちょっとした実験に付き合ってくれたら…ね。"
+                                "However, you'll have to participate in a little experiment\nfor me... okay?"
                             ]
                         },
                         {
@@ -7054,14 +6991,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[10]………"
+                                "\\PartyFace[1]\\FaceIndex[10]..."
                             ]
                         },
                         {
@@ -7072,21 +7009,14 @@
                                 0,
                                 0,
                                 2,
-                                "科学者"
+                                "Scientist"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その気になったらここに来るといい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "待っているよ、くっくっく。"
+                                "If you feel up to it, come here. I'll be waiting, heh heh\nheh."
                             ]
                         },
                         {

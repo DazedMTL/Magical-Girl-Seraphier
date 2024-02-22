@@ -2668,21 +2668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<center>この作品には犯罪にあたる描写があります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実際に行うと法律により罰せられるのみならず"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "相手の尊厳を著しく傷つけることになります。</center>"
+                                "<center>This work contains depictions that are criminal\nacts. Actually performing these acts is not only punishable\nby law but also severely damages the dignity of\nothers.</center>"
                             ]
                         },
                         {
@@ -2700,14 +2686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<center>あくまでもフィクションとして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "作品の中だけで楽しむようにしましょう。</center>"
+                                "<center>Please enjoy this as a work of fiction and keep it\nwithin the confines of the story.</center>"
                             ]
                         },
                         {
@@ -2725,28 +2704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<center>年齢制限設定を行ってください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全年齢対応を選択すると成人向けに該当しそうなシーンが無くなります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "※設定ミスでＨシーンが残っている可能性もあるので油断しないでください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "序盤で入れるようになる回想部屋でも変更可能です。</center>"
+                                "<center>Please set the age restriction. Selecting the all-\nages option will remove scenes that may be considered adult\ncontent.※Be careful as there is a possibility that H-scenes\nmay remain due to a setting error. You can also change this\nsetting in the recollection room that becomes available\nearly in the game.</center>"
                             ]
                         },
                         {
@@ -2754,7 +2712,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "全年齢対応",
+                                    "All Ages Version",
                                     "R-18"
                                 ],
                                 0,

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "研究所屋上",
+    "displayName": "Research Lab Rooftop",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -8549,7 +8549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {
@@ -8917,14 +8917,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]これでオッケー…なんだよね。"
+                                "\\PartyFace[1]\\FaceIndex[2]This should be okay... right?"
                             ]
                         },
                         {
@@ -8954,7 +8954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…はね…ちゃん"
+                                "...Hane...chan"
                             ]
                         },
                         {
@@ -9024,14 +9024,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]ん？"
+                                "\\PartyFace[1]\\FaceIndex[2]Hm?"
                             ]
                         },
                         {
@@ -9101,14 +9101,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こはねちゃん！！"
+                                "Kohane-chan!!"
                             ]
                         },
                         {
@@ -9119,14 +9119,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]あ、ひさなちゃんだ！やっほー！！"
+                                "\\PartyFace[1]\\FaceIndex[1]Ah, it's Hisana-chan! Hey there!!"
                             ]
                         },
                         {
@@ -9196,14 +9196,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やっほーじゃないよ！！もう、バカバカバカ！！"
+                                "This is no time for \"hey there\"!! Seriously, you're such an\nidiot, idiot, idiot!!"
                             ]
                         },
                         {
@@ -9304,14 +9304,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[10]ご…ごめん…"
+                                "\\PartyFace[1]\\FaceIndex[10]I'm... I'm sorry..."
                             ]
                         },
                         {
@@ -9409,21 +9409,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ホントに…こはねちゃんが帰ってこなかったらどうしようって…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずっと心配してたんだからね…う…うぅ…っ…"
+                                "Really... I was so worried about what I would do if Kohane-\nchan didn't come back... I've been worried this whole\ntime... sniff... sob..."
                             ]
                         },
                         {
@@ -9434,14 +9427,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[10]ひさなちゃん…心配かけて…ホントにごめんなさい…"
+                                "\\PartyFace[1]\\FaceIndex[10]Hisana-chan... I'm really sorry for making you worry..."
                             ]
                         },
                         {
@@ -9478,14 +9471,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]落ち着いた？"
+                                "\\PartyFace[1]\\FaceIndex[0]Have you calmed down?"
                             ]
                         },
                         {
@@ -9555,21 +9548,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…うん、もう大丈夫。逆に心配かけちゃったね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とりあえずバリアは解除出来たんだね。"
+                                "...Yeah, I'm okay now. Sorry for making you worry in return.\nSo you managed to deactivate the barrier, right?"
                             ]
                         },
                         {
@@ -9580,14 +9566,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]うん、もう通信し放題だよ！"
+                                "\\PartyFace[1]\\FaceIndex[0]Yep, communications are totally unrestricted now!"
                             ]
                         },
                         {
@@ -9657,14 +9643,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "了解！今ガーディアンズの戦力部隊と一緒にそっちに向かってるからもうちょっと待っててね。"
+                                "Got it! I'm on my way there with the Guardians' strike\nforce, so just wait a little longer, okay?"
                             ]
                         },
                         {
@@ -9675,21 +9661,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]そうなんだ！でもリベレイターが用意していた秘密兵器も壊しちゃったし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あとは「ベリアル」って奴を制圧すれば万事オッケーだと思うよ！"
+                                "\\PartyFace[1]\\FaceIndex[2]That's great! But I also destroyed the secret weapon that\nthe Liberator had prepared, so if we can just suppress that\nguy \"Belial,\" everything should be okay, I think!"
                             ]
                         },
                         {
@@ -9759,21 +9738,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…それならいいけど…ガーディアンズ壊滅作戦って言うからにはまだ何かある気がするの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたし達が行くまで十分気を付けてね。"
+                                "...That's good to hear... but since it's called the\nGuardians' annihilation operation, I have a feeling there's\nstill something else. Be careful until we get there."
                             ]
                         },
                         {
@@ -9843,14 +9815,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]おっけー！じゃあひさなちゃんが来るまでに出来る限り残りの戦力を調査しておくね！"
+                                "\\PartyFace[1]\\FaceIndex[0]Okay! Then I'll do what I can to scout out any remaining\nforces until Hisana-chan arrives!"
                             ]
                         },
                         {
@@ -9901,14 +9873,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まさかお前がここまでやるとは思ってもみなかったぞ！"
+                                "I never imagined you'd make it this far!"
                             ]
                         },
                         {
@@ -9938,14 +9910,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]…ベリアル！！通信に割り込んで来たの？"
+                                "\\PartyFace[1]\\FaceIndex[4]...Belial!! Did you intercept our communication?"
                             ]
                         },
                         {
@@ -9956,21 +9928,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガーディアンズの部隊もそろそろ到着するようだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安心しろ、歓迎する準備は整っているぞ。"
+                                "The Guardians' troops will be arriving soon as well. Rest\nassured, preparations to welcome them are in place."
                             ]
                         },
                         {
@@ -9981,14 +9946,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]…まだ…何かあるっていうこと？"
+                                "\\PartyFace[1]\\FaceIndex[4]...So there's... still something else?"
                             ]
                         },
                         {
@@ -9999,21 +9964,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それを知りたければオレのところまで来るがいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アミィもお前のことを待っているぞ。"
+                                "If you want to know, then come to me. Amy is also waiting\nfor you."
                             ]
                         },
                         {
@@ -10024,14 +9982,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]アミィちゃんは無事なの？"
+                                "\\PartyFace[1]\\FaceIndex[4]Is Amy-chan safe?"
                             ]
                         },
                         {
@@ -10042,14 +10000,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今のところは…な。だが裏切り者は始末しとかないとなぁ。"
+                                "For now... yes. But traitors must be dealt with, after all."
                             ]
                         },
                         {
@@ -10119,14 +10077,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]…行くしかないってことだね。"
+                                "\\PartyFace[1]\\FaceIndex[4]...So I have no choice but to go, huh."
                             ]
                         },
                         {
@@ -10137,14 +10095,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだ、急いだ方がいいぞ、手遅れになる前にな！"
+                                "That's right, you'd better hurry before it's too late!"
                             ]
                         },
                         {
@@ -10252,14 +10210,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]…アミィちゃん。"
+                                "\\PartyFace[1]\\FaceIndex[4]...Amy-chan."
                             ]
                         },
                         {
@@ -10329,14 +10287,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やっぱりまだ何かあるみたいだね。"
+                                "It seems like there's still something going on."
                             ]
                         },
                         {
@@ -10406,14 +10364,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]わたし、行かなきゃ！アミィちゃんが危ないかもしれない！"
+                                "\\PartyFace[1]\\FaceIndex[4]I have to go! Amy-chan might be in danger!"
                             ]
                         },
                         {
@@ -10483,21 +10441,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こはねちゃんを助けてくれたっていうリベレイターの子だね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "地下プラントを抜けた先にいると思うから、早く行ってあげて！"
+                                "She's the Liberator girl who helped you, right? I think\nshe's beyond the underground plant, so hurry and go to her!"
                             ]
                         },
                         {
@@ -10567,14 +10518,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]地下プラント…アミィちゃんと戦った部屋を抜けた先だね。わかったよ！"
+                                "\\PartyFace[1]\\FaceIndex[4]The underground plant... It's past the room where I fought\nwith Amy-chan. Got it!"
                             ]
                         },
                         {

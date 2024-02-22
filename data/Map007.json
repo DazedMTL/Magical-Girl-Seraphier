@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "スイッチだらけの部屋（西）",
+    "displayName": "Room Full of Switches (West)",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -14021,7 +14021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {
@@ -17865,14 +17865,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]あっ、なんか音がした！"
+                                "\\PartyFace[1]\\FaceIndex[2]Ah, I heard some kind of noise!"
                             ]
                         },
                         {
@@ -17883,14 +17883,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "正解だったみたいだね。"
+                                "Seems like we got it right."
                             ]
                         },
                         {
@@ -17951,7 +17951,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何処かで何かが作動する音がした。"
+                                "I heard the sound of something being activated somewhere."
                             ]
                         },
                         {
@@ -17962,14 +17962,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]扉が開いたっぽい！！"
+                                "\\PartyFace[1]\\FaceIndex[1]It sounds like a door has opened!!"
                             ]
                         },
                         {
@@ -18171,14 +18171,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]スイッチだらけ…"
+                                "\\PartyFace[1]\\FaceIndex[2]It's full of switches..."
                             ]
                         },
                         {
@@ -18189,14 +18189,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "東のスイッチの部屋…覚えてる？"
+                                "The room with the switches to the east... do you remember\nit?"
                             ]
                         },
                         {
@@ -18204,8 +18204,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "もちろん！",
-                                    "わかりません！"
+                                    "Of course!",
+                                    "I don't understand!"
                                 ],
                                 1,
                                 0,
@@ -18229,14 +18229,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]余裕だよー！"
+                                "\\PartyFace[1]\\FaceIndex[1]Easy peasy!"
                             ]
                         },
                         {
@@ -18247,14 +18247,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ホントかなぁ…"
+                                "Really now..."
                             ]
                         },
                         {
@@ -18278,21 +18278,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "東とは向きが逆だから、\\C[2]『Z』\\C[0]の逆の形になるように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボタンを押していけばいいと思うよ。"
+                                "Since it's the opposite direction from the east, I think you\nshould press the buttons to form the reverse of the \"Z\"\nshape."
                             ]
                         },
                         {
@@ -18420,14 +18413,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]もうこの部屋に用はなさそう。"
+                                "\\PartyFace[1]\\FaceIndex[2]It seems we have no more business in this room."
                             ]
                         },
                         {

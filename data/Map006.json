@@ -16305,21 +16305,14 @@
                                 0,
                                 0,
                                 2,
-                                "システム"
+                                "System"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＨＰ、ＭＰを全回復できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全回復しますか？"
+                                "You can fully restore HP and MP. Would you like to fully\nrecover?"
                             ]
                         },
                         {
@@ -16327,8 +16320,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

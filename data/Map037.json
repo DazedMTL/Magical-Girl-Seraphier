@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "研究所30F",
+    "displayName": "Research Lab 30F",
     "encounterList": [],
     "encounterStep": 30,
     "height": 22,
@@ -5105,7 +5105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {
@@ -5310,14 +5310,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]今は急いで\\c[2]屋上\\c[0]に行こう！"
+                                "\\PartyFace[1]\\FaceIndex[4]Let's hurry to the \\c[2]rooftop\\c[0] now!"
                             ]
                         },
                         {
@@ -5553,14 +5553,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]今は急いで\\c[2]屋上\\c[0]に行こう！"
+                                "\\PartyFace[1]\\FaceIndex[4]Let's hurry to the \\c[2]rooftop\\c[0] now!"
                             ]
                         },
                         {
@@ -5826,21 +5826,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<center>この先の戦闘で敗北すると敗北Ｈシーンに移行します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "敗北Ｈを経験したくない場合はセーブしておくことをおススメします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "※戦闘に勝利するだけで敗北Ｈシーンが回想に追加されます。</center>"
+                                "<center>If you are defeated in the upcoming battle, you will\ntransition to a defeat H-scene. If you do not wish to\nexperience the defeat H-scene, it is recommended that you\nsave your game.※Defeat H-scenes will be added to\nrecollection just by winning the battle.</center>"
                             ]
                         },
                         {
@@ -5868,7 +5854,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<center>この先はボス戦となります。</center>"
+                                "<center>The next encounter will be a boss battle.</center>"
                             ]
                         },
                         {
@@ -5896,21 +5882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<center>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "準備はよろしいですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "</center>"
+                                "<center>Are you prepared?</center>"
                             ]
                         },
                         {
@@ -5918,8 +5890,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6308,7 +6280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "行き先を選んでください。"
+                                "Please choose your destination."
                             ]
                         },
                         {
@@ -6316,10 +6288,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "１Ｆ",
-                                    "２Ｆ",
-                                    "３Ｆ",
-                                    "やめる"
+                                    "1F",
+                                    "2F",
+                                    "3F",
+                                    "Cancel"
                                 ],
                                 3,
                                 0,
@@ -7151,7 +7123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "行き先を選んでください。"
+                                "Please choose your destination."
                             ]
                         },
                         {
@@ -7159,8 +7131,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "１Ｆ",
-                                    "やめる"
+                                    "1F",
+                                    "Cancel"
                                 ],
                                 1,
                                 0,
@@ -7507,7 +7479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "行き先を選んでください。"
+                                "Please choose your destination."
                             ]
                         },
                         {
@@ -7515,10 +7487,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "１Ｆ",
-                                    "２Ｆ",
-                                    "３Ｆ",
-                                    "やめる"
+                                    "1F",
+                                    "2F",
+                                    "3F",
+                                    "Cancel"
                                 ],
                                 3,
                                 0,
@@ -8348,7 +8320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "行き先を選んでください。"
+                                "Please choose your destination."
                             ]
                         },
                         {
@@ -8356,8 +8328,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "１Ｆ",
-                                    "やめる"
+                                    "1F",
+                                    "Cancel"
                                 ],
                                 1,
                                 0,
@@ -9764,21 +9736,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<center>この先の戦闘で敗北すると敗北Ｈシーンに移行します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "敗北Ｈを経験したくない場合はセーブしておくことをおススメします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "※戦闘に勝利するだけで敗北Ｈシーンが回想に追加されます。</center>"
+                                "<center>If you are defeated in the upcoming battle, you will\ntransition to a defeat H-scene. If you do not wish to\nexperience the defeat H-scene, we recommend saving your\ngame.※Defeat H-scenes will be added to recollection just by\nwinning the battle.</center>"
                             ]
                         },
                         {
@@ -9806,7 +9764,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<center>この先はボス戦となります。</center>"
+                                "<center>The battle ahead is a boss fight.</center>"
                             ]
                         },
                         {
@@ -9834,21 +9792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<center>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "準備はよろしいですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "</center>"
+                                "<center>Are you prepared?</center>"
                             ]
                         },
                         {
@@ -9856,8 +9800,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10300,21 +10244,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そっちは屋上に行く道だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は所長室に向かおうね。"
+                                "That way leads to the rooftop. Let's head to the director's\noffice now."
                             ]
                         },
                         {
@@ -10639,21 +10576,14 @@
                                 0,
                                 0,
                                 2,
-                                "システム"
+                                "System"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＨＰ、ＭＰを全回復できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全回復しますか？"
+                                "You can fully recover HP and MP. Would you like to fully\nrecover?"
                             ]
                         },
                         {
@@ -10661,8 +10591,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

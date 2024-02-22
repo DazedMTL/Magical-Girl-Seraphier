@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "特別監禁室",
+    "displayName": "Special Confinement Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -3511,14 +3511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "辛い姿勢で連行されて疲労したセラフィエールは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ドローンに抵抗もできずに固い椅子に鎖で繋がれてしまった。"
+                                "Seraphier, fatigued from being transported in a painful\nposition, was unable to resist and ended up chained to a\nhard chair by the drone."
                             ]
                         },
                         {
@@ -3536,14 +3529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セラフィエールから神霊力を奪うために、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ドローンが選択した責めは…"
+                                "To extract the divine power from Seraphier, the torment\nchosen by the drone was..."
                             ]
                         },
                         {
@@ -3560,9 +3546,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "電流責め",
-                                    "バイブをお尻に挿入",
-                                    "バイブで処女を奪う"
+                                    "Electric shock torture",
+                                    "Insert a vibrator into her ass",
+                                    "Deflower her with a vibrator"
                                 ],
                                 -1,
                                 0,
@@ -3662,9 +3648,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "電流責め",
-                                    "バイブをお尻に挿入",
-                                    "バイブを膣に挿入"
+                                    "Electric shock torture",
+                                    "Insert a vibrator into her ass",
+                                    "Insert a vibrator into her pussy"
                                 ],
                                 -1,
                                 0,
@@ -4343,14 +4329,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ああ…こんな格好…やだぁ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ahh... dressed like this... I hate it..."
                             ]
                         },
                         {
@@ -4368,14 +4354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大きく足を広げる形で椅子にガッチリと固定されてた姿を男達に晒す少女。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その頬は痛々しいほどに紅く染まっていた。"
+                                "The girl, with her legs spread wide and firmly fixed to the\nchair, was exposed to the men. Her cheeks were painfully\nflushed red."
                             ]
                         },
                         {
@@ -4393,21 +4372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綺麗な肌してるじゃねぇか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くそっ、倒した奴が神霊力の吸収を担当出来るなんて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボスも意地の悪いルールを作ってくれたもんだぜ。"
+                                "She's got beautiful skin, doesn't she... Damn, the one who\ndefeated her gets to be in charge of absorbing the spiritual\npower, the boss sure made some nasty rules."
                             ]
                         },
                         {
@@ -4425,14 +4390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まあそう言うな。あのドローンの激しい責めをあんな小さな身体の娘が受けるのを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見られるだけでオレは愉しみだぜ！"
+                                "Well, don't say that. Just being able to watch that drone's\nharsh torment on such a small girl is a pleasure for me!"
                             ]
                         },
                         {
@@ -4450,7 +4408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くくっ、まったくいい趣味してるぜ。"
+                                "Heh heh, you really have good taste."
                             ]
                         },
                         {
@@ -4468,14 +4426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男達の勝手な言葉も耳に届かない程に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こはねは目の前の機械に恐怖を覚えていた。"
+                                "The girl, Kohane, was so terrified by the machine in front\nof her that she couldn't even hear the men's selfish words."
                             ]
                         },
                         {
@@ -4486,14 +4437,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]なに…するの…？"
+                                "\\PartyFace[1]\\FaceIndex[6]What... are you going to do...?"
                             ]
                         },
                         {
@@ -4511,21 +4462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無感情に動く機械からその問いに答えが帰ってくることは無く、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フルフルと身体を震わせる少女の身体に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コードの付いた粘着板を貼り付けていく。"
+                                "The emotionless machine did not respond to her question and\ncontinued to attach adhesive pads with cords to the\ntrembling girl's body."
                             ]
                         },
                         {
@@ -4704,14 +4641,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]きゃっ！"
+                                "\\PartyFace[1]\\FaceIndex[6]Kyah!"
                             ]
                         },
                         {
@@ -4729,7 +4666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貼り付けられた粘着板の冷たさに、少女の口から悲鳴が漏れる。"
+                                "A scream escaped from the girl's mouth due to the coldness\nof the adhesive pads being attached."
                             ]
                         },
                         {
@@ -4740,14 +4677,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]何…コレ…怖いよ…"
+                                "\\PartyFace[1]\\FaceIndex[6]What... is this... It's scary..."
                             ]
                         },
                         {
@@ -4765,14 +4702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "震える少女の様子に反応することも無く、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ドローンは無慈悲な責めを開始する。"
+                                "Without any reaction to the trembling girl, the drone began\nits merciless torment."
                             ]
                         },
                         {
@@ -5027,14 +4957,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]きゃ、あああああ、あ、あ、ああああああっっ！"
+                                "\\PartyFace[1]\\FaceIndex[6]Kyah, aaaaaaah, ah, ah, aaaaaaahhh!"
                             ]
                         },
                         {
@@ -5052,7 +4982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コードに繋がったドローンから流される電流。"
+                                "Electricity flowed from the drone connected by cords."
                             ]
                         },
                         {
@@ -5070,7 +5000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガクガクと小さな裸体が跳ねて、汗と涙が周囲に飛び散る。"
+                                "Her small naked body jerked violently, sweat and tears\nscattering around her."
                             ]
                         },
                         {
@@ -5140,14 +5070,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]いや…いやああっ、もう…やめてえぇぇっ"
+                                "\\PartyFace[1]\\FaceIndex[6]No... noooo, please... stop it eeeehhh!"
                             ]
                         },
                         {
@@ -5165,14 +5095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いくら懇願しても流され続ける電流の痛みに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意識が刈り取られていく。"
+                                "No matter how much she pleaded, the pain from the continuous\nelectric current was cutting away at her consciousness."
                             ]
                         },
                         {
@@ -5326,14 +5249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このまま気を失うことが出来れば楽になれるかも…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのこはねの心を読み取ったかのように不意に止められる電流。"
+                                "Just as Kohane thought that losing consciousness might bring\nsome relief, the electric current stopped abruptly as if\nreading her mind."
                             ]
                         },
                         {
@@ -5403,14 +5319,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]はあぁぁ、はあぁぁ、はあぁぁぅ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Haaahhh, haaahhh, haaahhh..."
                             ]
                         },
                         {
@@ -5428,7 +5344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "視線が定まらず、荒い呼吸に肩を揺らすこはね。"
+                                "Kohane's gaze was unfocused, her shoulders heaving with\nragged breaths."
                             ]
                         },
                         {
@@ -5446,14 +5362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マジで容赦ねぇなぁ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "舌噛まねぇようにコレ付けてやるよ。"
+                                "Seriously merciless... I'll put this on you so you don't\nbite your tongue."
                             ]
                         },
                         {
@@ -5471,14 +5380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "心配するような言葉とは裏腹にニヤニヤと笑みを浮かべながら少女に近づく男。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その手には布のようなものが握られていた。"
+                                "Contrary to his seemingly concerned words, the man\napproached the girl with a grin, holding something like a\ncloth in his hand."
                             ]
                         },
                         {
@@ -5754,14 +5656,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ううんっ、うっ、うっ、うううううんんっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Mmmphh, uh, uh, mmmmmphhhhh!!"
                             ]
                         },
                         {
@@ -5779,14 +5681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猿轡を付けられ、悲鳴を上げることも、気を失うことすらも許されない少女の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くぐもった悲鳴が、暫くの間監禁室に響き渡っていた。"
+                                "The muffled screams of the girl, who was not allowed to\nscream or lose consciousness after being gagged, echoed in\nthe confinement room for a while."
                             ]
                         },
                         {
@@ -6472,14 +6367,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]いやぁ…全部みられてる…"
+                                "\\PartyFace[1]\\FaceIndex[6]No... I'm being seen completely..."
                             ]
                         },
                         {
@@ -6497,14 +6392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローブの大半を失い、下着すらもはぎ取られて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大きく足を広げる形で椅子にガッチリと固定されてしまった少女。"
+                                "The girl, having lost most of her robe and even her\nunderwear stripped away, was firmly fixed to a chair with\nher legs spread wide open."
                             ]
                         },
                         {
@@ -6522,21 +6410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そのあまりの恥ずかしさにここから逃げ出したくなるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ガッチリと椅子に身体を縛られた状態では、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "周りを取り囲む男達の視線から目を背けることしかできなかった。"
+                                "Overwhelmed by such embarrassment and wanting to escape from\nhere, she could only avert her eyes from the gazes of the\nmen surrounding her, as she was tightly bound to the chair."
                             ]
                         },
                         {
@@ -6554,7 +6428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見ろよ、あんな綺麗な色のオマ〇コなかなかお目にかかれないぜ。"
+                                "Look at that, you don't often come across a pussy with such\na pretty color."
                             ]
                         },
                         {
@@ -6572,14 +6446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オレはロリコンじゃねぇけど、こんな美少女のアソコになら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぶち込んでみてぇなぁ！"
+                                "I'm not a lolicon, but I'd love to shove it into a beautiful\ngirl's pussy like that!"
                             ]
                         },
                         {
@@ -6597,7 +6464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドローンなんかに相手させるのは勿体ねぇな。"
+                                "It's a waste to let a drone handle her."
                             ]
                         },
                         {
@@ -6615,14 +6482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男達の勝手な言葉に反応することも無く、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ドローンは淡々と準備を進める。"
+                                "Ignoring the men's selfish remarks, the drone calmly\nproceeded with the preparations."
                             ]
                         },
                         {
@@ -6742,14 +6602,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]え…な…何…これ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Eh... wha... what... is this..."
                             ]
                         },
                         {
@@ -6767,14 +6627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "不意に尻穴に感じる冷たい感触に目を見開くこはね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこにはドリルのような形状の固い棒が突き付けられていた。"
+                                "Suddenly feeling a cold sensation in her butt hole, Kohane's\neyes widened. There, a hard rod shaped like a drill was\nbeing pointed at her."
                             ]
                         },
                         {
@@ -6785,14 +6638,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ま、まさか…それを…うそ、やだ…やめてよ！"
+                                "\\PartyFace[1]\\FaceIndex[6]No way... you can't... that's... stop it, please!"
                             ]
                         },
                         {
@@ -6810,14 +6663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こはねの抗議を聞き入れることもなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ドローンの指令を受けた機械バイブは無慈悲に尻穴に侵入を開始する。"
+                                "Ignoring Kohane's protests, the machine vibrator commanded\nby the drone mercilessly began its invasion into her butt\nhole."
                             ]
                         },
                         {
@@ -7190,14 +7036,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あ…ああああ…う…ぅ…あ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ah... ahhh... uh... uhh... ah..."
                             ]
                         },
                         {
@@ -7215,14 +7061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本来は排泄物を出すはずの穴に極太の楔を打ち込まれ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こはねの口からは悲鳴とも呻きともつかない声が漏れる。"
+                                "A voice that was neither a scream nor a moan leaked from\nKohane's mouth as a thick wedge was driven into the hole\nmeant for excretion."
                             ]
                         },
                         {
@@ -7240,21 +7079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無理矢理割り広げられた尻穴の痛みよりも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恥ずかしさと惨めさに呆然とする間も無く、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無感情な機械の責めが襲い掛かる。"
+                                "Before she could even be stunned by the shame and misery,\ngreater than the pain of her forcibly spread butt hole, the\nemotionless machine's torment assaulted her."
                             ]
                         },
                         {
@@ -7526,14 +7351,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ひぐぅっ…ううっ…あっ、い…痛い…よぉ…っ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Higuu... ugh... ah, i-it... hurts... so much..."
                             ]
                         },
                         {
@@ -7551,14 +7376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "表面にローションは塗られているものの、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少女の小さな穴を抉られる痛みは簡単に薄れるものではなかった。"
+                                "Even though lotion was applied to its surface, the pain of\nhaving her small hole gouged did not easily fade away."
                             ]
                         },
                         {
@@ -7569,14 +7387,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ひぃ…ううっ…や…やめ…あああっ…うあああっ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Hii... ugh... sto... stop it... ahhh... uahhh..."
                             ]
                         },
                         {
@@ -7594,7 +7412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次第に痛みが薄れて、尻穴から別の感覚が湧き上がってくる。"
+                                "Gradually, the pain subsided and a different sensation began\nto rise from her butt hole."
                             ]
                         },
                         {
@@ -7612,14 +7430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "機械バイブに塗られたローションに混ぜられた薬効が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "性に乏しい少女の尻門を性感帯へと変化させていく。"
+                                "The medicinal effect mixed into the lotion on the machine\nvibrator began to transform the sexually inexperienced\ngirl's anal opening into an erogenous zone."
                             ]
                         },
                         {
@@ -7630,14 +7441,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]な、なにコレ…おしりが…あ…熱い…！"
+                                "\\PartyFace[1]\\FaceIndex[6]Wh-what is this... my butt is... ah... it's hot...!"
                             ]
                         },
                         {
@@ -7655,14 +7466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その少女の変化を感じ取ったのか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ドローンは機械バイブの強度を上げていく。"
+                                "Sensing the girl's transformation, the drone increased the\nintensity of the machine vibrator."
                             ]
                         },
                         {
@@ -7818,21 +7622,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]は…ふぅ…な…に…これ…わたし…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしこんなの…知らない…っっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Ha... huu... wh-what... is this... I... I've never known\nanything like this...!!"
                             ]
                         },
                         {
@@ -7850,14 +7647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ずぶずぶと勢いを増して尻穴に出し入れされるバイブの動きに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ガッチリ固定された身体をビクビクと跳ねさせる少女。"
+                                "The girl's body, firmly fixed in place, twitched and jerked\nas the vibrator thrust in and out of her butt hole with\nincreasing vigor."
                             ]
                         },
                         {
@@ -7875,7 +7665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次第に、視界が白く染まり、限界が近づいてくる。"
+                                "Gradually, her vision began to blur white, and her limit\napproached."
                             ]
                         },
                         {
@@ -7945,14 +7735,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あ、だめぇ…このままじゃ、私…もうぅ…だめ…だめえええっっ"
+                                "\\PartyFace[1]\\FaceIndex[6]Ah, no good... at this rate, I'm... I can't take it\nanymore... no moreee!"
                             ]
                         },
                         {
@@ -7970,7 +7760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひと際強くバイブが小柄なこはねの身体を突き上げた瞬間…"
+                                "In an instant when the vibrator powerfully surged into\nKohane's petite body..."
                             ]
                         },
                         {
@@ -7988,7 +7778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女の意識は弾け飛んだ。"
+                                "The girl's consciousness burst forth."
                             ]
                         },
                         {
@@ -8415,14 +8205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "激しい絶頂の余韻に身をゆだねるこはね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし疲れを知らない機械のバイブは尻穴に埋もれたまま再び蠢き始める。"
+                                "Kohane surrendered to the intense afterglow of her climax.\nHowever, the tireless machine vibrator continued to wriggle\ninside her butt hole."
                             ]
                         },
                         {
@@ -8746,21 +8529,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あ…っ、もぅ…イッた…からぁ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "や…ぁ…もう…ダメええええっ！"
+                                "\\PartyFace[1]\\FaceIndex[6]Ah... enough... I already came... sto... ah... no moreee!"
                             ]
                         },
                         {
@@ -8778,7 +8554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女の拒絶の声も空しく、機械の抽送は続く…"
+                                "The girl's voice of rejection was in vain as the mechanical\nthrusting continued..."
                             ]
                         },
                         {
@@ -9019,14 +8795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "暫くの間…バイブに尻穴を穿たれ続けた少女は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "朦朧とした意識で視線を宙にさ迷わせていた。"
+                                "For a while... The girl whose butt hole was continuously\ndrilled by the vibrator wandered her gaze through a hazy\nconsciousness."
                             ]
                         },
                         {
@@ -9044,14 +8813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その口には戯れに男が用意した猿轡が噛まされ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もはや悲鳴を上げることすら許されてはいなかった。"
+                                "A gag prepared playfully by a man was bitten into her mouth,\nand she was no longer allowed even to scream."
                             ]
                         },
                         {
@@ -9062,14 +8824,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ううんっ、うっ、うっ、うううううんんっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Mmmnnn, mmm, mmm, mmmmmnnn!!"
                             ]
                         },
                         {
@@ -9087,14 +8849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悲鳴を上げることも、気を失うことすらも許されない少女の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くぐもった悲鳴が、監禁室に響き渡っていた。"
+                                "The muffled cries of the girl who was not allowed to scream\nor lose consciousness echoed throughout the confinement\nroom."
                             ]
                         },
                         {
@@ -9803,14 +9558,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]いやぁ…全部みられてる…"
+                                "\\PartyFace[1]\\FaceIndex[6]No... everyone can see everything..."
                             ]
                         },
                         {
@@ -9828,14 +9583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローブの大半を失い、下着すらもはぎ取られて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大きく足を広げる形で椅子にガッチリと固定されてしまった少女。"
+                                "The girl, having lost most of her robe and even her\nunderwear stripped away, was firmly fixed to the chair with\nher legs spread wide open."
                             ]
                         },
                         {
@@ -9853,21 +9601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そのあまりの恥ずかしさにここから逃げ出したくなるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ガッチリと椅子に身体を縛られた状態では、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "周りを取り囲む男達の視線から目を背けることしかできなかった。"
+                                "Overwhelmed by such embarrassment, she wanted to flee from\nhere, but being tightly bound to the chair, all she could do\nwas avert her eyes from the gazes of the men surrounding\nher."
                             ]
                         },
                         {
@@ -9885,7 +9619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見ろよ、あんな綺麗な色のオマ〇コなかなかお目にかかれないぜ。"
+                                "Look at that, you don't often come across a pussy with such\na pretty color."
                             ]
                         },
                         {
@@ -9903,14 +9637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オレはロリコンじゃねぇけど、こんな美少女のアソコになら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぶち込んでみてぇなぁ！"
+                                "I'm not a lolicon, but I'd love to thrust into a beautiful\ngirl's pussy like that!"
                             ]
                         },
                         {
@@ -9928,7 +9655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドローンなんかに相手させるのは勿体ねぇな。"
+                                "It's a waste to let a drone have its way with her."
                             ]
                         },
                         {
@@ -9946,14 +9673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男達の勝手な言葉に反応することも無く、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ドローンは淡々と準備を進める。"
+                                "Ignoring the men's selfish remarks, the drone methodically\ncontinued its preparations."
                             ]
                         },
                         {
@@ -10073,14 +9793,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ひっ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Hii..."
                             ]
                         },
                         {
@@ -10098,7 +9818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "不意に秘裂に感じる冷たい感触に小さく悲鳴を上げるこはね。"
+                                "Suddenly feeling a cold sensation on her secret slit, Kohane\nlet out a small scream."
                             ]
                         },
                         {
@@ -10116,7 +9836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこにはドリルのような形状の固い棒が突き付けられていた。"
+                                "There, a hard rod with the shape of a drill was being\npointed at her."
                             ]
                         },
                         {
@@ -10127,14 +9847,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ま、まさか…それを…うそ、やだ…やめてよ！"
+                                "\\PartyFace[1]\\FaceIndex[6]No way... that thing... no, stop... please stop!"
                             ]
                         },
                         {
@@ -10211,21 +9931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こはねの抗議を聞き入れることもなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ドローンの指令を受けた機械バイブは小刻みに振動しながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無慈悲に陰唇を割り広げていく。"
+                                "Ignoring Kohane's protests, the machine vibrator, commanded\nby the drone, began to mercilessly spread her labia with\nsmall vibrations."
                             ]
                         },
                         {
@@ -10245,14 +9951,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あぁ…また…挿れられちゃう…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ahh... it's going in again..."
                             ]
                         },
                         {
@@ -10270,14 +9976,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "既に純潔は失ったものの、一度胎内を責められる快楽を覚えた秘裂からは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "本人の意思とは無関係に蜜を滴らせ、受け入れ準備を整えていた。"
+                                "Although she had already lost her virginity, her slit,\nhaving once experienced the pleasure of being ravaged, was\ndripping honey regardless of her will, readying itself for\nacceptance."
                             ]
                         },
                         {
@@ -10288,14 +9987,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふ…く…ひああああっ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Fu...ck... hiaaaaah..."
                             ]
                         },
                         {
@@ -10313,14 +10012,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "膣穴を満たす液体と、バイブに塗られたローションが混ざって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ぐちゃりぐちゃりと卑猥な音を奏で始める。"
+                                "The fluids filling her vaginal cavity and the lotion applied\nto the vibrator mixed together, making lewd squelching\nsounds."
                             ]
                         },
                         {
@@ -10338,14 +10030,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゆっくりと侵攻を進めるバイブは入口に先端を埋めたところで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一旦停止して、一気に奥まで貫いた。"
+                                "The vibrator, slowly advancing its invasion, stopped after\nburying its tip at the entrance and then penetrated deeply\nin one swift motion."
                             ]
                         },
                         {
@@ -10375,21 +10060,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]いやっ、わたし…まだ…なの…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ダメ…ぜったいにダメっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Nooo, I'm still... not ready... Stop... absolutely stop!!"
                             ]
                         },
                         {
@@ -10407,14 +10085,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まだ誰のものも受け入れたことの無い狭い肉穴の入り口で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "グリグリと小刻みに振動して侵入を試みる機械の凶器。"
+                                "The mechanical weapon, trying to invade the narrow entrance\nof a flesh tunnel that had never accepted anyone else's,\nvibrated minutely as it attempted to penetrate."
                             ]
                         },
                         {
@@ -10432,7 +10103,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "固く閉ざされた処女穴は、防衛本能から自然と蜜を溢れさせていく。"
+                                "The tightly closed virgin hole naturally overflowed with\nhoney from its defensive instinct."
                             ]
                         },
                         {
@@ -10443,14 +10114,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふ…く…ひああああっ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Fu...ck... hiaaaaah..."
                             ]
                         },
                         {
@@ -10468,14 +10139,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "膣穴を満たす液体と、バイブに塗られたローションが混ざって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ぐちゃりぐちゃりと卑猥な音を奏で始める。"
+                                "The fluids filling her vaginal cavity and the lotion applied\nto the vibrator mixed together, making lewd squelching\nsounds."
                             ]
                         },
                         {
@@ -10493,14 +10157,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゆっくりと侵攻を進めるバイブはやがて処女の証へと辿り突き、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一気に貫いた。"
+                                "The vibrator, slowly advancing its invasion, eventually\nreached the proof of virginity and pierced through in one\ngo."
                             ]
                         },
                         {
@@ -10824,14 +10481,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]いやあああああっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Nooooooo!!"
                             ]
                         },
                         {
@@ -10976,14 +10633,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]わたしのはじめてが…こんなのって…う…うぅ…"
+                                "\\PartyFace[1]\\FaceIndex[6]My first time... it shouldn't be like this... uh... uhh..."
                             ]
                         },
                         {
@@ -11001,7 +10658,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "無慈悲な処女喪失に、こはねの瞳からは大粒の涙が零れ落ちた。"
+                                "Large tears fell from Kohane's eyes as she suffered an\nunfeeling loss of virginity."
                             ]
                         },
                         {
@@ -11019,21 +10676,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "愛する人に捧げるべき純潔を、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "無感情な機械に純潔を奪われてしまった現実は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "少女の心を深い悲しみに染める。"
+                                "The reality of having her purity taken by an emotionless\nmachine dyed the girl's heart in deep sorrow."
                             ]
                         },
                         {
@@ -11113,14 +10756,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あ…ああ…ぁ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ah... aah... ah..."
                             ]
                         },
                         {
@@ -11138,21 +10781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バイブのローションと膣内を満たす体液の効果で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "痛みはそれほどではなかったものの、子供の腕程もある凶器を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下腹部に受け入れた異物感は消えることはない。"
+                                "Although the pain wasn't too severe thanks to the effects of\nthe vibrator's lotion and the fluids filling her insides,\nthe sensation of a foreign object as big as a child's arm\ninside her lower abdomen did not fade."
                             ]
                         },
                         {
@@ -11170,14 +10799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嗚咽を漏らす少女の様子に構うこともなく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "膣内への侵入を果たしたバイブは、ゆっくりとピストン運動を開始する。"
+                                "Without any concern for the sobbing girl's state, the\nvibrator that had penetrated inside began its slow piston\nmovements."
                             ]
                         },
                         {
@@ -11449,14 +11071,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ああ…いやぁ…もう…やだああ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ahh... nooo... not anymore... I hate this..."
                             ]
                         },
                         {
@@ -11474,14 +11096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "単調な抽送かと思えば時折強弱が加えられたピストン運動に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "狭い膣奥がかき回され、未知の感覚を少女に刷り込んでいく。"
+                                "What seemed like monotonous thrusting was occasionally mixed\nwith varying intensities of piston movements that stirred up\nthe narrow depths of her vagina, imprinting unknown\nsensations onto the girl."
                             ]
                         },
                         {
@@ -11492,14 +11107,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]うぅっ…ぁあっ！ああ、ああ、あんあああっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Uuhh... ah! Ahh, ahh, ahn ahhh!!"
                             ]
                         },
                         {
@@ -11517,7 +11132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おいおい、あの娘…ドローンに犯されて感じてるぜ。"
+                                "Hey hey, that girl... she's getting off on being fucked by\nthe drone."
                             ]
                         },
                         {
@@ -11535,14 +11150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんな場所に一人で潜り込んでくるくらいだからなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こうなることを期待してたんじゃねぇのか？"
+                                "She came sneaking into this place alone. Maybe she was\nhoping for something like this to happen?"
                             ]
                         },
                         {
@@ -11560,21 +11168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男達の下卑た野次がこはねの耳に届いてはいたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それがどういう意味かを考える余裕もなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "機械の動きに合わせて身体を跳ねさせていく。"
+                                "Kohane heard the men's vulgar jeers but had no capacity to\nunderstand their meaning as her body bounced in time with\nthe machine's movements."
                             ]
                         },
                         {
@@ -11730,14 +11324,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あっ…あああっ、なんで…体が…おかしいよぉ"
+                                "\\PartyFace[1]\\FaceIndex[6]Ahh... ahhh, why... my body feels... so strange..."
                             ]
                         },
                         {
@@ -11755,7 +11349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次第に…こはねの声に甘い音色が混ざり始める。"
+                                "Gradually... sweet tones began to mix into Kohane's voice."
                             ]
                         },
                         {
@@ -11825,14 +11419,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あっ、あっ、あっ…いやぁ、イクぅ…ホントに…イっちゃうぅ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ahh, ahh, ahh... nooo, I'm cumming... really... going to\ncum..."
                             ]
                         },
                         {
@@ -11850,14 +11444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マシンバイブがひと際強くこはねの最奥を突き上げた瞬間、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少女の意識は弾け飛んだ。"
+                                "The machine vibrator struck Kohane's deepest spot with\nexceptional force, and in that moment, the girl's\nconsciousness burst forth."
                             ]
                         },
                         {
@@ -12284,14 +11871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "心地良い浮遊感が過ぎ去り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶頂の余韻にビクビクと身体をはねさせるこはね."
+                                "A pleasant sense of floating passed, and Kohane's body\ntwitched in the afterglow of her climax."
                             ]
                         },
                         {
@@ -12309,14 +11889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次第にクリアになっていく脳裏に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "機械に犯されてイカされた事実が襲い掛かる。"
+                                "As her mind gradually cleared, the reality of having been\nviolated and brought to orgasm by the machine assaulted her."
                             ]
                         },
                         {
@@ -12327,14 +11900,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]う…うぅ…う…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ugh... uhh... uh..."
                             ]
                         },
                         {
@@ -12352,21 +11925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悔しさと惨めさと恥ずかしさ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "様々な感情が入り混じった悲しみに頬を濡らす少女に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "機械の凌辱者は更なる責めを開始する。"
+                                "The girl, wetting her cheeks with tears of frustration,\nmisery, and embarrassment, was met with further torment as\nthe machine's violator began a new assault."
                             ]
                         },
                         {
@@ -12757,14 +12316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猿轡を噛まされ、悲鳴を上げることも許されない少女のくぐもった声が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "狭い部屋に反響する…"
+                                "Gagged and unable to scream, the muffled cries of the girl\nechoed in the confined room..."
                             ]
                         },
                         {
@@ -12782,14 +12334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "膣穴と尻穴を同時にマシンバイブで抉られて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "身体に取り付けられた電極からは定期的に電流が流れる。"
+                                "Her vagina and anus were simultaneously gouged by machine\nvibrators, and electrodes attached to her body periodically\nsent electric currents through her."
                             ]
                         },
                         {
@@ -12807,14 +12352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "性に乏しい少女には苛烈すぎる機械の責めは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "痛みですらも快楽を感じるように、小さな身体に覚えこませていく。"
+                                "The relentless machine's torment was too harsh for the\nsexually inexperienced girl, teaching her small body to feel\npleasure even from pain."
                             ]
                         },
                         {
@@ -12825,14 +12363,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（もう…やめて…誰か…助けて…）"
+                                "\\PartyFace[1]\\FaceIndex[6](Please... stop... someone... help me...)"
                             ]
                         },
                         {
@@ -12850,7 +12388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "涙や涎を振り飛ばしながら、魔法少女は機械の調教を受け続けた…"
+                                "While flinging tears and drool, the magical girl continued\nto be trained by the machine..."
                             ]
                         },
                         {
@@ -13686,14 +13224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女がお腹の奥に異物を飲み込んだ苦しさに嗚咽を漏らすが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなことを構う様子もなく、男は尻穴を突き上げる。"
+                                "The girl chokes back a sob as she feels the foreign object\nthrust deep into her belly, but the man pays no heed and\ncontinues to thrust into her ass."
                             ]
                         },
                         {
@@ -13704,14 +13235,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ああ…こんな格好…やだぁ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ahh... I hate... being in this position..."
                             ]
                         },
                         {
@@ -13729,14 +13260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まあそう言うな。あのドローンの激しい責めをあんな小さな身体の娘が受けるのを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見られるだけでオレは愉しみだぜ！"
+                                "Come on, don't say that. Just watching that drone's intense\ntorment on such a small girl's body is a pleasure for me!"
                             ]
                         },
                         {
@@ -14317,14 +13841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "辛い姿勢で連行されて疲労したセラフィエールは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ドローンに抵抗もできずに固い椅子に鎖で繋がれてしまった。"
+                                "Seraphier, fatigued from being transported in a painful\nposition, was unable to resist and ended up chained to a\nhard chair by the drone."
                             ]
                         },
                         {
@@ -14342,14 +13859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セラフィエールから神霊力を奪うために、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ドローンが選択した責めは…"
+                                "To extract the divine power from Seraphier, the torment\nchosen by the drone was..."
                             ]
                         },
                         {
@@ -14366,9 +13876,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "電流責め",
-                                    "バイブをお尻に挿入",
-                                    "バイブで処女を奪う"
+                                    "Electrical torment",
+                                    "Insert a vibrator into the ass",
+                                    "Deflower with a vibrator"
                                 ],
                                 -1,
                                 0,
@@ -14468,9 +13978,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "電流責め",
-                                    "バイブをお尻に挿入",
-                                    "バイブを膣に挿入"
+                                    "Electrical torment",
+                                    "Insert a vibrator into her ass",
+                                    "Insert a vibrator into her pussy"
                                 ],
                                 -1,
                                 0,
@@ -15133,14 +14643,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ああ…こんな格好…やだぁ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ahh... dressed like this... I hate it..."
                             ]
                         },
                         {
@@ -15158,14 +14668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大きく足を広げる形で椅子にガッチリと固定されてた姿を男達に晒す少女。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その頬は痛々しいほどに紅く染まっていた。"
+                                "The girl, with her legs spread wide and firmly fixed to the\nchair, was exposed to the men. Her cheeks were painfully\nflushed red."
                             ]
                         },
                         {
@@ -15183,21 +14686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綺麗な肌してるじゃねぇか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くそっ、倒した奴が神霊力の吸収を担当出来るなんて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボスも意地の悪いルールを作ってくれたもんだぜ。"
+                                "She's got beautiful skin, doesn't she... Damn, the one who\ndefeated her gets to handle the absorption of the spiritual\npower. The boss sure made some nasty rules."
                             ]
                         },
                         {
@@ -15215,14 +14704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まあそう言うな。あのドローンの激しい責めをあんな小さな身体の娘が受けるのを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見られるだけでオレは愉しみだぜ！"
+                                "Don't say that. Just being able to watch that drone's\nintense torment on such a small girl is a pleasure for me!"
                             ]
                         },
                         {
@@ -15240,7 +14722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くくっ、まったくいい趣味してるぜ。"
+                                "Heh, you really have some nice tastes."
                             ]
                         },
                         {
@@ -15258,14 +14740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男達の勝手な言葉も耳に届かない程に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こはねは目の前の機械に恐怖を覚えていた。"
+                                "The girl, Kohane, was so terrified by the machine in front\nof her that she couldn't even hear the men's selfish words."
                             ]
                         },
                         {
@@ -15276,14 +14751,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]なに…するの…？"
+                                "\\PartyFace[1]\\FaceIndex[6]What... are you going to do...?"
                             ]
                         },
                         {
@@ -15301,21 +14776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無感情に動く機械からその問いに答えが帰ってくることは無く、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フルフルと身体を震わせる少女の身体に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コードの付いた粘着板を貼り付けていく。"
+                                "The emotionless machine did not respond to her question, and\ncontinued to attach adhesive pads with cords to the\ntrembling girl's body."
                             ]
                         },
                         {
@@ -15494,14 +14955,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]きゃっ！"
+                                "\\PartyFace[1]\\FaceIndex[6]Kyah!"
                             ]
                         },
                         {
@@ -15519,7 +14980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貼り付けられた粘着板の冷たさに、少女の口から悲鳴が漏れる。"
+                                "The coldness of the adhesive pads caused the girl to let out\na scream."
                             ]
                         },
                         {
@@ -15530,14 +14991,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]何…コレ…怖いよ…"
+                                "\\PartyFace[1]\\FaceIndex[6]What... is this... It's scary..."
                             ]
                         },
                         {
@@ -15555,14 +15016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "震える少女の様子に反応することも無く、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ドローンは無慈悲な責めを開始する。"
+                                "Without reacting to the trembling girl's state, the drone\nbegan its merciless torment."
                             ]
                         },
                         {
@@ -15817,14 +15271,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]きゃ、あああああ、あ、あ、ああああああっっ！"
+                                "\\PartyFace[1]\\FaceIndex[6]Kyah, aaaaah, ah, ah, aaaaaahhh!"
                             ]
                         },
                         {
@@ -15842,7 +15296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コードに繋がったドローンから流される電流。"
+                                "Electricity flowed from the drone connected by cords."
                             ]
                         },
                         {
@@ -15860,7 +15314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガクガクと小さな裸体が跳ねて、汗と涙が周囲に飛び散る。"
+                                "The small naked body jerked violently, sweat and tears\nscattering around."
                             ]
                         },
                         {
@@ -15930,14 +15384,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]いや…いやああっ、もう…やめてえぇぇっ"
+                                "\\PartyFace[1]\\FaceIndex[6]No... noooo, please... stop it eeeehhh!"
                             ]
                         },
                         {
@@ -15955,14 +15409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いくら懇願しても流され続ける電流の痛みに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意識が刈り取られていく。"
+                                "No matter how much she pleaded, the pain of the continuous\nelectric current was cutting away at her consciousness."
                             ]
                         },
                         {
@@ -16116,14 +15563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このまま気を失うことが出来れば楽になれるかも…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのこはねの心を読み取ったかのように不意に止められる電流。"
+                                "Just as Kohane thought she might find relief if she could\npass out, the electric current stopped abruptly as if\nreading her mind."
                             ]
                         },
                         {
@@ -16193,14 +15633,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]はあぁぁ、はあぁぁ、はあぁぁぅ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Haaahhh, haaahhh, haaahhh..."
                             ]
                         },
                         {
@@ -16218,7 +15658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "視線が定まらず、荒い呼吸に肩を揺らすこはね。"
+                                "Kohane's gaze was unfocused, her shoulders shaking with\nragged breaths."
                             ]
                         },
                         {
@@ -16236,14 +15676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マジで容赦ねぇなぁ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "舌噛まねぇようにコレ付けてやるよ。"
+                                "Seriously merciless... I'll put this on you so you don't\nbite your tongue."
                             ]
                         },
                         {
@@ -16261,14 +15694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "心配するような言葉とは裏腹にニヤニヤと笑みを浮かべながら少女に近づく男。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その手には布のようなものが握られていた。"
+                                "Contrary to his seemingly concerned words, the man\napproached the girl with a grin, holding something like a\ncloth in his hand."
                             ]
                         },
                         {
@@ -16544,14 +15970,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ううんっ、うっ、うっ、うううううんんっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Mmmh, uh, uh, mmmmmhmmmm!!"
                             ]
                         },
                         {
@@ -16569,14 +15995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猿轡を付けられ、悲鳴を上げることも、気を失うことすらも許されない少女の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くぐもった悲鳴が、暫くの間監禁室に響き渡っていた。"
+                                "The muffled screams of the girl, who was not allowed to\nscream or lose consciousness after being gagged, echoed in\nthe confinement room for a while."
                             ]
                         },
                         {
@@ -17246,14 +16665,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]いやぁ…全部みられてる…"
+                                "\\PartyFace[1]\\FaceIndex[6]No... everyone can see everything..."
                             ]
                         },
                         {
@@ -17271,14 +16690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ローブの大半を失い、下着すらもはぎ取られて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大きく足を広げる形で椅子にガッチリと固定されてしまった少女。"
+                                "The girl had lost most of her robe, even her underwear was\nripped off, and she was firmly fixed to the chair with her\nlegs spread wide."
                             ]
                         },
                         {
@@ -17296,21 +16708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そのあまりの恥ずかしさにここから逃げ出したくなるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ガッチリと椅子に身体を縛られた状態では、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "周りを取り囲む男達の視線から目を背けることしかできなかった。"
+                                "Overwhelmed by such embarrassment, she wanted to flee from\nhere, but being tightly bound to the chair, all she could do\nwas avert her eyes from the gazes of the men surrounding\nher."
                             ]
                         },
                         {
@@ -17328,7 +16726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見ろよ、あんな綺麗な色のオマ〇コなかなかお目にかかれないぜ。"
+                                "Look at that, you don't often come across a pussy with such\na pretty color."
                             ]
                         },
                         {
@@ -17346,14 +16744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オレはロリコンじゃねぇけど、こんな美少女のアソコになら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぶち込んでみてぇなぁ！"
+                                "I'm not a lolicon, but I'd love to shove it into a beautiful\ngirl's pussy like that!"
                             ]
                         },
                         {
@@ -17371,7 +16762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドローンなんかに相手させるのは勿体ねぇな。"
+                                "It's a waste to let a drone handle her."
                             ]
                         },
                         {
@@ -17389,14 +16780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男達の勝手な言葉に反応することも無く、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ドローンは淡々と準備を進める。"
+                                "Ignoring the men's selfish remarks, the drone methodically\ncontinued its preparations."
                             ]
                         },
                         {
@@ -17516,14 +16900,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]え…な…何…これ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Eh... wha... what... is this..."
                             ]
                         },
                         {
@@ -17541,14 +16925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "不意に尻穴に感じる冷たい感触に目を見開くこはね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこにはドリルのような形状の固い棒が突き付けられていた。"
+                                "Suddenly feeling a cold sensation in her butt hole, Kohane's\neyes widened. There was a hard rod shaped like a drill\npointed at her."
                             ]
                         },
                         {
@@ -17559,14 +16936,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ま、まさか…それを…うそ、やだ…やめてよ！"
+                                "\\PartyFace[1]\\FaceIndex[6]No way... you're not going to use that... no, stop... please\nstop!"
                             ]
                         },
                         {
@@ -17584,14 +16961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こはねの抗議を聞き入れることもなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ドローンの指令を受けた機械バイブは無慈悲に尻穴に侵入を開始する。"
+                                "Ignoring Kohane's protests, the machine vibrator, commanded\nby the drone, mercilessly began its invasion into her butt\nhole."
                             ]
                         },
                         {
@@ -17964,14 +17334,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あ…ああああ…う…ぅ…あ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ah... ahhh... uh... uhh... ah..."
                             ]
                         },
                         {
@@ -17989,14 +17359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本来は排泄物を出すはずの穴に極太の楔を打ち込まれ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こはねの口からは悲鳴とも呻きともつかない声が漏れる。"
+                                "Forced to take a thick wedge in the hole meant for\nexcretion, Kohane let out a voice that was neither a scream\nnor a moan."
                             ]
                         },
                         {
@@ -18014,21 +17377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無理矢理割り広げられた尻穴の痛みよりも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恥ずかしさと惨めさに呆然とする間も無く、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無感情な機械の責めが襲い掛かる。"
+                                "Before she could even be stunned by the pain of her forcibly\nspread butt hole or the shame and misery, the emotionless\nmachine's torment descended upon her."
                             ]
                         },
                         {
@@ -18300,14 +17649,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ひぐぅっ…ううっ…あっ、い…痛い…よぉ…っ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Higuu... ugh... ah, i-it hurts... so much..."
                             ]
                         },
                         {
@@ -18325,14 +17674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "表面にローションは塗られているものの、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少女の小さな穴を抉られる痛みは簡単に薄れるものではなかった。"
+                                "Even though lotion was applied to its surface, the pain of\nhaving her small hole gouged did not easily fade away."
                             ]
                         },
                         {
@@ -18343,14 +17685,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ひぃ…ううっ…や…やめ…あああっ…うあああっ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Hii... ugh... sto... stop it... ahhh... uahhh..."
                             ]
                         },
                         {
@@ -18368,7 +17710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次第に痛みが薄れて、尻穴から別の感覚が湧き上がってくる。"
+                                "Gradually, the pain subsided and a different sensation began\nto rise from her butt hole."
                             ]
                         },
                         {
@@ -18386,14 +17728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "機械バイブに塗られたローションに混ぜられた薬効が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "性に乏しい少女の尻門を性感帯へと変化させていく。"
+                                "The drug mixed into the lotion applied to the machine\nvibrator began to transform the sexually inexperienced\ngirl's anal opening into an erogenous zone."
                             ]
                         },
                         {
@@ -18404,14 +17739,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]な、なにコレ…おしりが…あ…熱い…！"
+                                "\\PartyFace[1]\\FaceIndex[6]Wh-what is this... my butt is... ah... it's hot...!"
                             ]
                         },
                         {
@@ -18429,14 +17764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その少女の変化を感じ取ったのか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ドローンは機械バイブの強度を上げていく。"
+                                "Sensing the girl's change, the drone increased the intensity\nof the machine vibrator."
                             ]
                         },
                         {
@@ -18592,21 +17920,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]は…ふぅ…な…に…これ…わたし…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしこんなの…知らない…っっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Ha... huu... wh-what is this... I... I've never known\nanything like this...!!"
                             ]
                         },
                         {
@@ -18624,14 +17945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ずぶずぶと勢いを増して尻穴に出し入れされるバイブの動きに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ガッチリ固定された身体をビクビクと跳ねさせる少女。"
+                                "The girl's body, firmly fixed in place, twitched and jerked\nas the vibrator thrust in and out of her butt hole with\nincreasing vigor."
                             ]
                         },
                         {
@@ -18649,7 +17963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次第に、視界が白く染まり、限界が近づいてくる。"
+                                "Gradually, her vision turned white as she neared her limit."
                             ]
                         },
                         {
@@ -18719,14 +18033,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あ、だめぇ…このままじゃ、私…もうぅ…だめ…だめえええっっ"
+                                "\\PartyFace[1]\\FaceIndex[6]Ah, no good... at this rate, I... I can't anymore... no\nmoreee!"
                             ]
                         },
                         {
@@ -18744,7 +18058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひと際強くバイブが小柄なこはねの身体を突き上げた瞬間…"
+                                "In an instant when the vibrator powerfully thrust up into\nKohane's petite body..."
                             ]
                         },
                         {
@@ -18762,7 +18076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女の意識は弾け飛んだ。"
+                                "The girl's consciousness burst forth."
                             ]
                         },
                         {
@@ -19189,14 +18503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "激しい絶頂の余韻に身をゆだねるこはね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし疲れを知らない機械のバイブは尻穴に埋もれたまま再び蠢き始める。"
+                                "Kohane surrendered to the intense afterglow of her climax.\nHowever, the tireless machine vibrator continued to wriggle\nwhile buried in her butt hole."
                             ]
                         },
                         {
@@ -19520,21 +18827,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あ…っ、もぅ…イッた…からぁ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "や…ぁ…もう…ダメええええっ！"
+                                "\\PartyFace[1]\\FaceIndex[6]Ah... enough... I already came... sto... ah... no moreee!"
                             ]
                         },
                         {
@@ -19552,7 +18852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女の拒絶の声も空しく、機械の抽送は続く…"
+                                "The girl's voice of rejection was in vain as the mechanical\nthrusting continued..."
                             ]
                         },
                         {
@@ -19793,14 +19093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "暫くの間…バイブに尻穴を穿たれ続けた少女は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "朦朧とした意識で視線を宙にさ迷わせていた。"
+                                "For a while... The girl whose butt hole was continuously\ndrilled by the vibrator wandered her gaze through a hazy\nconsciousness."
                             ]
                         },
                         {
@@ -19818,14 +19111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その口には戯れに男が用意した猿轡が噛まされ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もはや悲鳴を上げることすら許されてはいなかった。"
+                                "A gag prepared playfully by a man was bitten into her mouth,\nand she was no longer allowed even to scream."
                             ]
                         },
                         {
@@ -19836,14 +19122,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ううんっ、うっ、うっ、うううううんんっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Mmmh, uh, uh, mmmmmmh!!"
                             ]
                         },
                         {
@@ -19861,14 +19147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悲鳴を上げることも、気を失うことすらも許されない少女の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くぐもった悲鳴が、監禁室に響き渡っていた。"
+                                "The muffled cries of the girl who was not allowed to scream\nor lose consciousness echoed throughout the confinement\nroom."
                             ]
                         },
                         {
@@ -20554,14 +19833,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]いやぁ…全部みられてる…"
+                                "\\PartyFace[1]\\FaceIndex[6]No... everyone can see everything..."
                             ]
                         },
                         {
@@ -20579,14 +19858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "服を脱がされ、下着すらもはぎ取られて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大きく足を広げる形で椅子にガッチリと固定されてしまった少女。"
+                                "The girl was stripped of her clothes and even her underwear,\nher legs spread wide and firmly fixed to a chair."
                             ]
                         },
                         {
@@ -20604,21 +19876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そのあまりの恥ずかしさにここから逃げ出したくなるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ガッチリと椅子に身体を縛られた状態では、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "周りを取り囲む男達の視線から目を背けることしかできなかった。"
+                                "Overwhelmed by such embarrassment, she wanted to flee from\nhere, but being tightly bound to the chair, all she could do\nwas avert her eyes from the gazes of the men surrounding\nher."
                             ]
                         },
                         {
@@ -20636,7 +19894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見ろよ、あんな綺麗な色のオマ〇コなかなかお目にかかれないぜ。"
+                                "Look at that, you don't often come across a pussy with such\na pretty color."
                             ]
                         },
                         {
@@ -20654,14 +19912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オレはロリコンじゃねぇけど、こんな美少女のアソコになら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぶち込んでみてぇなぁ！"
+                                "I'm not a lolicon, but I'd love to thrust into a beautiful\ngirl's pussy like that!"
                             ]
                         },
                         {
@@ -20679,7 +19930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドローンなんかに相手させるのは勿体ねぇな。"
+                                "It's a waste to let a drone have its way with her."
                             ]
                         },
                         {
@@ -20697,14 +19948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男達の勝手な言葉に反応することも無く、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ドローンは淡々と準備を進める。"
+                                "Ignoring the men's selfish remarks, the drone methodically\ncontinued its preparations."
                             ]
                         },
                         {
@@ -20824,14 +20068,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ひっ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Eek..."
                             ]
                         },
                         {
@@ -20849,7 +20093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "不意に秘裂に感じる冷たい感触に小さく悲鳴を上げるこはね。"
+                                "Kohane let out a small scream at the sudden cold sensation\non her secret slit."
                             ]
                         },
                         {
@@ -20867,7 +20111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこにはドリルのような形状の固い棒が突き付けられていた。"
+                                "There, a hard rod with the shape of a drill was being\npointed at her."
                             ]
                         },
                         {
@@ -20878,14 +20122,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ま、まさか…それを…うそ、やだ…やめてよ！"
+                                "\\PartyFace[1]\\FaceIndex[6]No way... that thing... no, stop... please stop!"
                             ]
                         },
                         {
@@ -20962,21 +20206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こはねの抗議を聞き入れることもなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ドローンの指令を受けた機械バイブは小刻みに振動しながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無慈悲に陰唇を割り広げていく。"
+                                "Ignoring Kohane's protests, the machine vibrator commanded\nby the drone began to mercilessly spread her labia with its\nsmall vibrations."
                             ]
                         },
                         {
@@ -20996,14 +20226,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あぁ…また…挿れられちゃう…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ahh... it's going in again..."
                             ]
                         },
                         {
@@ -21021,14 +20251,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "既に純潔は失ったものの、一度胎内を責められる快楽を覚えた秘裂からは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "本人の意思とは無関係に蜜を滴らせ、受け入れ準備を整えていた。"
+                                "Although she had already lost her virginity, her slit,\nhaving once experienced the pleasure of being ravaged, was\ndripping honey regardless of her will, readying itself for\nacceptance."
                             ]
                         },
                         {
@@ -21039,14 +20262,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふ…く…ひああああっ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Fu...ck...ahhhhh!"
                             ]
                         },
                         {
@@ -21064,14 +20287,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "膣穴を満たす液体と、バイブに塗られたローションが混ざって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ぐちゃりぐちゃりと卑猥な音を奏で始める。"
+                                "The fluids filling her vaginal cavity and the lotion applied\nto the vibrator mixed together, making lewd squelching\nsounds."
                             ]
                         },
                         {
@@ -21089,14 +20305,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゆっくりと侵攻を進めるバイブは入口に先端を埋めたところで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一旦停止して、一気に奥まで貫いた。"
+                                "The vibrator slowly advanced its invasion, pausing once it\nburied its tip at the entrance before penetrating deeply in\none swift motion."
                             ]
                         },
                         {
@@ -21126,21 +20335,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]いやっ、わたし…まだ…なの…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ダメ…ぜったいにダメっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]No, I'm... still... not ready... Stop... absolutely stop!!"
                             ]
                         },
                         {
@@ -21158,14 +20360,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まだ誰のものも受け入れたことの無い狭い肉穴の入り口で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "グリグリと小刻みに振動して侵入を試みる機械の凶器。"
+                                "The mechanical weapon tried to invade the narrow entrance of\nher flesh tunnel, which had never accepted anyone else, by\nvibrating and grinding at the entrance."
                             ]
                         },
                         {
@@ -21183,7 +20378,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "固く閉ざされた処女穴は、防衛本能から自然と蜜を溢れさせていく。"
+                                "The tightly closed virgin hole naturally overflowed with\nhoney as a defense mechanism."
                             ]
                         },
                         {
@@ -21194,14 +20389,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふ…く…ひああああっ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Fu...ck...ahhhhh!"
                             ]
                         },
                         {
@@ -21219,14 +20414,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "膣穴を満たす液体と、バイブに塗られたローションが混ざって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ぐちゃりぐちゃりと卑猥な音を奏で始める。"
+                                "The fluids filling her vaginal cavity and the lotion applied\nto the vibrator mixed together, making lewd squelching\nsounds."
                             ]
                         },
                         {
@@ -21244,14 +20432,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゆっくりと侵攻を進めるバイブはやがて処女の証へと辿り突き、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一気に貫いた。"
+                                "The vibrator slowly advanced its invasion until it reached\nthe proof of virginity and then pierced through in one go."
                             ]
                         },
                         {
@@ -21575,14 +20756,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]いやあああああっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Noooooo!!"
                             ]
                         },
                         {
@@ -21727,14 +20908,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]わたしのはじめてが…こんなのって…う…うぅ…"
+                                "\\PartyFace[1]\\FaceIndex[6]My first time... it shouldn't be like this... uh... uhh..."
                             ]
                         },
                         {
@@ -21752,7 +20933,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "無慈悲な処女喪失に、こはねの瞳からは大粒の涙が零れ落ちた。"
+                                "With the merciless loss of virginity, large tears fell from\nKohane's eyes."
                             ]
                         },
                         {
@@ -21770,21 +20951,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "愛する人に捧げるべき純潔を、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "無感情な機械に純潔を奪われてしまった現実は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "少女の心を深い悲しみに染める。"
+                                "The reality of having her purity taken by an emotionless\nmachine instead of dedicating it to someone she loved dyed\nthe girl's heart in deep sorrow."
                             ]
                         },
                         {
@@ -21864,14 +21031,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あ…ああ…ぁ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ah... ahh... ah..."
                             ]
                         },
                         {
@@ -21889,21 +21056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バイブのローションと膣内を満たす体液の効果で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "痛みはそれほどではなかったものの、子供の腕程もある凶器を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下腹部に受け入れた異物感は消えることはない。"
+                                "Although the pain wasn't too severe thanks to the effects of\nthe vibrator's lotion and the fluids filling her insides,\nthe sensation of having an object as large as a child's arm\ninside her lower abdomen did not fade."
                             ]
                         },
                         {
@@ -21921,14 +21074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嗚咽を漏らす少女の様子に構うこともなく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "膣内への侵入を果たしたバイブは、ゆっくりとピストン運動を開始する。"
+                                "Ignoring the sobbing girl's state, the vibrator that had\npenetrated inside began its slow piston movements."
                             ]
                         },
                         {
@@ -22200,14 +21346,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ああ…いやぁ…もう…やだああ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ahh... no... I can't take it anymore... stop it..."
                             ]
                         },
                         {
@@ -22225,14 +21371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "単調な抽送かと思えば時折強弱が加えられたピストン運動に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "狭い膣奥がかき回され、未知の感覚を少女に刷り込んでいく。"
+                                "What seemed like monotonous thrusting was occasionally mixed\nwith varying intensities of piston movements, stirring up\nthe narrow depths of her vagina and imprinting unknown\nsensations onto the girl."
                             ]
                         },
                         {
@@ -22243,14 +21382,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]うぅっ…ぁあっ！ああ、ああ、あんあああっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Ughh... ah! Ahh, ahh, ahn ahhh!!"
                             ]
                         },
                         {
@@ -22268,7 +21407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おいおい、あの娘…ドローンに犯されて感じてるぜ。"
+                                "Hey hey, that girl... she's getting turned on by being\nfucked by a drone."
                             ]
                         },
                         {
@@ -22286,14 +21425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんな場所に一人で潜り込んでくるくらいだからなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こうなることを期待してたんじゃねぇのか？"
+                                "She came sneaking into this place alone; maybe she was\nhoping for this to happen?"
                             ]
                         },
                         {
@@ -22311,21 +21443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男達の下卑た野次がこはねの耳に届いてはいたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それがどういう意味かを考える余裕もなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "機械の動きに合わせて身体を跳ねさせていく。"
+                                "Kohane heard the men's vulgar jeers but had no capacity to\nunderstand their meaning as her body bounced in time with\nthe machine's movements."
                             ]
                         },
                         {
@@ -22481,14 +21599,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あっ…あああっ、なんで…体が…おかしいよぉ"
+                                "\\PartyFace[1]\\FaceIndex[6]Ahh... ahhh, why... my body feels... so strange..."
                             ]
                         },
                         {
@@ -22506,7 +21624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次第に…こはねの声に甘い音色が混ざり始める。"
+                                "Gradually... sweet tones began to mix into Kohane's voice."
                             ]
                         },
                         {
@@ -22576,14 +21694,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あっ、あっ、あっ…いやぁ、イクぅ…ホントに…イっちゃうぅ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ahh, ahh, ahh... nooo, I'm going to cum... really going to\ncum..."
                             ]
                         },
                         {
@@ -22601,14 +21719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マシンバイブがひと際強くこはねの最奥を突き上げた瞬間、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少女の意識は弾け飛んだ。"
+                                "When the machine vibrator struck Kohane's deepest spot with\nexceptional force, the girl's consciousness burst forth."
                             ]
                         },
                         {
@@ -23035,14 +22146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "心地良い浮遊感が過ぎ去り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶頂の余韻にビクビクと身体をはねさせるこはね."
+                                "A pleasant floating sensation passed, and Kohane's body\ntwitched in the afterglow of her climax."
                             ]
                         },
                         {
@@ -23060,14 +22164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次第にクリアになっていく脳裏に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "機械に犯されてイカされた事実が襲い掛かる。"
+                                "As her mind gradually cleared, the reality that she had been\nbrought to orgasm by a machine assaulted her."
                             ]
                         },
                         {
@@ -23078,14 +22175,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]う…うぅ…う…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ugh... uuu... uh..."
                             ]
                         },
                         {
@@ -23103,21 +22200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悔しさと惨めさと恥ずかしさ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "様々な感情が入り混じった悲しみに頬を濡らす少女に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "機械の凌辱者は更なる責めを開始する。"
+                                "The girl, wetting her cheeks with tears of frustration,\nmisery, and embarrassment, was met with further torment as\nthe machine's violator began a new assault."
                             ]
                         },
                         {
@@ -23508,14 +22591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猿轡を噛まされ、悲鳴を上げることも許されない少女のくぐもった声が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "狭い部屋に反響する…"
+                                "Gagged and unable to scream, the muffled cries of the girl\nechoed in the cramped room..."
                             ]
                         },
                         {
@@ -23533,14 +22609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "膣穴と尻穴を同時にマシンバイブで抉られて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "身体に取り付けられた電極からは定期的に電流が流れる。"
+                                "Her vagina and anus were simultaneously gouged by machine\nvibrators, and electrodes attached to her body periodically\nsent electric currents through her."
                             ]
                         },
                         {
@@ -23558,14 +22627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "性に乏しい少女には苛烈すぎる機械の責めは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "痛みですらも快楽を感じるように、小さな身体に覚えこませていく。"
+                                "The relentless machine's torment was too harsh for the\nsexually inexperienced girl, teaching her small body to feel\npleasure even from pain."
                             ]
                         },
                         {
@@ -23576,14 +22638,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（もう…やめて…誰か…助けて…）"
+                                "\\PartyFace[1]\\FaceIndex[6](Please... stop... someone... help me...)"
                             ]
                         },
                         {
@@ -23601,7 +22663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "涙や涎を振り飛ばしながら、魔法少女は機械の調教を受け続けた…"
+                                "While flinging tears and drool, the magical girl continued\nto endure the machine's training..."
                             ]
                         },
                         {
@@ -24414,14 +23476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女がお腹の奥に異物を飲み込んだ苦しさに嗚咽を漏らすが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなことを構う様子もなく、男は尻穴を突き上げる。"
+                                "The girl chokes back a sob as she feels the discomfort of\nsomething foreign swallowed deep in her belly, but the man\npays no heed as he continues to thrust into her ass."
                             ]
                         },
                         {
@@ -24432,14 +23487,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ああ…こんな格好…やだぁ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ahh... I hate... being in this position..."
                             ]
                         },
                         {
@@ -24457,14 +23512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まあそう言うな。あのドローンの激しい責めをあんな小さな身体の娘が受けるのを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見られるだけでオレは愉しみだぜ！"
+                                "Come on, don't say that. Just watching that little girl take\nsuch intense punishment from the drone is a pleasure for me!"
                             ]
                         },
                         {

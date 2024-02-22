@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ミーティングルーム",
+    "displayName": "Meeting Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -3214,21 +3214,14 @@
                                 0,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドキッ、セセセ、セキュリティーキー？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ、そんなものは知らない！！"
+                                "Gasp, Se-Se-Security Key? I-I don't know anything about\nthat!!"
                             ]
                         },
                         {
@@ -3239,14 +3232,14 @@
                                 0,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は忙しいんだ！話しかけないでくれ！"
+                                "I'm busy! Please don't talk to me!"
                             ]
                         },
                         {
@@ -3309,14 +3302,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[10]なんだか忙しそうだから、わんちゃん行こうか。"
+                                "\\PartyFace[1]\\FaceIndex[10]You seem busy, maybe I should go woof elsewhere."
                             ]
                         },
                         {
@@ -3487,21 +3480,14 @@
                                 0,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、それはもしかして私のセキュリティーキー！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうか、あんなところにあったのか…"
+                                "Is that... could that be my security key?! So that's where\nit was..."
                             ]
                         },
                         {
@@ -3512,21 +3498,14 @@
                                 0,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし、それは君に盗まれたことにするから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が落としたことは誰にも言わないでくれ。"
+                                "Alright, I'll say it was stolen by you, so please don't tell\nanyone that I dropped it."
                             ]
                         },
                         {
@@ -3537,21 +3516,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[10]わたしが盗んだって…人聞き悪いなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁいいけど…"
+                                "\\PartyFace[1]\\FaceIndex[10]To say I stole it... that sounds bad. Well, it's fine I\nguess..."
                             ]
                         },
                         {
@@ -3822,21 +3794,14 @@
                                 0,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここにも無い…一体何処に落としたのか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれが無いとエレベーターが動かせないというのに…"
+                                "It's not here either... Where on earth did I drop it...\nWithout that, I can't operate the elevator..."
                             ]
                         },
                         {
@@ -3982,7 +3947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {
@@ -4053,35 +4018,14 @@
                                 0,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええと、確かエレベーターが止まる前にどこかのベンチで休憩して…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その後ここに来たはずだから…もしかしてそこだろうか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれはどこのベンチだったか…資料を読みながら移動していたから全然覚えていないぞ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ブツブツ…"
+                                "Let's see, I'm sure I took a break on a bench somewhere\nbefore the elevator stopped... and then I must have come\nhere... Could it be that place... Which bench was it... I\ndon't remember at all because I was moving while reading the\ndocuments... Mutter mutter..."
                             ]
                         },
                         {

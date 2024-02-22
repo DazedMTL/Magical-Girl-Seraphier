@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "収容所管理室",
+    "displayName": "Detention Center Management Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2603,21 +2603,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここで近くの扉のロック解除できるみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっとまってて…"
+                                "It looks like I can unlock the door nearby from here. Just\ngive me a moment..."
                             ]
                         },
                         {
@@ -2628,14 +2621,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………"
+                                "..."
                             ]
                         },
                         {
@@ -2658,14 +2651,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はいオッケー。これで通れなかった扉も通れるようになったはずだよ。"
+                                "Yes, okay! This should have unlocked the doors that we\ncouldn't get through before."
                             ]
                         },
                         {
@@ -2676,14 +2669,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひさなちゃんさすがっす！"
+                                "Hisana-chan, as expected of you!"
                             ]
                         },
                         {
@@ -3081,7 +3074,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "バインドガードが拘束トラップを防いだ！"
+                                "Bind Guard has prevented the restraint trap!"
                             ]
                         },
                         {
@@ -3141,14 +3134,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "トラップが防がれた…だと？"
+                                "The trap was prevented... What?"
                             ]
                         },
                         {
@@ -3159,21 +3152,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まあいい、ボスからはしっかり「わからせて」おけと指令を受けたところだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "たっぷり可愛がってやるぜ！"
+                                "Well, it's fine. I've been ordered by the boss to make sure\nyou 'understand' properly. I'll take good care of you!"
                             ]
                         },
                         {
@@ -3724,7 +3710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いきなり出現した鎖に拘束されてしまった！"
+                                "Suddenly, chains appeared and restrained me!"
                             ]
                         },
                         {
@@ -3784,14 +3770,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょろちょろ動き回るネズミが罠にかかったようだな！"
+                                "Looks like the scurrying mouse has been caught in a trap!"
                             ]
                         },
                         {
@@ -3802,21 +3788,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "丁度いい、ボスからはしっかり「わからせて」おけと指令を受けたところだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たっぷり可愛がってやるぜ！"
+                                "Perfect timing. I've been ordered by the boss to make sure\nyou 'understand' properly. I'll take good care of you!"
                             ]
                         },
                         {
@@ -4104,14 +4083,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "一度見た敗北シーンです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "再度見ますか？"
+                                "It's a defeat scene you've seen before. Would you like to\nsee it again?"
                             ]
                         },
                         {
@@ -4119,8 +4091,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "見る",
-                                    "見ない"
+                                    "View",
+                                    "Do Not View"
                                 ],
                                 1,
                                 0,
@@ -4357,14 +4329,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]「わからせ」られたのはそっちだったね！"
+                                "\\PartyFace[1]\\FaceIndex[0]\"Looks like you're the one who got taught a lesson!\""
                             ]
                         },
                         {
@@ -4375,14 +4347,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "罠には気を付けて進んでね。"
+                                "Be careful of traps as you move forward."
                             ]
                         },
                         {
@@ -4393,14 +4365,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]はーい♪"
+                                "\\PartyFace[1]\\FaceIndex[1]Yes, ma'am♪"
                             ]
                         },
                         {
@@ -4411,21 +4383,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここの端末で監禁施設の制御をしてると思うんだけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "端末に近づいてみてくれる？"
+                                "I think this terminal is controlling the confinement\nfacility... Can you try getting closer to it?"
                             ]
                         },
                         {
@@ -4436,14 +4401,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]おっけー！"
+                                "\\PartyFace[1]\\FaceIndex[0]Okie-dokie!"
                             ]
                         },
                         {
@@ -4836,14 +4801,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うおっ、お前！どうやってここまで！？"
+                                "Whoa, you! How did you get this far!?"
                             ]
                         },
                         {
@@ -4854,21 +4819,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁいい、ボスからはしっかり「わからせて」おけと指令を受けたところだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たっぷり可愛がってやるぜ！"
+                                "Well, it doesn't matter. I've got orders from the boss to\nmake sure you \"understand\" your place. I'm gonna have a lot\nof fun with you!"
                             ]
                         },
                         {
@@ -5045,14 +5003,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "一度見た敗北シーンです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "再度見ますか？"
+                                "It's a defeat scene you've seen before. Would you like to\nsee it again?"
                             ]
                         },
                         {
@@ -5060,8 +5011,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "見る",
-                                    "見ない"
+                                    "View",
+                                    "Do Not View"
                                 ],
                                 1,
                                 0,
@@ -5311,14 +5262,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]「わからせ」られたのはそっちだったね！"
+                                "\\PartyFace[1]\\FaceIndex[0]\"Looks like you're the one who got 'schooled'!\""
                             ]
                         },
                         {
@@ -5329,21 +5280,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここの端末で監禁施設の制御をしてると思うんだけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "端末に近づいてみてくれる？"
+                                "I think this terminal controls the confinement facility...\nCan you try getting closer to it?"
                             ]
                         },
                         {
@@ -5354,14 +5298,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]おっけー！"
+                                "\\PartyFace[1]\\FaceIndex[0]Okay!"
                             ]
                         },
                         {
@@ -5567,7 +5511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにもうトラップはないようだ。"
+                                "It seems there are no more traps in this area."
                             ]
                         },
                         {
@@ -5638,14 +5582,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]良く寝てる…疲れているのかな？"
+                                "\\PartyFace[1]\\FaceIndex[2]\"She's sleeping well... I wonder if she's tired?\""
                             ]
                         },
                         {
@@ -5656,14 +5600,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やってることもブラックなら労働環境もブラックなのかな…"
+                                "\"If what she's doing is black, I guess the working\nenvironment must be black too...\""
                             ]
                         },
                         {

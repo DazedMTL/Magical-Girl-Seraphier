@@ -72,7 +72,7 @@
             }
         ],
         "gold": 50,
-        "name": "監視員",
+        "name": "Monitor",
         "note": "<HPバーY: 0>",
         "params": [
             200,
@@ -157,7 +157,7 @@
             }
         ],
         "gold": 50,
-        "name": "小型ガードドローン",
+        "name": "Small Guard Drone",
         "note": "<HPバーY: 0>",
         "params": [
             400,
@@ -235,7 +235,7 @@
             }
         ],
         "gold": 50,
-        "name": "巡回警備員",
+        "name": "Patrol Guard",
         "note": "<HPバーY: 0>",
         "params": [
             300,
@@ -369,7 +369,7 @@
             }
         ],
         "gold": 100,
-        "name": "警備員リーダー",
+        "name": "Security Leader",
         "note": "<HPバーY: 0>",
         "params": [
             1200,
@@ -510,7 +510,7 @@
             }
         ],
         "gold": 200,
-        "name": "大型ガードドローン",
+        "name": "Large Guard Drone",
         "note": "<HPバーY: 0>",
         "params": [
             2000,
@@ -602,7 +602,7 @@
             }
         ],
         "gold": 50,
-        "name": "巡回ドローン",
+        "name": "Patrol Drone",
         "note": "<HPバーY: 0>",
         "params": [
             400,
@@ -699,7 +699,7 @@
             }
         ],
         "gold": 80,
-        "name": "警備兵",
+        "name": "Guard Soldier",
         "note": "",
         "params": [
             500,
@@ -824,7 +824,7 @@
             }
         ],
         "gold": 1000,
-        "name": "追跡者（鎖）",
+        "name": "Tracker (Chains)",
         "note": "",
         "params": [
             5000,
@@ -956,7 +956,7 @@
             }
         ],
         "gold": 200,
-        "name": "科学者",
+        "name": "Scientist",
         "note": "",
         "params": [
             2500,
@@ -1088,7 +1088,7 @@
             }
         ],
         "gold": 300,
-        "name": "球体ドローン",
+        "name": "Spherical Drone",
         "note": "",
         "params": [
             3000,
@@ -1227,7 +1227,7 @@
             }
         ],
         "gold": 400,
-        "name": "お掃除ロボ",
+        "name": "Cleaning Robot",
         "note": "",
         "params": [
             3500,
@@ -1324,7 +1324,7 @@
             }
         ],
         "gold": 100,
-        "name": "特殊警備兵",
+        "name": "Special Security Soldier",
         "note": "",
         "params": [
             800,
@@ -1456,7 +1456,7 @@
             }
         ],
         "gold": 700,
-        "name": "追跡者（触手）",
+        "name": "Tracker (Tentacles)",
         "note": "",
         "params": [
             6000,
@@ -1588,7 +1588,7 @@
             }
         ],
         "gold": 500,
-        "name": "リベレイター【セーレ】",
+        "name": "Liberator [Seraphiel]",
         "note": "",
         "params": [
             4000,
@@ -1692,7 +1692,7 @@
             }
         ],
         "gold": 600,
-        "name": "リベレイター【アミィ】",
+        "name": "Liberator [Amy]",
         "note": "<HPバーY: 100>",
         "params": [
             6000,
@@ -1845,7 +1845,7 @@
             }
         ],
         "gold": 800,
-        "name": "魔導兵器【オーグル】",
+        "name": "Magic Weapon [Ogre]",
         "note": "<HPバーY: 100>",
         "params": [
             7000,
@@ -1937,7 +1937,7 @@
             }
         ],
         "gold": 50,
-        "name": "強化巡回ドローン",
+        "name": "Enhanced Patrol Drone",
         "note": "<HPバーY: 0>",
         "params": [
             1000,
@@ -2097,7 +2097,7 @@
             }
         ],
         "gold": 800,
-        "name": "リベレイター【ザガン】",
+        "name": "Liberator [Zagan]",
         "note": "<HPバーY: 100>",
         "params": [
             8000,
@@ -2201,7 +2201,7 @@
             }
         ],
         "gold": 200,
-        "name": "大型ガードロボ",
+        "name": "Large Guard Robot",
         "note": "",
         "params": [
             3000,
@@ -2340,7 +2340,7 @@
             }
         ],
         "gold": 900,
-        "name": "追跡者（十字架）",
+        "name": "Tracker (Crucifix)",
         "note": "",
         "params": [
             10000,
@@ -2519,7 +2519,7 @@
             }
         ],
         "gold": 1000,
-        "name": "リベレイター【ベリアル】",
+        "name": "Liberator [Belial]",
         "note": "",
         "params": [
             14000,

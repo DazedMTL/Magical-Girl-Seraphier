@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "研究室中枢",
+    "displayName": "Research Lab Core",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -19707,21 +19707,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<center>この先の戦闘で敗北すると敗北Ｈシーンに移行します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "敗北Ｈを経験したくない場合はセーブしておくことをおススメします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "※戦闘に勝利するだけで敗北Ｈシーンが回想に追加されます。</center>"
+                                "<center>If you are defeated in the upcoming battle, you will\ntransition to a defeat H-scene. If you do not wish to\nexperience the defeat H-scene, we recommend saving your\ngame.※Simply winning the battle will add the defeat H-scene\nto the recollection.</center>"
                             ]
                         },
                         {
@@ -19749,7 +19735,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<center>この先はボス戦となります。</center>"
+                                "<center>The next encounter will be a boss battle.</center>"
                             ]
                         },
                         {
@@ -19777,14 +19763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<center>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "準備はよろしいですか？</center>"
+                                "<center>Are you prepared?</center>"
                             ]
                         },
                         {
@@ -19792,8 +19771,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -20560,21 +20539,14 @@
                                 0,
                                 0,
                                 2,
-                                "システム"
+                                "System"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＨＰ、ＭＰを全回復できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全回復しますか？"
+                                "You can fully recover HP and MP. Would you like to fully\nrecover?"
                             ]
                         },
                         {
@@ -20582,8 +20554,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -22043,14 +22015,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "一度見たイベントです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "バトル前演出をスキップしますか？"
+                                "This is an event you have already seen. Would you like to\nskip the pre-battle sequence?"
                             ]
                         },
                         {
@@ -22058,8 +22023,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -22302,14 +22267,14 @@
                                 3,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アミィちゃん！？"
+                                "Amy-chan!?"
                             ]
                         },
                         {
@@ -22410,14 +22375,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "他のリベレイターの人たちも…！？"
+                                "The other Liberators too...!?"
                             ]
                         },
                         {
@@ -22518,14 +22483,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは一体どういうこと！？"
+                                "What in the world is going on here!?"
                             ]
                         },
                         {
@@ -22573,21 +22538,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くくく、こいつらが思ったよりも役に立たなかったのでなぁ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せめて神霊力タンクとして活用してやってるだけさ。"
+                                "Heh heh heh, these guys turned out to be less useful than I\nthought, so I'm just making use of them as spirit power\ntanks at least."
                             ]
                         },
                         {
@@ -22657,14 +22615,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔力タンクって…仲間のこと何だと思ってるの！！"
+                                "Magical power tanks... What do you think our comrades are!!"
                             ]
                         },
                         {
@@ -22675,14 +22633,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "仲間…？オレにとって仲間っていうのは役に立つか立たないか…それだけだ。"
+                                "Comrades...? To me, comrades are only about whether they're\nuseful or not... That's all."
                             ]
                         },
                         {
@@ -22752,21 +22710,14 @@
                                 4,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたが神霊力を集めていたのはあの【オーグル】っていうのを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "動かすためなんでしょ？"
+                                "You've been gathering spirit power to operate that \"Ogre,\"\nhaven't you?"
                             ]
                         },
                         {
@@ -22836,21 +22787,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だったら、あれはもうわたしが破壊したから神霊力を集めたって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう意味ないよ！"
+                                "If that's the case, it's meaningless for you to gather\nspirit power anymore because I've already destroyed it!"
                             ]
                         },
                         {
@@ -22861,21 +22805,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ…そうだなぁ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさかあれを単独で破壊できるとは…さすがに驚いたよ…"
+                                "Ah... that's true... I never expected you to be able to\ndestroy it on your own... I must admit I'm surprised..."
                             ]
                         },
                         {
@@ -22886,21 +22823,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが…君のおかげで【オーグル】が「ガーディアンズのエース」を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "追い詰めるだけの戦闘力があることも実証できた。"
+                                "But... thanks to you, it's been proven that the \"Ogre\" has\nenough combat power to corner the \"Guardians' Ace.\""
                             ]
                         },
                         {
@@ -22970,21 +22900,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "確かにあれは手強かったけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "１体だけでガーディアンズを壊滅なんて、考えが甘すぎるんじゃない？"
+                                "It was certainly tough, but thinking one alone could\nannihilate the Guardians is too naive, isn't it?"
                             ]
                         },
                         {
@@ -23004,14 +22927,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くくく…【オーグル】が１体だけだと…誰が言った？"
+                                "Heh heh heh... Who said there was only one \"Ogre\"?"
                             ]
                         },
                         {
@@ -23090,14 +23013,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ま…まさか…"
+                                "No way..."
                             ]
                         },
                         {
@@ -23108,14 +23031,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はははは！見るがいい！！そして絶望しろ！！"
+                                "Hahahaha! Behold!! And despair!!"
                             ]
                         },
                         {
@@ -23284,14 +23207,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ…あんなにたくさん…"
+                                "There are so many of them..."
                             ]
                         },
                         {
@@ -23302,21 +23225,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君がここに潜入してから吸収させてもらった神霊力は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こいつらの餌として使わせてもらったよ！"
+                                "The spirit power you've absorbed since you infiltrated here\nhas been used as food for these guys!"
                             ]
                         },
                         {
@@ -23386,14 +23302,14 @@
                                 4,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…わたしの力を得るために…わざと泳がせてたってことね。"
+                                "...So you let me go on purpose... to get my power."
                             ]
                         },
                         {
@@ -23404,14 +23320,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そういうことだ、君の力は存分に役立たせてもらったよ！"
+                                "That's right, your power has been very useful to me!"
                             ]
                         },
                         {
@@ -23422,14 +23338,14 @@
                                 4,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………"
+                                "..."
                             ]
                         },
                         {
@@ -23596,14 +23512,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こはねちゃん、お待たせ！到着したよ！"
+                                "Hisana-chan, sorry to keep you waiting! I've arrived!"
                             ]
                         },
                         {
@@ -23801,14 +23717,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…来たか。"
+                                "...So you're here."
                             ]
                         },
                         {
@@ -23878,14 +23794,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ…もしかして…"
+                                "Could it be..."
                             ]
                         },
                         {
@@ -24023,21 +23939,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれは、\\c[2]レヴィアサン\\c[0]！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさかあんなものを持ち出してくるなんて…"
+                                "That is the \\c[2]Leviathan\\c[0]!! To think you'd bring out\nsuch a thing..."
                             ]
                         },
                         {
@@ -24107,14 +24016,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わたしもさすがにガーディアンズの旗艦を出さなくても…とは言ったんだけどね…"
+                                "I did say that we probably didn't need to bring out the\nGuardians' flagship..."
                             ]
                         },
                         {
@@ -24184,21 +24093,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも、話を聞いている感じだと、正解だったみたいだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここまで予見していたのかな。"
+                                "But from what I've heard, it seems like it was the right\ndecision. Did you foresee this much?"
                             ]
                         },
                         {
@@ -24268,21 +24170,14 @@
                                 4,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…ちょっと待って…『レヴィアサン』が来たってことは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひさなちゃんと一緒に…まさか…あの人たちが…"
+                                "...Wait a minute... If \"Leviathan\" is here, then Hisana-chan\nand... could it be... those people are with her..."
                             ]
                         },
                         {
@@ -24352,14 +24247,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん…そのまさかだよ。"
+                                "Yes... that's exactly it."
                             ]
                         },
                         {
@@ -24436,14 +24331,14 @@
                                 5,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{ひいいいいいいいいいい！！"
+                                "Eeeeeekkkkkkkkkk!!!"
                             ]
                         },
                         {
@@ -24489,14 +24384,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くくく、まさかガーディアンズの主力に来てもらえるなんて光栄だね。"
+                                "Heh heh heh, it's an honor to have the Guardians' main force\ncome to us."
                             ]
                         },
                         {
@@ -24507,14 +24402,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし、こちらにここまでの戦力があるとは思ってもいないだろう。"
+                                "However, they probably didn't expect us to have this much\nfirepower."
                             ]
                         },
                         {
@@ -24525,14 +24420,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さあ、【オーグル】達よ、その力を奢り切った偽善者どもに見せつけてやれ！"
+                                "Now, my \"Ogres,\" show those self-righteous hypocrites your\npower!"
                             ]
                         },
                         {
@@ -26396,14 +26291,14 @@
                                 4,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気を付けて！そっちにたーっくさんの【オーグル】が！"
+                                "Be careful! There are so many \"Ogres\" heading your way!"
                             ]
                         },
                         {
@@ -26473,14 +26368,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫、あの二人が出るから！"
+                                "Don't worry, those two are coming out!"
                             ]
                         },
                         {
@@ -27342,14 +27237,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ば…ばかな…あれだけの数の【オーグル】が一瞬で全滅…だと！？"
+                                "Im... impossible... All those \"Ogres\" wiped out in an\ninstant...!?"
                             ]
                         },
                         {
@@ -27419,14 +27314,14 @@
                                 8,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そりゃあ…あの二人が来たら…そうなるよねー。"
+                                "Well yeah... if those two show up... that's what happens."
                             ]
                         },
                         {
@@ -27496,21 +27391,14 @@
                                 8,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それにしても、まさか\\c[2]おかーさん\\c[0]たちが来るなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思ってもみなかったよ。"
+                                "Even so, I never imagined that \\c[2]Mom\\c[0] and the others\nwould come."
                             ]
                         },
                         {
@@ -27580,14 +27468,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここでこはねちゃんに悲しいお知らせがあります。"
+                                "I have some sad news for Kohane-chan here."
                             ]
                         },
                         {
@@ -27657,14 +27545,14 @@
                                 4,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やだ！聞きたくない！"
+                                "No! I don't want to hear it!"
                             ]
                         },
                         {
@@ -27734,14 +27622,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの二人が勝手に突っ走ったこはねちゃんにとってもお怒りです。"
+                                "Those two went off on their own and are also quite angry\nwith Kohane-chan who ran ahead recklessly."
                             ]
                         },
                         {
@@ -27818,14 +27706,14 @@
                                 5,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{ひいいいいいいいいいい！！"
+                                "Eeeeeeeeeek!!"
                             ]
                         },
                         {
@@ -27895,14 +27783,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "早く片をつけて帰って来なさい。とのことです。"
+                                "\"Hurry up and finish this and come back,\" is what they said."
                             ]
                         },
                         {
@@ -27972,14 +27860,14 @@
                                 3,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅ…帰るのがこわいよぉ…"
+                                "Uuu... I'm scared to go back..."
                             ]
                         },
                         {
@@ -27990,21 +27878,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれが…\\c[2]伝説の双子\\c[0]の力…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふざけるなよ…なんなんだよあれは…"
+                                "That power... the power of the \\c[2]legendary twins\\c[0]...\nDon't mess with me... What the hell is that..."
                             ]
                         },
                         {
@@ -28074,14 +27955,14 @@
                                 10,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こっちも心が折れちゃってるみたいだね…"
+                                "It seems like his spirit is broken too..."
                             ]
                         },
                         {
@@ -28092,21 +27973,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今まで準備してきたものが…一瞬で…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クソッ、クソッ、クソクソクソクソ！"
+                                "All the preparations I've made... in an instant... Damn it,\ndamn it, damn damn damn!"
                             ]
                         },
                         {
@@ -28126,14 +28000,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…いや…まだだ…"
+                                "...No... it's not over yet..."
                             ]
                         },
                         {
@@ -28144,21 +28018,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こうなったら、お前を倒し人質にして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あいつらに言うことを聞かせてやるぜ。"
+                                "Now that it's come to this, I'll defeat you, take you\nhostage, and make them listen to me."
                             ]
                         },
                         {
@@ -28228,14 +28095,14 @@
                                 4,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうきたか。"
+                                "So that's your plan."
                             ]
                         },
                         {
@@ -28246,21 +28113,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが、そう簡単には行かねぇだろうからな、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奥の手を使わせてもらう！"
+                                "But it won't be that easy, so I'll have to use my trump\ncard!"
                             ]
                         },
                         {
@@ -28346,14 +28206,14 @@
                                 4,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奥の手？"
+                                "Trump card?"
                             ]
                         },
                         {
@@ -28364,21 +28224,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "他人から集めた神霊力は神霊力兵器のエネルギーとしては使用できるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのまま他人が使うことはできない…だが…"
+                                "The spiritual power collected from others can be used as\nenergy for spiritual power weapons, but it can't be used\ndirectly by others... however..."
                             ]
                         },
                         {
@@ -28389,21 +28242,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここでの実験により、専用装備を纏った者なら一時的に集めた神霊力を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "扱えるようになったのさ！"
+                                "Thanks to the experiments here, those who don special\nequipment can temporarily handle the collected spiritual\npower!"
                             ]
                         },
                         {
@@ -28414,14 +28260,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんな風にな！"
+                                "Like this!"
                             ]
                         },
                         {
@@ -28620,21 +28466,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アミィちゃん…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な、なんてことを！？"
+                                "Amy-chan...!! What have you done!?"
                             ]
                         },
                         {
@@ -28645,14 +28484,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "安心しろ、お前の身体も神霊力も全てオレのために使ってやるぜ！"
+                                "Relax, I'll use your body and spiritual power all for\nmyself!"
                             ]
                         },
                         {
@@ -28722,14 +28561,14 @@
                                 4,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わたしの身体も神霊力もわたしのものだよ！"
+                                "My body and spiritual power are mine!"
                             ]
                         },
                         {
@@ -28799,14 +28638,14 @@
                                 4,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これが…最後の戦いだ…"
+                                "This is... the final battle..."
                             ]
                         },
                         {
@@ -28876,14 +28715,14 @@
                                 4,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{絶対絶対、星の果てまでぶっ飛ばす！！"
+                                "I'll absolutely, definitely send you flying to the ends of\nthe stars!!"
                             ]
                         },
                         {
@@ -29153,14 +28992,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐ…うっ…リベレイター達の力を集めても届かないとは…"
+                                "Gah...ugh... Even with the power of the Liberators combined,\nit's not enough..."
                             ]
                         },
                         {
@@ -29171,14 +29010,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "これが…正義の魔法少女の力って訳か…"
+                                "So this is... the power of a magical girl of justice..."
                             ]
                         },
                         {
@@ -29276,14 +29115,14 @@
                                 4,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わたしは、わたしが正義かどうかなんてわからない。"
+                                "I don't know if I'm truly just or not."
                             ]
                         },
                         {
@@ -29353,14 +29192,14 @@
                                 4,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "でも、生まれ持った『力』を人の幸せを奪うことに使うのは間違ってる。"
+                                "But using the \"power\" I was born with to take away people's\nhappiness is wrong."
                             ]
                         },
                         {
@@ -29430,21 +29269,14 @@
                                 4,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "だからわたしは、みんなが幸せに暮らせる世界を作るために"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この『力』を使うんだ。"
+                                "That's why I use this \"power\" to create a world where\neveryone can live happily."
                             ]
                         },
                         {
@@ -29455,21 +29287,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ハッ、他人なんざどうでもいい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オレはオレが気持ち良く生きられる世界を求めただけだ。"
+                                "Ha, I couldn't care less about others! I just sought a world\nwhere I could live feeling good."
                             ]
                         },
                         {
@@ -29480,21 +29305,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "しかし今回はオレの求める『力』よりお前の信じる『力』の方が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "強かったってことだな。"
+                                "But this time, your \"power\" of belief was stronger than the\n\"power\" I sought."
                             ]
                         },
                         {
@@ -29505,28 +29323,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "だが、忘れるな…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オレ達を退けたところで、他にもオレ達と志を共にする"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "リベレイターはまだ世界中にいるぞ！"
+                                "However, don't forget... even if you've defeated us, there\nare still Liberators around the world who share our cause!"
                             ]
                         },
                         {
@@ -29537,14 +29341,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『正しさ』を貫いたままで世界を護り抜けるのか、楽しみに見させてもらうぞ！"
+                                "I'll be looking forward to seeing if you can protect the\nworld while sticking to your \"righteousness\"!"
                             ]
                         },
                         {
@@ -29555,14 +29359,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "せいぜい束の間の正義の味方ごっこを楽しんでおくんだな！"
+                                "Enjoy your fleeting moments of playing the hero of justice!"
                             ]
                         },
                         {
@@ -29573,14 +29377,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐ…っ…"
+                                "Gah...h..."
                             ]
                         },
                         {
@@ -29598,14 +29402,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{\\{がああああああああああっ！！"
+                                "Gaaaaaaahhhhhhhhhhh!!"
                             ]
                         },
                         {
@@ -29803,14 +29607,14 @@
                                 10,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "倒れちゃった…"
+                                "He's fallen..."
                             ]
                         },
                         {
@@ -29880,21 +29684,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "きっと…他の人の神霊力を集めた反動だね…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "他人の神霊力は簡単には扱えないから…"
+                                "It must be the backlash from gathering other people's\nspiritual power... It's not easy to handle someone else's\nspiritual power..."
                             ]
                         },
                         {
@@ -29964,14 +29761,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なるほど…でもこの研究がもしもっと進んだら…ちょっと怖いね。"
+                                "I see... But if this research progresses further... it's\nkind of scary."
                             ]
                         },
                         {
@@ -30041,14 +29838,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうだね、しかもリベレイターはまだ他にもいるって話だよね。"
+                                "Right, and there are still more Liberators out there, aren't\nthere?"
                             ]
                         },
                         {
@@ -30118,14 +29915,14 @@
                                 4,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "結構手強かったのに…まだ他にもいるなんて…"
+                                "They were quite tough... and to think there are still\nothers..."
                             ]
                         },
                         {
@@ -30195,14 +29992,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あら、こはねちゃんが珍しくしおらしい。"
+                                "Oh my, Kohane-chan is unusually humble."
                             ]
                         },
                         {
@@ -30272,14 +30069,14 @@
                                 9,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まさか！気合を入れなおさなきゃって思ってるだけだよ！"
+                                "No way! I'm just thinking that I need to psych myself up\nagain!"
                             ]
                         },
                         {
@@ -30349,14 +30146,14 @@
                                 9,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "というわけで帰ったら一緒に特訓だね！ひさなちゃん！"
+                                "So when we get back, we'll have to train together, Hisana-\nchan!"
                             ]
                         },
                         {
@@ -30426,14 +30223,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その前に、しっかりお説教…だよ！"
+                                "Before that, you're in for a proper scolding...!"
                             ]
                         },
                         {
@@ -30503,14 +30300,14 @@
                                 10,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "………はぁい。"
+                                "...Yes ma'am."
                             ]
                         },
                         {
@@ -30589,14 +30386,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうだ、アミィちゃんたちを助けないと！"
+                                "Right, we have to rescue Amy and the others!"
                             ]
                         },
                         {
@@ -30793,21 +30590,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こうして、わたしの『計算され尽くした潜入捜査』で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "リベレイターたちの計画は阻止された。"
+                                "And so, my \"meticulously calculated undercover\ninvestigation\" thwarted the Liberators' plans."
                             ]
                         },
                         {
@@ -30818,28 +30608,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "駆け付けたひさなちゃんたちが調べたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この研究所は他のリベレイター組織と繋がって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "実験結果を共有していたりしたそうだ。"
+                                "When Hisana-chan and the others who rushed over\ninvestigated, they found out that this lab was connected to\nother Liberator organizations and sharing experimental\nresults."
                             ]
                         },
                         {
@@ -30850,21 +30626,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あの【オーグル】っていうロボットも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これから世界中の組織に納品する予定だったらしい。"
+                                "That robot named \"Ogre\" was apparently going to be delivered\nto organizations all over the world too."
                             ]
                         },
                         {
@@ -30875,28 +30644,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ガーディアンズはこの先、その世界中のリベレイター組織を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "相手にしていかなきゃいけないってことだから…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "気を引き締めてがんばらないと…だね。"
+                                "The Guardians will have to face these Liberator\norganizations around the world from now on... so we have to\nstay sharp and keep at it..."
                             ]
                         },
                         {
@@ -30928,14 +30683,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その後の話をちょっとすると…"
+                                "To continue the story a bit..."
                             ]
                         },
                         {
@@ -30985,14 +30740,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アミィちゃんはガーディアンズの見習いとして預かることになった。"
+                                "Amy-chan became an apprentice under the Guardians' care."
                             ]
                         },
                         {
@@ -31003,21 +30758,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "元々騙されて仲間にされていたようなものだし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "『ほごかんさつ？』みたいな扱いになるらしい。"
+                                "She was originally tricked into joining them, so it seems\nshe'll be treated like she's under \"protective observation?\""
                             ]
                         },
                         {
@@ -31028,14 +30776,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どこに行くのも付いてきて可愛いんだなコレが。"
+                                "She follows me everywhere and it's really cute."
                             ]
                         },
                         {
@@ -31046,14 +30794,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "たぶん今までずっと寂しかったんだろうな…"
+                                "She must have been lonely all this time..."
                             ]
                         },
                         {
@@ -31064,14 +30812,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わたしとしては妹が出来たみたいですごく嬉しい！"
+                                "For me, it's like having a little sister and I'm really\nhappy about it!"
                             ]
                         },
                         {
@@ -31129,21 +30877,14 @@
                                 4,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "他のリベレイターたちはさすがに重ねた罪が大きすぎるから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "専用の施設に投獄されることになったんだけど…"
+                                "The other Liberators, though, had committed too many crimes\nand were sent to a special facility..."
                             ]
                         },
                         {
@@ -31154,21 +30895,14 @@
                                 4,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "他のリベレイターのことを聞いても何も答えないらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さすがにそう簡単にはいかないか。"
+                                "They don't answer any questions about the other Liberators.\nIt's not going to be that easy, huh."
                             ]
                         },
                         {
@@ -31179,14 +30913,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "でも…いつか…その力を人の幸せを護るために使って欲しいな。"
+                                "But... someday... I hope they use their power to protect\npeople's happiness."
                             ]
                         },
                         {
@@ -31211,14 +30945,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そして…"
+                                "And then..."
                             ]
                         },
                         {
@@ -31229,21 +30963,14 @@
                                 8,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わたしは勝手に突っ走ったことについて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おかーさんたちからこっぴどく叱られた。"
+                                "I got a severe scolding from my parents for running off on\nmy own."
                             ]
                         },
                         {
@@ -31254,14 +30981,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ひさなちゃんも怒ってたけど…すぐに泣いて抱き付いて来た。"
+                                "Hisana-chan was angry too, but... she quickly started crying\nand hugged me."
                             ]
                         },
                         {
@@ -31272,21 +30999,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『通信が途切れた時は、もう帰って来ないんじゃないかって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "本当に怖かったんだから…』って。"
+                                "\"When the communication cut off, I was really scared you'd\nnever come back...\" she said."
                             ]
                         },
                         {
@@ -31297,21 +31017,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あの時はわたしももうダメかと思ったけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ひさなちゃんが待ってると思ったからがんばれたんだよ。"
+                                "At that time, I thought I was done for... but I managed to\nkeep going because I knew Hisana-chan was waiting for me."
                             ]
                         },
                         {
@@ -31322,21 +31035,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "でもこんなに心配掛けちゃったんだから…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "『しばらくは』大人しくしておこう。うん。"
+                                "But since I've caused so much worry... I'll \"behave myself\"\nfor a while. Yeah."
                             ]
                         },
                         {
@@ -31347,21 +31053,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こうして、わたしはまたガーディアンズの一員として、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "また、みんなの幸せを護るために魔法少女の活動に励んでた。"
+                                "And so, as a member of the Guardians once again, I devoted\nmyself to the activities of a magical girl, to protect\neveryone's happiness."
                             ]
                         },
                         {
@@ -31372,14 +31071,14 @@
                                 4,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "だけど…"
+                                "But then..."
                             ]
                         },
                         {
@@ -31458,14 +31157,14 @@
                                 10,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ある時、急に目の前が真っ白になって…"
+                                "Suddenly, everything in front of me turned white..."
                             ]
                         },
                         {
@@ -31567,14 +31266,14 @@
                                 10,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "………えっ？"
+                                "...Eh?"
                             ]
                         },
                         {
@@ -31804,14 +31503,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{\\{ここどこーーーーーーー！？"
+                                "Where is this-------!?"
                             ]
                         },
                         {
@@ -32260,14 +31959,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "一度見た敗北シーンです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "再度見ますか？"
+                                "It's a defeat scene you've seen before. Would you like to\nsee it again?"
                             ]
                         },
                         {
@@ -32275,8 +31967,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "見る",
-                                    "見ない"
+                                    "View",
+                                    "Do Not View"
                                 ],
                                 1,
                                 0,

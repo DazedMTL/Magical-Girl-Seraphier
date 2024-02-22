@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下大部屋",
+    "displayName": "Underground Great Hall",
     "encounterList": [],
     "encounterStep": 30,
     "height": 21,
@@ -5357,14 +5357,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "準備はいい？…お姉ちゃん。"
+                                "Are you ready?... Big sister."
                             ]
                         },
                         {
@@ -5372,8 +5372,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "もちろん！",
-                                    "ちょっとまって！"
+                                    "Of course!",
+                                    "Wait a moment!"
                                 ],
                                 1,
                                 0,
@@ -5447,14 +5447,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "これが…「人を護るための力」…強いね…"
+                                "This is... \"the power to protect people\"... It's strong,\nisn't it..."
                             ]
                         },
                         {
@@ -5524,21 +5524,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]当然だよ。その護るべき人の中に、アミィちゃんも含まれてるんだからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "負ける訳にはいかないよ。"
+                                "\\PartyFace[1]\\FaceIndex[0]Of course. You, Amy-chan, are among those I must protect. I\ncan't afford to lose."
                             ]
                         },
                         {
@@ -5549,14 +5542,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "…お姉ちゃん。"
+                                "...Big sister."
                             ]
                         },
                         {
@@ -5626,21 +5619,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]アミィちゃんの悲しさや苦しさはわたしには全部はわからないかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "でも、これから寄り添っていくことはできるよ。"
+                                "\\PartyFace[1]\\FaceIndex[0]I might not fully understand your sadness or pain, Amy-chan.\nBut I can be there for you from now on."
                             ]
                         },
                         {
@@ -5710,21 +5696,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]それに、アミィちゃんがどうしても苦しい気持ちを吐き出したくなったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "またこうやっていつでも相手してあげるからね！"
+                                "\\PartyFace[1]\\FaceIndex[0]Besides, if you ever need to vent your painful feelings,\nI'll be here to listen anytime!"
                             ]
                         },
                         {
@@ -5735,14 +5714,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "それ、お姉ちゃんが戦いたいだけじゃ…"
+                                "That's just because you want to fight, isn't it, big\nsister..."
                             ]
                         },
                         {
@@ -5821,21 +5800,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]あははっ、バレちゃった♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "だってアミィちゃん強かったから、またバトルしたいなって思っちゃったんだ。"
+                                "\\PartyFace[1]\\FaceIndex[1]Ahaha, you caught me♪ It's just that you were so strong,\nAmy-chan, I couldn't help but want to battle again."
                             ]
                         },
                         {
@@ -5846,14 +5818,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お姉ちゃんは本当に「自由」なんだね。"
+                                "Big sister, you really are \"free,\" aren't you."
                             ]
                         },
                         {
@@ -5923,14 +5895,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[8]そのせいでひさなちゃんには良く怒られてるけどね…"
+                                "\\PartyFace[1]\\FaceIndex[8]That's why Hisana-chan often scolds me..."
                             ]
                         },
                         {
@@ -5941,21 +5913,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ガーディアンズの定めたルールは自由を縛るためのものじゃない…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "何となくわかった気がする。"
+                                "The rules set by the Guardians aren't meant to bind our\nfreedom... I think I'm starting to understand that."
                             ]
                         },
                         {
@@ -6025,14 +5990,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]そうだよ。ルールのないバトルなんて面白くもなんともないんだよ！"
+                                "\\PartyFace[1]\\FaceIndex[1]That's right. A battle without rules wouldn't be fun or\ninteresting at all!"
                             ]
                         },
                         {
@@ -6043,14 +6008,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ふふっ、話がかみ合っていない気がするけど、それがお姉ちゃんなんだね。"
+                                "Hehe, it feels like we're not quite on the same page, but\nthat's just like you, big sister."
                             ]
                         },
                         {
@@ -6120,21 +6085,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[8]なんだかバカにされた気がするけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\FaceIndex[1]アミィちゃんが笑ってくれたからまあいいか♪"
+                                "\\PartyFace[1]\\FaceIndex[8]I feel like I'm being made fun of, but since\n\\FaceIndex[1]Amy-chan is smiling, I guess it's okay♪"
                             ]
                         },
                         {
@@ -6145,28 +6103,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お姉ちゃん、この扉の先にはリベレイター【ベリアル】が準備している"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\C[2]対ガーディアンズ兵器\\C[0]があるの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それが起動したらたぶん大変なことになる。"
+                                "Big sister, beyond this door is the anti-Guardian weapon\nthat Liberator [Belial] has prepared. If it gets activated,\nit will probably cause a lot of trouble."
                             ]
                         },
                         {
@@ -6236,14 +6180,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]それは、絶対に止めないと！！"
+                                "\\PartyFace[1]\\FaceIndex[11]We have to stop it at all costs!!"
                             ]
                         },
                         {
@@ -6254,28 +6198,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ボクは兵器の起動を止めるようにベリアルに掛け合ってくる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お姉ちゃんはその間にもう一度バリアを解除して来て。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "そうしたらまた外と連絡取れるようになるから。"
+                                "I'll go and try to stop Belial from activating the weapon.\nIn the meantime, big sister, you go and deactivate the\nbarrier again. Then we'll be able to communicate with the\noutside again."
                             ]
                         },
                         {
@@ -6345,21 +6275,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]え…でもそういうのはひさなちゃんに任せてたから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "解除の仕方とかわからないよ？"
+                                "\\PartyFace[1]\\FaceIndex[2]Eh... But I've always left that kind of thing to Hisana-\nchan, so I don't know how to deactivate it?"
                             ]
                         },
                         {
@@ -6370,14 +6293,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "大丈夫。バリアは\\c[2]屋上\\c[0]にある端末を破壊しても止まるようになっているから。"
+                                "It's okay. The barrier will stop if you destroy the terminal\non the \\c[2]rooftop\\c[0]."
                             ]
                         },
                         {
@@ -6447,14 +6370,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]なんだ、そんな簡単なことで良かったんだ。"
+                                "\\PartyFace[1]\\FaceIndex[1]Oh, that's a relief. It's such a simple thing."
                             ]
                         },
                         {
@@ -6492,28 +6415,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そこのゲートを抜けたら地下２階の通路に出るから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "そこからもう一度\\c[2]30F\\c[0]に行って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\c[2]屋上\\c[0]へ向かってね。"
+                                "Once you go through that gate, you'll come out on the second\nbasement floor passage. From there, head back up to\n\\c[2]30F\\c[0] and then make your way to the\n\\c[2]rooftop\\c[0]."
                             ]
                         },
                         {
@@ -6666,14 +6575,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]わかったよ。ありがとう、アミィちゃん！"
+                                "\\PartyFace[1]\\FaceIndex[0]Got it. Thanks, Amy-chan!"
                             ]
                         },
                         {
@@ -6684,21 +6593,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "たぶんまだお姉ちゃんが牢を抜け出したことはリベレイターのみんなは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "気付いていないと思うけど、気を付けてね。"
+                                "I don't think the Liberators have noticed that you've\nescaped from your cell yet, but be careful."
                             ]
                         },
                         {
@@ -6768,14 +6670,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]うん、アミィちゃんもね。"
+                                "\\PartyFace[1]\\FaceIndex[0]Yeah, you too, Amy-chan."
                             ]
                         },
                         {
@@ -7079,14 +6981,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "どうしたの？ボクが相手じゃ本気が出せないの？"
+                                "What's wrong? Can't get serious because it's me?"
                             ]
                         },
                         {
@@ -7097,14 +6999,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ボクに勝たないと、先には進ませないから。"
+                                "If you don't beat me, I won't let you pass."
                             ]
                         },
                         {
@@ -7159,14 +7061,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちゃんと準備してきてね。"
+                                "Make sure you're fully prepared."
                             ]
                         },
                         {
@@ -7272,28 +7174,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこのゲートを抜けたら地下２階の通路に出るから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこからもう一度\\c[2]30F\\c[0]に行って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[2]屋上\\c[0]へ向かってね。"
+                                "Once you pass through that gate, you'll come out on the\nsecond basement floor's passage. From there, head back to\n\\c[2]30F\\c[0] and then make your way to the\n\\c[2]rooftop\\c[0]."
                             ]
                         },
                         {
@@ -7498,14 +7386,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]開かない…"
+                                "\\PartyFace[1]\\FaceIndex[4]It won't open..."
                             ]
                         },
                         {
@@ -7547,14 +7435,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お姉ちゃん…ボクと戦いに来たんじゃないの？"
+                                "Big sis... Didn't you come to fight with me?"
                             ]
                         },
                         {
@@ -7647,14 +7535,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]開かない…"
+                                "\\PartyFace[1]\\FaceIndex[4]It won't open..."
                             ]
                         },
                         {
@@ -7696,14 +7584,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今はそっちに行っても仕方がないよ。"
+                                "There's no point in going that way right now."
                             ]
                         },
                         {
@@ -7741,28 +7629,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこのゲートを抜けたら地下２階の通路に出るから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこからもう一度\\c[2]30F\\c[0]に行って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[2]屋上\\c[0]へ向かってね。"
+                                "Once you get through that gate, you'll come out on the\nsecond basement floor corridor. From there, head back to\n\\c[2]30F\\c[0] and then make your way to the\n\\c[2]rooftop\\c[0]."
                             ]
                         },
                         {
@@ -8811,14 +8685,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]先にアミィちゃんと決着をつけよう。"
+                                "\\PartyFace[1]\\FaceIndex[4]Let's settle things with Amy-chan first."
                             ]
                         },
                         {
@@ -8887,7 +8761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゲートの解除スイッチがある。押しますか？"
+                                "There's a gate release switch. Would you like to press it?"
                             ]
                         },
                         {
@@ -8895,8 +8769,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9548,7 +9422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {

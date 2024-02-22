@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "特別監禁室前通路",
+    "displayName": "Special Confinement Room Front Passage",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -9588,7 +9588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "連行シーンをスキップしますか？"
+                                "Would you like to skip the escort scene?"
                             ]
                         },
                         {
@@ -9596,8 +9596,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9658,7 +9658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お掃除ロボにスライム漬けにされたまま、KOHANEは連行されていく。"
+                                "Still drenched in slime by the cleaning robot, Kohane is\nbeing taken away."
                             ]
                         },
                         {
@@ -9756,14 +9756,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]また…あそこに連れていかれるの…もうやだぁ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Again... being taken to that place... I can't stand it\nanymore..."
                             ]
                         },
                         {
@@ -9852,14 +9852,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]う…うぅ…どこに…連れていかれるの？"
+                                "\\PartyFace[1]\\FaceIndex[6]Ugh... uhh... where are they taking me?"
                             ]
                         },
                         {
@@ -10143,7 +10143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お、あの娘\\C[2]スライム\\C[0]に漬けられているのか。"
+                                "Oh, is that girl \\C[2]covered in slime\\C[0]?"
                             ]
                         },
                         {
@@ -10161,7 +10161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴の分泌液は協力な媚薬だからな。今頃あいつはトロトロじゃねぇのか？"
+                                "That creature's secretions are a powerful aphrodisiac. She\nmust be melting with pleasure by now, huh?"
                             ]
                         },
                         {
@@ -10242,14 +10242,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（やだ…こんな恥ずかしい姿…見られてるよぉ…）"
+                                "\\PartyFace[1]\\FaceIndex[6](No... such an embarrassing sight... being seen like\nthis...)"
                             ]
                         },
                         {
@@ -10340,14 +10340,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（いやあ…もう見ないでぇ…）"
+                                "\\PartyFace[1]\\FaceIndex[6](No... please don't look anymore...)"
                             ]
                         },
                         {
@@ -10631,14 +10631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お嬢ちゃん、安心しなよ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オレ達が優しくおしおきしてやるからよぉ。"
+                                "Don't worry, missy, we'll punish you gently."
                             ]
                         },
                         {
@@ -10719,14 +10712,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（やぁ…こんなの恥ずかしいよぉ…）"
+                                "\\PartyFace[1]\\FaceIndex[6](No... this is so embarrassing...)"
                             ]
                         },
                         {
@@ -10817,14 +10810,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（は…早く逃げなきゃ…）"
+                                "\\PartyFace[1]\\FaceIndex[6](I have to escape quickly...)"
                             ]
                         },
                         {
@@ -11108,7 +11101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔法少女のスライム漬けか…たまらねぇな。"
+                                "A magical girl soaked in slime... irresistible."
                             ]
                         },
                         {
@@ -11178,14 +11171,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（ん…っ…ダメ…拘束がキツくて…逃げられない…）"
+                                "\\PartyFace[1]\\FaceIndex[6](Nngh... no good... the restraints are too tight... I can't\nescape...)"
                             ]
                         },
                         {

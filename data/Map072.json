@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "特別監禁室",
+    "displayName": "Special Confinement Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -3660,14 +3660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お掃除ロボによって監禁室に連行されたKOHANEは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スライム触手に囚われて身動きが取れないでいた。"
+                                "KOHANE, who was taken to the confinement room by the\ncleaning robot, was captured by slime tentacles and couldn't\nmove."
                             ]
                         },
                         {
@@ -3685,7 +3678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スライム触手が選んだ責めは…"
+                                "The torment chosen by the slime tentacles was..."
                             ]
                         },
                         {
@@ -3709,8 +3702,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "口と胸虐",
-                                    "スライム三穴挿入※処女喪失"
+                                    "Mouth and breast torment",
+                                    "Slime triple penetration *loss of virginity"
                                 ],
                                 -1,
                                 0,
@@ -3789,8 +3782,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "口と胸虐",
-                                    "スライム三穴挿入"
+                                    "Mouth and breast torment",
+                                    "Slime triple penetration"
                                 ],
                                 -1,
                                 0,
@@ -4106,21 +4099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監禁室に囚われた魔法少女KOHANE。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ローブは破れ、小ぶりな胸や幼い下腹部を隠すこともできずに曝け出していた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その身体にはスライムが纏わりつき、蠢いていた。"
+                                "Magical Girl Kohane, imprisoned in a confinement room. Her\nrobe was torn, leaving her modest breasts and youthful lower\nabdomen exposed. Slime clung to her body, writhing around\nher."
                             ]
                         },
                         {
@@ -4138,14 +4117,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]や、やだ……これ……"
+                                "\\PartyFace[1]\\FaceIndex[6]No, no... this..."
                             ]
                         },
                         {
@@ -4163,14 +4142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女はスライムから逃れようと必死に身体をくねらせるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後ろ手に縛られた状態ではどうすることもできない。"
+                                "The girl desperately writhed to escape the slime, but with\nher hands bound behind her back, there was nothing she could\ndo."
                             ]
                         },
                         {
@@ -4181,14 +4153,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]やだ、気持ち悪い……ひゃうっ！"
+                                "\\PartyFace[1]\\FaceIndex[6]No, it's disgusting... Hyau!"
                             ]
                         },
                         {
@@ -4243,7 +4215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "不意にスライムの一部がKOHANEの乳房に吸い付いた。"
+                                "Suddenly, a part of the slime latched onto Kohane's breast."
                             ]
                         },
                         {
@@ -4261,14 +4233,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]やだっ、だめっ！そんなところ触らないでぇ！"
+                                "\\PartyFace[1]\\FaceIndex[6]No, stop! Don't touch me there!"
                             ]
                         },
                         {
@@ -4286,14 +4258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女の可愛らしい悲鳴に反応したのか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "胸に取り付いたスライムが嬉しそうにぶるぶると震える。"
+                                "The slime attached to her chest seemed to tremble happily in\nresponse to the girl's cute scream."
                             ]
                         },
                         {
@@ -4304,14 +4269,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふあああ、やだ、震えないでぇ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Fuaaah, no, don't tremble..."
                             ]
                         },
                         {
@@ -4341,7 +4306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スライムは執拗に胸の頂に吸い付き、粘つく粘液を塗りたくっていく。"
+                                "The slime persistently sucked on the tip of her breast,\nsmearing it with its sticky mucus."
                             ]
                         },
                         {
@@ -4352,14 +4317,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ひゃうぅ……あっ、ああ……"
+                                "\\PartyFace[1]\\FaceIndex[6]Hyauu... Ah, aah..."
                             ]
                         },
                         {
@@ -4377,14 +4342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スライムが乳首に触れる度にぴくんっと身体が跳ね上がる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その反応を楽しむように、スライムはさらに強く胸を責め立てる。"
+                                "Each time the slime touched her nipple, her body jerked\nreflexively. Enjoying her reaction, the slime intensified\nits assault on her breasts."
                             ]
                         },
                         {
@@ -4414,14 +4372,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]だめっ、そんなに強くしたらっ！ああっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]No, not so hard! Aah!!"
                             ]
                         },
                         {
@@ -4464,14 +4422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一際大きく身体を仰け反らせ、軽い絶頂を迎えるKOHANE。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかしそれでも責めは止まらない。"
+                                "Arching her back dramatically, Kohane reached a light\nclimax. Yet the assault did not stop."
                             ]
                         },
                         {
@@ -4512,14 +4463,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ひぅっ！やだ、もうやめてぇ……"
+                                "\\PartyFace[1]\\FaceIndex[6]Hiuu! No, stop it already..."
                             ]
                         },
                         {
@@ -4537,14 +4488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "休む間もなく続けられる胸への愛撫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少女は涙を流しながら懇願するが、スライムはそれを聞き入れる様子もない。"
+                                "The relentless caress to her breasts continued without\npause. The girl pleaded with tears streaming down her face,\nbut the slime showed no sign of heeding her pleas."
                             ]
                         },
                         {
@@ -4555,14 +4499,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ひゃうっ！またイっちゃっ！ふああぁぁ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Hyauu! I'm coming again! Fuaaah!!"
                             ]
                         },
                         {
@@ -4630,14 +4574,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]このスライム……まさか私がイクのを楽しんでる……？"
+                                "\\PartyFace[1]\\FaceIndex[6]This slime... could it be enjoying watching me climax...?"
                             ]
                         },
                         {
@@ -4655,7 +4599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "KOHANEは恐怖を覚えた。"
+                                "Kohane felt fear."
                             ]
                         },
                         {
@@ -4673,14 +4617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな思いを感じ取ったのか、スライムの動きに変化が現れる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スライムの一部が隆起して、少女の口へと近づく。"
+                                "Perhaps sensing her thoughts, the slime's movements changed.\nPart of it swelled and approached the girl's mouth."
                             ]
                         },
                         {
@@ -4728,14 +4665,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]んむっ！んんー！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Nmm! Nnn-!!"
                             ]
                         },
                         {
@@ -4760,14 +4697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "必死に口を閉じて抵抗するKOHANEだったが、スライムはそれを許さなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無理やり口をこじ開けられ、太い触手が口内に侵入してくる。"
+                                "Despite Kohane's desperate attempts to keep her mouth shut,\nthe slime was relentless. It pried her mouth open and a\nthick tentacle invaded her oral cavity."
                             ]
                         },
                         {
@@ -4785,14 +4715,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]むぐっ！んんっ！"
+                                "\\PartyFace[1]\\FaceIndex[6]Muguu! Nnnn!"
                             ]
                         },
                         {
@@ -4803,14 +4733,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]なにこれっ、苦い……！"
+                                "\\PartyFace[1]\\FaceIndex[6]What is this? It's bitter...!"
                             ]
                         },
                         {
@@ -4835,14 +4765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "口いっぱいに広がった苦味に思わず顔を顰める。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だがそれも一瞬のことで、すぐに甘い味が口内に広がるようになった。"
+                                "The bitterness that filled her mouth made her grimace, but\nthat sensation was fleeting as a sweet taste soon spread\nthroughout her mouth."
                             ]
                         },
                         {
@@ -4853,14 +4776,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]な……なんで？すごく甘い……"
+                                "\\PartyFace[1]\\FaceIndex[6]Wh... why? It's so sweet..."
                             ]
                         },
                         {
@@ -4878,14 +4801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "突然の味覚の変化に戸惑うKOHANE。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかしそんな疑問もすぐに消し飛んでしまった。"
+                                "The sudden change in taste left Kohane bewildered. But such\nquestions were quickly forgotten."
                             ]
                         },
                         {
@@ -4919,14 +4835,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]んんっ、んちゅ、くちゅっ……"
+                                "\\PartyFace[1]\\FaceIndex[6]Nnnn, nchu, kuchu..."
                             ]
                         },
                         {
@@ -4944,14 +4860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "口の中に広がる甘みが癖になり、自ら舌を絡めて吸い付く。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "粘液の持つ催淫効果が少女の正常な思考を奪い去ってしまっていた。"
+                                "The sweetness spreading in her mouth became addictive, and\nshe began to suck and twine her tongue around it willingly.\nThe aphrodisiac effect of the mucus had stripped away the\ngirl's ability to think clearly."
                             ]
                         },
                         {
@@ -4962,14 +4871,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]おいしい……もっと欲しい……"
+                                "\\PartyFace[1]\\FaceIndex[6]Delicious... I want more..."
                             ]
                         },
                         {
@@ -4999,7 +4908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先程までの嫌悪感はどこへやら、KOHANEはすっかりスライムに夢中になっていた。"
+                                "Any previous feelings of disgust were gone; Kohane was now\ncompletely captivated by the slime."
                             ]
                         },
                         {
@@ -5017,7 +4926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そのまましばらく口内を蹂躙され続けた後…"
+                                "After being ravaged in her mouth for a while..."
                             ]
                         },
                         {
@@ -5067,7 +4976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ようやく解放されたときにはすっかり蕩けた表情になっていた。"
+                                "When she was finally released, she had a completely melted\nexpression on her face."
                             ]
                         },
                         {
@@ -5078,14 +4987,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]はぁ…はぁ…身体…熱い…"
+                                "\\PartyFace[1]\\FaceIndex[6]Haa... haa... my body... it's hot..."
                             ]
                         },
                         {
@@ -5103,14 +5012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スライムの粘液により昂らされた全身の感覚は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "風が吹いただけでも少女の身体に心地よさをもたらす。"
+                                "The arousal heightened by the slime's mucus made even a\nbreeze against her skin feel pleasurable."
                             ]
                         },
                         {
@@ -5128,7 +5030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし、先ほどまでの責めとは裏腹にスライムはその動きを止めた。"
+                                "However, contrary to the earlier torment, the slime had\nstopped its movements."
                             ]
                         },
                         {
@@ -5146,14 +5048,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]な…なんで…"
+                                "\\PartyFace[1]\\FaceIndex[6]Wh... why..."
                             ]
                         },
                         {
@@ -5171,7 +5073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もっとしてくれないのかと口にしかけて少女はハッと我に返る。"
+                                "About to ask for more, Kohane suddenly snapped back to\nreality."
                             ]
                         },
                         {
@@ -5182,14 +5084,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]だめ…わたし…流されそうになってる…"
+                                "\\PartyFace[1]\\FaceIndex[6]No... I... I'm getting carried away..."
                             ]
                         },
                         {
@@ -5207,14 +5109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僅かに残った理性で、必至に身体を駆け巡るうずきを抑えようとするが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでも身体の火照りは収まらない。"
+                                "With what little reason she had left, she desperately tried\nto suppress the throbbing throughout her body, but the heat\nwithin her would not subside."
                             ]
                         },
                         {
@@ -5232,14 +5127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなKOHANEの様子を楽しむかのように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スライムはゆっくりと、じらすように少女の身体を這いまわる。"
+                                "As if enjoying Kohane's state, the slime slowly and\nteasingly crawled over the girl's body."
                             ]
                         },
                         {
@@ -5257,14 +5145,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]い…いや…こんなの…くるしいよぉ…助けてよ…"
+                                "\\PartyFace[1]\\FaceIndex[6]No... I can't... this is... too much... help me..."
                             ]
                         },
                         {
@@ -5282,14 +5170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女の懇願にスライムが応えることもなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その後しばらく少女は感覚を高められたまま放置された。"
+                                "Without responding to the girl's plea, the slime left her\nheightened senses unattended for a while longer."
                             ]
                         },
                         {
@@ -5307,14 +5188,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]は…あぅ…ふ…ぅ…ん…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ha... ah... fu... uh... mmm..."
                             ]
                         },
                         {
@@ -5332,14 +5213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "数分後…少女にしてみれば数時間にも感じられたかもしれない時間が過ぎた時、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこには虚ろな目でひくひくと全身を震わせ、時折痙攣する少女の姿があった。"
+                                "Minutes later... which might have felt like hours to the\ngirl, there she was, with vacant eyes, her whole body\ntwitching and occasionally convulsing."
                             ]
                         },
                         {
@@ -5350,14 +5224,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]こんなの…ひどい…よ…"
+                                "\\PartyFace[1]\\FaceIndex[6]This is... too cruel..."
                             ]
                         },
                         {
@@ -5375,21 +5249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "快楽に溺れたくはない、快楽を与えて欲しい、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その相反する心の葛藤に少女はしばらくの間、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悶え続けることになった。"
+                                "Torn between not wanting to drown in pleasure and wanting to\nbe given pleasure, the girl continued to writhe in conflict\nfor some time."
                             ]
                         },
                         {
@@ -5765,7 +5625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監禁部屋にスライムの蠢く淫猥な音が響く。"
+                                "The lewd sounds of squirming slimes echo throughout the\nconfinement room."
                             ]
                         },
                         {
@@ -5783,14 +5643,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]う…む…ぅ…んっ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Uh...mm...uh...nn..."
                             ]
                         },
                         {
@@ -5808,21 +5668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "天井から吊るされたままのKOHANEは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "口内を催淫性のある粘液で満たされながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "沸きあがる情欲に耐え続けていた。"
+                                "Suspended from the ceiling, Kohane continued to endure the\nrising lust while her mouth was filled with an aphrodisiac\nmucus."
                             ]
                         },
                         {
@@ -5833,14 +5679,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]こんなのに…負けちゃダメ…"
+                                "\\PartyFace[1]\\FaceIndex[6]I can't... lose to something like this..."
                             ]
                         },
                         {
@@ -5858,21 +5704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "快楽に堕とされまいと必死に心を強く持とうとする"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少女だったが、口内を吐かれる度にその脆い強がりを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "打ち砕かれそうになる。"
+                                "The girl tried desperately to keep her heart strong against\nbeing corrupted by pleasure, but with each release into her\nmouth, her fragile bravado seemed to shatter."
                             ]
                         },
                         {
@@ -5895,14 +5727,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]んんっ、んちゅ、くちゅっ……"
+                                "\\PartyFace[1]\\FaceIndex[6]Nnnh, nchu, kuchu..."
                             ]
                         },
                         {
@@ -5963,7 +5795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "不意に口内からスライム触手が引き抜かれる。"
+                                "Suddenly, the slime tentacle was pulled out from her mouth."
                             ]
                         },
                         {
@@ -5981,14 +5813,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふあ…？"
+                                "\\PartyFace[1]\\FaceIndex[6]Huh...?"
                             ]
                         },
                         {
@@ -6006,14 +5838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "蕩けた表情で戸惑いを見せるセラフィール。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな少女を嘲笑うように、スライムは次の段階へと移った。"
+                                "Confusion spread across Seraphiel's melted expression. As if\nmocking the girl, the slime moved on to the next phase."
                             ]
                         },
                         {
@@ -6049,14 +5874,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あっ……やだ、そこは……"
+                                "\\PartyFace[1]\\FaceIndex[6]Ah... no, not there..."
                             ]
                         },
                         {
@@ -6086,7 +5911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "粘つく液体に包まれた触手が秘裂へと伸びていく。"
+                                "The sticky tentacle, wrapped in viscous fluid, extends\ntowards her secret crevice."
                             ]
                         },
                         {
@@ -6097,14 +5922,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]だめぇ！そこだけは……！"
+                                "\\PartyFace[1]\\FaceIndex[6]Nooo! Not there...!"
                             ]
                         },
                         {
@@ -6122,7 +5947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "既にぐちょぐちょに濡れていたそこへ狙いを定めるスライム触手。"
+                                "The slime tentacle targeted the spot that was already\nsoaking wet."
                             ]
                         },
                         {
@@ -6151,14 +5976,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ほんとにダメ…わたし…初めてだから…お願い…"
+                                "\\PartyFace[1]\\FaceIndex[6]Really, no... I'm... it's my first time... please..."
                             ]
                         },
                         {
@@ -6196,21 +6021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "懇願するも聞き入れられるはずもなく、スライム触手は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ固さの残る秘裂をぐりぐりと割り広げ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一気に貫いた。"
+                                "Her pleas went unheard, and the slime tentacle forcefully\nspread her still-tight crevice... and penetrated her in one\nswift motion."
                             ]
                         },
                         {
@@ -6283,14 +6094,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]いやあああああっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Nooooo!!"
                             ]
                         },
                         {
@@ -6308,14 +6119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "胎内に感じる初めての異物感に嫌悪感と悔しさを覚えながらも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昂らされた身体は望まずとも心地よさを感じてしまう。"
+                                "Feeling a foreign object inside her for the first time,\nKohane felt disgust and frustration, yet her aroused body\ncouldn't help but find it pleasurable."
                             ]
                         },
                         {
@@ -6467,14 +6271,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]わたしのはじめてが…こんなのって…う…うぅ…"
+                                "\\PartyFace[1]\\FaceIndex[6]My first time is... like this... uh... uhh..."
                             ]
                         },
                         {
@@ -6509,14 +6313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無慈悲な挿入にKOHANEの瞳から大粒の涙が零れ落ちる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その様子に調子を良くしたかのように、スライムはピストン運動を開始する。"
+                                "Heartless penetration caused large tears to fall from\nKohane's eyes. Encouraged by this, the slime began its\npiston movements."
                             ]
                         },
                         {
@@ -6564,14 +6361,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]んっ……あっ……あっ……うぅん……"
+                                "\\PartyFace[1]\\FaceIndex[6]Nn... ah... ah... uuhn..."
                             ]
                         },
                         {
@@ -6589,21 +6386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少しの痛と凄まじい異物感が少女を襲う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だがそれも口内に注がれたスライム粘液の催淫効果により"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐ別の感覚に塗りつぶされてしまった。"
+                                "A little pain and an intense sense of intrusion assaulted\nthe girl. But that too was quickly painted over by another\nsensation due to the aphrodisiac effect of the slime mucus\npoured into her mouth."
                             ]
                         },
                         {
@@ -6614,14 +6397,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あんっ、ふぁああっ！"
+                                "\\PartyFace[1]\\FaceIndex[6]Ahn, faaah!"
                             ]
                         },
                         {
@@ -6632,14 +6415,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]なにこれっ、気持ちいいっ！"
+                                "\\PartyFace[1]\\FaceIndex[6]What is this, it feels so good!"
                             ]
                         },
                         {
@@ -6657,14 +6440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今まで感じたことのない強烈な快楽に思考が白く染まっていく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もはや自分が何をされているのかも理解できなくなっていた。"
+                                "Overwhelmed by an intense pleasure she had never felt\nbefore, Kohane's thoughts turned white. She could no longer\ncomprehend what was being done to her."
                             ]
                         },
                         {
@@ -6682,14 +6458,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]やっ、イクっ、ほんとにイッちゃうううぅ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]No, I'm going to cum, I'm really going to cummm!"
                             ]
                         },
                         {
@@ -6762,14 +6538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絶頂を迎えた瞬間、膣内に入っていた触手が粘液を吐き出した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "熱い奔流が子宮を満たしていく感覚にまたしても軽い絶頂を迎えてしまうKOHANE。"
+                                "At the moment of climax, the tentacle inside her released\nits mucus. The hot torrent filled her womb, causing Kohane\nto reach a light climax once again."
                             ]
                         },
                         {
@@ -6787,14 +6556,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あ…あ…ぁ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ah... ah... ah..."
                             ]
                         },
                         {
@@ -6812,14 +6581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "急激な絶頂で意識が朦朧とするKOHANE。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし胎内に吐き出された粘液は身体の中から更なる劣情を引き起こす。"
+                                "With a sudden climax, Kohane's consciousness grew hazy.\nHowever, the mucus expelled inside her stirred up even more\ndepraved desires from within."
                             ]
                         },
                         {
@@ -6830,14 +6592,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]いやっ、おなかの中…あついよぉ…こんなの変になるぅぅ"
+                                "\\PartyFace[1]\\FaceIndex[6]No, inside my stomach... it's hot... this is going to make\nme weird..."
                             ]
                         },
                         {
@@ -6855,14 +6617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "否定する気持ちとは無関係に疼き始める下腹部を鎮めるべく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無意識のうちに自らも腰を動かし始める。"
+                                "Regardless of her denying feelings, the throbbing in her\nlower abdomen began, and unconsciously she started moving\nher hips to calm it down."
                             ]
                         },
                         {
@@ -6910,14 +6665,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]だめなのに……こんなことしちゃダメなはずなのにぃ……！"
+                                "\\PartyFace[1]\\FaceIndex[6]It's wrong... I shouldn't be doing this kind of thing...!"
                             ]
                         },
                         {
@@ -6935,14 +6690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼女の理性は既に快楽に呑み込まれてしまっていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっと気持ちよくなりたいという欲望が湧き上がってくる。"
+                                "Her reason had already been swallowed by pleasure. A desire\nto feel even better welled up within her."
                             ]
                         },
                         {
@@ -6960,14 +6708,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ああっ！すごいっ！またイクッ、イッちゃうぅっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Aaah! Amazing! I'm going to cum again, I'm cumming!"
                             ]
                         },
                         {
@@ -7003,7 +6751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絶頂を迎えそうになった瞬間、突然スライムの動きが止まる。"
+                                "Just as she was about to climax, the slime's movements\nsuddenly stopped."
                             ]
                         },
                         {
@@ -7021,14 +6769,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]んえっ……なんで……？"
+                                "\\PartyFace[1]\\FaceIndex[6]Nnh? Why...?"
                             ]
                         },
                         {
@@ -7046,7 +6794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あと少しというところでお預けを食らい、切なげに声を上げるKOHANE。"
+                                "Given a tease just before the end, Kohane let out a longing\nvoice."
                             ]
                         },
                         {
@@ -7064,14 +6812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな少女に応えるようにスライムは蠢き、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一旦口内から離れていた触手が再び近づく。"
+                                "In response to the girl, the slime writhed and the tentacle\nthat had momentarily left her mouth approached again."
                             ]
                         },
                         {
@@ -7089,7 +6830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "同時に尻穴にも触手を伸ばし、一気に貫いた。"
+                                "At the same time, another tentacle stretched towards her\nanal opening and penetrated it all at once."
                             ]
                         },
                         {
@@ -7162,14 +6903,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふぐううううううっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Fuguuuuuuu!!"
                             ]
                         },
                         {
@@ -7187,14 +6928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本来出口である場所を押し広げて入ってくるスライム触手。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同時に口を塞がれて一瞬呼吸が止まるKOHANE。"
+                                "The slime tentacle forced its way into what was originally\nan exit. As her mouth was sealed again, Kohane's breath\nstopped for a moment."
                             ]
                         },
                         {
@@ -7212,7 +6946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その顔は涙と涎でぐちゃぐちゃになっていた。"
+                                "Her face was a mess with tears and drool."
                             ]
                         },
                         {
@@ -7230,14 +6964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "３つの穴で触手を受け入れてしまった少女を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一気に堕とすべく、スライムは蠢き始める。"
+                                "To completely corrupt the girl who had accepted tentacles in\nall three holes, the slime began to writhe."
                             ]
                         },
                         {
@@ -7285,14 +7012,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふううっ、うっ、んんんんっ、うぐううっ！"
+                                "\\PartyFace[1]\\FaceIndex[6]Fuuuh, ugh, mmmmm, uguuuu!"
                             ]
                         },
                         {
@@ -7310,14 +7037,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふ、うううううっ、うっ、んんんんっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Fu, uuuuuu, ugh, mmmmm!!"
                             ]
                         },
                         {
@@ -7328,14 +7055,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]こんなのホントにダメーーーっ！"
+                                "\\PartyFace[1]\\FaceIndex[6]This is really bad---!"
                             ]
                         },
                         {
@@ -7353,14 +7080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "口と胸、そして尻穴と胎内を同時に責められて、全身を駆け巡る強すぎる快楽に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "KOHANEの心が砕かれていく。"
+                                "Being assaulted simultaneously in her mouth, breasts, anal\nopening, and womb, Kohane's heart was shattered by the\noverwhelming pleasure that raced through her entire body."
                             ]
                         },
                         {
@@ -7371,14 +7091,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]こんなの耐えられない……！"
+                                "\\PartyFace[1]\\FaceIndex[6]I can't endure this...!"
                             ]
                         },
                         {
@@ -7396,21 +7116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今まで感じたことのない感覚に戸惑いながらも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "身体は正直に反応してしまう。秘所からは愛液が流れ出し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太ももを伝って床に水溜りを作っていた。"
+                                "While confused by sensations she had never felt before, her\nbody honestly reacted. Love juices flowed from her privates,\nrunning down her thighs and forming a puddle on the floor."
                             ]
                         },
                         {
@@ -7433,14 +7139,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]んんっ！んっ、んっ、んんっーーーー！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Mmmh! Mmh, mmh, mmmm----!!"
                             ]
                         },
                         {
@@ -7451,14 +7157,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]気持ち良すぎて…何も考えられない…"
+                                "\\PartyFace[1]\\FaceIndex[6]It feels too good... I can't think of anything..."
                             ]
                         },
                         {
@@ -7476,7 +7182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もはや理性など欠片も残っておらず、ただ目の前の快楽に身を委ねる。"
+                                "No longer retaining even a fragment of reason, she simply\nsurrendered herself to the pleasure before her."
                             ]
                         },
                         {
@@ -7487,14 +7193,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ああっ！気持ちいいよぉぉっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Aaah! It feels so good!!"
                             ]
                         },
                         {
@@ -7512,14 +7218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "KOHANEの限界を感じ取ったスライム触手は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "口内と腸内、膣内で同時に蠢き、大量の粘液を放出する。"
+                                "Sensing Kohane's limit, the slime tentacles writhed\nsimultaneously inside her mouth, intestines, and vagina,\nreleasing a large amount of mucus."
                             ]
                         },
                         {
@@ -7592,14 +7291,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]んぶっ！？んんっ、んんーーーー！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Nmbuu!? Mmmm, mmmm----!!"
                             ]
                         },
                         {
@@ -7610,14 +7309,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]熱いのいっぱい出てりゅぅっ！イクッ、イッちゃううぅっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]So much hot stuff is coming out! I'm cumming, I'm gonna\ncum!!"
                             ]
                         },
                         {
@@ -7635,14 +7334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "身体の内外から粘液を浴びせられながら果ててしまうKOHANE。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それと同時に少女の意識は深い闇へと沈んでいった。"
+                                "While being drenched in mucus from inside and out, Kohane\nclimaxed and at the same time, her consciousness sank into\ndeep darkness."
                             ]
                         },
                         {

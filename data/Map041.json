@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "研究所1F管理室",
+    "displayName": "Research Lab 1F Control Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -3366,14 +3366,14 @@
                                 5,
                                 0,
                                 2,
-                                "ユーリ・オルロフ"
+                                "Yuri Orlov"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうも。"
+                                "Hello."
                             ]
                         },
                         {
@@ -3384,14 +3384,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]こんにちはー！"
+                                "\\PartyFace[1]\\FaceIndex[1]Hello-!"
                             ]
                         },
                         {
@@ -3402,14 +3402,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]\\{って誰！？"
+                                "\\PartyFace[1]\\FaceIndex[11]Who's there!?"
                             ]
                         },
                         {
@@ -3420,21 +3420,14 @@
                                 5,
                                 0,
                                 2,
-                                "ユーリ・オルロフ"
+                                "Yuri Orlov"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…申し遅れました。私は\\C[2]ユーリ・オルロフ\\C[0]と申します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "以後お見知りおきを。"
+                                "...My apologies for the late introduction. My name is\n\\C[2]Yuri Orlov\\C[0]. Please remember me."
                             ]
                         },
                         {
@@ -3445,21 +3438,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]あ、どうも、天川こはねです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔法少女セラフィエールやってます。"
+                                "\\PartyFace[1]\\FaceIndex[2]Oh, hello, I'm Amagawa Kohane. I'm the magical girl\nSeraphiel."
                             ]
                         },
                         {
@@ -3470,21 +3456,14 @@
                                 5,
                                 0,
                                 2,
-                                "ユーリ・オルロフ"
+                                "Yuri Orlov"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "噂は聞いています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ガーディアンズの期待の星だとか…"
+                                "I've heard rumors about you. The rising star of the\nGuardians, they say..."
                             ]
                         },
                         {
@@ -3504,14 +3483,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]期待の星だなんてそんなぁ～"
+                                "\\PartyFace[1]\\FaceIndex[1]Rising star? Oh, you flatter me~"
                             ]
                         },
                         {
@@ -3522,21 +3501,14 @@
                                 5,
                                 0,
                                 2,
-                                "ユーリ・オルロフ"
+                                "Yuri Orlov"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしよろしければ私の提供する商品をご覧になられますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっと貴方のお役に立てると思いますよ。"
+                                "If you don't mind, would you like to take a look at the\nproducts I offer? I'm sure they can be of use to you."
                             ]
                         },
                         {
@@ -3547,14 +3519,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]商品？"
+                                "\\PartyFace[1]\\FaceIndex[2]Products?"
                             ]
                         },
                         {
@@ -3565,21 +3537,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…ユーリ・オルロフ…聞いたことがある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "神出鬼没の商人で、ガーディアンズ相手に装備を売りつけてくるって…"
+                                "...Yuri Orlov... I've heard of him. A mysterious merchant\nwho appears out of nowhere and sells equipment to the\nGuardians..."
                             ]
                         },
                         {
@@ -3590,14 +3555,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]へぇ…ガーディアンズのサポーターみたいな人かな？"
+                                "\\PartyFace[1]\\FaceIndex[2]Wow... So he's like a supporter for the Guardians?"
                             ]
                         },
                         {
@@ -3608,21 +3573,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それが…正体は一切わからないらしくて…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも品物は一級品ばかりだとか…"
+                                "The thing is... no one knows his true identity... but they\nsay all his goods are top-notch..."
                             ]
                         },
                         {
@@ -3633,28 +3591,14 @@
                                 5,
                                 0,
                                 2,
-                                "ユーリ・オルロフ"
+                                "Yuri Orlov"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや…その通信機器は…独自に改良されているようですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ベースはうちの商品ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつもご利用ありがとうございます。"
+                                "Oh... that communication device... It seems to be uniquely\nmodified, but the base is our product. Thank you for your\ncontinued patronage."
                             ]
                         },
                         {
@@ -3665,14 +3609,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]へぇ…そうなんだ…すごい人なんだね…"
+                                "\\PartyFace[1]\\FaceIndex[2]Wow... really... He must be an amazing person..."
                             ]
                         },
                         {
@@ -3692,28 +3636,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]ってちょっと待って！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうやってここまで来たの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっき倒した人達もいなくなってるし…"
+                                "\\PartyFace[1]\\FaceIndex[11]Wait a minute! How did you get here? And where did all the\npeople we defeated go...?"
                             ]
                         },
                         {
@@ -3724,21 +3654,14 @@
                                 5,
                                 0,
                                 2,
-                                "ユーリ・オルロフ"
+                                "Yuri Orlov"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それは企業秘密です…が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…倒れていた監視員達はサービスで片づけておきました。"
+                                "That's a corporate secret... However, I've taken care of the\nfallen guards as a service."
                             ]
                         },
                         {
@@ -3749,21 +3672,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[8]片づけておいたって…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一体何処にやったんだろう…"
+                                "\\PartyFace[1]\\FaceIndex[8]Taken care of them... I wonder where he put them..."
                             ]
                         },
                         {
@@ -3774,14 +3690,14 @@
                                 5,
                                 0,
                                 2,
-                                "ユーリ・オルロフ"
+                                "Yuri Orlov"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "知らない方が良いこともあるのですよ。"
+                                "There are things better left unknown."
                             ]
                         },
                         {
@@ -3792,14 +3708,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[8]…あまり深くつっこまない方が良さそうだね。"
+                                "\\PartyFace[1]\\FaceIndex[8]...It seems better not to dig too deep into this."
                             ]
                         },
                         {
@@ -3810,14 +3726,14 @@
                                 5,
                                 0,
                                 2,
-                                "ユーリ・オルロフ"
+                                "Yuri Orlov"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それでは商談といきましょうか。"
+                                "Shall we proceed with the business then?"
                             ]
                         },
                         {
@@ -3828,14 +3744,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]商談って言っても、わたし今お金持ってないよ？"
+                                "\\PartyFace[1]\\FaceIndex[2]Even if you say business, I don't have any money right now?"
                             ]
                         },
                         {
@@ -3846,14 +3762,14 @@
                                 5,
                                 0,
                                 2,
-                                "ユーリ・オルロフ"
+                                "Yuri Orlov"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫です。私の商品は\\C[2]ガーディアンズポイント\\C[0]で交換が可能です。"
+                                "No problem. My products can be exchanged for \\C[2]Guardians\nPoints\\C[0]."
                             ]
                         },
                         {
@@ -3864,14 +3780,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]\\C[2]ガーディアンズポイント？\\C[0]"
+                                "\\PartyFace[1]\\FaceIndex[2]\\C[2]Guardians Points?\\C[0]"
                             ]
                         },
                         {
@@ -3882,28 +3798,14 @@
                                 5,
                                 0,
                                 2,
-                                "ユーリ・オルロフ"
+                                "Yuri Orlov"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたの活躍によって加算されていくガーディアンズの評価ポイントです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私のショップはガーディアンズとの契約により、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのポイントでのお支払いに対応しています。"
+                                "They are evaluation points that accumulate based on your\nachievements as a Guardian. My shop supports payment with\nthose points under a contract with the Guardians."
                             ]
                         },
                         {
@@ -3914,14 +3816,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]えっ？じゃあわたしが活躍したらいっぱい商品と交換できるってこと？"
+                                "\\PartyFace[1]\\FaceIndex[1]Eh? So if I do well, I can exchange lots of products?"
                             ]
                         },
                         {
@@ -3932,21 +3834,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…こはねちゃん…ガーディアンズポイントはわたし達の報酬の評価ポイントだから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たぶん使いすぎたらガーディアンズからの報酬が減っちゃうと思うな…"
+                                "...Kohane-chan... Guardians Points are our performance\nevaluation rewards, so if we use too many, our compensation\nfrom the Guardians might decrease..."
                             ]
                         },
                         {
@@ -3966,14 +3861,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]マジですか！？ということは結局自腹ってことじゃん！"
+                                "\\PartyFace[1]\\FaceIndex[11]Seriously!? So in the end, it's like paying out of my own\npocket!"
                             ]
                         },
                         {
@@ -3984,14 +3879,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…そうなるね。"
+                                "...That's how it seems."
                             ]
                         },
                         {
@@ -4002,21 +3897,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]むぅ…報酬が減るのは嫌だけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "背に腹は代えられないというか…"
+                                "\\PartyFace[1]\\FaceIndex[4]Mmm... I don't want my rewards to decrease, but... desperate\ntimes call for desperate measures..."
                             ]
                         },
                         {
@@ -4027,21 +3915,14 @@
                                 5,
                                 0,
                                 2,
-                                "ユーリ・オルロフ"
+                                "Yuri Orlov"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ご利用いただくかどうか、決まりましたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつでもお声をお掛けください。"
+                                "Whenever you decide whether to use our services or not,\nplease feel free to call on me."
                             ]
                         },
                         {
@@ -4135,21 +4016,14 @@
                                 5,
                                 0,
                                 2,
-                                "ユーリ・オルロフ"
+                                "Yuri Orlov"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ようこそ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今扱っている商品はこちらです。"
+                                "Welcome. These are the products we currently have on offer."
                             ]
                         },
                         {
@@ -4179,21 +4053,14 @@
                                 5,
                                 0,
                                 2,
-                                "ユーリ・オルロフ"
+                                "Yuri Orlov"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あらあら、そのような恰好で寒くないのかしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うちの商品で神霊力を回復してローブを再生することをおススメするわ。"
+                                "Oh my, aren't you cold dressed like that? I recommend using\nour products to restore your spiritual power and regenerate\nyour robe."
                             ]
                         },
                         {
@@ -4223,21 +4090,14 @@
                                 5,
                                 0,
                                 2,
-                                "ユーリ・オルロフ"
+                                "Yuri Orlov"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…さすがにその恰好でうろつくのはどうかと思うわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "早くローブを再生することね。"
+                                "...I really think wandering around dressed like that is\nquestionable. Please regenerate your robe quickly."
                             ]
                         },
                         {
@@ -4267,21 +4127,14 @@
                                 5,
                                 0,
                                 2,
-                                "ユーリ・オルロフ"
+                                "Yuri Orlov"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あら、素敵な恰好ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そういうプレイがお好みなのかしら。"
+                                "Oh, what a lovely outfit. Is that the kind of play you\nprefer?"
                             ]
                         },
                         {
@@ -4309,14 +4162,14 @@
                                 5,
                                 0,
                                 2,
-                                "ユーリ・オルロフ"
+                                "Yuri Orlov"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "またのご利用お待ちしております。"
+                                "We look forward to serving you again."
                             ]
                         },
                         {
@@ -4455,14 +4308,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…なるほど、わかったよ。"
+                                "...I see, I got it."
                             ]
                         },
                         {
@@ -4473,14 +4326,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]どうすればいいの？"
+                                "\\PartyFace[1]\\FaceIndex[2]What should we do?"
                             ]
                         },
                         {
@@ -4491,21 +4344,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エレベーターを動かすためのセキュリティーキーを持っている人が５人いるから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その人達全員からキーをもらわないとダメっぽいね。"
+                                "There are five people who have the security keys to operate\nthe elevator, so we need to get keys from all of them, it\nseems."
                             ]
                         },
                         {
@@ -4516,14 +4362,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[8]めんどくさい建物だねぇ。"
+                                "\\PartyFace[1]\\FaceIndex[8]What a troublesome building."
                             ]
                         },
                         {
@@ -4534,21 +4380,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それだけ情報漏洩には気を使ってるってことだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一体この施設を作った人は何をたくらんでいるんだろう…"
+                                "It just shows how much they care about information leaks. I\nwonder what the person who created this facility is\nplotting..."
                             ]
                         },
                         {
@@ -4559,21 +4398,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]何にせよ、女の子にひどいことをする奴なんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぶっ飛ばすだけだけどね！"
+                                "\\PartyFace[1]\\FaceIndex[4]Anyway, anyone who does terrible things to girls deserves to\nbe sent flying!"
                             ]
                         },
                         {
@@ -4584,28 +4416,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そのためにも、まずは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[2]1階から3階に\\C[1]5人\\C[2]セキュリティーキーを持っている人がいる\\C[0]から、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その人達からキーを集めてね。"
+                                "For that reason, first, from the \\C[2]1st to 3rd\nfloors\\C[1], there are \\C[2]5 people with security\nkeys\\C[0]. Let's collect the keys from them."
                             ]
                         },
                         {
@@ -4616,14 +4434,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]りょーかーい！"
+                                "\\PartyFace[1]\\FaceIndex[2]Roger that!"
                             ]
                         },
                         {
@@ -4634,21 +4452,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、そうそう、その子だけど…組織も警備を強化しているみたいだし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "護りながら戦うのも危険だと思うから、ここで待っててもらったらどうかな？"
+                                "Oh, right, about that girl... The organization seems to have\nstrengthened their security, so it might be dangerous to\nfight while protecting her. How about she waits here?"
                             ]
                         },
                         {
@@ -4659,21 +4470,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここならわたしがセキュリティを書き換えたからしばらくは大丈夫だと思うし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いざとなったら…"
+                                "I've rewritten the security here, so it should be safe for a\nwhile, and if it comes down to it..."
                             ]
                         },
                         {
@@ -4731,14 +4535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしかして…私にこの子の護衛をさせるつもりかしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言っておくけど、私逃げ足しか自信ないわよ。"
+                                "Are you suggesting... that I should be the one to escort\nher? Just so you know, I'm only confident in my ability to\nrun away."
                             ]
                         },
                         {
@@ -4789,14 +4586,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[8]逃げ足は自信あるんだ…確かに神出鬼没だもんね…"
+                                "\\PartyFace[1]\\FaceIndex[8]You're confident in your ability to escape... You really are\nelusive..."
                             ]
                         },
                         {
@@ -4807,21 +4604,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いえ、いざとなったらその子を連れて逃げてもらえたらと思って。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…もちろんその時はわたしが報酬を支払います。"
+                                "No, I was thinking that if it comes down to it, you could\ntake her and run away... Of course, I'll pay you for it at\nthat time."
                             ]
                         },
                         {
@@ -4832,14 +4622,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]さすがひさなちゃん！"
+                                "\\PartyFace[1]\\FaceIndex[0]That's our Hisana-chan!"
                             ]
                         },
                         {
@@ -4857,7 +4647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そういうことなら…構わないわよ。"
+                                "If that's the case... I don't mind."
                             ]
                         },
                         {
@@ -4868,14 +4658,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]という訳だから、アミィちゃんはここで待っててくれる？"
+                                "\\PartyFace[1]\\FaceIndex[0]So with that settled, Amy-chan, will you wait here for us?"
                             ]
                         },
                         {
@@ -4924,7 +4714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん、お姉さんはちょっと怖いけど…ここで待ってるよ。"
+                                "Yeah, big sister is a bit scary but... I'll wait here."
                             ]
                         },
                         {
@@ -4951,7 +4741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私が…怖い…ガーン"
+                                "I'm... scary... *sigh*"
                             ]
                         },
                         {
@@ -5155,7 +4945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {
@@ -5233,7 +5023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "がんばってね、お姉ちゃん。"
+                                "Do your best, big sister."
                             ]
                         },
                         {
@@ -5253,14 +5043,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]ああんっ！可愛いっ！きゅうううん！"
+                                "\\PartyFace[1]\\FaceIndex[2]Aaahn! So cute! Kyuuuun!"
                             ]
                         },
                         {

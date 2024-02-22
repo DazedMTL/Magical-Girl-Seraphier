@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "研究所B1F中央",
+    "displayName": "Research Lab B1F Central",
     "encounterList": [],
     "encounterStep": 30,
     "height": 34,
@@ -7009,14 +7009,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]開いてない！"
+                                "\\PartyFace[1]\\FaceIndex[2]It's not open!"
                             ]
                         },
                         {
@@ -7027,14 +7027,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "西通路の謎を解いたらここの扉が開くってことだね。"
+                                "So, solving the mystery of the west passage will open this\ndoor, huh."
                             ]
                         },
                         {
@@ -7104,21 +7104,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]謎解くのめんどくさいなぁ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チラッ、チラッ"
+                                "\\PartyFace[1]\\FaceIndex[0]Solving puzzles is such a hassle... *glances around*"
                             ]
                         },
                         {
@@ -7129,21 +7122,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…協力者は居た方がいいと思うから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "素直に謎を解いて開けた方がいいと思うけど、どうするの？"
+                                "...I think it's better to have a collaborator, so I suggest\nwe solve the puzzle honestly and open it, but what will you\ndo?"
                             ]
                         },
                         {
@@ -7151,8 +7137,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "謎を解いて開ける！",
-                                    "今開けてもらう！"
+                                    "Solve the puzzle and open it!",
+                                    "Open it for me now!"
                                 ],
                                 0,
                                 0,
@@ -7176,14 +7162,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それがいいと思うよ！"
+                                "I think that's a good idea!"
                             ]
                         },
                         {
@@ -7207,14 +7193,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "本当にいいのね？"
+                                "Are you really okay with that?"
                             ]
                         },
                         {
@@ -7222,8 +7208,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "やめとく",
-                                    "開けてもらう"
+                                    "I'll stop.",
+                                    "Go ahead and open it."
                                 ],
                                 0,
                                 0,
@@ -7247,14 +7233,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "それがいいと思うよ！"
+                                "I think that's a good idea!"
                             ]
                         },
                         {
@@ -7278,21 +7264,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "のんびりしている時間も無いし…仕方ないか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "研究員さん…ごめんなさい…"
+                                "We don't have time to relax... Can't be helped...\nResearcher-san... I'm sorry..."
                             ]
                         },
                         {
@@ -7693,14 +7672,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………"
+                                "..."
                             ]
                         },
                         {
@@ -7711,14 +7690,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい、開いたよ。"
+                                "Yes, it's open now."
                             ]
                         },
                         {
@@ -7729,14 +7708,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]さっすがー！"
+                                "\\PartyFace[1]\\FaceIndex[1]As expected!"
                             ]
                         },
                         {
@@ -8985,14 +8964,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]今は急いで\\c[2]屋上\\c[0]に行こう！"
+                                "\\PartyFace[1]\\FaceIndex[4]Let's hurry to the \\c[2]rooftop\\c[0] now!"
                             ]
                         },
                         {
@@ -9308,14 +9287,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]今は急いで\\c[2]屋上\\c[0]に行こう！"
+                                "\\PartyFace[1]\\FaceIndex[4]Let's hurry to the \\c[2]rooftop\\c[0] now!"
                             ]
                         },
                         {
@@ -9631,14 +9610,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]今は急いで\\c[2]屋上\\c[0]に行こう！"
+                                "\\PartyFace[1]\\FaceIndex[4]Let's hurry to the \\c[2]rooftop\\c[0] now!"
                             ]
                         },
                         {
@@ -9954,14 +9933,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]今は急いで\\c[2]屋上\\c[0]に行こう！"
+                                "\\PartyFace[1]\\FaceIndex[4]Let's hurry to the \\c[2]rooftop\\c[0] now!"
                             ]
                         },
                         {
@@ -10048,7 +10027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {
@@ -17051,14 +17030,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]さすがにこれ以上進んだら気付かれそう…"
+                                "\\PartyFace[1]\\FaceIndex[2]If I go any further, I'll probably get noticed..."
                             ]
                         },
                         {
@@ -17262,14 +17241,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]さすがにこれ以上進んだら気付かれそう…"
+                                "\\PartyFace[1]\\FaceIndex[2]If I go any further, I'll probably get noticed..."
                             ]
                         },
                         {
@@ -18597,14 +18576,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]あ！"
+                                "\\PartyFace[1]\\FaceIndex[2]Ah!"
                             ]
                         },
                         {
@@ -18674,14 +18653,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしたの？"
+                                "What's wrong?"
                             ]
                         },
                         {
@@ -18702,14 +18681,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]なんか本格的に武装した人がいっぱいいる！"
+                                "\\PartyFace[1]\\FaceIndex[2]There are a bunch of people armed to the teeth!"
                             ]
                         },
                         {
@@ -18720,21 +18699,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監視システムは弄っているけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さすがにこれだけ動き回ってたら警戒されちゃうか…"
+                                "I've been tampering with the surveillance system, but...\nwith this much activity, we're bound to raise suspicion..."
                             ]
                         },
                         {
@@ -18755,14 +18727,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]全員ぶっ飛ばせばいいかな？"
+                                "\\PartyFace[1]\\FaceIndex[1]Should we just knock them all out?"
                             ]
                         },
                         {
@@ -18773,14 +18745,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まて！"
+                                "Wait!"
                             ]
                         },
                         {
@@ -18791,14 +18763,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]わんっ！"
+                                "\\PartyFace[1]\\FaceIndex[1]Woof!"
                             ]
                         },
                         {
@@ -18831,14 +18803,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]\\{って犬じゃないし！！"
+                                "\\PartyFace[1]\\FaceIndex[11]I'm not a dog, though!!"
                             ]
                         },
                         {
@@ -18849,21 +18821,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さすがに武装した兵士をたくさん相手にするのは危険だから…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦わずに済むならその方がいいと思う。"
+                                "It's too dangerous to take on so many armed soldiers... If\nwe can avoid fighting, that would be better."
                             ]
                         },
                         {
@@ -18874,14 +18839,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さっき管理室でこのフロアを調べてみたんだけど…"
+                                "I checked this floor in the control room earlier..."
                             ]
                         },
                         {
@@ -18902,14 +18867,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "東側と…"
+                                "On the east side and..."
                             ]
                         },
                         {
@@ -18930,14 +18895,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "西側の通路を使えば北に抜けられると思う。"
+                                "If we use the corridors on the west side, I think we can get\nout to the north."
                             ]
                         },
                         {
@@ -18958,14 +18923,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]わかった！"
+                                "\\PartyFace[1]\\FaceIndex[1]Got it!"
                             ]
                         },
                         {
@@ -19653,14 +19618,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]さすがにこれ以上進んだら気付かれそう…"
+                                "\\PartyFace[1]\\FaceIndex[2]If I go any further, I'll probably get noticed..."
                             ]
                         },
                         {
@@ -20894,14 +20859,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]さすがにこれ以上進んだら気付かれそう…"
+                                "\\PartyFace[1]\\FaceIndex[2]If I go any further, I'll probably get noticed..."
                             ]
                         },
                         {
@@ -21074,14 +21039,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]さすがにこれ以上進んだら気付かれそう…"
+                                "\\PartyFace[1]\\FaceIndex[2]If I go any further, I'll probably get noticed..."
                             ]
                         },
                         {
@@ -21254,14 +21219,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]さすがにこれ以上進んだら気付かれそう…"
+                                "\\PartyFace[1]\\FaceIndex[2]If I go any further, I'll probably get noticed..."
                             ]
                         },
                         {
@@ -21434,14 +21399,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]さすがにこれ以上進んだら気付かれそう…"
+                                "\\PartyFace[1]\\FaceIndex[2]If I go any further, I'll probably be noticed..."
                             ]
                         },
                         {
@@ -21614,14 +21579,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]さすがにこれ以上進んだら気付かれそう…"
+                                "\\PartyFace[1]\\FaceIndex[2]If I go any further, I'll probably get noticed..."
                             ]
                         },
                         {
@@ -21825,14 +21790,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]さすがにこれ以上進んだら気付かれそう…"
+                                "\\PartyFace[1]\\FaceIndex[2]If we go any further, we'll probably get noticed..."
                             ]
                         },
                         {
@@ -22036,14 +22001,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]さすがにこれ以上進んだら気付かれそう…"
+                                "\\PartyFace[1]\\FaceIndex[2]If I go any further, I'll probably be noticed..."
                             ]
                         },
                         {
@@ -22247,14 +22212,14 @@
                                 2,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわっ、なんだ君は！？"
+                                "Whoa, who are you!?"
                             ]
                         },
                         {
@@ -22265,21 +22230,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]え!? なんだチミはってか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうです、私が変な魔法少女です！"
+                                "\\PartyFace[1]\\FaceIndex[1]Eh!? What do you mean who am I! Yes, I'm the weird magical\ngirl!"
                             ]
                         },
                         {
@@ -22290,14 +22248,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]\\{ってなんでやねん！"
+                                "\\PartyFace[1]\\FaceIndex[11]What's that supposed to mean!"
                             ]
                         },
                         {
@@ -22308,14 +22266,14 @@
                                 2,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………"
+                                "..."
                             ]
                         },
                         {
@@ -22326,14 +22284,14 @@
                                 2,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしかして君かね、さっきから『侵入者』がどうとかで騒がれているのは。"
+                                "Could it be you? The \"intruder\" everyone's been fussing\nabout since a while ago."
                             ]
                         },
                         {
@@ -22344,14 +22302,14 @@
                                 2,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究の邪魔さえしなければ私にはどうでもいいが…"
+                                "As long as you don't interfere with my research, I don't\nreally care..."
                             ]
                         },
                         {
@@ -22362,14 +22320,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]あのー、邪魔はしないので、ちょっとそこを通してもらえると嬉しいんですけど。"
+                                "\\PartyFace[1]\\FaceIndex[1]Um, I won't get in the way, so I'd be happy if you could let\nme through here."
                             ]
                         },
                         {
@@ -22380,21 +22338,14 @@
                                 2,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "生憎だが、今ここの扉は故障していてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "修理している最中なんだよ。"
+                                "Unfortunately, this door is broken at the moment. We're in\nthe middle of fixing it."
                             ]
                         },
                         {
@@ -22405,14 +22356,14 @@
                                 2,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "北側に抜けたいなら東の通路を通ってくれ。"
+                                "If you want to get out on the north side, please go through\nthe passage to the east."
                             ]
                         },
                         {
@@ -22482,21 +22433,14 @@
                                 2,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "生憎だが、今ここの扉は故障していてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "修理している最中なんだよ。"
+                                "Unfortunately, the door here is currently out of order.\nWe're in the middle of fixing it."
                             ]
                         },
                         {
@@ -22507,14 +22451,14 @@
                                 2,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "北側に抜けたいなら東の通路を通ってくれ。"
+                                "If you want to get to the north side, please go through the\npassage to the east."
                             ]
                         },
                         {
@@ -22687,21 +22631,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警戒されている中でもちゃんと謎を解いて来たようだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうやら実力は本物みたいだ。"
+                                "It seems you've managed to solve the mystery despite being\non guard. It looks like your abilities are the real deal."
                             ]
                         },
                         {
@@ -22712,14 +22649,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "約束通り調査に協力しよう。"
+                                "As promised, I'll cooperate with the investigation."
                             ]
                         },
                         {
@@ -22730,28 +22667,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "早速だけど情報だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この先に居るガードドローンは僕が開発した\\C[2]神霊力リフレクター\\C[0]を装備している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "展開されると\\C[2]神霊力による攻撃\\C[0]が\\C[2]全て反射\\C[0]されてしまう。"
+                                "This is urgent information. The Guard Drone ahead is\nequipped with a \\C[2]Spirit Power Reflector\\C[0] that I\ndeveloped. Once deployed, it will \\C[2]reflect all attacks\nusing spirit power\\C[0]."
                             ]
                         },
                         {
@@ -22762,14 +22685,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこで、これを君にあげよう。"
+                                "So, I'll give this to you."
                             ]
                         },
                         {
@@ -22802,21 +22725,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは神霊力リフレクターの動作を強制停止させる装置だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これを使えば、魔法攻撃を反射させずに済む。"
+                                "This device forcibly stops the operation of the Spirit Power\nReflector. With this, you can attack with magic without it\nbeing reflected."
                             ]
                         },
                         {
@@ -22827,14 +22743,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]ありがとう！"
+                                "\\PartyFace[1]\\FaceIndex[1]Thank you!"
                             ]
                         },
                         {
@@ -22845,14 +22761,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]でもそれならドローン自体を強制停止させる装置とかないの？"
+                                "\\PartyFace[1]\\FaceIndex[2]But if that's the case, isn't there a device that can\nforcibly stop the Drone itself?"
                             ]
                         },
                         {
@@ -22863,21 +22779,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドローンはセキュリティのために配置されているからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "研究員の権限じゃ動作を停止させるまでは出来ないんだ。"
+                                "The Drone is there for security purposes. With a\nresearcher's authority, I can't stop its operation\ncompletely."
                             ]
                         },
                         {
@@ -22888,14 +22797,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]なんだ、残念！"
+                                "\\PartyFace[1]\\FaceIndex[2]What a shame!"
                             ]
                         },
                         {
@@ -22906,21 +22815,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕達もここに閉じ込められている状態だからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ドローンを倒して１階への道を切り開いて欲しい。"
+                                "We're also trapped here. I want you to defeat the Drone and\nopen the way to the first floor."
                             ]
                         },
                         {
@@ -22931,14 +22833,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]がんばってみる！"
+                                "\\PartyFace[1]\\FaceIndex[4]I'll do my best!"
                             ]
                         },
                         {
@@ -22949,14 +22851,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "期待してるよ、天川こはねちゃん。"
+                                "I'm counting on you, Amagawa Kohane-chan."
                             ]
                         },
                         {
@@ -23045,14 +22947,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "期待してるよ、天川こはねちゃん。"
+                                "I'm counting on you, Amagawa Kohane-chan."
                             ]
                         },
                         {

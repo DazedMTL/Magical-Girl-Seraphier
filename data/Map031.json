@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "何もない部屋（東）",
+    "displayName": "Empty Room (East)",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -3305,7 +3305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {
@@ -3443,14 +3443,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]何もない！！"
+                                "\\PartyFace[1]\\FaceIndex[2]There's nothing here!!"
                             ]
                         },
                         {
@@ -3461,21 +3461,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うーん、これはこの部屋自体を覚えておけばいいのかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "細かい模様とかまで覚える必要は無さそうだけど。"
+                                "Hmm, maybe we just need to remember the room itself. It\ndoesn't seem necessary to remember every little pattern."
                             ]
                         },
                         {
@@ -3486,21 +3479,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]…よし！覚えた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…ひさなちゃんが。"
+                                "\\PartyFace[1]\\FaceIndex[1]...Alright! I've got it! ...Because Hisana-chan did."
                             ]
                         },
                         {
@@ -3511,14 +3497,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分で覚える気ゼロかい！"
+                                "You have absolutely no intention of remembering it yourself,\nhuh?!"
                             ]
                         },
                         {

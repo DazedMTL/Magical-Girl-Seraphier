@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "特別監禁室前通路",
+    "displayName": "Special Confinement Room Front Passage",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -9642,7 +9642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "連行シーンをスキップしますか？"
+                                "Would you like to skip the escort scene?"
                             ]
                         },
                         {
@@ -9650,8 +9650,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9712,7 +9712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セーレに捕われ、縄で縛られたまま、KOHANEは連行されていく。"
+                                "Caught by Seraphier and bound with ropes, Kohane is being\nled away."
                             ]
                         },
                         {
@@ -9810,14 +9810,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]また…あそこに連れていかれるの…もうやだぁ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Not... there again... I can't take it anymore..."
                             ]
                         },
                         {
@@ -9906,14 +9906,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]う…うぅ…どこに…連れていかれるの？"
+                                "\\PartyFace[1]\\FaceIndex[6]Uh...uhh...where are...you taking me?"
                             ]
                         },
                         {
@@ -10183,7 +10183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さすがはセーレさん、ガーディアンズの魔法少女を捕縛するとは！"
+                                "As expected of Seraphier-san, to capture a Guardian's\nmagical girl!"
                             ]
                         },
                         {
@@ -10201,14 +10201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オレ達もセーレさんがその娘に『お仕置き』するところを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見せてもらっても宜しいですか？"
+                                "May we also watch Seraphier-san \"punish\" the girl?"
                             ]
                         },
                         {
@@ -10289,14 +10282,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（やだ…こんな恥ずかしい姿…見られてるよぉ…）"
+                                "\\PartyFace[1]\\FaceIndex[6](No... this embarrassing sight... they're all watching...)"
                             ]
                         },
                         {
@@ -10387,14 +10380,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（いやあ…もう見ないでぇ…）"
+                                "\\PartyFace[1]\\FaceIndex[6](No... please don't look anymore...)"
                             ]
                         },
                         {
@@ -10664,14 +10657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お嬢ちゃん、捕まったのがセーレさんで良かったなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人以外に捕まってたらどうなってたことか。"
+                                "You're lucky to have been caught by Seraphier-san, young\nlady! Who knows what would've happened if it were someone\nelse."
                             ]
                         },
                         {
@@ -10752,14 +10738,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（やぁ…こんなの恥ずかしいよぉ…）"
+                                "\\PartyFace[1]\\FaceIndex[6](No... this is so embarrassing...)"
                             ]
                         },
                         {
@@ -10850,14 +10836,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（は…早く逃げなきゃ…）"
+                                "\\PartyFace[1]\\FaceIndex[6](I have to escape quickly...)"
                             ]
                         },
                         {
@@ -11127,14 +11113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それにしても可愛い子だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんな子を好きにできるなんて、セーレさんが羨ましいぜ。"
+                                "She's such a cute girl. I'm envious of Seraphier-san for\nbeing able to do whatever he wants with her."
                             ]
                         },
                         {
@@ -11204,14 +11183,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（ん…っ…ダメ…拘束がキツくて…逃げられない…）"
+                                "\\PartyFace[1]\\FaceIndex[6](Nngh... It's no use... The restraints are too tight... I\ncan't escape...)"
                             ]
                         },
                         {

@@ -27,10 +27,10 @@
         ],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "セラフィエール",
+        "name": "Seraphier",
         "nickname": "",
         "note": "<コマンド:攻撃,1, ,1565>\n<コマンド:スキル/杖魔法,2, ,1552>\n<コマンド:スキル/詠唱魔法,3, ,1567>\n<コマンド:スキル/特殊行動,4, ,1575>\n<コマンド:防御,5, ,1569>\n<コマンド:アイテム,6, ,1761>\n<コマンド:逃げる,70, ,82>",
-        "profile": "天川光羽（てんかわこはね）魔法少女やってます。"
+        "profile": "Amagawa Kohane: \"I'm a magical girl.\""
     },
     {
         "id": 2,
@@ -59,10 +59,10 @@
         ],
         "initialLevel": 1,
         "maxLevel": 1,
-        "name": "天川こはね",
+        "name": "Amagawa Kohane",
         "nickname": "魔法少女",
         "note": "<コマンド:スキル/特殊行動,4, ,1575>\n<コマンド:防御,5, ,1569>\n<コマンド:アイテム,6, ,1761>\n<コマンド:スキル/5,7>",
-        "profile": "天川光羽（てんかわこはね）魔法少女やってます。"
+        "profile": "Amagawa Kohane: \"I'm a magical girl.\""
     },
     {
         "id": 3,
@@ -82,10 +82,10 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "犬",
+        "name": "Dog",
         "nickname": "犬",
         "note": "",
-        "profile": "犬"
+        "profile": "Dog"
     },
     {
         "id": 4,
@@ -114,10 +114,10 @@
         ],
         "initialLevel": 1,
         "maxLevel": 1,
-        "name": "天川こはね",
+        "name": "Amagawa Kohane",
         "nickname": "魔法少女",
         "note": "<コマンド:スキル/特殊行動,4, ,1575>\n<コマンド:防御,5, ,1569>\n<コマンド:アイテム,6, ,1761>\n<コマンド:スキル/5,7>",
-        "profile": "天川光羽（てんかわこはね）魔法少女やってます。"
+        "profile": "Amagawa Kohane: \"I'm a magical girl.\""
     },
     {
         "id": 5,
@@ -146,10 +146,10 @@
         ],
         "initialLevel": 1,
         "maxLevel": 1,
-        "name": "天川こはね",
+        "name": "Amagawa Kohane",
         "nickname": "魔法少女",
         "note": "<コマンド:スキル/特殊行動,4, ,1575>\n<コマンド:防御,5, ,1569>\n<コマンド:アイテム,6, ,1761>\n<コマンド:スキル/5,7>",
-        "profile": "天川光羽（てんかわこはね）魔法少女やってます。"
+        "profile": "Amagawa Kohane: \"I'm a magical girl.\""
     },
     {
         "id": 6,
@@ -169,10 +169,10 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "アミィ",
+        "name": "Amy",
         "nickname": "少女",
         "note": "",
-        "profile": "研究所にいた女の子"
+        "profile": "The girl in the laboratory"
     },
     {
         "id": 7,

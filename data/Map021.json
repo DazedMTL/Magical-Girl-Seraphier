@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下牢",
+    "displayName": "Underground Prison",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -8118,7 +8118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉は固く閉ざされている。"
+                                "The door is firmly shut."
                             ]
                         },
                         {
@@ -8129,14 +8129,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[4]絶対…助けてあげるからね…"
+                                "\\PartyFace[2]\\FaceIndex[4]I will definitely... save you..."
                             ]
                         },
                         {
@@ -8226,7 +8226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉は固く閉ざされている。"
+                                "The door is firmly shut."
                             ]
                         },
                         {
@@ -8344,21 +8344,14 @@
                                 6,
                                 0,
                                 2,
-                                "女の子"
+                                "Girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから出して！！家に帰して！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう…あんなこと…いやなの…"
+                                "Let me out of here!! Take me home!! I can't stand... that\nsort of thing... anymore..."
                             ]
                         },
                         {
@@ -8369,14 +8362,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[4]ごめんね…待っててね…"
+                                "\\PartyFace[2]\\FaceIndex[4]I'm sorry... please wait..."
                             ]
                         },
                         {
@@ -8466,7 +8459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉は固く閉ざされている。"
+                                "The door is firmly shut."
                             ]
                         },
                         {
@@ -8477,14 +8470,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[4]絶対…助けてあげるからね…"
+                                "\\PartyFace[2]\\FaceIndex[4]I will definitely... save you..."
                             ]
                         },
                         {
@@ -8574,7 +8567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉は固く閉ざされている。"
+                                "The door is firmly shut."
                             ]
                         },
                         {
@@ -8585,14 +8578,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[4]絶対…助けてあげるからね…"
+                                "\\PartyFace[2]\\FaceIndex[4]I will definitely... save you..."
                             ]
                         },
                         {
@@ -8682,7 +8675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉は固く閉ざされている。"
+                                "The door is firmly shut."
                             ]
                         },
                         {
@@ -8693,14 +8686,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[4]絶対…助けてあげるからね…"
+                                "\\PartyFace[2]\\FaceIndex[4]I will definitely... save you..."
                             ]
                         },
                         {
@@ -8790,7 +8783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉は固く閉ざされている。"
+                                "The door is firmly shut."
                             ]
                         },
                         {
@@ -8801,21 +8794,14 @@
                                 6,
                                 0,
                                 2,
-                                "女の子"
+                                "Girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふ…ふ…何でもするから…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く…気持ちいいことして…ふふふ…"
+                                "Hehe...hah...I'll do anything...hurry...make me feel\ngood...hehehe..."
                             ]
                         },
                         {
@@ -8826,14 +8812,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[4]………"
+                                "\\PartyFace[2]\\FaceIndex[4]..."
                             ]
                         },
                         {
@@ -9567,7 +9553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {

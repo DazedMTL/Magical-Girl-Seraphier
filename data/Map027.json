@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "研究所B1F東通路",
+    "displayName": "Research Lab B1F East Corridor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 34,
@@ -19592,7 +19592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにもうトラップはないようだ。"
+                                "It seems there are no more traps in this area."
                             ]
                         },
                         {
@@ -22831,7 +22831,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "バインドガードが拘束トラップを防いだ！"
+                                "Bind Guard prevented the restraint trap!"
                             ]
                         },
                         {
@@ -22851,14 +22851,14 @@
                                 10,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぶなかったなー。気を付けないと。"
+                                "That was close... We need to be more careful."
                             ]
                         },
                         {
@@ -23417,7 +23417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いきなり出現したベルトに拘束されてしまった！"
+                                "Suddenly, a belt appeared and restrained me!"
                             ]
                         },
                         {
@@ -23759,21 +23759,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]ふぅ…あぶなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "罠には気を付けないとだね。"
+                                "\\PartyFace[1]\\FaceIndex[0]Phew... That was close. We need to be careful of traps, huh?"
                             ]
                         },
                         {
@@ -23784,14 +23777,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ホントだよ…"
+                                "Really..."
                             ]
                         },
                         {
@@ -26716,14 +26709,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしたの！？"
+                                "What's wrong!?"
                             ]
                         },
                         {
@@ -26734,14 +26727,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]なんか、嫌な感じのが来る！"
+                                "\\PartyFace[1]\\FaceIndex[4]Somehow, I have a bad feeling about this!"
                             ]
                         },
                         {
@@ -26876,14 +26869,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]何？あの強そうなの…"
+                                "\\PartyFace[1]\\FaceIndex[4]What? That one looks strong..."
                             ]
                         },
                         {
@@ -26894,21 +26887,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "相手も本気で捕まえに来てるってことかな…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見かけたら無理に戦わずに逃げた方が良さそうだね。"
+                                "It seems like they're seriously trying to catch us... If we\nsee them, it might be better to escape rather than fight\nunnecessarily."
                             ]
                         },
                         {
@@ -26926,28 +26912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<center>\\C[2]【追跡者について1】\\C[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マップ上に出現する追跡者は、常にセラフィエールを追いかけてきます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "追跡者は、そのエリアの敵よりも遥かに高い戦闘力を持っているため、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レベルが低いうちは戦わない方が賢明です。"
+                                "<center>\\C[2]【About Pursuers 1】\\C[0]Pursuers that appear on\nthe map will always chase after Seraphier. Since pursuers\nhave far greater combat power than other enemies in the\narea, it is wise not to engage them if your level is\nlow.</center>"
                             ]
                         },
                         {
@@ -26974,21 +26939,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<center>\\C[2]【追跡者について2】\\C[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "追跡者との戦闘で敗北すると、敗北Ｈシーンに移行します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "発見したら事前にセーブしておくことをお勧めします。</center>"
+                                "<center>\\C[2]【About Pursuers 2】\\C[0]If you are defeated in\nbattle by a pursuer, you will enter a defeat H-scene. It is\nrecommended to save in advance if you spot one.</center>"
                             ]
                         },
                         {
@@ -27374,14 +27325,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしたの！？"
+                                "What's wrong!?"
                             ]
                         },
                         {
@@ -27392,14 +27343,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]なんか、嫌な感じのが来る！"
+                                "\\PartyFace[1]\\FaceIndex[4]Somehow, I have a bad feeling about this!"
                             ]
                         },
                         {
@@ -27534,14 +27485,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]何？あの強そうなの…"
+                                "\\PartyFace[1]\\FaceIndex[4]What? That one looks strong..."
                             ]
                         },
                         {
@@ -27552,21 +27503,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "相手も本気で捕まえに来てるってことかな…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見かけたら無理に戦わずに逃げた方が良さそうだね。"
+                                "It seems like they're seriously trying to catch us... If we\nsee them, it might be better to escape rather than fight\nunnecessarily."
                             ]
                         },
                         {
@@ -27584,28 +27528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<center>\\C[2]【追跡者について1】\\C[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マップ上に出現する追跡者は、常にセラフィエールを追いかけてきます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "追跡者は、そのエリアの敵よりも遥かに高い戦闘力を持っているため、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レベルが低いうちは戦わない方が賢明です。"
+                                "<center>\\C[2]【About Pursuers 1】\\C[0]Pursuers that appear on\nthe map will always chase after Seraphier. Since pursuers\nhave far greater combat power than other enemies in the\narea, it is wise not to engage them if your level is\nlow.</center>"
                             ]
                         },
                         {
@@ -27632,21 +27555,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<center>\\C[2]【追跡者について2】\\C[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "追跡者との戦闘で敗北すると、敗北Ｈシーンに移行します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "発見したら事前にセーブしておくことをお勧めします。</center>"
+                                "<center>\\C[2]【About Pursuers 2】\\C[0]If you are defeated in\nbattle by a pursuer, you will enter a defeat H-scene. It is\nrecommended to save in advance if you spot one.</center>"
                             ]
                         },
                         {
@@ -28046,14 +27955,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしたの！？"
+                                "What's wrong!?"
                             ]
                         },
                         {
@@ -28064,14 +27973,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]なんか、嫌な感じのが来る！"
+                                "\\PartyFace[1]\\FaceIndex[4]Somehow, I have a bad feeling about this!"
                             ]
                         },
                         {
@@ -28206,14 +28115,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]何？あの強そうなの…"
+                                "\\PartyFace[1]\\FaceIndex[4]What? That one looks strong..."
                             ]
                         },
                         {
@@ -28224,21 +28133,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "相手も本気で捕まえに来てるってことかな…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見かけたら無理に戦わずに逃げた方が良さそうだね。"
+                                "It seems like they're seriously trying to catch us... If we\nsee them, it might be better to escape rather than fight\nunnecessarily."
                             ]
                         },
                         {
@@ -28256,28 +28158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<center>\\C[2]【追跡者について1】\\C[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マップ上に出現する追跡者は、常にセラフィエールを追いかけてきます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "追跡者は、そのエリアの敵よりも遥かに高い戦闘力を持っているため、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レベルが低いうちは戦わない方が賢明です。"
+                                "<center>\\C[2]【About Pursuers 1】\\C[0]Pursuers that appear on\nthe map will always chase after Seraphier. Since pursuers\nhave far greater combat power than other enemies in the\narea, it is wise not to engage them if your level is low."
                             ]
                         },
                         {
@@ -28304,21 +28185,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<center>\\C[2]【追跡者について2】\\C[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "追跡者との戦闘で敗北すると、敗北Ｈシーンに移行します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "発見したら事前にセーブしておくことをお勧めします。</center>"
+                                "<center>\\C[2]【About Pursuers 2】\\C[0]If you are defeated in\nbattle by a pursuer, you will enter a defeat H-scene. It is\nrecommended to save in advance if you spot one.</center>"
                             ]
                         },
                         {
@@ -28575,14 +28442,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やあ、君がウワサの魔法少女だね。"
+                                "Hey, you must be the rumored magical girl."
                             ]
                         },
                         {
@@ -28593,14 +28460,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]あら、わたしってば有名人？"
+                                "\\PartyFace[1]\\FaceIndex[0]Oh, am I a celebrity?"
                             ]
                         },
                         {
@@ -28611,21 +28478,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "神霊力で世界を護る組織、ガーディアンズを創設した"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "伝説の双子の娘さん…だよね？"
+                                "The daughter of the legendary twins who founded the\nGuardians, an organization that protects the world with\nspiritual power... right?"
                             ]
                         },
                         {
@@ -28636,14 +28496,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[3]なぁんだ。やっぱり有名なのはおかーさんたちの方か。"
+                                "\\PartyFace[1]\\FaceIndex[3]Ah, I see. It's really my mothers who are famous."
                             ]
                         },
                         {
@@ -28654,28 +28514,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは神霊力の研究を行う名目で世界中から科学者が集められた場所なんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "対神霊力用の装備を作らされたり、地下では少女達を使って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪しい実験を行っているっていううわさもある。"
+                                "This place is where scientists from all over the world are\ngathered under the pretense of researching spiritual power.\nThere are rumors that they're forced to create equipment for\nanti-spiritual power and conduct suspicious experiments\nusing girls in the basement."
                             ]
                         },
                         {
@@ -28686,21 +28532,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だから、いつかはガーディアンズが調査に来るんじゃないかと思っていたけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか君みたいなエースが来るなんて驚いたよ。"
+                                "So, I thought the Guardians might come to investigate\nsomeday, but I'm surprised that an ace like you would show\nup."
                             ]
                         },
                         {
@@ -28711,14 +28550,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]エースだなんてそんなぁ♪"
+                                "\\PartyFace[1]\\FaceIndex[1]An ace? Oh, you flatter me♪"
                             ]
                         },
                         {
@@ -28729,14 +28568,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ところで、他の仲間はどこにいるんだい？"
+                                "By the way, where are your companions?"
                             ]
                         },
                         {
@@ -28747,14 +28586,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]…仲間？"
+                                "\\PartyFace[1]\\FaceIndex[0]...Companions?"
                             ]
                         },
                         {
@@ -28765,14 +28604,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしかして、一人で乗り込んで来たのかい！？"
+                                "Don't tell me you came here all by yourself!?"
                             ]
                         },
                         {
@@ -28783,14 +28622,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガーディアンズの魔法少女は無謀なのかバカなのか…"
+                                "Are the magical girls of the Guardians reckless or just\nfoolish..."
                             ]
                         },
                         {
@@ -28801,14 +28640,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]何か言った？"
+                                "\\PartyFace[1]\\FaceIndex[2]Did you say something?"
                             ]
                         },
                         {
@@ -28819,21 +28658,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、何でもない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕も怪しい研究に加担はしたくないからね、君の調査に協力させてもらうよ。"
+                                "No, nothing. I don't want to be part of any suspicious\nresearch either, so I'll cooperate with your investigation."
                             ]
                         },
                         {
@@ -28844,14 +28676,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]ありがとう！"
+                                "\\PartyFace[1]\\FaceIndex[1]Thank you!"
                             ]
                         },
                         {
@@ -28862,21 +28694,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただし、協力した上で調査失敗して、僕が組織に追及されるのは困るからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し君の実力を試させてもらえないかな。"
+                                "However, if I help you and the investigation fails, and then\nI get pursued by the organization, that would be a problem.\nWould you mind if I test your abilities a little?"
                             ]
                         },
                         {
@@ -28887,21 +28712,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この通路は\\C[2]東\\C[0]と\\C[2]西\\C[0]で全く\\C[2]反対\\C[0]のレイアウトになっていてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "空き部屋を利用してちょっとした謎を仕掛けさせてもらった。"
+                                "This corridor is laid out in completely opposite directions\nto the east and west. I've set up a little puzzle using some\nempty rooms."
                             ]
                         },
                         {
@@ -28912,35 +28730,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まず各通路にはそれぞれ４つの部屋があるんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[2]東通路\\C[0]の\\C[2]【A】【B】【C】\\C[0]と書かれた部屋の中を覚えて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[2]西通路\\C[0]の\\C[2]【A】【B】【C】\\C[0]と書かれた部屋の謎を解いて欲しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあ簡単な間違い探しだね。"
+                                "First, there are four rooms in each corridor. Remember\nwhat's inside the rooms marked 【A】【B】【C】 in the east\ncorridor, and solve the puzzles in the rooms marked\n【A】【B】【C】 in the west corridor. It's just a simple spot-the-\ndifference game."
                             ]
                         },
                         {
@@ -28951,14 +28748,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[8]うわ、めんどくさ！"
+                                "\\PartyFace[1]\\FaceIndex[8]Ugh, what a pain!"
                             ]
                         },
                         {
@@ -28969,28 +28766,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…正直な子だね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもこれをクリア出来たら北の扉が開くように設定してあるから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先に進みたければチャレンジしてもらわないとね。"
+                                "...You're quite honest. But if you clear this, the door to\nthe north will open. If you want to move forward, you'll\nhave to take on the challenge."
                             ]
                         },
                         {
@@ -29001,14 +28784,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]（ひさなちゃんに開けてもらえばいい気がする）"
+                                "\\PartyFace[1]\\FaceIndex[0](I feel like Hisana-chan could just open it for me.)"
                             ]
                         },
                         {
@@ -29019,21 +28802,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この課題をクリアできたら出来る限りの協力をしよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "がんばってくれ。"
+                                "If you can clear this task, I'll help you as much as I can.\nGood luck."
                             ]
                         },
                         {
@@ -29144,14 +28920,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おや？その子は…一緒に連れていくのかい？"
+                                "Oh? Are you taking that child with you?"
                             ]
                         },
                         {
@@ -29162,14 +28938,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]うん！こんなところにいたら何されるかわからないもんね！"
+                                "\\PartyFace[1]\\FaceIndex[0]Yes! Who knows what could happen to her if she stays here!"
                             ]
                         },
                         {
@@ -29180,14 +28956,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうか…無事に出られるといいね。"
+                                "I see... I hope you can get out safely."
                             ]
                         },
                         {
@@ -29208,21 +28984,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この通路は\\C[2]東\\C[0]と\\C[2]西\\C[0]で全く\\C[2]反対\\C[0]でのレイアウトになっている。"
+                                "Listen, this corridor is laid out in completely\n\\C[2]opposite\\C[0] directions for \\C[2]east\\C[0] and\n\\C[2]west\\C[0]."
                             ]
                         },
                         {
@@ -29233,28 +29002,14 @@
                                 6,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "各通路にはそれぞれ４つの部屋があるんだけど、その中で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[2]東通路\\C[0]の\\C[2]【A】【B】【C】\\C[0]と書かれた部屋の中を覚えて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[2]西通路\\C[0]の\\C[2]【A】【B】【C】\\C[0]と書かれた部屋の謎を解いて欲しい。"
+                                "There are four rooms in each corridor, but remember the\nlayout of the rooms marked \\C[2]【A】【B】【C】\\C[0] in the\n\\C[2]east corridor\\C[0], and solve the mystery of the rooms\nmarked \\C[2]【A】【B】【C】\\C[0] in the \\C[2]west corridor\\C[0]."
                             ]
                         },
                         {
@@ -30562,21 +30317,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まだ見てない部屋があるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確認しておいた方がいいんじゃないかな。"
+                                "There are still rooms we haven't checked. Maybe we should\ntake a look just in case."
                             ]
                         },
                         {
@@ -30877,14 +30625,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしたの？"
+                                "What's wrong?"
                             ]
                         },
                         {
@@ -30895,21 +30643,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]なんだかこの部屋からちょっぴり神霊力を感じる…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかしたら誘拐された子がいるかも…"
+                                "\\PartyFace[1]\\FaceIndex[4]I feel a faint spiritual power coming from this room...\nMaybe one of the kidnapped kids is in here..."
                             ]
                         },
                         {
@@ -30920,14 +30661,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…罠かもしれないから慎重にね。"
+                                "...It might be a trap, so be careful."
                             ]
                         },
                         {
@@ -30938,14 +30679,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]おっけー！"
+                                "\\PartyFace[1]\\FaceIndex[0]Okay!"
                             ]
                         },
                         {
@@ -31348,14 +31089,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしたの？"
+                                "What's wrong?"
                             ]
                         },
                         {
@@ -31366,21 +31107,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]なんだかこの部屋からちょっぴり神霊力を感じる…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかしたら誘拐された子がいるかも…"
+                                "\\PartyFace[1]\\FaceIndex[4]I feel a faint divine power coming from this room... Maybe\none of the kidnapped kids is in here..."
                             ]
                         },
                         {
@@ -31391,14 +31125,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…罠かもしれないから慎重にね。"
+                                "...It might be a trap, so be careful."
                             ]
                         },
                         {
@@ -31409,14 +31143,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]おっけー！"
+                                "\\PartyFace[1]\\FaceIndex[0]Okay!"
                             ]
                         },
                         {
@@ -31833,14 +31567,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしたの？"
+                                "What's wrong?"
                             ]
                         },
                         {
@@ -31851,21 +31585,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]なんだかこの部屋からちょっぴり神霊力を感じる…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかしたら誘拐された子がいるかも…"
+                                "\\PartyFace[1]\\FaceIndex[4]I feel a faint divine power coming from this room... Maybe\none of the kidnapped kids is in here..."
                             ]
                         },
                         {
@@ -31876,14 +31603,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…罠かもしれないから慎重にね。"
+                                "...It could be a trap, so be careful."
                             ]
                         },
                         {
@@ -31894,14 +31621,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]おっけー！"
+                                "\\PartyFace[1]\\FaceIndex[0]Okay!"
                             ]
                         },
                         {

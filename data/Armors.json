@@ -13,7 +13,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "-----鎧系",
+        "name": "-----Armor Series",
         "note": "",
         "params": [
             0,
@@ -30,7 +30,7 @@
     {
         "id": 2,
         "atypeId": 1,
-        "description": "セラフィエールの神霊力制御を補助する機能を持つローブ。",
+        "description": "A robe with a function to assist in the control of Seraphier's divine spirit\npower.",
         "etypeId": 2,
         "traits": [
             {
@@ -45,7 +45,7 @@
             }
         ],
         "iconIndex": 991,
-        "name": "セラフィック・ローブ",
+        "name": "Seraphic Robe",
         "note": "",
         "params": [
             0,
@@ -62,7 +62,7 @@
     {
         "id": 3,
         "atypeId": 1,
-        "description": "こはねが組織から支給されているスマートデバイス。\n一般的な通信機能に加えて神霊力によるリモート操作も可能。",
+        "description": "A smart device issued to Kohane by the organization. In addition to general\ncommunication functions, it can also be remotely operated by divine spirit\npower.",
         "etypeId": 3,
         "traits": [
             {
@@ -72,7 +72,7 @@
             }
         ],
         "iconIndex": 656,
-        "name": "セラフィック・ブレス",
+        "name": "Seraphic Brace",
         "note": "",
         "params": [
             0,
@@ -99,7 +99,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "-----装飾品系",
+        "name": "-----Accessory Series",
         "note": "",
         "params": [
             0,
@@ -116,11 +116,11 @@
     {
         "id": 5,
         "atypeId": 1,
-        "description": "【装飾品】防御力を高めてくれる指輪。",
+        "description": "[Accessory] A ring that enhances defense.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 833,
-        "name": "ガードリング",
+        "name": "Guard Ring",
         "note": "",
         "params": [
             0,
@@ -137,11 +137,11 @@
     {
         "id": 6,
         "atypeId": 1,
-        "description": "【装飾品】防御力を高めてくれる指輪。",
+        "description": "[Accessory] A ring that enhances defense.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 833,
-        "name": "ガードリング+",
+        "name": "Guard Ring+",
         "note": "",
         "params": [
             0,
@@ -158,11 +158,11 @@
     {
         "id": 7,
         "atypeId": 1,
-        "description": "【装飾品】攻撃力を高めてくれる指輪。",
+        "description": "[Accessory] A ring that enhances attack power.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 835,
-        "name": "パワーリング",
+        "name": "Power Ring",
         "note": "",
         "params": [
             0,
@@ -179,11 +179,11 @@
     {
         "id": 8,
         "atypeId": 1,
-        "description": "【装飾品】攻撃力を高めてくれる指輪。",
+        "description": "[Accessory] A ring that enhances attack power.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 835,
-        "name": "パワーリング+",
+        "name": "Power Ring+",
         "note": "",
         "params": [
             0,
@@ -200,11 +200,11 @@
     {
         "id": 9,
         "atypeId": 1,
-        "description": "【装飾品】敏捷性を高めてくれるお守り。",
+        "description": "[Accessory] An amulet that enhances agility.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 836,
-        "name": "スピードリング",
+        "name": "Speed Ring",
         "note": "",
         "params": [
             0,
@@ -221,11 +221,11 @@
     {
         "id": 10,
         "atypeId": 1,
-        "description": "【装飾品】敏捷性を高めてくれる指輪。",
+        "description": "[Accessory] A ring that enhances agility.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 837,
-        "name": "スピードリング+",
+        "name": "Speed Ring+",
         "note": "",
         "params": [
             0,
@@ -242,11 +242,11 @@
     {
         "id": 11,
         "atypeId": 1,
-        "description": "【装飾品】運を高めてくれるお守り。",
+        "description": "[Accessory] An amulet that increases luck.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 838,
-        "name": "ラッキーリング",
+        "name": "Lucky Ring",
         "note": "",
         "params": [
             0,
@@ -263,11 +263,11 @@
     {
         "id": 12,
         "atypeId": 1,
-        "description": "【装飾品】運を高めてくれる指輪。",
+        "description": "[Accessory] A ring that increases luck.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 839,
-        "name": "ラッキーリング+",
+        "name": "Lucky Ring+",
         "note": "",
         "params": [
             0,
@@ -284,11 +284,11 @@
     {
         "id": 13,
         "atypeId": 1,
-        "description": "【装飾品】魔法力を高めてくれるお守り。",
+        "description": "[Accessory] An amulet that boosts magical power.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 840,
-        "name": "マジカルリング",
+        "name": "Magical Ring",
         "note": "",
         "params": [
             0,
@@ -305,11 +305,11 @@
     {
         "id": 14,
         "atypeId": 1,
-        "description": "【装飾品】魔法力を高めてくれる指輪。",
+        "description": "[Accessory] A ring that boosts magical power.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 841,
-        "name": "マジカルリング+",
+        "name": "Magical Ring+",
         "note": "",
         "params": [
             0,
@@ -326,7 +326,7 @@
     {
         "id": 15,
         "atypeId": 1,
-        "description": "【装飾品】魔法使用時のMPの消費を20％抑えてくれるお守り。",
+        "description": "[Accessory] An amulet that reduces MP consumption by 20% during magic use.",
         "etypeId": 4,
         "traits": [
             {
@@ -336,7 +336,7 @@
             }
         ],
         "iconIndex": 843,
-        "name": "マスターリング",
+        "name": "Master Ring",
         "note": "",
         "params": [
             0,
@@ -353,7 +353,7 @@
     {
         "id": 16,
         "atypeId": 1,
-        "description": "【装飾品】魔法使用時のMPの消費を50％抑えてくれる指輪。",
+        "description": "[Accessory] A ring that reduces MP consumption by 50% during magic use.",
         "etypeId": 4,
         "traits": [
             {
@@ -363,7 +363,7 @@
             }
         ],
         "iconIndex": 844,
-        "name": "マスターリング+",
+        "name": "Master Ring+",
         "note": "",
         "params": [
             0,
@@ -380,11 +380,11 @@
     {
         "id": 17,
         "atypeId": 1,
-        "description": "【装飾品】拘束を完全に防いでくれるリング\n※行動不能時には効果無し",
+        "description": "[Accessory] A ring that completely prevents restraint ※No effect when unable to\nact",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 846,
-        "name": "バインドガード",
+        "name": "Bind Guard",
         "note": "",
         "params": [
             0,
@@ -401,11 +401,11 @@
     {
         "id": 18,
         "atypeId": 1,
-        "description": "【装飾品】ローブの破損を完全に防いでくれるリング",
+        "description": "[Accessory] A ring that completely prevents robe damage",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 846,
-        "name": "ローブガード",
+        "name": "Robe Guard",
         "note": "",
         "params": [
             0,
@@ -422,7 +422,7 @@
     {
         "id": 19,
         "atypeId": 1,
-        "description": "【装飾品】痺れ状態を完全に防いでくれるリング",
+        "description": "[Accessory] A ring that completely prevents paralysis",
         "etypeId": 4,
         "traits": [
             {
@@ -432,7 +432,7 @@
             }
         ],
         "iconIndex": 832,
-        "name": "パラライズガード",
+        "name": "Paralyze Guard",
         "note": "",
         "params": [
             0,
@@ -449,11 +449,11 @@
     {
         "id": 20,
         "atypeId": 1,
-        "description": "【装飾品】敵に気付かれなくなる。",
+        "description": "[Accessory] Makes you undetectable to enemies.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 847,
-        "name": "ステルスリング",
+        "name": "Stealth Ring",
         "note": "",
         "params": [
             0,

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下収容施設ゲートB",
+    "displayName": "Underground Containment Facility Gate B",
     "encounterList": [],
     "encounterStep": 32,
     "height": 22,
@@ -4181,7 +4181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {
@@ -4456,14 +4456,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]この先に進むにはアレを倒さないといけないっぽいね。"
+                                "\\PartyFace[1]\\FaceIndex[4]It seems we have to defeat that thing to move forward."
                             ]
                         },
                         {
@@ -4474,21 +4474,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "解析したデータによると、今まで見たのと同型だけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し大型で強力な武器も装備しているみたい…"
+                                "According to the data I analyzed, it's the same type as what\nwe've seen before, but it's a bit larger and seems to be\nequipped with more powerful weapons..."
                             ]
                         },
                         {
@@ -4499,21 +4492,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]強そうだけど、倒さないと先に進めないなら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やるしかないってことだね！"
+                                "\\PartyFace[1]\\FaceIndex[4]It looks strong, but if we have to beat it to proceed, then\nwe've got no choice but to do it!"
                             ]
                         },
                         {
@@ -4524,14 +4510,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "油断だけはしないようにね。"
+                                "Just make sure not to let your guard down."
                             ]
                         },
                         {
@@ -4554,21 +4540,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]わかってる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃあいっくよーーっ！！"
+                                "\\PartyFace[1]\\FaceIndex[4]I know. Here we go--!!"
                             ]
                         },
                         {
@@ -4953,14 +4932,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "一度見た敗北シーンです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "再度見ますか？"
+                                "Would you like to view the defeat scene you've seen once\nagain?"
                             ]
                         },
                         {
@@ -4968,8 +4940,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "見る",
-                                    "見ない"
+                                    "Watch",
+                                    "Don't Watch"
                                 ],
                                 1,
                                 0,
@@ -5247,14 +5219,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]ふぅ…なんとかなったね。"
+                                "\\PartyFace[1]\\FaceIndex[2]Phew... we somehow managed it."
                             ]
                         },
                         {
@@ -5324,21 +5296,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから先はこの地下施設とは別の管理システムになっているから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どんなところかわからないからね。"
+                                "From here on, it's a different management system from this\nunderground facility, so we don't know what kind of place it\nwill be."
                             ]
                         },
                         {
@@ -5408,14 +5373,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]わかってるよぅ…注意して進めって言うんでしょ？"
+                                "\\PartyFace[1]\\FaceIndex[0]I understand... You're saying to proceed with caution,\nright?"
                             ]
                         },
                         {
@@ -5485,21 +5450,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうは言うけど…心配なの…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すごく…嫌な予感がして…"
+                                "That's what I'm saying, but... I'm worried... I have a\nreally bad feeling..."
                             ]
                         },
                         {
@@ -5569,21 +5527,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]大丈夫だって！ひさなちゃんがサポートしてくれたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怖いものなんて何にもないんだから！"
+                                "\\PartyFace[1]\\FaceIndex[1]It's okay! If Hisana-chan is supporting me, there's nothing\nto be afraid of!"
                             ]
                         },
                         {
@@ -5653,14 +5604,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こはねちゃん…"
+                                "Kohane-chan..."
                             ]
                         },
                         {
@@ -5730,21 +5681,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]とにかく、捕まっている子達を早く解放してあげるためにも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここの調査を進めなきゃ…だよ！"
+                                "\\PartyFace[1]\\FaceIndex[4]Anyway, we have to move forward with the investigation here\nto quickly free the captured girls... that's why!"
                             ]
                         },
                         {
@@ -5814,21 +5758,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだね…わたしも精一杯サポートするから…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対無事に帰って来てね。"
+                                "Right... I'll support you with all I've got... Please make\nsure you come back safely."
                             ]
                         },
                         {
@@ -5898,21 +5835,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[9]おっけーい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃあ先に進むとしますか！"
+                                "\\PartyFace[1]\\FaceIndex[9]Okay! Shall we move on then!"
                             ]
                         },
                         {

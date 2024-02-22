@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "特別監禁室",
+    "displayName": "Special Confinement Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -3504,21 +3504,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さぁ、散々暴れまわった悪い子には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お仕置きをしないといけないなぁ。"
+                                "Now, we must punish the naughty child who's been causing so\nmuch trouble."
                             ]
                         },
                         {
@@ -3529,21 +3522,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボスからは好きにしていいと言われているが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さて…どうするか…"
+                                "The boss said I can do as I please... but... what to do..."
                             ]
                         },
                         {
@@ -3560,9 +3546,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "口を責める",
-                                    "お尻を責める",
-                                    "処女を奪う"
+                                    "Focus on her mouth",
+                                    "Focus on her butt",
+                                    "Take her virginity"
                                 ],
                                 -1,
                                 0,
@@ -3662,9 +3648,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "口を責める",
-                                    "お尻を責める",
-                                    "膣を責める"
+                                    "Focus on her mouth",
+                                    "Focus on her butt",
+                                    "Focus on her pussy"
                                 ],
                                 -1,
                                 0,
@@ -4126,14 +4112,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ああ…全部みられてる…こんな格好…やだぁ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ahh... I'm being seen all over... in such an outfit... I\ndon't want this..."
                             ]
                         },
                         {
@@ -4144,21 +4130,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて、魔法少女のお嬢ちゃん…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その小さなお口でご奉仕してもらおうか。"
+                                "Now, little magical girl... let's have you serve me with\nthat small mouth of yours."
                             ]
                         },
                         {
@@ -4169,14 +4148,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ご…ほうし…？"
+                                "\\PartyFace[1]\\FaceIndex[6]Se... serve...?"
                             ]
                         },
                         {
@@ -4192,21 +4171,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くくっ、育ちの良さそうなお嬢ちゃんはそんなこともわからないらしいな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら、これをその口で綺麗にするんだよ！"
+                                "Heh, it seems a well-bred young lady like you doesn't even\nknow about that. Come on, clean this with your mouth!"
                             ]
                         },
                         {
@@ -4385,14 +4357,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]きゃっ！"
+                                "\\PartyFace[1]\\FaceIndex[6]Eek!"
                             ]
                         },
                         {
@@ -4410,14 +4382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男がズボンから取り出したのは、まだ性の知識の少ない少女にとっては"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凶器のようにも見える肉の塊だった。"
+                                "The man pulled out from his pants what appeared to be a lump\nof flesh, which to the girl with little knowledge of sex,\nseemed like a weapon."
                             ]
                         },
                         {
@@ -4428,14 +4393,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]いやっ…それを口でなんて…そんなこと…出来ない…"
+                                "\\PartyFace[1]\\FaceIndex[6]No... to do that with my mouth... I can't do such a thing..."
                             ]
                         },
                         {
@@ -4446,14 +4411,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "出来る出来ないじゃない…やるんだよ！"
+                                "It's not about can or cannot... you will do it!"
                             ]
                         },
                         {
@@ -4471,14 +4436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男は萎縮する少女を叱りつけるように言うと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その頭を掴み、肉塊を一気に口へと押し込んだ。"
+                                "The man scolded the shrinking girl, grabbed her head, and\nthrust the lump of flesh into her mouth all at once."
                             ]
                         },
                         {
@@ -4858,14 +4816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "突然の侵入に少女が戸惑う間も無く、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男は欲望のままに小さな口を割り広げ腰を叩きつける。"
+                                "Before the girl could even be bewildered by the sudden\nintrusion, the man spread her small mouth wide with his\nhips, striking with his desire."
                             ]
                         },
                         {
@@ -4883,7 +4834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "乱暴に喉奥を突かれる苦しさに少女の目からは涙が零れ落ちる。"
+                                "Tears fell from the girl's eyes as she was roughly poked\ndeep in her throat, causing her pain."
                             ]
                         },
                         {
@@ -4894,14 +4845,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいか、歯を立てるんじゃないぞ…"
+                                "Remember, don't use your teeth..."
                             ]
                         },
                         {
@@ -4919,7 +4870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男は勝手なことを口にしながら虚ろな瞳の少女の口を犯していく。"
+                                "The man continued to violate the girl's mouth with vacant\neyes while saying selfish things."
                             ]
                         },
                         {
@@ -4930,14 +4881,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（く…苦しい…よ…もうやめ…て…）"
+                                "\\PartyFace[1]\\FaceIndex[6](It's... suffocating... please... stop...)"
                             ]
                         },
                         {
@@ -4955,14 +4906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女の心の叫びが男に届くはずも無く、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "口への暴力は続く。"
+                                "The girl's inner scream didn't reach the man, and the\nviolence to her mouth continued."
                             ]
                         },
                         {
@@ -4980,7 +4924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やがて…"
+                                "Eventually..."
                             ]
                         },
                         {
@@ -4991,14 +4935,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし…出すぞ…全部飲み込めよ！"
+                                "Alright... I'm going to release it... swallow it all!"
                             ]
                         },
                         {
@@ -5016,14 +4960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう男が口にした瞬間…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男の肉棒が脈打ち、凌辱の証を狭い口内に吐き出した。"
+                                "The moment the man said that, his cock throbbed and he\nejaculated the proof of violation into her narrow mouth."
                             ]
                         },
                         {
@@ -5571,14 +5508,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ…これに懲りたら大人しくしておくことだな！"
+                                "Phew... If you've learned your lesson, behave yourself from\nnow on!"
                             ]
                         },
                         {
@@ -6047,21 +5984,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くく…なかなかいい反応をするじゃないか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら、こんなに濡れているぞ。"
+                                "Heh... you're reacting quite nicely... look how wet you are."
                             ]
                         },
                         {
@@ -6072,14 +6002,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ああ…もう…いやぁ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ah... no more... please no..."
                             ]
                         },
                         {
@@ -6097,14 +6027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "台に鎖で固定されてしまったこはねは、曝け出された裸体を隠すことも出来ずに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男の指による苛烈な愛撫を受けていた。"
+                                "Amagawa Kohane, chained to the platform, could not hide her\nexposed naked body and was subjected to the man's relentless\ncaresses."
                             ]
                         },
                         {
@@ -6115,14 +6038,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほら、中を見せてみろよ…"
+                                "Come on, show me the inside..."
                             ]
                         },
                         {
@@ -6140,7 +6063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男はこはねの陰唇に指を当て…ぐいっと左右に割り広げた！"
+                                "The man placed his fingers on Kohane's labia and spread them\napart forcefully!"
                             ]
                         },
                         {
@@ -6454,14 +6377,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]いや…いやああっ、もう…やめてえぇぇっ"
+                                "\\PartyFace[1]\\FaceIndex[6]No... nooo, stop it, pleaseee!"
                             ]
                         },
                         {
@@ -6472,21 +6395,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綺麗なピンクしているな…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなまっさらなオマ〇コなかなかお目にかかれるものじゃないぞ。"
+                                "Such a pretty pink... It's not often you come across such a\npristine pussy."
                             ]
                         },
                         {
@@ -6497,14 +6413,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]やだぁ…見ないでぇ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Noo... don't look..."
                             ]
                         },
                         {
@@ -6522,14 +6438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぴったり閉じた陰唇を強引に広げられ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "膣内に感じる空気にこはねは身体を震わせた。"
+                                "Her tightly closed labia were forcibly spread apart, and\nKohane shivered as she felt the air inside her vagina."
                             ]
                         },
                         {
@@ -6540,14 +6449,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これならもう挿れても大丈夫そうだなぁ。"
+                                "Looks like it's ready for me to put it in now."
                             ]
                         },
                         {
@@ -6558,14 +6467,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]え…挿れるって…だめ…それだけは絶対にだめぇ！"
+                                "\\PartyFace[1]\\FaceIndex[6]Eh... put it in... no... that's absolutely not okay!"
                             ]
                         },
                         {
@@ -6576,14 +6485,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くくっ、その初々しい反応…たまらねぇなぁ。"
+                                "Heh heh, such an innocent reaction... I can't get enough of\nit."
                             ]
                         },
                         {
@@ -6601,7 +6510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嫌がるこはねの反応を愉しむように男は笑みを浮かべた。"
+                                "The man smiled, enjoying Kohane's reluctant response."
                             ]
                         },
                         {
@@ -6612,14 +6521,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいだろう、なら…こっちを使わせてもらおうか。"
+                                "Alright then, I guess I'll use this instead."
                             ]
                         },
                         {
@@ -6630,14 +6539,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]え…っ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Eh...?"
                             ]
                         },
                         {
@@ -6655,14 +6564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男は無防備なこはねの尻穴にターゲットを定めると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その肉棒を一気に突き立てた！"
+                                "The man targeted the defenseless Kohane's butt and thrust\nhis cock into her all at once!"
                             ]
                         },
                         {
@@ -7035,14 +6937,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]いやあああああっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Nooooooo!!"
                             ]
                         },
                         {
@@ -7053,14 +6955,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くっ…キツくて…いい具合だぞ…"
+                                "Tight... feels good..."
                             ]
                         },
                         {
@@ -7130,14 +7032,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あ…ああ…ぁ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ah... ahh... ah..."
                             ]
                         },
                         {
@@ -7155,14 +7057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女がお腹の奥に異物を飲み込んだ苦しさに嗚咽を漏らすが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなことを構う様子もなく、男は尻穴を突き上げる。"
+                                "The girl choked on sobs from the discomfort of having a\nforeign object deep in her belly, but the man kept thrusting\ninto her butt without care."
                             ]
                         },
                         {
@@ -7232,14 +7127,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ああ…いやぁ…もう…やだああ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ahh... no more... I can't take it..."
                             ]
                         },
                         {
@@ -7257,14 +7152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こはねの懇願も空しく、無慈悲な注送を繰り返す度に小さな尻穴は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男を受け入れるためにその形をほぐれさせていく。"
+                                "Kohane's pleas were in vain as the merciless penetration\ngradually loosened the tightness of her small butt hole to\naccommodate the man."
                             ]
                         },
                         {
@@ -7361,14 +7249,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あ…あう…ぅ…身体が…熱い…よぉ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ah... ah... my body's... so hot..."
                             ]
                         },
                         {
@@ -7386,7 +7274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次第に…こはねの声に甘い音色が混ざり始める。"
+                                "Gradually... a sweet tone began to mix into Kohane's voice."
                             ]
                         },
                         {
@@ -7456,14 +7344,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あ、だめぇ…このままじゃ、私…もうぅ…だめ…だめえええっっ"
+                                "\\PartyFace[1]\\FaceIndex[6]Ah, no... at this rate, I'm... I can't hold on any longer..."
                             ]
                         },
                         {
@@ -7481,7 +7369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やがて…"
+                                "Eventually..."
                             ]
                         },
                         {
@@ -7492,14 +7380,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし…出すぞ…"
+                                "Alright... I'm going to release it..."
                             ]
                         },
                         {
@@ -7517,14 +7405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう男が口にした瞬間…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男の肉棒が脈打ち、同時にこはねの意識も白濁に飲み込まれる。"
+                                "The moment the man spoke, his cock throbbed and at the same\ntime, Kohane's consciousness was engulfed in white haze."
                             ]
                         },
                         {
@@ -8099,14 +7980,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ…これに懲りたら大人しくしておくことだな！"
+                                "Phew... If you've learned your lesson, you better behave\nfrom now on!"
                             ]
                         },
                         {
@@ -8591,21 +8472,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くく…なかなかいい反応をするじゃないか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら、こんなに濡れているぞ。"
+                                "Heh... you're reacting quite nicely... look how wet you are."
                             ]
                         },
                         {
@@ -8616,14 +8490,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ああ…もう…いやぁ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ahh... no more... please no..."
                             ]
                         },
                         {
@@ -8641,14 +8515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "台に鎖で固定されてしまったこはねは、曝け出された裸体を隠すことも出来ずに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男の指による苛烈な愛撫を受けていた。"
+                                "Chained to the platform, Kohane couldn't hide her exposed\nnaked body and was subjected to the man's relentless\ncaresses."
                             ]
                         },
                         {
@@ -8659,14 +8526,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほら、中を見せてみろよ…"
+                                "Come on, show me the inside..."
                             ]
                         },
                         {
@@ -8684,7 +8551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男はこはねの陰唇に指を当て…ぐいっと左右に割り広げた！"
+                                "The man placed his fingers on Kohane's labia and spread them\napart forcefully!"
                             ]
                         },
                         {
@@ -8998,14 +8865,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]いや…いやああっ、もう…やめてえぇぇっ"
+                                "\\PartyFace[1]\\FaceIndex[6]No... noooo, stop it, please stop!"
                             ]
                         },
                         {
@@ -9016,21 +8883,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綺麗なピンクしているな…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなまっさらなオマ〇コなかなかお目にかかれるものじゃないぞ。"
+                                "Such a pretty pink... It's not often you come across such a\npristine pussy."
                             ]
                         },
                         {
@@ -9041,14 +8901,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]やだぁ…見ないでぇ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Nooo... don't look..."
                             ]
                         },
                         {
@@ -9066,14 +8926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぴったり閉じた陰唇を強引に広げられ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "膣内に感じる空気にこはねは身体を震わせた。"
+                                "Her tightly closed labia were forcibly spread apart, and\nKohane shuddered as she felt the air inside her."
                             ]
                         },
                         {
@@ -9084,14 +8937,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これならもう挿れても大丈夫そうだなぁ。"
+                                "Looks like it's ready for me to insert it now."
                             ]
                         },
                         {
@@ -9102,14 +8955,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]え…挿れるって…だめ…それだけは絶対にだめぇ！"
+                                "\\PartyFace[1]\\FaceIndex[6]Eh... insert... no, you can't... that's absolutely not okay!"
                             ]
                         },
                         {
@@ -9120,14 +8973,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くくっ、その初々しい反応…たまらねぇなぁ。"
+                                "Heh, that innocent reaction... I can't get enough of it."
                             ]
                         },
                         {
@@ -9145,7 +8998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嫌がるこはねの反応を愉しむように男は笑みを浮かべた。"
+                                "The man smiled, enjoying Kohane's reluctant response."
                             ]
                         },
                         {
@@ -9265,14 +9118,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほぅら、これが今からここに入るぞ！ようく見ておけよ！"
+                                "Look, this is what's going to enter you now! Make sure you\nwatch closely!"
                             ]
                         },
                         {
@@ -9283,14 +9136,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]…ダメ…これ以上したら、絶対に許さないから！"
+                                "\\PartyFace[1]\\FaceIndex[6]...No... if you do any more, I'll never forgive you!"
                             ]
                         },
                         {
@@ -9301,14 +9154,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…お嬢ちゃん、人にものを頼む時はどうするか…習わなかったのかな？"
+                                "...Little lady, didn't you learn how to ask for something\nfrom someone?"
                             ]
                         },
                         {
@@ -9326,7 +9179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まるで子供に諭すような言い方でニヤニヤしながら男は告げる。"
+                                "Smirking as if lecturing a child, the man spoke."
                             ]
                         },
                         {
@@ -9337,14 +9190,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]…お願いします…挿れないで…ください…"
+                                "\\PartyFace[1]\\FaceIndex[6]...Please... don't insert it... please..."
                             ]
                         },
                         {
@@ -9362,14 +9215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悔しさと惨めさに身体を震わせながら、懇願の言葉を絞りだすこはね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし…"
+                                "Shaking with frustration and misery, Kohane squeezed out her\nplea. However..."
                             ]
                         },
                         {
@@ -9380,14 +9226,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…よし、いいだろう、精一杯優しくしてやるよ！"
+                                "...Alright, that's fine, I'll be as gentle as I can!"
                             ]
                         },
                         {
@@ -9405,7 +9251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男が告げた瞬間！"
+                                "The moment the man declared!"
                             ]
                         },
                         {
@@ -9719,14 +9565,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]いやあああああっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Nooooooo!!"
                             ]
                         },
                         {
@@ -9871,14 +9717,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]わたしのはじめてが…こんなのって…う…うぅ…"
+                                "\\PartyFace[1]\\FaceIndex[6]My first time... like this... no... nooo..."
                             ]
                         },
                         {
@@ -9896,7 +9742,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "無慈悲な処女喪失に、こはねの瞳からは大粒の涙が零れ落ちた。"
+                                "Tears fell from Kohane's eyes as she experienced the\nmerciless loss of her virginity."
                             ]
                         },
                         {
@@ -9907,28 +9753,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "くくく…お前の初めてを奪ったのはオレだ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これから先どんな相手と添い遂げたとしても、それは変わることは無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "よぅくオレの顔を覚えておくんだなぁ。"
+                                "Hehehe... I'm the one who took your first time... No matter\nwho you end up with in the future, that won't change. Make\nsure you remember my face well."
                             ]
                         },
                         {
@@ -9998,14 +9830,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あ…ああ…ぁ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ah... ahh... ah..."
                             ]
                         },
                         {
@@ -10023,7 +9855,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "絶望的な事実を告げる男の言葉が少女の心を抉る。"
+                                "The man's words carved a despairing reality into the girl's\nheart."
                             ]
                         },
                         {
@@ -10044,14 +9876,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし、動くぞ…"
+                                "Alright, I'm going to move..."
                             ]
                         },
                         {
@@ -10289,14 +10121,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ああ…いやぁ…もう…やだああ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ahh... nooo... not anymore... I don't want this..."
                             ]
                         },
                         {
@@ -10314,14 +10146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こはねの懇願も空しく、無慈悲な注送を繰り返す度に狭い膣穴は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男を受け入れるためにその形をほぐれさせていく。"
+                                "Kohane's pleas were in vain as the merciless thrusting\ncontinued, each time loosening her tight vaginal walls to\naccommodate the man."
                             ]
                         },
                         {
@@ -10418,14 +10243,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あっ…あああっ、なんで…体が…おかしいよぉ"
+                                "\\PartyFace[1]\\FaceIndex[6]Ahh... ahhh, why... my body feels... strange..."
                             ]
                         },
                         {
@@ -10443,7 +10268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次第に…こはねの声に甘い音色が混ざり始める。"
+                                "Gradually... sweet tones began to mix into Kohane's voice."
                             ]
                         },
                         {
@@ -10513,14 +10338,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あっ、あっ、あっ…いやぁ、イクぅ…ホントに…イっちゃうぅ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ahh, ah, ah... nooo, I'm going to cum... I'm really going to\ncum..."
                             ]
                         },
                         {
@@ -10538,7 +10363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やがて…"
+                                "Eventually..."
                             ]
                         },
                         {
@@ -10549,14 +10374,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし…出すぞ…"
+                                "Alright... I'm going to release..."
                             ]
                         },
                         {
@@ -10574,14 +10399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう男が口にした瞬間…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男の肉棒が脈打ち、同時にこはねの意識も白濁に飲み込まれる。"
+                                "The moment the man uttered those words... his cock throbbed\nand at the same time, Kohane's consciousness was engulfed in\nwhite haze."
                             ]
                         },
                         {
@@ -11163,14 +10981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絶頂の余韻にビクビクと身体をはねさせるこはねの白い肌に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "白濁液が吐き出される。"
+                                "Kohane's white skin twitched with the afterglow of climax as\nsemen was expelled onto it."
                             ]
                         },
                         {
@@ -11188,7 +10999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒクヒクと痙攣する秘裂からは、ドロドロと凌辱の証が垂れ落ちていた。"
+                                "From her convulsing secret slit, the evidence of her\nviolation dripped down."
                             ]
                         },
                         {
@@ -11199,14 +11010,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…これで終わりだと思ってないだろうな。"
+                                "...You don't think it's over, do you?"
                             ]
                         },
                         {
@@ -11224,7 +11035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男はそう呟くと、再びこはねの身体に手を伸ばした。"
+                                "The man muttered and reached for Kohane's body once again."
                             ]
                         },
                         {
@@ -11497,14 +11308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "口枷を嵌められ、悲鳴を上げることも許されない少女のくぐもった声が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "狭い部屋に反響する…"
+                                "The muffled voice of the girl, who was not allowed to scream\nwith a gag in her mouth, echoed in the cramped room..."
                             ]
                         },
                         {
@@ -11522,7 +11326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男の欲望に任せた過酷な責めは、男が満足するまで続いた…"
+                                "The harsh torment at the mercy of the man's desire continued\nuntil he was satisfied..."
                             ]
                         },
                         {
@@ -12197,21 +12001,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さぁ、散々暴れまわった悪い子には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お仕置きをしないといけないなぁ。"
+                                "Now, we must punish the naughty child who's been causing so\nmuch trouble."
                             ]
                         },
                         {
@@ -12222,21 +12019,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボスからは好きにしていいと言われているが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さて…どうするか…"
+                                "The boss said I can do as I please... but... what to do..."
                             ]
                         },
                         {
@@ -12253,9 +12043,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "口を責める",
-                                    "お尻を責める",
-                                    "処女を奪う"
+                                    "Kiss her passionately",
+                                    "Play with her butt",
+                                    "Take her virginity"
                                 ],
                                 -1,
                                 0,
@@ -12355,9 +12145,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "口を責める",
-                                    "お尻を責める",
-                                    "膣を責める"
+                                    "Focus on her mouth",
+                                    "Focus on her butt",
+                                    "Focus on her pussy"
                                 ],
                                 -1,
                                 0,
@@ -12819,14 +12609,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ああ…全部みられてる…こんな格好…やだぁ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ahh... I'm being seen all over... in such an outfit... I\ndon't want this..."
                             ]
                         },
                         {
@@ -12837,21 +12627,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて、魔法少女のお嬢ちゃん…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その小さなお口でご奉仕してもらおうか。"
+                                "Now, little magical girl... let's have you service me with\nthat small mouth of yours."
                             ]
                         },
                         {
@@ -12862,14 +12645,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ご…ほうし…？"
+                                "\\PartyFace[1]\\FaceIndex[6]Se...service...?"
                             ]
                         },
                         {
@@ -12885,21 +12668,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くくっ、育ちの良さそうなお嬢ちゃんはそんなこともわからないらしいな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら、これをその口で綺麗にするんだよ！"
+                                "Heh, it seems a well-bred young lady like you doesn't even\nknow about that. Here, clean this with your mouth!"
                             ]
                         },
                         {
@@ -13078,14 +12854,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]きゃっ！"
+                                "\\PartyFace[1]\\FaceIndex[6]Eek!"
                             ]
                         },
                         {
@@ -13103,14 +12879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男がズボンから取り出したのは、まだ性の知識の少ない少女にとっては"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凶器のようにも見える肉の塊だった。"
+                                "What the man pulled out from his pants was a chunk of flesh\nthat looked like a weapon to the girl who still had little\nknowledge of sex."
                             ]
                         },
                         {
@@ -13121,14 +12890,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]いやっ…それを口でなんて…そんなこと…出来ない…"
+                                "\\PartyFace[1]\\FaceIndex[6]No... to do that with my mouth... I can't do such a thing..."
                             ]
                         },
                         {
@@ -13139,14 +12908,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "出来る出来ないじゃない…やるんだよ！"
+                                "It's not about can or cannot... you will do it!"
                             ]
                         },
                         {
@@ -13164,14 +12933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男は萎縮する少女を叱りつけるように言うと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その頭を掴み、肉塊を一気に口へと押し込んだ。"
+                                "The man scolded the shrinking girl, grabbed her head, and\nthrust the chunk of flesh into her mouth all at once."
                             ]
                         },
                         {
@@ -13551,14 +13313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "突然の侵入に少女が戸惑う間も無く、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男は欲望のままに小さな口を割り広げ腰を叩きつける。"
+                                "Before the girl could even be bewildered by the sudden\nintrusion, the man spread her small mouth wide with his hips\nslamming against her."
                             ]
                         },
                         {
@@ -13576,7 +13331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "乱暴に喉奥を突かれる苦しさに少女の目からは涙が零れ落ちる。"
+                                "The harshness of being violently poked in the back of her\nthroat made tears spill from the girl's eyes."
                             ]
                         },
                         {
@@ -13587,14 +13342,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいか、歯を立てるんじゃないぞ…"
+                                "Remember, don't use your teeth..."
                             ]
                         },
                         {
@@ -13612,7 +13367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男は勝手なことを口にしながら虚ろな瞳の少女の口を犯していく。"
+                                "The man continued to violate the girl's mouth with vacant\neyes while saying whatever he pleased."
                             ]
                         },
                         {
@@ -13623,14 +13378,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（く…苦しい…よ…もうやめ…て…）"
+                                "\\PartyFace[1]\\FaceIndex[6](It's... suffocating... please... stop...)"
                             ]
                         },
                         {
@@ -13648,14 +13403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女の心の叫びが男に届くはずも無く、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "口への暴力は続く。"
+                                "The girl's inner scream had no chance of reaching the man,\nand the violence to her mouth continued."
                             ]
                         },
                         {
@@ -13673,7 +13421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やがて…"
+                                "Eventually..."
                             ]
                         },
                         {
@@ -13684,14 +13432,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし…出すぞ…全部飲み込めよ！"
+                                "Alright... I'm going to release it... swallow it all!"
                             ]
                         },
                         {
@@ -13709,14 +13457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう男が口にした瞬間…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男の肉棒が脈打ち、凌辱の証を狭い口内に吐き出した。"
+                                "The moment the man uttered those words... his cock throbbed\nand ejaculated the proof of violation into her narrow mouth."
                             ]
                         },
                         {
@@ -14264,14 +14005,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ…これに懲りたら大人しくしておくことだな！"
+                                "Phew... If you've learned your lesson, be a good girl and\nstay quiet!"
                             ]
                         },
                         {
@@ -14740,21 +14481,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くく…なかなかいい反応をするじゃないか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら、こんなに濡れているぞ。"
+                                "Heh... you're reacting quite nicely... Look, you're so wet\nalready."
                             ]
                         },
                         {
@@ -14765,14 +14499,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ああ…もう…いやぁ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ah... no more... please no..."
                             ]
                         },
                         {
@@ -14790,14 +14524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "台に鎖で固定されてしまったこはねは、曝け出された裸体を隠すことも出来ずに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男の指による苛烈な愛撫を受けていた。"
+                                "Amagawa Kohane, chained to the platform, could not hide her\nexposed naked body and was subjected to the man's relentless\ncaress."
                             ]
                         },
                         {
@@ -14808,14 +14535,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほら、中を見せてみろよ…"
+                                "Come on, show me the inside..."
                             ]
                         },
                         {
@@ -14833,7 +14560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男はこはねの陰唇に指を当て…ぐいっと左右に割り広げた！"
+                                "The man placed his fingers on Kohane's labia and spread them\napart forcefully!"
                             ]
                         },
                         {
@@ -15147,14 +14874,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]いや…いやああっ、もう…やめてえぇぇっ"
+                                "\\PartyFace[1]\\FaceIndex[6]No... nooo, stop it... please stop!"
                             ]
                         },
                         {
@@ -15165,21 +14892,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綺麗なピンクしているな…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなまっさらなオマ〇コなかなかお目にかかれるものじゃないぞ。"
+                                "Such a pretty pink... It's not often you come across such a\npristine pussy."
                             ]
                         },
                         {
@@ -15190,14 +14910,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]やだぁ…見ないでぇ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Noo... don't look..."
                             ]
                         },
                         {
@@ -15215,14 +14935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぴったり閉じた陰唇を強引に広げられ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "膣内に感じる空気にこはねは身体を震わせた。"
+                                "Her tightly closed labia were forcibly spread apart, and\nKohane shivered as she felt the air inside her vagina."
                             ]
                         },
                         {
@@ -15233,14 +14946,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これならもう挿れても大丈夫そうだなぁ。"
+                                "Looks like it's ready for me to put it in now."
                             ]
                         },
                         {
@@ -15251,14 +14964,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]え…挿れるって…だめ…それだけは絶対にだめぇ！"
+                                "\\PartyFace[1]\\FaceIndex[6]Eh... put it in... no, you can't... that's absolutely not\nokay!"
                             ]
                         },
                         {
@@ -15269,14 +14982,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くくっ、その初々しい反応…たまらねぇなぁ。"
+                                "Haha, that innocent reaction... I can't get enough of it."
                             ]
                         },
                         {
@@ -15294,7 +15007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嫌がるこはねの反応を愉しむように男は笑みを浮かべた。"
+                                "The man smiled, enjoying Kohane's reluctant response."
                             ]
                         },
                         {
@@ -15305,14 +15018,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいだろう、なら…こっちを使わせてもらおうか。"
+                                "Alright then, I guess I'll use this instead."
                             ]
                         },
                         {
@@ -15323,14 +15036,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]え…っ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Eh...?"
                             ]
                         },
                         {
@@ -15348,14 +15061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男は無防備なこはねの尻穴にターゲットを定めると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その肉棒を一気に突き立てた！"
+                                "The man targeted Kohane's defenseless butt and thrust his\ncock into her all at once!"
                             ]
                         },
                         {
@@ -15728,14 +15434,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]いやあああああっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Nooooooo!!"
                             ]
                         },
                         {
@@ -15746,14 +15452,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くっ…キツくて…いい具合だぞ…"
+                                "Tight... feels good..."
                             ]
                         },
                         {
@@ -15823,14 +15529,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あ…ああ…ぁ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ah... ahh... ah..."
                             ]
                         },
                         {
@@ -15848,14 +15554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女がお腹の奥に異物を飲み込んだ苦しさに嗚咽を漏らすが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなことを構う様子もなく、男は尻穴を突き上げる。"
+                                "The girl choked on sobs from the discomfort of the foreign\nobject deep in her belly, but the man kept thrusting into\nher butt without care."
                             ]
                         },
                         {
@@ -15925,14 +15624,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ああ…いやぁ…もう…やだああ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ahh... no more... I can't take it..."
                             ]
                         },
                         {
@@ -15950,14 +15649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こはねの懇願も空しく、無慈悲な注送を繰り返す度に小さな尻穴は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男を受け入れるためにその形をほぐれさせていく。"
+                                "Kohane's pleas were in vain as the merciless penetration\ngradually loosened her small butt hole to accommodate the\nman."
                             ]
                         },
                         {
@@ -16054,14 +15746,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あ…あう…ぅ…身体が…熱い…よぉ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ah... ah... my body is... so hot..."
                             ]
                         },
                         {
@@ -16079,7 +15771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次第に…こはねの声に甘い音色が混ざり始める。"
+                                "Gradually... a sweet tone began to mix into Kohane's voice."
                             ]
                         },
                         {
@@ -16149,14 +15841,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あ、だめぇ…このままじゃ、私…もうぅ…だめ…だめえええっっ"
+                                "\\PartyFace[1]\\FaceIndex[6]Ah, no... at this rate, I'm... I can't... no more..."
                             ]
                         },
                         {
@@ -16174,7 +15866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やがて…"
+                                "Eventually..."
                             ]
                         },
                         {
@@ -16185,14 +15877,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし…出すぞ…"
+                                "Alright... I'm going to release it..."
                             ]
                         },
                         {
@@ -16210,14 +15902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう男が口にした瞬間…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男の肉棒が脈打ち、同時にこはねの意識も白濁に飲み込まれる。"
+                                "The moment the man spoke, his cock throbbed and at the same\ntime, Kohane's consciousness was engulfed by whiteness."
                             ]
                         },
                         {
@@ -16792,14 +16477,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ…これに懲りたら大人しくしておくことだな！"
+                                "Phew... If you've learned your lesson, you better behave\nfrom now on!"
                             ]
                         },
                         {
@@ -17284,21 +16969,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くく…なかなかいい反応をするじゃないか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら、こんなに濡れているぞ。"
+                                "Heh... you're reacting quite nicely... look, you're so wet."
                             ]
                         },
                         {
@@ -17309,14 +16987,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ああ…もう…いやぁ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ahh... no more... please no..."
                             ]
                         },
                         {
@@ -17334,14 +17012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "台に鎖で固定されてしまったこはねは、曝け出された裸体を隠すことも出来ずに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男の指による苛烈な愛撫を受けていた。"
+                                "Chained to the platform, Kohane couldn't hide her exposed\nnaked body and was subjected to the man's relentless\ncaresses."
                             ]
                         },
                         {
@@ -17352,14 +17023,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほら、中を見せてみろよ…"
+                                "Come on, show me the inside..."
                             ]
                         },
                         {
@@ -17377,7 +17048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男はこはねの陰唇に指を当て…ぐいっと左右に割り広げた！"
+                                "The man placed his fingers on Kohane's labia and spread them\napart forcefully!"
                             ]
                         },
                         {
@@ -17691,14 +17362,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]いや…いやああっ、もう…やめてえぇぇっ"
+                                "\\PartyFace[1]\\FaceIndex[6]No... nooo, stop it, please stop!"
                             ]
                         },
                         {
@@ -17709,21 +17380,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綺麗なピンクしているな…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなまっさらなオマ〇コなかなかお目にかかれるものじゃないぞ。"
+                                "Such a pretty pink... It's not often you come across such a\npristine pussy."
                             ]
                         },
                         {
@@ -17734,14 +17398,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]やだぁ…見ないでぇ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Noo... don't look..."
                             ]
                         },
                         {
@@ -17759,14 +17423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぴったり閉じた陰唇を強引に広げられ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "膣内に感じる空気にこはねは身体を震わせた。"
+                                "Her tightly closed labia were forcibly spread apart, and\nKohane shivered as she felt the air inside her."
                             ]
                         },
                         {
@@ -17777,14 +17434,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これならもう挿れても大丈夫そうだなぁ。"
+                                "Looks like it's ready for me to insert it now."
                             ]
                         },
                         {
@@ -17795,14 +17452,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]え…挿れるって…だめ…それだけは絶対にだめぇ！"
+                                "\\PartyFace[1]\\FaceIndex[6]Eh... insert it... no... you absolutely can't do that!"
                             ]
                         },
                         {
@@ -17813,14 +17470,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くくっ、その初々しい反応…たまらねぇなぁ。"
+                                "Heh, that innocent reaction... it's irresistible."
                             ]
                         },
                         {
@@ -17838,7 +17495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嫌がるこはねの反応を愉しむように男は笑みを浮かべた。"
+                                "The man smiled as he enjoyed Kohane's reluctant response."
                             ]
                         },
                         {
@@ -17958,14 +17615,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほぅら、これが今からここに入るぞ！ようく見ておけよ！"
+                                "Look, this is what's going to enter you now! Make sure you\nget a good look!"
                             ]
                         },
                         {
@@ -17976,14 +17633,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]…ダメ…これ以上したら、絶対に許さないから！"
+                                "\\PartyFace[1]\\FaceIndex[6]...No... if you do any more, I'll never forgive you!"
                             ]
                         },
                         {
@@ -17994,14 +17651,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…お嬢ちゃん、人にものを頼む時はどうするか…習わなかったのかな？"
+                                "...Little lady, didn't you learn how to ask for something\nfrom someone?"
                             ]
                         },
                         {
@@ -18019,7 +17676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まるで子供に諭すような言い方でニヤニヤしながら男は告げる。"
+                                "Smirking as if lecturing a child, the man spoke."
                             ]
                         },
                         {
@@ -18030,14 +17687,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]…お願いします…挿れないで…ください…"
+                                "\\PartyFace[1]\\FaceIndex[6]...Please... don't insert it... please..."
                             ]
                         },
                         {
@@ -18055,14 +17712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悔しさと惨めさに身体を震わせながら、懇願の言葉を絞りだすこはね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし…"
+                                "Shaking with humiliation and misery, Kohane squeezed out her\nplea. However..."
                             ]
                         },
                         {
@@ -18073,14 +17723,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…よし、いいだろう、精一杯優しくしてやるよ！"
+                                "...Alright, that's fine, I'll be as gentle as I can!"
                             ]
                         },
                         {
@@ -18098,7 +17748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男が告げた瞬間！"
+                                "The moment the man declared!"
                             ]
                         },
                         {
@@ -18412,14 +18062,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]いやあああああっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Nooooooo!!"
                             ]
                         },
                         {
@@ -18545,14 +18195,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]わたしのはじめてが…こんなのって…う…うぅ…"
+                                "\\PartyFace[1]\\FaceIndex[6]My first time... like this... uh... uhh..."
                             ]
                         },
                         {
@@ -18570,7 +18220,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "無慈悲な処女喪失に、こはねの瞳からは大粒の涙が零れ落ちた。"
+                                "Tears streamed down from Kohane's eyes as she faced the\nmerciless loss of her virginity."
                             ]
                         },
                         {
@@ -18581,28 +18231,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "くくく…お前の初めてを奪ったのはオレだ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これから先どんな相手と添い遂げたとしても、それは変わることは無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "よぅくオレの顔を覚えておくんだなぁ。"
+                                "Hehehe... I'm the one who took your first time... No matter\nwho you end up with in the future, that won't change. Make\nsure you remember my face well."
                             ]
                         },
                         {
@@ -18672,14 +18308,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あ…ああ…ぁ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ah... ahh... ah..."
                             ]
                         },
                         {
@@ -18697,7 +18333,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "絶望的な事実を告げる男の言葉が少女の心を抉る。"
+                                "The man's words carved a despairing truth into the girl's\nheart."
                             ]
                         },
                         {
@@ -18718,14 +18354,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし、動くぞ…"
+                                "Alright, I'm going to move..."
                             ]
                         },
                         {
@@ -18963,14 +18599,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ああ…いやぁ…もう…やだああ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ahh... nooo... not anymore... I don't want this..."
                             ]
                         },
                         {
@@ -18988,14 +18624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こはねの懇願も空しく、無慈悲な注送を繰り返す度に狭い膣穴は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男を受け入れるためにその形をほぐれさせていく。"
+                                "Kohane's pleas were in vain as with each merciless thrust,\nher tight vaginal walls were forced to accommodate the man."
                             ]
                         },
                         {
@@ -19092,14 +18721,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あっ…あああっ、なんで…体が…おかしいよぉ"
+                                "\\PartyFace[1]\\FaceIndex[6]Ahh... ahhh, why... my body feels... weird..."
                             ]
                         },
                         {
@@ -19117,7 +18746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次第に…こはねの声に甘い音色が混ざり始める。"
+                                "Gradually... sweet tones began to mix into Kohane's voice."
                             ]
                         },
                         {
@@ -19187,14 +18816,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あっ、あっ、あっ…いやぁ、イクぅ…ホントに…イっちゃうぅ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ahh, ah, ah... nooo, I'm going to cum... I'm really going to\ncum..."
                             ]
                         },
                         {
@@ -19212,7 +18841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やがて…"
+                                "Eventually..."
                             ]
                         },
                         {
@@ -19223,14 +18852,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし…出すぞ…"
+                                "Alright... I'm going to release..."
                             ]
                         },
                         {
@@ -19248,14 +18877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう男が口にした瞬間…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男の肉棒が脈打ち、同時にこはねの意識も白濁に飲み込まれる。"
+                                "The moment the man spoke... his cock throbbed and at the\nsame time, Kohane's consciousness was engulfed in white\nhaze."
                             ]
                         },
                         {
@@ -19837,14 +19459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絶頂の余韻にビクビクと身体をはねさせるこはねの白い肌に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "白濁液が吐き出される。"
+                                "Kohane's white skin twitched with the afterglow of climax as\nsemen was ejaculated onto her."
                             ]
                         },
                         {
@@ -19862,7 +19477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒクヒクと痙攣する秘裂からは、ドロドロと凌辱の証が垂れ落ちていた。"
+                                "From her convulsing secret slit, the evidence of her\nviolation dripped down."
                             ]
                         },
                         {
@@ -19873,14 +19488,14 @@
                                 1,
                                 0,
                                 2,
-                                "警備員リーダー"
+                                "Security Guard Leader"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…これで終わりだと思ってないだろうな。"
+                                "...You don't think it's over, do you?"
                             ]
                         },
                         {
@@ -19898,7 +19513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男はそう呟くと、再びこはねの身体に手を伸ばした。"
+                                "The man muttered and reached for Kohane's body once again."
                             ]
                         },
                         {
@@ -20171,14 +19786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "口枷を嵌められ、悲鳴を上げることも許されない少女のくぐもった声が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "狭い部屋に反響する…"
+                                "The muffled voice of the girl, who was not allowed to scream\nwith a gag in her mouth, echoed in the cramped room..."
                             ]
                         },
                         {
@@ -20196,7 +19804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男の欲望に任せた過酷な責めは、男が満足するまで続いた…"
+                                "The harsh torment at the mercy of the man's desire continued\nuntil he was satisfied..."
                             ]
                         },
                         {

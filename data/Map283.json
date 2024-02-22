@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "収容所保管室",
+    "displayName": "Detention Facility Storage Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -3748,14 +3748,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]おっ、アイテムボックスがいっぱい！"
+                                "\\PartyFace[1]\\FaceIndex[2]Oh, the item box is full!"
                             ]
                         },
                         {
@@ -3766,14 +3766,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]これもらっちゃっていいのかな？"
+                                "\\PartyFace[1]\\FaceIndex[0]Is it okay if I take this?"
                             ]
                         },
                         {
@@ -3784,21 +3784,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]ガーディアンズ\\c[0]のルール的には犯罪組織からの押収物は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きに使っていいってことになってるよ。"
+                                "\\c[2]According to the Guardians\\c[0] rules, it's okay to use\nanything confiscated from criminal organizations as you\nlike."
                             ]
                         },
                         {
@@ -3809,14 +3802,14 @@
                                 8,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[8]そうなんだ、意外とその辺ユルいんだね…"
+                                "\\PartyFace[1]\\FaceIndex[8]Really? That's surprisingly lenient..."
                             ]
                         },
                         {
@@ -3827,21 +3820,14 @@
                                 9,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[9]でもそれなら遠慮なく、もらっていくぜい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うへへへへ！"
+                                "\\PartyFace[1]\\FaceIndex[9]Well, in that case, I won't hold back. I'm taking it!\nUhehehehe!"
                             ]
                         },
                         {
@@ -3852,14 +3838,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さすがにそれは犯罪臭がするよ。"
+                                "That still sounds suspiciously like a crime, you know."
                             ]
                         },
                         {
@@ -3946,7 +3932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {

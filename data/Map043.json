@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下牢前通路B",
+    "displayName": "Underground Prison Corridor B",
     "encounterList": [],
     "encounterStep": 30,
     "height": 32,
@@ -8056,14 +8056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こいつ、どうやって逃げて来たんだ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くそっ手間かけさせやがって！！来いっ！"
+                                "How the hell did this one escape!! Damn it, making me go\nthrough all this trouble!! Come here!"
                             ]
                         },
                         {
@@ -8265,7 +8258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリアの最初からリトライしますか？"
+                                "Would you like to retry from the beginning of the area?"
                             ]
                         },
                         {
@@ -8530,14 +8523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こいつ、どうやって逃げて来たんだ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くそっ手間かけさせやがって！！来いっ！"
+                                "How the hell did this one escape!! Damn it, making me go\nthrough all this trouble!! Come here!"
                             ]
                         },
                         {
@@ -8739,7 +8725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリアの最初からリトライしますか？"
+                                "Would you like to retry from the beginning of the area?"
                             ]
                         },
                         {
@@ -9052,7 +9038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {
@@ -9421,14 +9407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こいつ、どうやって逃げて来たんだ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くそっ手間かけさせやがって！！来いっ！"
+                                "How the hell did this one escape!! Damn it, making me go\nthrough all this trouble!! Come here!"
                             ]
                         },
                         {
@@ -9630,7 +9609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリアの最初からリトライしますか？"
+                                "Would you like to retry from the beginning of the area?"
                             ]
                         },
                         {
@@ -10562,14 +10541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こいつ、どうやって逃げて来たんだ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くそっ手間かけさせやがって！！来いっ！"
+                                "How the hell did this one escape!! Damn it, making me go\nthrough all this trouble!! Come here!"
                             ]
                         },
                         {
@@ -10771,7 +10743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリアの最初からリトライしますか？"
+                                "Would you like to retry from the beginning of the area?"
                             ]
                         },
                         {
@@ -10922,14 +10894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こいつ、どうやって逃げて来たんだ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くそっ手間かけさせやがって！！来いっ！"
+                                "How the hell did this one escape!! Damn it, making me go\nthrough all this trouble!! Come here!"
                             ]
                         },
                         {
@@ -11131,7 +11096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリアの最初からリトライしますか？"
+                                "Would you like to retry from the beginning of the area?"
                             ]
                         },
                         {
@@ -11369,14 +11334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こいつ、どうやって逃げて来たんだ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くそっ手間かけさせやがって！！来いっ！"
+                                "How the hell did this one escape!! Damn it, making me go\nthrough all this trouble!! Come here!"
                             ]
                         },
                         {
@@ -11578,7 +11536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリアの最初からリトライしますか？"
+                                "Would you like to retry from the beginning of the area?"
                             ]
                         },
                         {
@@ -11685,14 +11643,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[0]こっちには今は行けそうにないな…"
+                                "\\PartyFace[2]\\FaceIndex[0]It doesn't seem like I can go this way right now..."
                             ]
                         },
                         {

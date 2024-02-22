@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下牢大部屋",
+    "displayName": "Large Dungeon Cell",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -3600,7 +3600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {

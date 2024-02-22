@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下研究室ゲート",
+    "displayName": "Underground Laboratory Gate",
     "encounterList": [],
     "encounterStep": 30,
     "height": 22,
@@ -4181,7 +4181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {

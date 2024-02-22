@@ -3,7 +3,7 @@
     {
         "id": 1,
         "animationId": 1,
-        "description": "ガーディアンズがこはねのために開発した杖。\n神霊力を収束させて放つことができる。",
+        "description": "The staff developed by the Guardians for Kohane. It can converge and release\nspiritual power.",
         "etypeId": 1,
         "traits": [
             {
@@ -18,7 +18,7 @@
             }
         ],
         "iconIndex": 204,
-        "name": "セラフィック・ケイン",
+        "name": "Seraphic Cane",
         "note": "<RemoveState49Common:9>",
         "params": [
             0,

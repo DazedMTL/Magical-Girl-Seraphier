@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "研究室A",
+    "displayName": "Laboratory A",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -2989,21 +2989,14 @@
                                 0,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セキュリティーキー？持ってるわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あげてもいいけど…ちょっとだけお願い聞いてくれる？"
+                                "The security key? I have it. I don't mind giving it to\nyou... but could you do me a small favor first?"
                             ]
                         },
                         {
@@ -3011,8 +3004,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "わかった！",
-                                    "やだ！"
+                                    "Understood!",
+                                    "No way!"
                                 ],
                                 1,
                                 0,
@@ -3036,21 +3029,14 @@
                                 0,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "3Fの庭園で犬を遊ばせてたんだけど、警備兵がいっぱいいて探しにいけないのよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "代わりに連れてきてくれない？"
+                                "I was playing with my dog in the 3F garden, but there are so\nmany guards around I can't go look for it. Could you bring\nit back for me?"
                             ]
                         },
                         {
@@ -3061,14 +3047,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]わかった！\\C[2]3Fの庭園\\C[0]だね。"
+                                "\\PartyFace[1]\\FaceIndex[1]Got it! The \\C[2]3F garden\\C[0], right?"
                             ]
                         },
                         {
@@ -3143,14 +3129,14 @@
                                 0,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あらそう…じゃあキーあーげなーい。"
+                                "Oh, is that so... Then I won't give you the key."
                             ]
                         },
                         {
@@ -3222,14 +3208,14 @@
                                 0,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "3Fの庭園で犬を探して連れてきてね。"
+                                "Please look for the dog in the 3F garden and bring it here."
                             ]
                         },
                         {
@@ -3291,28 +3277,14 @@
                                 0,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "連れてきてくれたのね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "助かったわ、ありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お礼にこれどうぞ。"
+                                "You brought them here! I'm saved, thank you. Please accept\nthis as a token of my gratitude."
                             ]
                         },
                         {
@@ -3518,14 +3490,14 @@
                                 0,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さぁいっぱい実験しましょうねー。"
+                                "Now, let's conduct plenty of experiments-."
                             ]
                         },
                         {
@@ -3536,14 +3508,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[8]え…実験ってもしかして…"
+                                "\\PartyFace[1]\\FaceIndex[8]Eh... by experiments, could it possibly mean..."
                             ]
                         },
                         {
@@ -3554,14 +3526,14 @@
                                 0,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ、私この子が横に居ないと実験に集中できないのよね。"
+                                "Yes, I can't concentrate on my experiments unless this\nlittle one is beside me."
                             ]
                         },
                         {
@@ -3572,14 +3544,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]なんだ、良かった。てっきりその子で実験するのかと…"
+                                "\\PartyFace[1]\\FaceIndex[1]Oh, that's a relief. I thought for a moment you were going\nto experiment on that child..."
                             ]
                         },
                         {
@@ -3590,21 +3562,14 @@
                                 0,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まさか、そんなことしないわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の実験相手は若くて元気な男だけよ。"
+                                "Of course not, I wouldn't do such a thing. My experimental\npartners are only young and energetic men."
                             ]
                         },
                         {
@@ -3615,21 +3580,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[8]わんちゃんを横に置いて若い男の人と実験って…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それはそれで何をするんだか…"
+                                "\\PartyFace[1]\\FaceIndex[8]Having a puppy beside you while experimenting with young\nmen... I wonder what that entails..."
                             ]
                         },
                         {
@@ -4042,7 +4000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {

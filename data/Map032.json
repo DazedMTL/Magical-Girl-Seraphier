@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "何もない部屋（西）",
+    "displayName": "Empty Room (West)",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -3505,14 +3505,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]あっ、スイッチ発見！"
+                                "\\PartyFace[1]\\FaceIndex[1]Ah, I found a switch!"
                             ]
                         },
                         {
@@ -3523,14 +3523,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]えいっ！"
+                                "\\PartyFace[1]\\FaceIndex[0]Ei!"
                             ]
                         },
                         {
@@ -3553,14 +3553,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]これでこの部屋の謎はクリアかな。"
+                                "\\PartyFace[1]\\FaceIndex[0]With this, the mystery of this room should be cleared,\nright?"
                             ]
                         },
                         {
@@ -3621,7 +3621,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何処かで何かが作動する音がした。"
+                                "I heard something operating from somewhere."
                             ]
                         },
                         {
@@ -3632,14 +3632,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]扉が開いたっぽい！！"
+                                "\\PartyFace[1]\\FaceIndex[1]It sounds like a door has opened!!"
                             ]
                         },
                         {
@@ -3822,21 +3822,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こはねちゃん、謎を解いたのはいいけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "壁の後ろに行ってスイッチを押すのを忘れてない？"
+                                "Kohane-chan, it's great that you solved the mystery, but\nhaven't you forgotten to go behind the wall and press the\nswitch?"
                             ]
                         },
                         {
@@ -3847,14 +3840,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]てへっ！"
+                                "\\PartyFace[1]\\FaceIndex[1]Teehee!"
                             ]
                         },
                         {
@@ -3956,14 +3949,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]何もない…けどなんか違和感が…"
+                                "\\PartyFace[1]\\FaceIndex[2]There's nothing here... but something feels off..."
                             ]
                         },
                         {
@@ -3974,14 +3967,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒントだそうか？"
+                                "Do you want a hint?"
                             ]
                         },
                         {
@@ -3989,8 +3982,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "自分でがんばる！",
-                                    "お願いします！"
+                                    "I'll do my best on my own!",
+                                    "Please help me!"
                                 ],
                                 1,
                                 0,
@@ -4014,14 +4007,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]自分で考えるもん！！"
+                                "\\PartyFace[1]\\FaceIndex[11]I'll figure it out on my own!!"
                             ]
                         },
                         {
@@ -4032,14 +4025,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "えらいっ！"
+                                "Good for you!"
                             ]
                         },
                         {
@@ -4063,14 +4056,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "えっとね、ここ東側で見た部屋よりちょっと狭いと思わない？"
+                                "You know, doesn't this room seem a bit smaller than the one\nwe saw on the east side?"
                             ]
                         },
                         {
@@ -4081,14 +4074,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]あー、言われてみれば確かに。"
+                                "\\PartyFace[1]\\FaceIndex[2]Ah, now that you mention it, definitely."
                             ]
                         },
                         {
@@ -4099,21 +4092,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "たぶん、壁の後ろに何かあると思うから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "壁裏に回れそうな場所を探してみればいいかも。"
+                                "Maybe there's something behind the wall. It might be a good\nidea to look for a place where we can get behind it."
                             ]
                         },
                         {
@@ -4124,14 +4110,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]わかった！探してみる！"
+                                "\\PartyFace[1]\\FaceIndex[1]Got it! I'll take a look!"
                             ]
                         },
                         {
@@ -4259,14 +4245,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]もうこの部屋に用はなさそう。"
+                                "\\PartyFace[1]\\FaceIndex[2]It seems we have no more business in this room."
                             ]
                         },
                         {
@@ -4358,7 +4344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {
@@ -5055,14 +5041,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]あっ、壁の後ろに行けそう！"
+                                "\\PartyFace[1]\\FaceIndex[2]Ah, it looks like we can go behind the wall!"
                             ]
                         },
                         {
@@ -5073,14 +5059,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "東の部屋よりちょっと狭かったね。"
+                                "It's a bit narrower than the room to the east."
                             ]
                         },
                         {

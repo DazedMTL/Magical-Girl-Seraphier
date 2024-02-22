@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "研究室中枢",
+    "displayName": "Research Lab Core",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -9176,7 +9176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この力…間違いない、\\c[2]ガーディアンズ\\c[0]の魔法少女だな！"
+                                "This power... no doubt about it, she's a \\c[2]Guardians\\c[0]\nmagical girl!"
                             ]
                         },
                         {
@@ -9194,14 +9194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まさか向こうから飛び込んで来てくれるとはな…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手間が省けたというものだ。"
+                                "To think she would jump right into our lap... this saves us\nthe trouble."
                             ]
                         },
                         {
@@ -9250,14 +9243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "全戦闘員に告ぐ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "施設内に\\c[2]ガーディアンズ\\c[0]の魔法少女が侵入した。"
+                                "Attention all combatants, a \\c[2]Guardians\\c[0] magical girl\nhas infiltrated the facility."
                             ]
                         },
                         {
@@ -9275,14 +9261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "直ちに捕縛行動にあたれ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "場合によっては\\c[2]神霊力の吸収\\c[0]装備の使用も許可する！"
+                                "Commence capture operations immediately! If necessary, you\nare authorized to use the \\c[2]Spirit Power Absorption\\c[0]\nequipment!"
                             ]
                         },
                         {
@@ -9331,14 +9310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "神霊力を持つ者を\\c[2]精神的に追い詰める\\c[0]と、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "防壁が緩くなり吸収が可能になる…"
+                                "When those with Spirit Power are \\c[2]mentally\ncornered\\c[0], their barriers weaken, making absorption\npossible..."
                             ]
                         },
                         {
@@ -9365,21 +9337,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そしてその防壁が最も緩くなるのが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[2]性的な快楽\\c[0]を受けた瞬間だということは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今までの実験で実証されている。"
+                                "And it has been proven through experiments that these\nbarriers are at their weakest when receiving \\c[2]sexual\npleasure\\c[0]."
                             ]
                         },
                         {
@@ -9407,14 +9365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて、魔法少女から得られる神霊力はどれほどのものか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じっくり見せてもらおうじゃないか！"
+                                "Now, let's take our time and see just how much Spirit Power\nwe can get from this magical girl!"
                             ]
                         },
                         {
@@ -9545,14 +9496,14 @@
                                 10,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[10]なんだか今ゾワっと来た…"
+                                "\\PartyFace[1]\\FaceIndex[10]I just got a bad feeling..."
                             ]
                         },
                         {
@@ -9563,21 +9514,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こはねちゃんのそういうのって大概当たるから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気を引き締めて進んだ方が良さそうだね。"
+                                "Kohane-chan's hunches are usually right, so we better stay\nsharp and keep moving."
                             ]
                         },
                         {
@@ -9664,7 +9608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {

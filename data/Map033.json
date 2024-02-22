@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "検査室",
+    "displayName": "Examination Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -3289,14 +3289,14 @@
                                 2,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "検査は済んでいるから、好きにしてもらって構わないよ。"
+                                "The inspection is already complete, so feel free to do as\nyou like."
                             ]
                         },
                         {
@@ -3614,7 +3614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {
@@ -4011,14 +4011,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]そんな小さい子に何やってるの！？"
+                                "\\PartyFace[1]\\FaceIndex[11]What are you doing to such a small child!?"
                             ]
                         },
                         {
@@ -4069,14 +4069,14 @@
                                 0,
                                 0,
                                 2,
-                                "検査員"
+                                "Inspector"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何と言われても…この子の神霊力を測定していただけじゃないか！"
+                                "No matter what you say... I was merely measuring this\nchild's spiritual power!"
                             ]
                         },
                         {
@@ -4087,21 +4087,14 @@
                                 4,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]ほんとにそれだけ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この子にひどいことしようとしてるんじゃないの？"
+                                "\\PartyFace[1]\\FaceIndex[4]Really, just that? You're not trying to do something\nterrible to her?"
                             ]
                         },
                         {
@@ -4112,14 +4105,14 @@
                                 0,
                                 0,
                                 2,
-                                "検査員"
+                                "Inspector"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は言われた仕事をしているだけだ。この子がどうなるかは知らんよ！"
+                                "I'm only doing the job I was told to do. What happens to\nthis child is none of my concern!"
                             ]
                         },
                         {
@@ -4130,14 +4123,14 @@
                                 4,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]…ほんとかなぁ。"
+                                "\\PartyFace[1]\\FaceIndex[4]...Is that really true?"
                             ]
                         },
                         {
@@ -4196,14 +4189,14 @@
                                 7,
                                 0,
                                 2,
-                                "女の子"
+                                "Girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "検査…終わったの？"
+                                "Is the examination... over?"
                             ]
                         },
                         {
@@ -4343,14 +4336,14 @@
                                 7,
                                 0,
                                 2,
-                                "女の子"
+                                "Girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お姉ちゃん…誰？"
+                                "Big sister... who are you?"
                             ]
                         },
                         {
@@ -4392,21 +4385,14 @@
                                 4,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]こんにちは！わたし天川こはね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は魔法少女セラフィエールだよ！あなたは？"
+                                "\\PartyFace[1]\\FaceIndex[0]Hello! I'm Amagawa Kohane! Right now, I'm the magical girl\nSeraphier! And you are?"
                             ]
                         },
                         {
@@ -4424,7 +4410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボクは…アミィ…"
+                                "I am... Amy..."
                             ]
                         },
                         {
@@ -4444,14 +4430,14 @@
                                 4,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]アミィちゃんか、可愛い名前だね♪"
+                                "\\PartyFace[1]\\FaceIndex[1]Amy-chan, that's a cute name♪"
                             ]
                         },
                         {
@@ -4478,7 +4464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…ありがとう。"
+                                "...Thank you."
                             ]
                         },
                         {
@@ -4489,14 +4475,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]アミィちゃんも誘拐されてここに連れて来られたの？"
+                                "\\PartyFace[1]\\FaceIndex[0]Were you also kidnapped and brought here, Amy-chan?"
                             ]
                         },
                         {
@@ -4514,7 +4500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…えっと…ボクは…"
+                                "...Um... I am..."
                             ]
                         },
                         {
@@ -4565,14 +4551,14 @@
                                 7,
                                 0,
                                 2,
-                                "研究員"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私を見られても困るんだが…"
+                                "It would be troublesome if I were seen..."
                             ]
                         },
                         {
@@ -4621,7 +4607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お姉ちゃんはあのガーディアンズの魔法少女なの？"
+                                "Are you one of those Guardians' magical girls, big sister?"
                             ]
                         },
                         {
@@ -4632,14 +4618,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]うん、そうだよ！誘拐犯たちを退治するために来たんだよ！"
+                                "\\PartyFace[1]\\FaceIndex[0]Yes, that's right! I came here to defeat the kidnappers!"
                             ]
                         },
                         {
@@ -4657,7 +4643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうなんだ…"
+                                "Is that so..."
                             ]
                         },
                         {
@@ -4668,14 +4654,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]アミィちゃんも、お姉ちゃんが助けてあげるからね！"
+                                "\\PartyFace[1]\\FaceIndex[0]Amy-chan, big sister will save you too!"
                             ]
                         },
                         {
@@ -4693,7 +4679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "助けて…くれるの？"
+                                "Will you... save me?"
                             ]
                         },
                         {
@@ -4704,14 +4690,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]うん！そのために魔法少女やってるからね！"
+                                "\\PartyFace[1]\\FaceIndex[0]Yes! That's why I'm a magical girl!"
                             ]
                         },
                         {
@@ -4722,14 +4708,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]アミィちゃん、お姉ちゃんと一緒にここから出ようよ！"
+                                "\\PartyFace[1]\\FaceIndex[0]Amy-chan, let's get out of here together with big sister!"
                             ]
                         },
                         {
@@ -4747,7 +4733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…わかった。お姉ちゃんについてく。"
+                                "...Okay. I'll follow big sister."
                             ]
                         },
                         {
@@ -4901,14 +4887,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]それじゃあ１階を目指そう！レッツゴー！"
+                                "\\PartyFace[1]\\FaceIndex[0]Then let's head for the first floor! Let's go!"
                             ]
                         },
                         {
@@ -4926,7 +4912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…レッツ…ゴー…"
+                                "...Let's... go..."
                             ]
                         },
                         {

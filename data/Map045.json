@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下牢前通路A",
+    "displayName": "Underground Prison Corridor A",
     "encounterList": [],
     "encounterStep": 30,
     "height": 32,
@@ -8697,7 +8697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {

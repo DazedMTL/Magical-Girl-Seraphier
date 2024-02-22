@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "磔部屋",
+    "displayName": "Crucifixion Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -3853,14 +3853,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（う…ぅ…なんでこんな格好に…）"
+                                "\\PartyFace[1]\\FaceIndex[6]\"Ugh... Why am I dressed like this...?\""
                             ]
                         },
                         {
@@ -3878,14 +3878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "施術のためと言われ、両手両足をX字型の磔台にガッチリ固定されたKOHANE。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ローブも部分的に剥ぎ取られ、恥ずかしい部分が科学者の目に曝け出される。"
+                                "Told it was for the procedure, Kohane was firmly fixed to a\ncross-shaped crucifix with both hands and feet. Her robe was\npartially torn away, exposing her embarrassing parts to the\neyes of the scientist."
                             ]
                         },
                         {
@@ -3896,21 +3889,14 @@
                                 0,
                                 0,
                                 2,
-                                "科学者"
+                                "Scientist"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くっくっく、施術中に暴れられても困るからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "念のためだよ…半分は趣味だがね。"
+                                "\"Heh heh heh, it would be troublesome if you thrashed about\nduring the procedure. This is just a precaution... though\nhalf of it is for my own amusement.\""
                             ]
                         },
                         {
@@ -3921,14 +3907,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（うぅ…言うこと聞くんじゃなかったかな…）"
+                                "\\PartyFace[1]\\FaceIndex[6]\"(Ugh... Maybe I shouldn't have listened to him...)\""
                             ]
                         },
                         {
@@ -3946,7 +3932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "科学者の提案に乗ってしまった自分の選択をKOHANEは少し後悔していた。"
+                                "Regretting her decision to go along with the scientist's\nsuggestion, Kohane felt a bit of remorse."
                             ]
                         },
                         {
@@ -3957,14 +3943,14 @@
                                 0,
                                 0,
                                 2,
-                                "科学者"
+                                "Scientist"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "では施術を始めるとしようか。"
+                                "\"Well then, let's begin the procedure.\""
                             ]
                         },
                         {
@@ -3975,14 +3961,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]うぅ…"
+                                "\\PartyFace[1]\\FaceIndex[6]\"Ugh...\""
                             ]
                         },
                         {
@@ -3993,14 +3979,14 @@
                                 0,
                                 0,
                                 2,
-                                "科学者"
+                                "Scientist"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなに怖がらなくていい…すぐに終わる。"
+                                "\"There's no need to be so scared... It will be over soon.\""
                             ]
                         },
                         {
@@ -4366,14 +4352,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふぅ…ふうぅ…う…ぅ…"
+                                "\\PartyFace[1]\\FaceIndex[6]\"Huu... Huhuu... Ugh... Uh...\""
                             ]
                         },
                         {
@@ -4384,14 +4370,14 @@
                                 0,
                                 0,
                                 2,
-                                "科学者"
+                                "Scientist"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふむ、無事に定着したようだね。"
+                                "\"Hmm, it seems to have taken hold successfully.\""
                             ]
                         },
                         {
@@ -4402,21 +4388,14 @@
                                 0,
                                 0,
                                 2,
-                                "科学者"
+                                "Scientist"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは神霊力が快楽で外に放出される性質を利用した\\C[2]淫紋\\C[0]だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君の淫欲が極限に達した時に爆発的に神霊力が増すようにしてある。"
+                                "\"This is an \\C[2]Arousal Crest\\C[0] that utilizes the\nproperty of your spiritual power being released through\npleasure. It's designed to explosively increase your\nspiritual power when your lust reaches its limit.\""
                             ]
                         },
                         {
@@ -4427,14 +4406,14 @@
                                 0,
                                 0,
                                 2,
-                                "科学者"
+                                "Scientist"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せいぜい役立ててくれたまえ。"
+                                "\"Make the most of it, if you please.\""
                             ]
                         },
                         {
@@ -4464,21 +4443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<center>敵のH攻撃を受け続けて、淫乱度が１００％になると、\\C[2]淫紋モード\\C[0]に変化するようになりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[2]淫紋モード\\C[0]になると魔法攻撃力が大きく上昇する代わりにMPが常時減少するようになります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また、快楽値(EP)の上昇量が増えて、絶頂しやすくなります。</center>"
+                                "<center>After continuously receiving H attacks from enemies,\nwhen the lewdness level reaches 100%, you will transform\ninto \\C[2]Arousal Crest Mode\\C[0]. In \\C[2]Arousal Crest\nMode\\C[0], your magical attack power significantly\nincreases, but your MP will continuously decrease.\nAdditionally, your pleasure value (EP) will increase more,\nmaking it easier to reach climax.</center>"
                             ]
                         },
                         {
@@ -4496,21 +4461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<center>\\C[2]淫紋モード\\C[0]は一定時間で自動解除されます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また、アイテム『\\C[2] \\item[19]\\C[0]』を使用することで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫乱度を強制的に0にすることも出来ます。</center>"
+                                "<center>\\C[2]Arousal Crest Mode\\C[0] will automatically\ndeactivate after a certain period. Also, by using the item\n\"\\C[2] \\item[19]\\C[0]\", you can forcibly reduce the lewdness\nlevel to 0.</center>"
                             ]
                         },
                         {

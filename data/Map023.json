@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下プラントB",
+    "displayName": "Underground Plant B",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -10274,21 +10274,14 @@
                                 0,
                                 0,
                                 2,
-                                "システム"
+                                "System"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＨＰ、ＭＰを全回復できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全回復しますか？"
+                                "You can fully restore HP and MP. Would you like to fully\nrecover?"
                             ]
                         },
                         {
@@ -10296,8 +10289,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10612,21 +10605,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<center>この先の戦闘で敗北すると敗北Ｈシーンに移行します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "敗北Ｈを経験したくない場合はセーブしておくことをおススメします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "※戦闘に勝利するだけで敗北Ｈシーンが回想に追加されます。</center>"
+                                "<center>If you are defeated in the upcoming battle, you will\ntransition to a defeat H-scene. If you do not wish to\nexperience the defeat H-scene, we recommend saving your\ngame.※Simply winning the battle will add the defeat H-scene\nto the recollection.</center>"
                             ]
                         },
                         {
@@ -10654,7 +10633,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<center>この先はボス戦となります。</center>"
+                                "<center>The next encounter will be a boss battle.</center>"
                             ]
                         },
                         {
@@ -10682,14 +10661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<center>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "準備はよろしいですか？</center>"
+                                "<center>Are you prepared?</center>"
                             ]
                         },
                         {
@@ -10697,8 +10669,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10942,14 +10914,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]あ…ずっと追いかけて来てた奴だ…"
+                                "\\PartyFace[1]\\FaceIndex[0]Ah... it's that guy who's been chasing us all this time..."
                             ]
                         },
                         {
@@ -10960,14 +10932,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "出てくる度にパワーアップしてたから、もしかしたらここで調整してたのかも…"
+                                "He's been powering up every time he appears, so maybe he's\nbeen adjusting himself here..."
                             ]
                         },
                         {
@@ -10978,14 +10950,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]よし、見なかったことにしよう。"
+                                "\\PartyFace[1]\\FaceIndex[0]Alright, let's pretend we didn't see anything."
                             ]
                         },
                         {

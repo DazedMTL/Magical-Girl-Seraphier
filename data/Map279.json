@@ -7790,7 +7790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]If the Liberators \\c[0]are involved, we might be dealing\nwith a rather large organization, so please move with utmost\ncaution."
+                                "\\c[2]If the Liberators \\c[0]are involved, we might be dealing with a rather large\norganization, so please move with utmost caution."
                             ]
                         },
                         {
@@ -17450,7 +17450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[8]Well, you know, with all the recent cases of girls\ndisappearing, I thought maybe it had something to do with\nthe \\C[2]Liberators\\C[0], and just as I was thinking about\nit, someone conveniently tried to kidnap me..."
+                                "\\PartyFace[1]\\FaceIndex[8]Well, you know, with all the recent cases of girls\ndisappearing, I thought maybe it had something to do with\nthe \\C[2]Liberators\\C[0], and just as I was thinking about it, someone conveniently\ntried to kidnap me..."
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下プラント管理室",
+    "displayName": "Underground Plant Control Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -4541,21 +4541,14 @@
                                 5,
                                 0,
                                 2,
-                                "ユーリ・オルロフ"
+                                "Yuri Orlov"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ようこそ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今扱っている商品はこちらです。"
+                                "Welcome. These are the products we currently have available."
                             ]
                         },
                         {
@@ -4585,21 +4578,14 @@
                                 5,
                                 0,
                                 2,
-                                "ユーリ・オルロフ"
+                                "Yuri Orlov"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あらあら、そのような恰好で寒くないのかしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うちの商品で神霊力を回復してローブを再生することをおススメするわ。"
+                                "Oh my, aren't you cold dressed like that? I recommend using\nour products to restore your spiritual power and regenerate\nyour robe."
                             ]
                         },
                         {
@@ -4629,21 +4615,14 @@
                                 5,
                                 0,
                                 2,
-                                "ユーリ・オルロフ"
+                                "Yuri Orlov"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…さすがにその恰好でうろつくのはどうかと思うわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "早くローブを再生することね。"
+                                "...I must say, wandering around dressed like that is\nquestionable. You should regenerate your robe quickly."
                             ]
                         },
                         {
@@ -4673,21 +4652,14 @@
                                 5,
                                 0,
                                 2,
-                                "ユーリ・オルロフ"
+                                "Yuri Orlov"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あら、素敵な恰好ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そういうプレイがお好みなのかしら。"
+                                "Oh, what a lovely outfit. Is that the kind of play you\nprefer?"
                             ]
                         },
                         {
@@ -4715,14 +4687,14 @@
                                 5,
                                 0,
                                 2,
-                                "ユーリ・オルロフ"
+                                "Yuri Orlov"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "またのご利用お待ちしております。"
+                                "We look forward to serving you again."
                             ]
                         },
                         {
@@ -5640,14 +5612,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]\\{\\{普通にいるし！！"
+                                "\\PartyFace[1]\\FaceIndex[11]She's just casually here!!"
                             ]
                         },
                         {
@@ -5665,7 +5637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ、普通にいますよ。"
+                                "Yes, I'm just casually here."
                             ]
                         },
                         {
@@ -5676,21 +5648,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[10]どうやってわたしより先にここにいるのか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞いたって無駄なんだろうな…"
+                                "\\PartyFace[1]\\FaceIndex[10]How do you manage to be here before me... Asking would be\npointless, huh..."
                             ]
                         },
                         {
@@ -5708,14 +5673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わかっているなら無駄なことはせずに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お買い物をしていってください。"
+                                "If you understand that, then please go ahead and do your\nshopping without bothering with such questions."
                             ]
                         },
                         {
@@ -5726,14 +5684,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[8]商魂たくましいなぁ"
+                                "\\PartyFace[1]\\FaceIndex[8]You really have a strong business spirit, huh..."
                             ]
                         },
                         {

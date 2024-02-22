@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "特別監禁室前通路",
+    "displayName": "Special Confinement Room Front Passage",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -9588,7 +9588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "連行シーンをスキップしますか？"
+                                "Would you like to skip the escort scene?"
                             ]
                         },
                         {
@@ -9596,8 +9596,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9658,7 +9658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "追跡者に囚われ、鎖で縛られたまま、KOHANEは連行されていく。"
+                                "Captured by pursuers and bound in chains, Kohane is being\nled away."
                             ]
                         },
                         {
@@ -9756,14 +9756,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]また…あそこに連れていかれるの…もうやだぁ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Not... there again... I can't take it anymore..."
                             ]
                         },
                         {
@@ -9852,14 +9852,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]う…うぅ…どこに…連れていかれるの？"
+                                "\\PartyFace[1]\\FaceIndex[6]Ugh... uhh... where are they taking me?"
                             ]
                         },
                         {
@@ -10143,7 +10143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お、あの娘\\C[2]人造魔導人形\\C[0]に捕まったのか。"
+                                "Oh, that girl got caught by the \\C[2]artificial magic\ndoll\\C[0], huh."
                             ]
                         },
                         {
@@ -10161,14 +10161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "確かあいつが捕まえた奴は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オレ達がおしおきしていいって話だったよな！"
+                                "If I remember correctly, we're allowed to punish the ones\nthat thing catches!"
                             ]
                         },
                         {
@@ -10249,14 +10242,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（やだ…こんな恥ずかしい姿…見られてるよぉ…）"
+                                "\\PartyFace[1]\\FaceIndex[6](No... not like this... being seen in such an embarrassing\nstate...)"
                             ]
                         },
                         {
@@ -10347,14 +10340,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（いやあ…もう見ないでぇ…）"
+                                "\\PartyFace[1]\\FaceIndex[6](No... please don't look at me anymore...)"
                             ]
                         },
                         {
@@ -10638,14 +10631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お嬢ちゃん、安心しなよ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オレ達が優しくおしおきしてやるからよぉ。"
+                                "Don't worry, missy, we'll punish you nice and gently."
                             ]
                         },
                         {
@@ -10726,14 +10712,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（やぁ…こんなの恥ずかしいよぉ…）"
+                                "\\PartyFace[1]\\FaceIndex[6](No... this is so embarrassing...)"
                             ]
                         },
                         {
@@ -10824,14 +10810,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（は…早く逃げなきゃ…）"
+                                "\\PartyFace[1]\\FaceIndex[6](I have to escape quickly...)"
                             ]
                         },
                         {
@@ -11115,14 +11101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それにしても可愛い子だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんな子を好きに出来るなんて…たまらねぇな。"
+                                "She's such a cute kid. Being able to do whatever we want\nwith a girl like that... it's irresistible."
                             ]
                         },
                         {
@@ -11192,14 +11171,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（ん…っ…ダメ…拘束がキツくて…逃げられない…）"
+                                "\\PartyFace[1]\\FaceIndex[6](Nngh... no good... the restraints are too tight... I can't\nescape...)"
                             ]
                         },
                         {

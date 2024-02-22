@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "研究所3F",
+    "displayName": "Research Lab 3F",
     "encounterList": [],
     "encounterStep": 30,
     "height": 29,
@@ -11250,21 +11250,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]階段も使えないのか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いざとなったら駆け上がろうと思ったのに。"
+                                "\\PartyFace[1]\\FaceIndex[2]Can't even use the stairs... I thought I could run up them\nif it came to it."
                             ]
                         },
                         {
@@ -11413,14 +11406,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]あ、階段でも登れそう。"
+                                "\\PartyFace[1]\\FaceIndex[2]Ah, it looks like we can climb the stairs."
                             ]
                         },
                         {
@@ -11438,7 +11431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "階段を上りますか？"
+                                "Would you like to go up the stairs?"
                             ]
                         },
                         {
@@ -11446,8 +11439,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "上る！",
-                                    "やめる"
+                                    "Climb up!",
+                                    "Don't climb"
                                 ],
                                 1,
                                 0,
@@ -11471,14 +11464,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[9]よーし、いっくぞー！！"
+                                "\\PartyFace[1]\\FaceIndex[9]Alright, let's go!!"
                             ]
                         },
                         {
@@ -11747,14 +11740,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[3]はぁはぁ…さすがに30階上るのは疲れた…"
+                                "\\PartyFace[1]\\FaceIndex[3]*pant* *pant*... Climbing up 30 floors is really tiring..."
                             ]
                         },
                         {
@@ -11765,14 +11758,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そりゃそうでしょ…"
+                                "Well, of course it is..."
                             ]
                         },
                         {
@@ -11783,14 +11776,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[3]体力が半分くらいになった気がする…"
+                                "\\PartyFace[1]\\FaceIndex[3]I feel like my stamina is about half gone..."
                             ]
                         },
                         {
@@ -12487,14 +12480,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]エレベーターが動かないなら階段で移動するしかないか…"
+                                "\\PartyFace[1]\\FaceIndex[4]If the elevator isn't working, I guess we have no choice but\nto use the stairs..."
                             ]
                         },
                         {
@@ -12603,14 +12596,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[10]…なんだか嫌な感じがする。"
+                                "\\PartyFace[1]\\FaceIndex[10]...I have a bad feeling about this."
                             ]
                         },
                         {
@@ -12621,21 +12614,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こはねちゃんがそういう時って結構当たることが多いから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気になるならエレベーターに乗らずに\\C[2]階段\\C[0]を使った方がいいかもしれないね。"
+                                "When Kohane-chan has that feeling, she's often right. If it\nbothers you, maybe we should use the \\C[2]stairs\\C[0]\ninstead of the elevator."
                             ]
                         },
                         {
@@ -12652,7 +12638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "行き先を選んでください。"
+                                "Please select a destination."
                             ]
                         },
                         {
@@ -12660,10 +12646,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "３０Ｆ",
-                                    "２Ｆ",
-                                    "１Ｆ",
-                                    "やめる"
+                                    "30F",
+                                    "2F",
+                                    "1F",
+                                    "Cancel"
                                 ],
                                 3,
                                 0,
@@ -13473,7 +13459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "行き先を選んでください。"
+                                "Please choose your destination."
                             ]
                         },
                         {
@@ -13481,10 +13467,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "３０Ｆ",
-                                    "２Ｆ",
-                                    "１Ｆ",
-                                    "やめる"
+                                    "30F",
+                                    "2F",
+                                    "1F",
+                                    "Cancel"
                                 ],
                                 3,
                                 0,
@@ -15131,14 +15117,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[8]はぁ…はぁ…追いついた！"
+                                "\\PartyFace[1]\\FaceIndex[8]*pant*...*pant*...I've caught up!"
                             ]
                         },
                         {
@@ -15149,14 +15135,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]わんちゃん！おいでー、ご主人が待ってるよー。"
+                                "\\PartyFace[1]\\FaceIndex[1]Puppy! Come here—your master is waiting for you."
                             ]
                         },
                         {
@@ -15416,14 +15402,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]わんちゃん速え！！"
+                                "\\PartyFace[1]\\FaceIndex[11]Puppy, you're so fast!!"
                             ]
                         },
                         {
@@ -15631,14 +15617,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]わんちゃん速え！！"
+                                "\\PartyFace[1]\\FaceIndex[11]Puppy, you're so fast!!"
                             ]
                         },
                         {
@@ -15862,7 +15848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにもうトラップはないようだ。"
+                                "It seems there are no more traps in this area."
                             ]
                         },
                         {
@@ -19811,14 +19797,14 @@
                                 6,
                                 0,
                                 2,
-                                "リベレイター【セーレ】"
+                                "Liberator [Sere]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここまで辿り着いたか。さすがはガーディアンズの魔法少女といったところか。"
+                                "So you've made it this far. As expected of a magical girl\nfrom the Guardians."
                             ]
                         },
                         {
@@ -19888,14 +19874,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]あら、イケメン！"
+                                "\\PartyFace[1]\\FaceIndex[0]Oh, a handsome guy!"
                             ]
                         },
                         {
@@ -19906,14 +19892,14 @@
                                 6,
                                 0,
                                 2,
-                                "リベレイター【セーレ】"
+                                "Liberator [Sere]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…フン"
+                                "...Hmph."
                             ]
                         },
                         {
@@ -19983,14 +19969,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]あはっ、テレてる！"
+                                "\\PartyFace[1]\\FaceIndex[1]Ahaha, you're blushing!"
                             ]
                         },
                         {
@@ -20001,14 +19987,14 @@
                                 6,
                                 0,
                                 2,
-                                "リベレイター【セーレ】"
+                                "Liberator [Sere]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テレてなどいないっ！！"
+                                "I am not blushing!!"
                             ]
                         },
                         {
@@ -20019,14 +20005,14 @@
                                 6,
                                 0,
                                 2,
-                                "リベレイター【セーレ】"
+                                "Liberator [Sere]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まったく…調子の狂う娘だな…"
+                                "Really... You're such a disconcerting girl..."
                             ]
                         },
                         {
@@ -20037,14 +20023,14 @@
                                 6,
                                 0,
                                 2,
-                                "リベレイター【セーレ】"
+                                "Liberator [Sere]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とにかく、ここから先に行かせる訳にはいかない。"
+                                "Anyway, I can't let you go any further from here."
                             ]
                         },
                         {
@@ -20114,14 +20100,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]そんなこと言わずに、ねっお願い！"
+                                "\\PartyFace[1]\\FaceIndex[1]Don't say that, come on, please!"
                             ]
                         },
                         {
@@ -20132,14 +20118,14 @@
                                 6,
                                 0,
                                 2,
-                                "リベレイター【セーレ】"
+                                "Liberator [Sere]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むぅ…仕方が無いなぁ…"
+                                "Mmm... I guess there's no helping it..."
                             ]
                         },
                         {
@@ -20157,14 +20143,14 @@
                                 6,
                                 0,
                                 2,
-                                "リベレイター【セーレ】"
+                                "Liberator [Sere]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{って言う訳ないだろう！！"
+                                "As if I would say that!!"
                             ]
                         },
                         {
@@ -20234,14 +20220,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[10]ちぇーケチー"
+                                "\\PartyFace[1]\\FaceIndex[10]Che, stingy!"
                             ]
                         },
                         {
@@ -20252,14 +20238,14 @@
                                 6,
                                 0,
                                 2,
-                                "リベレイター【セーレ】"
+                                "Liberator [Sere]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "目的を果たすまでは我々の邪魔をさせる訳にはいかない！！"
+                                "Until our objective is achieved, we cannot allow you to\ninterfere!!"
                             ]
                         },
                         {
@@ -20329,14 +20315,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]そうそう、その目的ってのを知りたいんだけど。"
+                                "\\PartyFace[1]\\FaceIndex[2]Right, right, I want to know what this objective of yours\nis."
                             ]
                         },
                         {
@@ -20347,14 +20333,14 @@
                                 6,
                                 0,
                                 2,
-                                "リベレイター【セーレ】"
+                                "Liberator [Sere]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フッ、説明するまでもない、間もなくわかることだ。"
+                                "Heh, there's no need to explain, you'll understand soon\nenough."
                             ]
                         },
                         {
@@ -20424,14 +20410,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]ということは…もう計画は結構進んでるってことだね。"
+                                "\\PartyFace[1]\\FaceIndex[4]That means... the plan is already well underway, huh."
                             ]
                         },
                         {
@@ -20442,28 +20428,14 @@
                                 6,
                                 0,
                                 2,
-                                "リベレイター【セーレ】"
+                                "Liberator [Sere]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むっ、既に\\C[2]【ガーディアンズ壊滅作戦】\\C[0]のことを知っているのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうだ、自由に力を使えるように不当に能力者を管理するガーディアンズを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "壊滅させるための作戦の準備は最終段階に入っている！"
+                                "Hmph, you already know about the \\C[2]【Guardians\nAnnihilation Plan】\\C[0]? Yes, the preparations for our plan\nto annihilate the Guardians—who unfairly control ability\nusers and prevent them from using their powers freely—are in\nthe final stages!"
                             ]
                         },
                         {
@@ -20533,21 +20505,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]そりゃまた物騒な計画だねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、ガーディアンズを壊滅させるなんて…無理だと思うけどなぁ。"
+                                "\\PartyFace[1]\\FaceIndex[11]That's quite a dangerous plan. But I think it's impossible\nto annihilate the Guardians..."
                             ]
                         },
                         {
@@ -20558,14 +20523,14 @@
                                 6,
                                 0,
                                 2,
-                                "リベレイター【セーレ】"
+                                "Liberator [Sere]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フッ、果たしてそうかな。我々の力を侮っていると後悔するぞ。"
+                                "Heh, we'll see about that. Underestimate our power and\nyou'll regret it."
                             ]
                         },
                         {
@@ -20635,21 +20600,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]余程スゴイ計画なんだねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\FaceIndex[1]でも、いいこと聞いちゃった。\\C[2]【ガーディアンズ壊滅作戦】\\C[0]だって、ひさなちゃん。"
+                                "\\PartyFace[1]\\FaceIndex[2]It must be a really amazing plan then.\\FaceIndex[1] But I've\ngot some good info now. The \\C[2]【Guardians Annihilation\nPlan】\\C[0], right Hisana-chan?"
                             ]
                         },
                         {
@@ -20719,21 +20677,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こはねちゃんは相手に警戒心を解かせるのがほんとに上手だね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なるほど…リベレイターの狙いはそういうことなんだね。"
+                                "Kohane-chan, you're really good at letting the enemy's guard\ndown. I see... so that's the Liberators' aim."
                             ]
                         },
                         {
@@ -20744,14 +20695,14 @@
                                 6,
                                 0,
                                 2,
-                                "リベレイター【セーレ】"
+                                "Liberator [Sere]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしかして…お前…何も知らなかったのか？"
+                                "Could it be... you... knew nothing?"
                             ]
                         },
                         {
@@ -20821,14 +20772,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]うん！"
+                                "\\PartyFace[1]\\FaceIndex[1]Yep!"
                             ]
                         },
                         {
@@ -20839,14 +20790,14 @@
                                 6,
                                 0,
                                 2,
-                                "リベレイター【セーレ】"
+                                "Liberator [Sere]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それなのに一人で乗り込んで来たのか？"
+                                "And yet you came here all by yourself?"
                             ]
                         },
                         {
@@ -20916,14 +20867,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]\\{うん！"
+                                "\\PartyFace[1]\\FaceIndex[1]Yep!"
                             ]
                         },
                         {
@@ -20934,14 +20885,14 @@
                                 6,
                                 0,
                                 2,
-                                "リベレイター【セーレ】"
+                                "Liberator [Sere]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんな何も考えてなさそうな娘に情報を与えてしまうとは…不覚…"
+                                "To think I've given information to such a thoughtless\ngirl... How careless of me..."
                             ]
                         },
                         {
@@ -21011,14 +20962,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]何も考えてないなんて失礼な！"
+                                "\\PartyFace[1]\\FaceIndex[4]How rude to say I'm thoughtless!"
                             ]
                         },
                         {
@@ -21088,14 +21039,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それは言われても仕方ないよね。"
+                                "Well, it's not like you can blame him for thinking that."
                             ]
                         },
                         {
@@ -21165,14 +21116,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[3]もぅ、ひさなちゃんったらぁ…"
+                                "\\PartyFace[1]\\FaceIndex[3]Oh Hisana-chan, you're mean..."
                             ]
                         },
                         {
@@ -21183,21 +21134,14 @@
                                 6,
                                 0,
                                 2,
-                                "リベレイター【セーレ】"
+                                "Liberator [Sere]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くっ、とにかく準備が完了するまでは先に進ませる訳にはいかない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行くぞ！"
+                                "Grr, anyway, I cannot let you proceed until the preparations\nare complete! Here I come!"
                             ]
                         },
                         {
@@ -21292,14 +21236,14 @@
                                 6,
                                 0,
                                 2,
-                                "リベレイター【セーレ】"
+                                "Liberator [Sere]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しつこい娘だ。何度来ても結果は同じだ！行くぞ！"
+                                "You're a persistent girl. No matter how many times you come,\nthe result will be the same! Let's go!"
                             ]
                         },
                         {
@@ -21483,14 +21427,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "一度見た敗北シーンです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "再度見ますか？"
+                                "This is a defeat scene you've seen before. Would you like to\nsee it again?"
                             ]
                         },
                         {
@@ -21498,8 +21435,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "見る",
-                                    "見ない"
+                                    "View",
+                                    "Do Not View"
                                 ],
                                 1,
                                 0,
@@ -21736,14 +21673,14 @@
                                 6,
                                 0,
                                 2,
-                                "リベレイター【セーレ】"
+                                "Liberator [Sere]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くっ…強い…"
+                                "Ugh... so strong..."
                             ]
                         },
                         {
@@ -21754,21 +21691,14 @@
                                 6,
                                 0,
                                 2,
-                                "リベレイター【セーレ】"
+                                "Liberator [Sere]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし…オレは四天王の中でも最弱…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せいぜい気を付けることだな！"
+                                "However... I am the weakest among the Four Heavenly Kings...\nBe sure to stay on your guard!"
                             ]
                         },
                         {
@@ -22168,14 +22098,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[8]それ自分で言うんだ…"
+                                "\\PartyFace[1]\\FaceIndex[8]You're admitting that yourself..."
                             ]
                         },
                         {
@@ -22245,14 +22175,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]あ、なんか落として行ったよ。"
+                                "\\PartyFace[1]\\FaceIndex[2]Oh, you dropped something."
                             ]
                         },
                         {
@@ -22371,14 +22301,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]これで全部揃ったね！"
+                                "\\PartyFace[1]\\FaceIndex[1]Now we've got everything!"
                             ]
                         },
                         {
@@ -22448,14 +22378,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それじゃあそこのセキュリティーセンターでエレベーターを起動しよう。"
+                                "Then let's activate the elevator at that security center\nover there."
                             ]
                         },
                         {
@@ -22801,14 +22731,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "一度見た敗北シーンです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "再度見ますか？"
+                                "It's a defeat scene you've seen before. Would you like to\nview it again?"
                             ]
                         },
                         {
@@ -22816,8 +22739,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "見る",
-                                    "見ない"
+                                    "View",
+                                    "Do Not View"
                                 ],
                                 1,
                                 0,
@@ -23556,21 +23479,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]階段も使えないのか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いざとなったら駆け上がろうと思ったのに。"
+                                "\\PartyFace[1]\\FaceIndex[2]We can't even use the stairs... I thought we could run up\nthem if it came to that."
                             ]
                         },
                         {
@@ -23719,14 +23635,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]あ、階段でも登れそう。"
+                                "\\PartyFace[1]\\FaceIndex[2]Ah, it looks like we can climb the stairs here."
                             ]
                         },
                         {
@@ -23744,7 +23660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "階段を上りますか？"
+                                "Would you like to climb the stairs?"
                             ]
                         },
                         {
@@ -23752,8 +23668,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "上る！",
-                                    "やめる"
+                                    "Climb up!",
+                                    "Don't climb"
                                 ],
                                 1,
                                 0,
@@ -23777,14 +23693,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[9]よーし、いっくぞー！！"
+                                "\\PartyFace[1]\\FaceIndex[9]Alright, let's go!!"
                             ]
                         },
                         {
@@ -24053,14 +23969,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[3]はぁはぁ…さすがに30階上るのは疲れた…"
+                                "\\PartyFace[1]\\FaceIndex[3]*pant* *pant*... Climbing 30 floors is really tiring..."
                             ]
                         },
                         {
@@ -24071,14 +23987,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そりゃそうでしょ…"
+                                "Well, of course it is..."
                             ]
                         },
                         {
@@ -24089,14 +24005,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[3]体力が半分くらいになった気がする…"
+                                "\\PartyFace[1]\\FaceIndex[3]I feel like my energy's been cut in half..."
                             ]
                         },
                         {
@@ -24253,14 +24169,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]エレベーターが動かないなら階段で移動するしかないか…"
+                                "\\PartyFace[1]\\FaceIndex[4]If the elevator isn't working, I guess we have no choice but\nto use the stairs..."
                             ]
                         },
                         {
@@ -24369,14 +24285,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[10]…なんだか嫌な感じがする。"
+                                "\\PartyFace[1]\\FaceIndex[10]...I have a bad feeling about this."
                             ]
                         },
                         {
@@ -24387,21 +24303,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こはねちゃんがそういう時って結構当たることが多いから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気になるならエレベーターに乗らずに\\C[2]階段\\C[0]を使った方がいいかもしれないね。"
+                                "When Kohane-chan has that feeling, she's often right. If it\nbothers you, maybe we should use the \\C[2]stairs\\C[0]\ninstead of the elevator."
                             ]
                         },
                         {
@@ -24418,7 +24327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "行き先を選んでください。"
+                                "Please select a destination."
                             ]
                         },
                         {
@@ -24426,10 +24335,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "３０Ｆ",
-                                    "２Ｆ",
-                                    "１Ｆ",
-                                    "やめる"
+                                    "30F",
+                                    "2F",
+                                    "1F",
+                                    "Cancel"
                                 ],
                                 3,
                                 0,
@@ -25323,7 +25232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "行き先を選んでください。"
+                                "Please choose your destination."
                             ]
                         },
                         {
@@ -25331,10 +25240,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "３０Ｆ",
-                                    "２Ｆ",
-                                    "１Ｆ",
-                                    "やめる"
+                                    "30F",
+                                    "2F",
+                                    "1F",
+                                    "Cancel"
                                 ],
                                 3,
                                 0,
@@ -26612,21 +26521,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<center>この先の戦闘で敗北すると敗北Ｈシーンに移行します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "敗北Ｈを経験したくない場合はセーブしておくことをおススメします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "※戦闘に勝利するだけで敗北Ｈシーンが回想に追加されます。</center>"
+                                "<center>If you are defeated in the upcoming battle, you will\ntransition to a defeat H-scene. If you do not wish to\nexperience the defeat H-scene, we recommend saving your\ngame.※Defeat H-scenes will be added to recollection just by\nwinning the battle.</center>"
                             ]
                         },
                         {
@@ -26654,7 +26549,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<center>この先はボス戦となります。</center>"
+                                "<center>The next encounter will be a boss battle.</center>"
                             ]
                         },
                         {
@@ -26682,7 +26577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<center>準備はよろしいですか？</center>"
+                                "<center>Are you prepared?</center>"
                             ]
                         },
                         {
@@ -26690,8 +26585,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -27452,7 +27347,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "バインドガードが拘束トラップを防いだ！"
+                                "Bind Guard prevented the restraint trap!"
                             ]
                         },
                         {
@@ -27472,14 +27367,14 @@
                                 10,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぶなかったなー。気を付けないと。"
+                                "That was close... We need to be careful."
                             ]
                         },
                         {
@@ -27881,7 +27776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いきなり出現した縄に拘束されてしまった！"
+                                "Suddenly, ropes appeared and I was restrained!"
                             ]
                         },
                         {
@@ -28234,21 +28129,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]ふぅ…あぶなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "罠には気を付けないとだね。"
+                                "\\PartyFace[1]\\FaceIndex[0]Phew... That was close. We really need to be careful of\ntraps, huh?"
                             ]
                         },
                         {
@@ -28259,14 +28147,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ホントだよ…"
+                                "Really..."
                             ]
                         },
                         {
@@ -28853,21 +28741,14 @@
                                 0,
                                 0,
                                 2,
-                                "システム"
+                                "System"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＨＰ、ＭＰを全回復できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全回復しますか？"
+                                "You can fully recover HP and MP. Would you like to fully\nrecover?"
                             ]
                         },
                         {
@@ -28875,8 +28756,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -29124,21 +29005,14 @@
                                 0,
                                 0,
                                 2,
-                                "システム"
+                                "System"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＨＰ、ＭＰを全回復できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全回復しますか？"
+                                "You can fully recover HP and MP. Would you like to fully\nrecover?"
                             ]
                         },
                         {
@@ -29146,8 +29020,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -29845,14 +29719,14 @@
                                 7,
                                 0,
                                 2,
-                                "研究者"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セーレ様…いつ見てもかっこいいわぁ…"
+                                "Seraphier-sama... she always looks so cool..."
                             ]
                         },
                         {
@@ -29917,14 +29791,14 @@
                                 7,
                                 0,
                                 2,
-                                "研究者"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なに、あなたもセーレ様のおっかけ？"
+                                "What, are you also a fan of Seraphier-sama?"
                             ]
                         },
                         {
@@ -29932,8 +29806,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -29957,14 +29831,14 @@
                                 7,
                                 0,
                                 2,
-                                "研究者"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "やっぱりセーレ様の魅力はあなたのようなお子様にも伝わるのね。"
+                                "As expected, even a child like you can feel the charm of\nSeraphier-sama."
                             ]
                         },
                         {
@@ -29975,14 +29849,14 @@
                                 7,
                                 0,
                                 2,
-                                "研究者"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "でも私は同担拒否だから、あまり話しかけないでちょうだい。"
+                                "But I refuse to share my adoration, so please don't talk to\nme too much."
                             ]
                         },
                         {
@@ -30051,14 +29925,14 @@
                                 7,
                                 0,
                                 2,
-                                "研究者"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "セーレ様の魅力がわからないなんて…お子様ね。"
+                                "To not understand the charm of Seraphier-sama... how\nchildish."
                             ]
                         },
                         {
@@ -30069,28 +29943,14 @@
                                 7,
                                 0,
                                 2,
-                                "研究者"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "セーレ様は美しいだけじゃなくて、その能力も素晴らしいの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "誰よりも速く動いて、\\C[2]絶対に先に攻撃してくる\\C[0]ところなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もうかっこ良すぎ！"
+                                "It's not just her beauty, Seraphier-sama's abilities are\nalso incredible. She moves faster than anyone, and always\nattacks first \\C[2]—it's just too cool!\\C[0]"
                             ]
                         },
                         {
@@ -30101,14 +29961,14 @@
                                 7,
                                 0,
                                 2,
-                                "研究者"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "でも私は同担拒否だから、セーレ様を好きになっても絶対に話しかけないでね。"
+                                "But since I refuse to share my adoration, even if you come\nto like Seraphier-sama, please never talk to me about it."
                             ]
                         },
                         {
@@ -30225,14 +30085,14 @@
                                 7,
                                 0,
                                 2,
-                                "研究者"
+                                "Researcher"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セーレ様…風のように去る姿もかっこいいわぁ…"
+                                "Seraphier-sama... Even your departing figure is as cool as\nthe wind..."
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "研究室中枢",
+    "displayName": "Research Core",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -9345,7 +9345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベリアルは何処に行ったんだ…"
+                                "Where has Belial gone..."
                             ]
                         },
                         {
@@ -9394,14 +9394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さぁな。あいつは地上の研究所の所長もやってるからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そっちの方を見に行ってるんじゃねぇか？"
+                                "Who knows. He's also the director of the surface research\nfacility, so maybe he's gone to check on that?"
                             ]
                         },
                         {
@@ -9419,7 +9412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうか、まあいい。計画は順調に進んでいるようだしな。"
+                                "I see, well, it's fine. It seems the plan is progressing\nsmoothly."
                             ]
                         },
                         {
@@ -9464,14 +9457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こいつさえ完成すればガーディアンズなど敵では無いだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いよいよ…オレ達の計画が実行される時が来る…"
+                                "Once this thing is complete, the Guardians will be no match\nfor us. The time for our plan to be put into action is\nfinally approaching..."
                             ]
                         },
                         {
@@ -9520,7 +9506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだな。オレ達だけでも戦力は十分だが、こいつがあれば楽勝だろうな。"
+                                "Right. We're strong enough on our own, but with this thing,\nit'll be an easy victory."
                             ]
                         },
                         {
@@ -9565,7 +9551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし、ベリアルの奴、施設内をチョロチョロしているネズミをいつまで放置しておくつもりだ。"
+                                "However, how long does Belial plan to ignore the rat\nscurrying around inside the facility?"
                             ]
                         },
                         {
@@ -9583,7 +9569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "確かに、そろそろ目障りになってきたなぁ。"
+                                "Indeed, it's starting to become an eyesore."
                             ]
                         },
                         {
@@ -9601,7 +9587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "仕方ない…計画に支障が出る前に潰しておくとするか。"
+                                "Can't be helped... I'll crush it before it causes any\nproblems for the plan."
                             ]
                         },
                         {
@@ -9928,21 +9914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここまでのプレイをセーブしますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "※セーブ後タイトルに戻ります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "※セーブしたデータはチャプター1のボス戦前から始まります。"
+                                "Would you like to save your progress up to this point?※After\nsaving, you will return to the title screen.※Saved data will\nstart from before the Chapter 1 boss battle."
                             ]
                         },
                         {
@@ -9950,8 +9922,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "セーブする",
-                                    "セーブせずにタイトルに戻る"
+                                    "Save",
+                                    "Return to title without saving"
                                 ],
                                 1,
                                 0,

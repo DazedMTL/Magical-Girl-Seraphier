@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下プラントゲートA",
+    "displayName": "Underground Plant Gate A",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -8993,14 +8993,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よう、また会ったなお嬢ちゃん"
+                                "Hey, we meet again, little lady."
                             ]
                         },
                         {
@@ -9070,14 +9070,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]…無事だったみたいだね。"
+                                "\\PartyFace[1]\\FaceIndex[4]...Looks like you're safe."
                             ]
                         },
                         {
@@ -9088,21 +9088,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだ、心配してくれてたのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さすが正義の味方はお優しいねぇ。"
+                                "What, you were worried about me? As expected of a champion\nof justice, so kind-hearted."
                             ]
                         },
                         {
@@ -9172,21 +9165,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]…いくら悪い人だからって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目の前で死んだら寝覚めが悪いだけだよ。"
+                                "\\PartyFace[1]\\FaceIndex[4]...Even if you're a bad person, I'd still feel bad waking up\nto you dying right in front of me."
                             ]
                         },
                         {
@@ -9197,21 +9183,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふはははっ！オレは頑丈さが取り柄なんでなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう簡単にはくだばったりしねぇよ！"
+                                "Hahaha! My durability is my best trait. I won't be biting\nthe dust that easily!"
                             ]
                         },
                         {
@@ -9222,14 +9201,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}ちょっと怖かったけど…"
+                                "It was a bit scary though..."
                             ]
                         },
                         {
@@ -9299,21 +9278,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]わたし、この先に用があるんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと通してくれるかな？"
+                                "\\PartyFace[1]\\FaceIndex[4]I have business further ahead, could you let me through?"
                             ]
                         },
                         {
@@ -9324,21 +9296,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なるほど、ガーディアンズの部隊が来る前にこちらの戦力を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "把握しておこうってことか？"
+                                "I see, you want to assess our forces before the Guardians'\nsquad arrives, huh?"
                             ]
                         },
                         {
@@ -9349,14 +9314,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう言われてホイホイ通す訳ねぇよなぁ？"
+                                "You think I'd just let you pass because you asked nicely?"
                             ]
                         },
                         {
@@ -9426,14 +9391,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]なら、ぶっ飛ばして通るだけ…だね。"
+                                "\\PartyFace[1]\\FaceIndex[4]Then, I'll just have to blast my way through... right."
                             ]
                         },
                         {
@@ -9444,21 +9409,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まったく…気の強いお嬢ちゃんだねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういう娘を堕とすのがまたたまらねぇんだよな。"
+                                "Seriously... You're a feisty one, aren't you? There's\nnothing more irresistible than breaking in a girl like that."
                             ]
                         },
                         {
@@ -9528,21 +9486,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]堕とされたりなんてしない…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなことのためにしか力を使えないような人たちに、わたしは負けない！"
+                                "\\PartyFace[1]\\FaceIndex[4]I won't be broken... I won't lose to people who can only use\ntheir power for such things!"
                             ]
                         },
                         {
@@ -9553,14 +9504,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なら、その力を証明してみせろよ魔法少女！"
+                                "Then show me that power of yours, magical girl!"
                             ]
                         },
                         {
@@ -9693,21 +9644,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐっ…やるじゃねぇか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【オーグル】を退けた力は本物だったってことか…"
+                                "Gah... not bad. So the power that defeated [Ogre] was the\nreal deal, huh..."
                             ]
                         },
                         {
@@ -9718,14 +9662,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "これが…『ルールの中で管理された力』だっていうのか…"
+                                "Is this... what they call \"power controlled within the\nrules\"..."
                             ]
                         },
                         {
@@ -9795,21 +9739,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]何か勘違いしているようだけど…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "『力を管理する』っていうのは別に縛り付けるとかそういうことじゃないよ。"
+                                "\\PartyFace[1]\\FaceIndex[4]It seems like you're misunderstanding something...\n\"Controlling power\" doesn't mean to tie it down or anything\nlike that."
                             ]
                         },
                         {
@@ -9879,21 +9816,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]大きな力で人に迷惑を掛けないように、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "みんなが幸せになるように、ルールを守って力を使おうねってことだからね。"
+                                "\\PartyFace[1]\\FaceIndex[4]It's about using your great power without causing trouble\nfor others, to make everyone happy, and to use that power\nwhile abiding by the rules."
                             ]
                         },
                         {
@@ -9904,21 +9834,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オレはこの力で弱い奴らをひれ伏せさせるのが好きだからよ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お前の言っていることは受け入れられねぇ。"
+                                "I like making weaklings grovel with this power, so I can't\naccept what you're saying."
                             ]
                         },
                         {
@@ -9929,21 +9852,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "自分がやっていることが世間からしたら悪いことだって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "自覚してやってる人間に正論は通じねえんだよな。"
+                                "People who are aware that what they're doing is wrong by\nsocietal standards won't be swayed by sound arguments,\nright?"
                             ]
                         },
                         {
@@ -10013,21 +9929,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]そうだね…みんなにわかってもらうことは難しいかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だからと言って、あなた達がやったことは許されることじゃない。"
+                                "\\PartyFace[1]\\FaceIndex[4]That's true... It might be difficult for everyone to\nunderstand. But that doesn't mean what you guys did is\nforgivable."
                             ]
                         },
                         {
@@ -10097,21 +10006,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]自分だけで好き勝手に力を使う分にはいいけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「人の幸せ」を奪うことに力をつかっちゃダメだよ！"
+                                "\\PartyFace[1]\\FaceIndex[4]It's fine to use your power however you like for yourself,\nbut you can't use it to take away \"people's happiness\"!"
                             ]
                         },
                         {
@@ -10122,21 +10024,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お嬢ちゃんの言っていることは綺麗ごとにしか聞こえねぇが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "負けちまったら何も言えねぇな。"
+                                "What you're saying might sound noble, but if you lose, you\ncan't say anything at all."
                             ]
                         },
                         {
@@ -10147,21 +10042,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "しかし、予想以上にガーディアンズが手ごわいってのが良く分かったぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ベリアルに忠告しとかないとなぁ。"
+                                "However, I've realized that the Guardians are tougher than I\nexpected. I'll have to warn Belial about this."
                             ]
                         },
                         {
@@ -10765,14 +10653,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[10]ありゃ、逃げていっちゃった…"
+                                "\\PartyFace[1]\\FaceIndex[10]Ah, he ran away..."
                             ]
                         },
                         {
@@ -10842,21 +10730,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "データによるとここから先は一本道だから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どのみち逃げ場はないよ。"
+                                "According to the data, it's a straight path from here on, so\nthere's no escape anyway."
                             ]
                         },
                         {
@@ -10926,21 +10807,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ガーディアンズの部隊が到着するまでもう少しかかるから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わたしとしては無理しないで待ってて欲しいけど…"
+                                "It'll take a little more time for the Guardians' squad to\narrive, so I'd prefer you didn't push yourself and just\nwait..."
                             ]
                         },
                         {
@@ -11010,21 +10884,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]ここまで来たからには行ってみるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もちろん慎重に…ね！"
+                                "\\PartyFace[1]\\FaceIndex[0]Now that we've come this far, I want to go see for myself.\nOf course, I'll be careful... okay!"
                             ]
                         },
                         {
@@ -11094,21 +10961,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そう言うと思った…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "出来る限りのサポートはするから、本当に気を付けてね。"
+                                "I thought you'd say that... I'll support you as much as I\ncan, so please be really careful."
                             ]
                         },
                         {
@@ -11267,21 +11127,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どうした！魔法少女の力はそんなものか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【オーグル】を退けた時はそんなもんじゃなかっただろ！"
+                                "What's the matter! Is that all the power of a magical girl\nhas!? It wasn't like this when you defeated [Ogre]!"
                             ]
                         },
                         {
@@ -11292,14 +11145,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いつでも相手になってやるから出直してこい！"
+                                "I'm ready to face you anytime, so come back when you're\nready!"
                             ]
                         },
                         {
@@ -11375,14 +11228,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "一度見た敗北シーンです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "再度見ますか？"
+                                "It's a defeat scene you've seen before. Would you like to\nsee it again?"
                             ]
                         },
                         {
@@ -11390,8 +11236,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "見る",
-                                    "見ない"
+                                    "View",
+                                    "Do Not View"
                                 ],
                                 1,
                                 0,
@@ -11796,21 +11642,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よう、また倒されに来たのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今度はもっと楽しませてくれよ！！"
+                                "Hey, you've come to be defeated again? This time, entertain\nme more!!"
                             ]
                         },
                         {

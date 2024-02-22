@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下研究室ゲート",
+    "displayName": "Underground Laboratory Gate",
     "encounterList": [],
     "encounterStep": 30,
     "height": 22,
@@ -4411,14 +4411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セラフィエールから神霊力を奪うために、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "球体ドローンが選択した責めは…"
+                                "To steal the divine power from Seraphier, the spherical\ndrone chose to torment her by..."
                             ]
                         },
                         {
@@ -4435,8 +4428,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "機械触手で口虐",
-                                    "機械触手で処女を奪う"
+                                    "Mechanical tentacles tormenting her mouth",
+                                    "Mechanical tentacles taking her virginity"
                                 ],
                                 -1,
                                 0,
@@ -4515,8 +4508,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "機械触手で口虐",
-                                    "機械触手を膣に挿入"
+                                    "Mechanical tentacles tormenting her mouth",
+                                    "Inserting mechanical tentacles into her vagina"
                                 ],
                                 -1,
                                 0,
@@ -5296,14 +5289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "球体ドローンに敗北してしまったKOHANEは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その内部に囚われしまった。"
+                                "Kohane, defeated by the spherical drone, was now imprisoned\nwithin it."
                             ]
                         },
                         {
@@ -5321,21 +5307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "身体を護るローブは剥ぎ取られ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "四肢を大の字に広げた格好で拘束されて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "胸の小さな膨らみや、まだ幼さの残る秘部が曝け出される。"
+                                "Her protective robe was torn away, and she was restrained\nwith her limbs spread out in a big 'X', exposing her small\nbreasts and her still youthful genitals."
                             ]
                         },
                         {
@@ -5353,7 +5325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "口には開口器を嵌められ、大きく開かれた状態で固定されていた。"
+                                "A gag was fitted in her mouth, fixed in a widely opened\nstate."
                             ]
                         },
                         {
@@ -5364,14 +5336,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あ…あぁ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ah... Aah..."
                             ]
                         },
                         {
@@ -5389,14 +5361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "機械の内部に閉じ込められ、これから何をされてしまうのかわからない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不安と恐怖が少女の身体を震わせた。"
+                                "Trapped inside the machine, the uncertainty and fear of what\nwould happen next made the girl's body tremble."
                             ]
                         },
                         {
@@ -5414,7 +5379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな彼女の目の前に、銀色に輝く機械の触手が突きつけられる。"
+                                "In front of her, a silver gleaming mechanical tentacle was\nthrust forward."
                             ]
                         },
                         {
@@ -5689,14 +5654,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ひっ！？"
+                                "\\PartyFace[1]\\FaceIndex[6]Eek!?"
                             ]
                         },
                         {
@@ -5714,14 +5679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "妖しく光る機械触手の蠢きに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思わず悲鳴を上げるKOHANE。"
+                                "Kohane let out an involuntary scream at the writhing of the\nsinisterly glowing mechanical tentacle."
                             ]
                         },
                         {
@@ -5732,14 +5690,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（いやっ、そんなもの口に入れたくない…）"
+                                "\\PartyFace[1]\\FaceIndex[6](No, I don't want that thing in my mouth...)"
                             ]
                         },
                         {
@@ -5757,14 +5715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それが開口器で大きく開かれた口を狙っていることは明確であり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少女は首を振ってそれに抗おうとする。"
+                                "It was clear that the tentacle was aiming for her mouth,\nwhich was forced open by the gag, and the girl shook her\nhead trying to resist it."
                             ]
                         },
                         {
@@ -5782,7 +5733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし、機械の陵辱者はその僅かな抵抗も許すことはない。"
+                                "However, the mechanical violator did not allow even that\nslight resistance."
                             ]
                         },
                         {
@@ -5800,14 +5751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女の口へと狙いを定めた触手の先端は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その口腔へと一気に侵入し、喉奥まで到達する。"
+                                "The tip of the tentacle aimed at the girl's mouth invaded\nher oral cavity in one swift motion, reaching all the way to\nher throat."
                             ]
                         },
                         {
@@ -6094,14 +6038,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]んぐっ！むぅうっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Nnguh! Mmmph!!"
                             ]
                         },
                         {
@@ -6119,7 +6063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "口の中一杯に押し込まれた触手の息苦しさに悶えるKOHANE。"
+                                "Kohane writhed in discomfort as the tentacle filled her\nmouth to the brim."
                             ]
                         },
                         {
@@ -6137,7 +6081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし無慈悲な機械の責めはそこからが始まりだった。"
+                                "But the merciless torment of the machine was just beginning."
                             ]
                         },
                         {
@@ -6155,7 +6099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先端から粘性の液体が分泌され、それを喉の奥へ塗りつけるように動かされる。"
+                                "A viscous liquid secreted from the tip, smearing it deep\ninto her throat as it moved."
                             ]
                         },
                         {
@@ -6166,14 +6110,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふぐっ、ごぼぉおっ！"
+                                "\\PartyFace[1]\\FaceIndex[6]Fugh, gobooh!"
                             ]
                         },
                         {
@@ -6191,7 +6135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "粘液を飲み込まされた彼女は激しく咳込みながら嘔吐感に耐えるしかなかった。"
+                                "Forced to swallow the mucus, she coughed violently while\nenduring the urge to vomit."
                             ]
                         },
                         {
@@ -6202,14 +6146,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（な…なにこれ…身体が…熱い…）"
+                                "\\PartyFace[1]\\FaceIndex[6](Wha... what is this... my body's... hot...)"
                             ]
                         },
                         {
@@ -6227,7 +6171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "口内を侵略される苦痛が、次第に心地よさに変化していく。"
+                                "The pain of being invaded in her mouth gradually turned into\npleasure."
                             ]
                         },
                         {
@@ -6245,7 +6189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "機械触手が射出した粘液には催淫効果が含まれてた。"
+                                "The liquid ejected by the mechanical tentacle contained an\naphrodisiac effect."
                             ]
                         },
                         {
@@ -6315,14 +6259,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふ…うううんっ、んっ、んんんんっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Fuu... uuuuhn, nnh, nnnnnh!!"
                             ]
                         },
                         {
@@ -6340,7 +6284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "口を陵辱される少女の声に次第に甘い色が混じり始める。"
+                                "The voice of the girl being violated in her mouth began to\nmix with sweet moans."
                             ]
                         },
                         {
@@ -6358,14 +6302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その少女の様子に気を良くしたかのように、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "触手はその動きをさらに激しいものにしていく。"
+                                "Encouraged by the girl's reaction, the tentacle intensified\nits movements even more."
                             ]
                         },
                         {
@@ -6435,14 +6372,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふぅっ！！ひうっ、あうぅっ！！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Fuuh!! Hiuh, auuhh!!!"
                             ]
                         },
                         {
@@ -6460,14 +6397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まるで口腔内全体を犯されているような錯覚に陥り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "KOHANEの目からは涙が流れ落ちていた。"
+                                "She felt as if her entire mouth was being violated, and\ntears streamed down from Kohane's eyes."
                             ]
                         },
                         {
@@ -6478,14 +6408,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（やだ…くるしい…よぉ…っ）"
+                                "\\PartyFace[1]\\FaceIndex[6](No... it's painful... please...)"
                             ]
                         },
                         {
@@ -6503,14 +6433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "機械触手はなおも暴れ続け、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ついには喉奥までを犯し始めた。"
+                                "The mechanical tentacle continued its rampage, now violating\neven her throat."
                             ]
                         },
                         {
@@ -6580,14 +6503,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]んあ…あああああっっ！？"
+                                "\\PartyFace[1]\\FaceIndex[6]Nnah... aaaaahhh!!?"
                             ]
                         },
                         {
@@ -6605,14 +6528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あまりの苦しさに目を見開くKOHANEだったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでも触手の動きは止まらない。"
+                                "Despite the overwhelming discomfort, Kohane's eyes widened\nbut the tentacle's movement did not stop."
                             ]
                         },
                         {
@@ -6623,14 +6539,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]おごっ、おぼおおぉっ！！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Ogoh, obboohh!!!"
                             ]
                         },
                         {
@@ -6648,14 +6564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "喉に直接叩きつけられる機械触手の動きに吐き気を覚えながらも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "粘液の効果はその苦痛さえも心地よさに塗り替えていく。"
+                                "Even as she felt nauseous from the tentacle striking\ndirectly into her throat, the effects of the mucus turned\neven that pain into pleasure."
                             ]
                         },
                         {
@@ -6666,14 +6575,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（なんで…苦しいのが…気持ち良くなってる…）"
+                                "\\PartyFace[1]\\FaceIndex[6](Why... does this pain... feel good...)"
                             ]
                         },
                         {
@@ -6691,14 +6600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分の身体が作り変えられるような感覚が襲い掛かり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また少女の心を恐怖が支配していく。"
+                                "The sensation of her body being transformed overwhelmed her\nand fear once again took hold of the girl's heart."
                             ]
                         },
                         {
@@ -6768,14 +6670,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ん…んんっ…ふう…うんっ…んんんっ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Nn... nnnh... fuu... uhn... nnnnh..."
                             ]
                         },
                         {
@@ -6793,14 +6695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "粘液の効果で身体は熱くなり、曝け出された乳首や淫部は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひくひくと物欲しげに小さく震えていた。"
+                                "The aphrodisiac made her body hot, and her exposed nipples\nand genitals twitched eagerly with a small shiver."
                             ]
                         },
                         {
@@ -6818,14 +6713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その少女の様子を確認した球体ドローンは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ようやく触手を口内から引き抜く。"
+                                "Having confirmed the girl's state, the spherical drone\nfinally withdrew its tentacle from inside her mouth."
                             ]
                         },
                         {
@@ -7100,14 +6988,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]げほっ、かはぁあっ！ はぁ……はぁ……"
+                                "\\PartyFace[1]\\FaceIndex[6]Geho, kahaa! Haa... haa..."
                             ]
                         },
                         {
@@ -7125,14 +7013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "口内で暴れていた機械触手から解放されて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "KOHANEは荒い呼吸を繰り返す。"
+                                "Freed from the rampaging mechanical tentacle in her mouth,\nKohane gasped for air."
                             ]
                         },
                         {
@@ -7150,7 +7031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし、そこからが少女にとっての本当の地獄の始まりだった。"
+                                "However, this was just the beginning of true hell for the\ngirl."
                             ]
                         },
                         {
@@ -7220,14 +7101,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あ…あ…ん…んああああっ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ah... ah... nnn... nnaaaaaah..."
                             ]
                         },
                         {
@@ -7245,7 +7126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "触手が引き抜かれても、大量に飲み込まされた催淫液の効果が消えた訳ではない。"
+                                "Even after the tentacle was pulled out, the effects of the\naphrodisiac she had been forced to swallow did not\ndisappear."
                             ]
                         },
                         {
@@ -7263,14 +7144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "熱く火照った身体は球体ドローン内の僅かな空気の振動ですら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "敏感に感じ取り、痛いほどの疼きを与えてくる。"
+                                "Her body, hot and flushed, was so sensitive that even the\nslight vibrations of air inside the spherical drone caused\nher excruciating throbbing."
                             ]
                         },
                         {
@@ -7340,14 +7214,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふあ…あ…あ…ふぁ…あ…んああああっ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Fua... ah... ah... fua... ah... nnaaaaaah..."
                             ]
                         },
                         {
@@ -7358,14 +7232,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（こ…こんなの…ひどいよぉ…）"
+                                "\\PartyFace[1]\\FaceIndex[6](This is... so cruel...)"
                             ]
                         },
                         {
@@ -7383,21 +7257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今すぐ身体を掻きむしりたい衝動に駆られても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ガッチリと拘束された四肢ではそれも許されず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただ全身を駆け巡る痛痒に耐えるしか無かった。"
+                                "Even though she was driven by the urge to scratch her body,\nher limbs were firmly restrained, and she could only endure\nthe agonizing itch that ran through her entire body."
                             ]
                         },
                         {
@@ -7408,14 +7268,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あ…あ…あ…ぁ…あ…ああっ…ぅああああっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Ah... ah... ah... ahh... ah... aaaaah... uaaaaaaah!!"
                             ]
                         },
                         {
@@ -7433,14 +7293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "暫くの間…少女にとっては永遠とも思える程の時間、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "球体ドローンの内部に悲痛な喘ぎが響き渡っていた。"
+                                "For a while... which felt like an eternity to the girl, her\npained gasps echoed inside the spherical drone."
                             ]
                         },
                         {
@@ -8248,14 +8101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "球体ドローンに敗北してしまったKOHANEは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その内部に囚われしまった。"
+                                "Kohane, defeated by the spherical drone, was captured inside\nit."
                             ]
                         },
                         {
@@ -8273,21 +8119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "身体を護るローブは剥ぎ取られ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "四肢を大の字に広げた格好で拘束されて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "胸の小さな膨らみや、まだ幼さの残る秘部が曝け出される。"
+                                "Her protective robe was torn off, and she was restrained\nwith her limbs spread out in a big 'X', exposing her small\nbreasts and her still immature genitals."
                             ]
                         },
                         {
@@ -8305,7 +8137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "口には開口器を嵌められ、大きく開かれた状態で固定されていた。"
+                                "A gag was fitted into her mouth, keeping it wide open and\nfixed in place."
                             ]
                         },
                         {
@@ -8316,14 +8148,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あ…あぁ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ah... Aah..."
                             ]
                         },
                         {
@@ -8341,14 +8173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "機械の内部に閉じ込められ、これから何をされてしまうのかわからない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不安と恐怖が少女の身体を震わせた。"
+                                "Trapped inside the machine, the girl trembled with the\nanxiety and fear of not knowing what would be done to her\nnext."
                             ]
                         },
                         {
@@ -8366,7 +8191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その少女の開かれた足の下から、銀色に輝く機械触手が伸びる。"
+                                "From beneath the girl's spread legs, a silver mechanical\ntentacle extended."
                             ]
                         },
                         {
@@ -8582,14 +8407,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]…うぅ"
+                                "\\PartyFace[1]\\FaceIndex[6]...Uhh"
                             ]
                         },
                         {
@@ -8607,7 +8432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その狙いを感じ取り、魔法少女の口から恐怖の色が混じった声が漏れる。"
+                                "Feeling its intent, a voice tinged with fear leaked from the\nmagical girl's mouth."
                             ]
                         },
                         {
@@ -8625,7 +8450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "機械触手は少女の股間へと狙いを定めるように動き出す。"
+                                "The mechanical tentacle began to move as if targeting the\ngirl's crotch."
                             ]
                         },
                         {
@@ -8695,14 +8520,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あうぅっ！？"
+                                "\\PartyFace[1]\\FaceIndex[6]Ahh!?"
                             ]
                         },
                         {
@@ -8720,14 +8545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "突然自分の大事な部分を触れられて、驚きの声を上げるKOHANE。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その小さな割れ目をなぞるようにして、機械触手の先端が動く。"
+                                "Suddenly touched in her most private part, Kohane let out a\nsurprised cry. The tip of the mechanical tentacle moved as\nif tracing her small slit."
                             ]
                         },
                         {
@@ -8738,14 +8556,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あ…ああ…っ！"
+                                "\\PartyFace[1]\\FaceIndex[6]Ah... Aah...!"
                             ]
                         },
                         {
@@ -8756,14 +8574,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（や…やめてよぉ！）"
+                                "\\PartyFace[1]\\FaceIndex[6](No... Stop it...!)"
                             ]
                         },
                         {
@@ -8781,7 +8599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "声にならない声で叫ぶKOHANE。"
+                                "Kohane screamed in a voice that couldn't make a sound."
                             ]
                         },
                         {
@@ -8799,14 +8617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな彼女を気にした様子もなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "機械触手は固く閉じた秘部をほぐすようにその先端を動かす。"
+                                "Without any concern for her, the mechanical tentacle moved\nits tip as if to loosen her tightly closed genitals."
                             ]
                         },
                         {
@@ -8876,14 +8687,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふあ…あ…あああっ！"
+                                "\\PartyFace[1]\\FaceIndex[6]Fua... Ah... Aaahh!"
                             ]
                         },
                         {
@@ -8901,14 +8712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "敏感な場所を冷たい機械触手に撫でられる感覚に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少女は全身をびくびくと震わせる。"
+                                "The sensation of her sensitive spots being caressed by the\ncold mechanical tentacle made the girl's entire body twitch\nand shudder."
                             ]
                         },
                         {
@@ -8926,7 +8730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やがて、膣口で蠢く触手の音に、くちゅくちゅと卑猥な水音が混じり始める。"
+                                "Soon, the squirming sounds of the tentacle at her vaginal\nopening were mixed with lewd, squelching noises."
                             ]
                         },
                         {
@@ -8944,7 +8748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それを感じ取った機械触手はその先端にぐっと力を込める。"
+                                "Feeling this, the mechanical tentacle put more force into\nits tip."
                             ]
                         },
                         {
@@ -8955,14 +8759,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ひあっ、ひああああああっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Hiaa, hiaaaaah!!"
                             ]
                         },
                         {
@@ -8980,14 +8784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "機械触手の意図を感じ取った少女の拒絶の悲鳴に構うこともなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは一騎に狭い膣内へと侵入した。"
+                                "Ignoring the girl's screams of rejection, it penetrated\ndeeply into her narrow vagina in one stroke."
                             ]
                         },
                         {
@@ -9493,14 +9290,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふあ…あ…あああああああああああっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Fua... Ah... Aaaaaaaaaah!!"
                             ]
                         },
                         {
@@ -9518,14 +9315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ずぶずぶと侵入してくる異物感に、瞳の焦点が宙を彷徨い、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大きく開かれた口からは涎が溢れ出す。"
+                                "The sensation of something foreign invading her caused her\neyes to lose focus, and drool overflowed from her widely\nopened mouth."
                             ]
                         },
                         {
@@ -9670,14 +9460,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（わたしのはじめてが…こんなのって…う…うぅ…）"
+                                "\\PartyFace[1]\\FaceIndex[6](My first time... with something like this... Ugh... Uuu...)"
                             ]
                         },
                         {
@@ -9695,7 +9485,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "無慈悲な処女喪失に、KOHANEの瞳からは大粒の涙が零れ落ちた。"
+                                "With her virginity taken mercilessly, large tears fell from\nKohane's eyes."
                             ]
                         },
                         {
@@ -9713,21 +9503,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "これから先どんな相手と添い遂げたとしても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "初めてがこの機械に奪われたという事実はが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "性に未熟な少女の心を苛む。"
+                                "No matter who she would end up with in the future, the fact\nthat her first time was taken by this machine would torment\nthe heart of the sexually inexperienced girl."
                             ]
                         },
                         {
@@ -9797,14 +9573,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]う…うぅ…ぅ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ugh... Uuu... Uh..."
                             ]
                         },
                         {
@@ -9832,21 +9608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "機械触手を拒絶しようにも、手足を動かすことはできない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "KOHANEはただ為す術なく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自らの中に入り込んでくるものを受け入れるしかなかった。"
+                                "Unable to reject the mechanical tentacle and unable to move\nher limbs, Kohane had no choice but to accept what was\nentering her."
                             ]
                         },
                         {
@@ -9864,7 +9626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やがて機械触手は子宮の入り口まで辿り着く。"
+                                "Eventually, the mechanical tentacle reached the entrance to\nher womb."
                             ]
                         },
                         {
@@ -9934,14 +9696,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ああうぅ！"
+                                "\\PartyFace[1]\\FaceIndex[6]Aaauh!"
                             ]
                         },
                         {
@@ -9959,14 +9721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "内臓を直接触られるような感覚に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "KOHANEは悶えることしかできなかった。"
+                                "Feeling as if her insides were being directly touched,\nKohane could do nothing but writhe in agony."
                             ]
                         },
                         {
@@ -9977,14 +9732,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（こんなの嫌だよ……。誰か助けて……）"
+                                "\\PartyFace[1]\\FaceIndex[6](I don't want this... Someone save me...)"
                             ]
                         },
                         {
@@ -10002,14 +9757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その少女の願いを打ち砕くように、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "膣内に埋め込まれていた機械触手の動きが激しくなる。"
+                                "As if to crush the girl's wish, the movement of the\nmechanical tentacle buried inside her intensified."
                             ]
                         },
                         {
@@ -10296,14 +10044,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ひゃあああっ！！ああああああっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Hyaaaa!! Aaaaaah!!"
                             ]
                         },
                         {
@@ -10321,7 +10069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "機械触手は膣口までその先端を引き抜くと、また一気に最奥まで侵入する。"
+                                "The mechanical tentacle pulled its tip out to the vaginal\nopening and then penetrated deeply to the furthest reaches\nagain in one go."
                             ]
                         },
                         {
@@ -10339,7 +10087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "侵攻が繰り返される度に少女の身体は大きく跳ね上がる。"
+                                "With each invasion, the girl's body bounced up violently."
                             ]
                         },
                         {
@@ -10350,14 +10098,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ひあっ…あっ、ああっ、あっ、ふあああっ、ああああっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Hia... Ahh, aahh, ah, fuaaahh, aaaaahh!!"
                             ]
                         },
                         {
@@ -10368,14 +10116,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（だめだめ…こんなに奥まで突かれたら…変な気持ちになるぅ）"
+                                "\\PartyFace[1]\\FaceIndex[6](No no... If it keeps hitting me so deep inside... I'll\nstart feeling weird...)"
                             ]
                         },
                         {
@@ -10393,14 +10141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "始めは苦痛でしか無かった機械触手の抽送は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次第に心地良さを少女の身体に与えるようになっていく。"
+                                "What started as pain from the mechanical tentacle's\nthrusting gradually began to bring pleasure to the girl's\nbody."
                             ]
                         },
                         {
@@ -10418,7 +10159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その少女に止めを刺すべく、ドローンはもう一本の機械触手を伸ばし…"
+                                "To deliver the final blow, the drone extended another\nmechanical tentacle..."
                             ]
                         },
                         {
@@ -10436,7 +10177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "開口器により開かれた口へと突き刺した。"
+                                "The gag spread her mouth open, and the mechanical tentacle\nthrust inside."
                             ]
                         },
                         {
@@ -10723,14 +10464,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふぐううううっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Mmmmmmm!!"
                             ]
                         },
                         {
@@ -10748,14 +10489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "突然口内に侵入してきた機械触手の意図が読めずに困惑する少女。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、次の瞬間にはそれを理解させられることになる。"
+                                "The girl was confused by the sudden intrusion of the\nmechanical tentacle into her mouth, unable to comprehend its\npurpose. However, she would soon be forced to understand."
                             ]
                         },
                         {
@@ -10766,14 +10500,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（やだやだぁ！変な物飲ませないでよぉ！）"
+                                "\\PartyFace[1]\\FaceIndex[6](No, no! Don't make me drink something weird!)"
                             ]
                         },
                         {
@@ -10791,14 +10525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "口内に入り込んだ機械触手の先端から大量の液体が吹き出し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "喉の奥へ奥へと流れ込んでいく。"
+                                "A large amount of liquid spurted from the tip of the\nmechanical tentacle that had entered her mouth, flowing deep\ninto her throat."
                             ]
                         },
                         {
@@ -10868,14 +10595,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふぐううう、うう…ふぐ…うううううううっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Mmmmm, ugh... mmm... mmmmmmm!!"
                             ]
                         },
                         {
@@ -10893,14 +10620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強制的に飲まされる液体を吐き出そうにも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "機械触手に塞がれてそれも許されない。"
+                                "Even as she tried to spit out the liquid being forced down\nher throat, the mechanical tentacle blocked her, making it\nimpossible."
                             ]
                         },
                         {
@@ -10918,7 +10638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こくん、こくんと機械触手の粘液を飲まされる魔法少女。"
+                                "The magical girl was made to swallow the mechanical\ntentacle's secretions with gulps."
                             ]
                         },
                         {
@@ -10936,7 +10656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その効果はすぐに身体に現れた。"
+                                "The effects of the liquid quickly manifested in her body."
                             ]
                         },
                         {
@@ -10954,14 +10674,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（や…なに…身体が…熱い…）"
+                                "\\PartyFace[1]\\FaceIndex[6](No... what's this... my body... it's hot...)"
                             ]
                         },
                         {
@@ -10979,14 +10699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "催淫効果のある粘液は性体験の乏しい少女の身体を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "強制的に恍惚へと導いていく。"
+                                "The aphrodisiac effects of the secretions led the\ninexperienced girl's body into a state of ecstasy against\nher will."
                             ]
                         },
                         {
@@ -11004,14 +10717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その間にも秘部を責める触手の動きは止まることなく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何度も何度も小さな身体を突き上げる。"
+                                "Meanwhile, the tentacle assaulting her genitals did not stop\nits relentless thrusting, repeatedly lifting her small body."
                             ]
                         },
                         {
@@ -11081,14 +10787,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふ…うっ、んんんっ、ふうううっ！うっ！ふううううう！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Huh... ugh, nnnn, fuuuu! Ugh! Fuuuuuu!!"
                             ]
                         },
                         {
@@ -11099,14 +10805,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（や…これ…ダメ…身体が変…何かきちゃう…！！）"
+                                "\\PartyFace[1]\\FaceIndex[6](No... this is bad... my body feels strange... something's\ncoming...!!)"
                             ]
                         },
                         {
@@ -11124,7 +10830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女の変化を感じ取った機械触手は、その速度を上げる。"
+                                "Sensing the girl's change, the mechanical tentacle increased\nits speed."
                             ]
                         },
                         {
@@ -11181,7 +10887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結合部からは、ぐちゅぐちゅと液体混じりの淫猥な音が響く。"
+                                "From the joined parts, lewd squelching noises mixed with\nfluids echoed."
                             ]
                         },
                         {
@@ -11199,7 +10905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やがて、機械触手が強く子宮口を叩いた瞬間…"
+                                "Eventually, at the moment when the mechanical tentacle\nstruck hard against the entrance to her womb..."
                             ]
                         },
                         {
@@ -11217,7 +10923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女の意識は弾けた。"
+                                "The girl's consciousness burst."
                             ]
                         },
                         {
@@ -11301,14 +11007,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふあああっ！ああーっ！あああああーーーーっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Fuaaaa! Aah-! Aaaaaah----!!"
                             ]
                         },
                         {
@@ -11743,7 +11449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セラフエールは全身を大きく痙攣させながら絶頂を迎えた。"
+                                "Seraphier reached climax while her entire body convulsed\nviolently."
                             ]
                         },
                         {
@@ -11761,14 +11467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "秘部からは透明な愛液を吹き出して、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その小さなお尻を伝って機械の床に染みを作る。"
+                                "Clear love juices sprayed from her genitals, trickling down\nher small butt and staining the machine's floor."
                             ]
                         },
                         {
@@ -11838,14 +11537,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（ああ……わたし……イっちゃったんだ……）"
+                                "\\PartyFace[1]\\FaceIndex[6](Ah... I... I came...)"
                             ]
                         },
                         {
@@ -11863,21 +11562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絶頂の余韻に浸りながら、朦朧とする意識の中で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "機械触手に絶頂を迎えさせられてしまった悔しさと惨めに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "KOHANEはまた大粒の涙を零す。"
+                                "While basking in the afterglow of her climax, Kohane shed\nlarge tears over the frustration and misery of being brought\nto orgasm by the mechanical tentacle."
                             ]
                         },
                         {
@@ -11888,14 +11573,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]あ…あぁ…ぁ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ah... ahh... ah..."
                             ]
                         },
                         {
@@ -11913,14 +11598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "暫くの間、狭い球体ドローンの内部に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少女の嗚咽が響き渡っていた。"
+                                "For a while after, the girl's sobs echoed inside the cramped\nspherical drone."
                             ]
                         },
                         {
@@ -12656,14 +12334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女がお腹の奥に異物を飲み込んだ苦しさに嗚咽を漏らすが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなことを構う様子もなく、男は尻穴を突き上げる。"
+                                "The girl chokes back a sob from the discomfort of something\nforeign swallowed deep in her belly, but the man pays no\nheed as he continues to thrust into her ass."
                             ]
                         },
                         {
@@ -12674,14 +12345,14 @@
                                 6,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ああ…こんな格好…やだぁ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Ahh... this position... I don't want this..."
                             ]
                         },
                         {
@@ -12699,14 +12370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まあそう言うな。あのドローンの激しい責めをあんな小さな身体の娘が受けるのを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見られるだけでオレは愉しみだぜ！"
+                                "Come on, don't say that. Just watching that drone's intense\ntorment on such a small girl's body is a pleasure for me!"
                             ]
                         },
                         {

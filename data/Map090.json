@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下牢大部屋 VR",
+    "displayName": "Underground Prison Main Room VR",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -3616,14 +3616,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[10]う…ん…っ"
+                                "\\PartyFace[2]\\FaceIndex[10]Ugh... mmm..."
                             ]
                         },
                         {
@@ -3752,14 +3752,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[10]ここは…？"
+                                "\\PartyFace[2]\\FaceIndex[10]Where is this...?"
                             ]
                         },
                         {
@@ -4028,21 +4028,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[3]きゃっ！何、この格好！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "両手は後ろで縛られて…足も鎖に繋がれてる…"
+                                "\\PartyFace[2]\\FaceIndex[3]Kyah! What's with this outfit!? My hands are tied behind my\nback... and my feet are chained too..."
                             ]
                         },
                         {
@@ -4112,14 +4105,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[3]セラフィックブレスも…取られちゃってるか…"
+                                "\\PartyFace[2]\\FaceIndex[3]They've even taken my Seraphic Breath..."
                             ]
                         },
                         {
@@ -4189,14 +4182,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[10]さすがにこれは…しくじったかな…"
+                                "\\PartyFace[2]\\FaceIndex[10]I really might have... messed up this time..."
                             ]
                         },
                         {
@@ -4266,14 +4259,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[10]ひさなちゃん、心配してるだろうな…"
+                                "\\PartyFace[2]\\FaceIndex[10]Hisana-chan must be worried about me..."
                             ]
                         },
                         {
@@ -4374,21 +4367,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[6]ん…くぅ…全然外れない…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、何とか動けそう…"
+                                "\\PartyFace[2]\\FaceIndex[6]Mmm...ugh... It won't come off at all... But I think I can\nstill move somehow..."
                             ]
                         },
                         {
@@ -4808,7 +4794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉は固く閉ざされている。"
+                                "The door is firmly closed."
                             ]
                         },
                         {
@@ -5035,7 +5021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉は固く閉ざされている。"
+                                "The door is firmly shut."
                             ]
                         },
                         {
@@ -5724,14 +5710,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[10]誰かが…開けてくれた…？"
+                                "\\PartyFace[2]\\FaceIndex[10]Did someone... open it for me...?"
                             ]
                         },
                         {
@@ -5826,7 +5812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {
@@ -5964,14 +5950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よう、魔法少女の嬢ちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いい恰好してんじゃねぇか。"
+                                "Hey there, magical girl missy! You're looking quite fetching\nin that outfit."
                             ]
                         },
                         {
@@ -6050,14 +6029,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[6]やだ…みないで…"
+                                "\\PartyFace[2]\\FaceIndex[6]No... don't look..."
                             ]
                         },
                         {
@@ -6500,14 +6479,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[6]こないで…"
+                                "\\PartyFace[2]\\FaceIndex[6]Don't come any closer..."
                             ]
                         },
                         {
@@ -6598,7 +6577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっはっは！何処にも逃げられねぇよ。"
+                                "Hahahaha! There's nowhere to run."
                             ]
                         },
                         {
@@ -6709,14 +6688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうだ、戦う力を奪われて、身体の自由も奪われて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何も出来ない気分は？"
+                                "How does it feel, having your power to fight taken away,\nbeing deprived of your freedom, unable to do anything?"
                             ]
                         },
                         {
@@ -6786,21 +6758,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[11]こ…こんなの…何でもないんだから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対後でギャフンて言わせてあげるからね！"
+                                "\\PartyFace[2]\\FaceIndex[11]Th... this is nothing! I'll definitely make you regret this\nlater!"
                             ]
                         },
                         {
@@ -6818,7 +6783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっはっは！その状態でも強がれるとは、なかなか見どころのある嬢ちゃんだ。"
+                                "Hahahaha! To still talk tough in that state, you're quite an\ninteresting girl."
                             ]
                         },
                         {
@@ -6829,21 +6794,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オレは\\C[2]リベレイター【ザガン】\\C[0]！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今オレ達の仲間になるって言うなら解放してやってもいいぞ？"
+                                "I am \\C[2]Liberator [Zagan]\\C[0]! If you say you'll join us\nnow, I might consider releasing you."
                             ]
                         },
                         {
@@ -6913,14 +6871,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[11]だ…誰がこんなことする人達の仲間になんてなるもんか！"
+                                "\\PartyFace[2]\\FaceIndex[11]Wh... who would ever join people who do such things!"
                             ]
                         },
                         {
@@ -6931,21 +6889,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強情な娘だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女のくせに黙って男の言うことを聞かねぇからそんな目に遭うんだ。"
+                                "Such a stubborn girl. It's because you women won't just shut\nup and listen to men that you end up in situations like\nthis."
                             ]
                         },
                         {
@@ -7015,14 +6966,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[11]女の子は…奴隷じゃない！！"
+                                "\\PartyFace[2]\\FaceIndex[11]Girls are... not slaves!!"
                             ]
                         },
                         {
@@ -7033,28 +6984,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "口では何とでも言える。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうじゃないと言うなら力で示してみろよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが出来ればなぁ。"
+                                "Anyone can say anything with their mouth. If you say it's\nnot so, then prove it with strength. If you can, that is."
                             ]
                         },
                         {
@@ -7124,14 +7061,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[4]絶対、後でぶっ飛ばしてやるんだから！"
+                                "\\PartyFace[2]\\FaceIndex[4]I'll definitely knock you down later!"
                             ]
                         },
                         {
@@ -7142,14 +7079,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっはっは！楽しみに待ってるぜ！"
+                                "Hahahaha! I'm looking forward to it!"
                             ]
                         },
                         {
@@ -7186,14 +7123,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが、まずはここでの仕事を覚えてもらわないとなぁ。"
+                                "But first, you need to learn about the job here."
                             ]
                         },
                         {
@@ -7263,14 +7200,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[10]…仕事…？"
+                                "\\PartyFace[2]\\FaceIndex[10]...Job...?"
                             ]
                         },
                         {
@@ -7281,14 +7218,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだ。まずはこいつを付けてもらおうか。"
+                                "That's right. First, let's have you put this on."
                             ]
                         },
                         {
@@ -7389,14 +7326,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[6]いや…いやあああっ！"
+                                "\\PartyFace[2]\\FaceIndex[6]No... nooooo!"
                             ]
                         },
                         {
@@ -7606,14 +7543,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[6]あ…うぅ…ん…っ…"
+                                "\\PartyFace[2]\\FaceIndex[6]Ah... ugh... mmm...!"
                             ]
                         },
                         {
@@ -7624,21 +7561,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しっかりバイブを奥まで咥え込んだようだなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そいつは遠隔操作でスイッチを入れられるリモコンバイブと…"
+                                "Looks like you've taken the vibrator all the way in. This\none is a remote-controlled vibrator and..."
                             ]
                         },
                         {
@@ -7668,14 +7598,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "呼吸が苦しくなる程度に首を締めるリモコン首輪だ。"
+                                "A remote-controlled collar that tightens around the neck\njust enough to make breathing difficult."
                             ]
                         },
                         {
@@ -7745,14 +7675,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[6]なんで…んっ…こんな…ものを…"
+                                "\\PartyFace[2]\\FaceIndex[6]Why... mmm... such things..."
                             ]
                         },
                         {
@@ -7763,28 +7693,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いつ責め具が動くかわからない不安の中で快楽と苦痛の繰り返しているとな、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次第に脳が苦痛を快楽と錯覚するようになっていく…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして最後には首を絞められて感じるマゾ奴隷が出来上がるって寸法だ。"
+                                "The uncertainty of not knowing when the tormenting device\nwill activate, alternating between pleasure and pain,\ngradually makes the brain mistake pain for pleasure... And\nin the end, a masochistic slave who gets off on being choked\nis born, that's the idea."
                             ]
                         },
                         {
@@ -7854,14 +7770,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[6]そんなの…ぜったいに…ならない…"
+                                "\\PartyFace[2]\\FaceIndex[6]I'll never... become like that..."
                             ]
                         },
                         {
@@ -7872,14 +7788,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くくく…その強がりがいつまで持つか見ものだな。"
+                                "Hehehe... I wonder how long your defiance will last."
                             ]
                         },
                         {
@@ -8008,14 +7924,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ついでにもう一つサービスしてやるよ。"
+                                "I'll throw in another service for you."
                             ]
                         },
                         {
@@ -8045,14 +7961,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうだ、一つサービスしてやるよ。"
+                                "That's right, I'll give you a little service."
                             ]
                         },
                         {
@@ -8070,9 +7986,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ボールギャグ",
-                                    "猿轡",
-                                    "口拘束無し"
+                                    "Ball Gag",
+                                    "Gag",
+                                    "No Mouth Restraint"
                                 ],
                                 2,
                                 0,
@@ -8343,14 +8259,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[6]ふぐ…うぅ…"
+                                "\\PartyFace[2]\\FaceIndex[6]Mmph... ugh..."
                             ]
                         },
                         {
@@ -8639,14 +8555,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[6]ふぐ…うぅ…"
+                                "\\PartyFace[2]\\FaceIndex[6]Mmph... ugh..."
                             ]
                         },
                         {
@@ -8688,14 +8604,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いや、やはり好きなだけ喘がせておく方が良さそうだな。"
+                                "No, perhaps it's better to just let you moan as much as you\nlike."
                             ]
                         },
                         {
@@ -8725,21 +8641,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ザガン】"
+                                "Liberator [Zagan]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気が変わってオレ達の仲間になりたかったらいつでも言え。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "身体と心が壊されないうちになぁ！"
+                                "If you change your mind and want to join us, just say the\nword. Before your body and mind are broken, that is!"
                             ]
                         },
                         {
@@ -9272,14 +9181,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[6]悔しい…でも…今は何も言い返せない…"
+                                "\\PartyFace[2]\\FaceIndex[6]It's frustrating... but... I can't talk back right now..."
                             ]
                         },
                         {
@@ -9828,14 +9737,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[10]な…何…？"
+                                "\\PartyFace[2]\\FaceIndex[10]Wha...What...?"
                             ]
                         },
                         {
@@ -9846,14 +9755,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[10]やだ…近寄らないでよ…"
+                                "\\PartyFace[2]\\FaceIndex[10]No...Don't come any closer..."
                             ]
                         },
                         {
@@ -9871,14 +9780,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "くっくっく、散々暴れまくってくれたなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お返しにたっぷり可愛がってやるぜ"
+                                "Heh heh heh, you've been thrashing around quite a bit. Now\nit's my turn to take good care of you."
                             ]
                         },
                         {
@@ -9889,14 +9791,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[6]や…やめてよ…"
+                                "\\PartyFace[2]\\FaceIndex[6]St...Stop it..."
                             ]
                         },
                         {
@@ -9914,7 +9816,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いい子にしてたら優しくしてやるよ。"
+                                "If you're a good girl, I'll be gentle."
                             ]
                         },
                         {
@@ -9935,14 +9837,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[10]（な…何…？）"
+                                "\\PartyFace[2]\\FaceIndex[10](Wha...What...?)"
                             ]
                         },
                         {
@@ -9953,14 +9855,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[10]（やだ…近寄らないでよ…）"
+                                "\\PartyFace[2]\\FaceIndex[10](No...Don't come any closer...)"
                             ]
                         },
                         {
@@ -9978,14 +9880,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "くっくっく、散々暴れまくってくれたなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お返しにたっぷり可愛がってやるぜ"
+                                "Heh heh heh, you've been thrashing around quite a bit. Now\nit's my turn to take good care of you."
                             ]
                         },
                         {
@@ -9996,14 +9891,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[6]（や…やめてよ…）"
+                                "\\PartyFace[2]\\FaceIndex[6](St...Stop it...)"
                             ]
                         },
                         {
@@ -10021,7 +9916,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いい子にしてたら優しくしてやるよ。"
+                                "If you're a good girl, I'll be gentle."
                             ]
                         },
                         {
@@ -12486,14 +12381,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[6]……っ！！"
+                                "\\PartyFace[2]\\FaceIndex[6]...Ah!!"
                             ]
                         },
                         {
@@ -12563,14 +12458,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[5]\\{いやあああああっ！！"
+                                "\\PartyFace[2]\\FaceIndex[5]Nooooooo!!"
                             ]
                         },
                         {
@@ -12591,14 +12486,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[6]……っ！！"
+                                "\\PartyFace[2]\\FaceIndex[6]...Ah!!"
                             ]
                         },
                         {
@@ -12668,14 +12563,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[5]\\{いやあああああっ！！"
+                                "\\PartyFace[2]\\FaceIndex[5]Nooooooo!!"
                             ]
                         },
                         {
@@ -12848,21 +12743,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[6]はぁ…はぁ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "正真正銘…今のが最後の力…"
+                                "\\PartyFace[2]\\FaceIndex[6]*pant*...*pant*...Truly... that was the last of my\nstrength..."
                             ]
                         },
                         {
@@ -12873,21 +12761,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[6]う…ぅ…やっぱり…変身しないで力を使うと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "身体への負担が…大きいな…"
+                                "\\PartyFace[2]\\FaceIndex[6]Ugh...ugh...as I thought... using power without transforming\nputs a... big strain on the body..."
                             ]
                         },
                         {
@@ -12898,21 +12779,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[6]ローブが無いと神霊力の吸収も出来ないし…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんとかここから出て、セラフィックブレスを取り返さないと…"
+                                "\\PartyFace[2]\\FaceIndex[6]Without my robe, I can't absorb spiritual power either... I\nhave to somehow get out of here and retrieve my Seraphic\nBreath..."
                             ]
                         },
                         {
@@ -13938,21 +13812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<center>脱走中のバイブと首輪の動作を変更出来ます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【ランダム】移動中にランダムタイミングでバイブと首輪が作動します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【ボタン】ボタンによる任意のタイミングでバイブと首輪を作動させることが出来ます。</center>"
+                                "<center>You can change the operation of the vibrator and\ncollar during escape. [Random] The vibrator and collar will\nactivate at random times while moving. [Button] You can\nactivate the vibrator and collar at any time using a\nbutton.</center>"
                             ]
                         },
                         {
@@ -13960,8 +13820,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ランダム動作",
-                                    "ボタン操作"
+                                    "Random Operation",
+                                    "Button Control"
                                 ],
                                 1,
                                 0,

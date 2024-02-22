@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "実験室",
+    "displayName": "Laboratory",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -3479,21 +3479,14 @@
                                 0,
                                 0,
                                 2,
-                                "科学者"
+                                "Scientist"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや、君が噂の魔法少女だね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確か名前はセラフィエールと言ったか…"
+                                "Oh, you must be the rumored magical girl. Your name was\nSeraphier, if I recall..."
                             ]
                         },
                         {
@@ -3504,14 +3497,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]もうすっかりバレバレだね…"
+                                "\\PartyFace[1]\\FaceIndex[4]It seems I'm completely exposed..."
                             ]
                         },
                         {
@@ -3522,21 +3515,14 @@
                                 0,
                                 0,
                                 2,
-                                "科学者"
+                                "Scientist"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "調査なら好きにしてもらって構わないが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "研究の邪魔だけはしないでくれよ。"
+                                "Feel free to conduct your investigation, but please don't\ninterfere with my research."
                             ]
                         },
                         {
@@ -3547,14 +3533,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]捕まえた子たちはどこ？"
+                                "\\PartyFace[1]\\FaceIndex[4]Where are the children you've captured?"
                             ]
                         },
                         {
@@ -3565,21 +3551,14 @@
                                 0,
                                 0,
                                 2,
-                                "科学者"
+                                "Scientist"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "捕まえた子…ああ、被検体のことかね、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それなら奥の部屋にいるよ。"
+                                "Captured children... Ah, you mean the test subjects? They're\nin the back room."
                             ]
                         },
                         {
@@ -3590,14 +3569,14 @@
                                 0,
                                 0,
                                 2,
-                                "科学者"
+                                "Scientist"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "既に実験は完了しているから、連れて行ってもらっても構わんぞ。"
+                                "The experiments are already complete, so you can take them\nwith you if you like."
                             ]
                         },
                         {
@@ -4655,7 +4634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {

@@ -163,14 +163,14 @@
                             0,
                             0,
                             2,
-                            "月丘ひさな"
+                            "Tsukioka Hisana"
                         ]
                     },
                     {
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "大丈夫だと思うけど、一応説明しておくね。"
+                            "I think you'll be fine, but let me explain just in case."
                         ]
                     },
                     {
@@ -181,35 +181,14 @@
                             0,
                             0,
                             2,
-                            "月丘ひさな"
+                            "Tsukioka Hisana"
                         ]
                     },
                     {
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "戦闘で出来る行動は"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "杖で直接打ち込む\\c[2]攻撃\\c[0]、"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "神霊力を杖の力で光の矢に変換して放つ\\c[2]杖魔法\\c[0]、"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "そして詠唱で神霊力を活性化させる、防御系の\\c[2]詠唱魔法\\c[0]があるからね。"
+                            "In battle, you can perform a direct \\c[2]Attack\\c[0] with\nyour staff, release light arrows by converting spiritual\npower with \\c[2]Staff Magic\\c[0], and activate spiritual\npower with chanting for defensive \\c[2]Chanting Magic\\c[0]."
                         ]
                     },
                     {
@@ -220,14 +199,14 @@
                             0,
                             0,
                             2,
-                            "月丘ひさな"
+                            "Tsukioka Hisana"
                         ]
                     },
                     {
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "それと、神霊力を回復したりする時は\\c[2]特殊行動\\c[0]を選ぶんだよ。"
+                            "Also, when you need to recover spiritual power, you should\nselect \\c[2]Special Actions\\c[0]."
                         ]
                     },
                     {
@@ -238,14 +217,14 @@
                             0,
                             0,
                             2,
-                            "月丘ひさな"
+                            "Tsukioka Hisana"
                         ]
                     },
                     {
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "杖を落としたら\\c[2]攻撃\\c[0]と\\c[2]杖魔法\\c[0]が使えなくなるから注意してね。"
+                            "Be careful not to drop your staff, as you won't be able to\nuse \\c[2]Attack\\c[0] or \\c[2]Staff Magic\\c[0] if you do."
                         ]
                     },
                     {
@@ -388,21 +367,14 @@
                             1,
                             0,
                             2,
-                            "監視員A"
+                            "Surveillance Officer A"
                         ]
                     },
                     {
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "くっ、この強さ…"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 2,
-                        "parameters": [
-                            "やはり\\c[2]ガーディアンズ\\c[0]の\\c[2]魔法少女\\c[0]か！！"
+                            "Damn, this strength... she must be one of the\n\\c[2]Guardians\\c[0]' \\c[2]Magical Girls\\c[0]!!"
                         ]
                     },
                     {
@@ -413,21 +385,14 @@
                             1,
                             0,
                             2,
-                            "監視員B"
+                            "Surveillance Officer B"
                         ]
                     },
                     {
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "実験用に支給された\\c[2]対魔法少女装備\\c[0]を"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 2,
-                        "parameters": [
-                            "試してみるか！"
+                            "Shall we test out the \\c[2]Anti-Magical Girl Equipment\\c[0]\nthat was issued for experiments!"
                         ]
                     },
                     {
@@ -438,14 +403,14 @@
                             0,
                             0,
                             2,
-                            "月丘ひさな"
+                            "Tsukioka Hisana"
                         ]
                     },
                     {
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "こはねちゃん！相手が何か仕掛けて来そうだよ！"
+                            "Kohane-chan! It looks like the enemy is about to make a\nmove!"
                         ]
                     },
                     {
@@ -456,28 +421,14 @@
                             0,
                             0,
                             2,
-                            "月丘ひさな"
+                            "Tsukioka Hisana"
                         ]
                     },
                     {
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "手を拘束されてしまったら\\c[2]杖魔法\\c[0]が、"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 2,
-                        "parameters": [
-                            "口を塞がれたら\\c[2]詠唱魔法\\c[0]が使えなくなるから"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 2,
-                        "parameters": [
-                            "くれぐれも気を付けて！"
+                            "Be very careful! If your hands are restrained, you won't be\nable to use \\c[2]Wand Magic\\c[0], and if your mouth is\ncovered, you won't be able to use \\c[2]Incantation\nMagic\\c[0]!"
                         ]
                     },
                     {
@@ -488,14 +439,14 @@
                             1,
                             0,
                             2,
-                            "監視員A"
+                            "Surveillance Officer A"
                         ]
                     },
                     {
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "くらえっ！"
+                            "Take this!"
                         ]
                     },
                     {
@@ -7894,21 +7845,14 @@
                             0,
                             0,
                             2,
-                            "リベレイター【ベリアル】"
+                            "Liberator [Belial]"
                         ]
                     },
                     {
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "さすがはガーディアンズの魔法少女だな…"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "ここからは本気でやらせてもらう！"
+                            "As expected of a Guardian's magical girl... From here on\nout, I'll be serious!"
                         ]
                     },
                     {
@@ -8658,11 +8602,11 @@
                         "indent": 1,
                         "parameters": [
                             [
-                                "胸揉み",
-                                "股間責め",
-                                "男性器挿入",
-                                "変身解除",
-                                "バトル終了"
+                                "Fondle Breasts",
+                                "Tease Crotch",
+                                "Insert Penis",
+                                "Cancel Transformation",
+                                "End Battle"
                             ],
                             -1,
                             0,
@@ -8804,10 +8748,10 @@
                         "indent": 1,
                         "parameters": [
                             [
-                                "胸揉み",
-                                "股間責め",
-                                "男性器挿入",
-                                "バトル終了"
+                                "Fondle breasts",
+                                "Tease crotch",
+                                "Insert penis",
+                                "Battle finished"
                             ],
                             -1,
                             0,
@@ -9040,11 +8984,11 @@
                         "indent": 1,
                         "parameters": [
                             [
-                                "首絞め",
-                                "電撃責め",
-                                "ロボバイブ",
-                                "変身解除",
-                                "バトル終了"
+                                "Choking",
+                                "Electric Shock Torture",
+                                "Robo Vibrator",
+                                "Dispel Transformation",
+                                "Battle End"
                             ],
                             -1,
                             0,
@@ -9186,10 +9130,10 @@
                         "indent": 1,
                         "parameters": [
                             [
-                                "首絞め",
-                                "電撃責め",
-                                "ロボバイブ",
-                                "バトル終了"
+                                "Choking",
+                                "Electric Shock Torture",
+                                "Robo Vibrator",
+                                "Battle End"
                             ],
                             -1,
                             0,
@@ -9413,11 +9357,11 @@
                         "indent": 1,
                         "parameters": [
                             [
-                                "鎖振動",
-                                "ＨＰ吸収",
-                                "首絞め",
-                                "変身解除",
-                                "バトル終了"
+                                "Chain Vibration",
+                                "HP Absorption",
+                                "Choking",
+                                "Dispel Transformation",
+                                "Battle End"
                             ],
                             -1,
                             0,
@@ -9559,10 +9503,10 @@
                         "indent": 1,
                         "parameters": [
                             [
-                                "鎖振動",
-                                "ＨＰ吸収",
-                                "首絞め",
-                                "バトル終了"
+                                "Chain Vibration",
+                                "HP Absorption",
+                                "Choking",
+                                "Battle End"
                             ],
                             -1,
                             0,
@@ -9809,11 +9753,11 @@
                         "indent": 1,
                         "parameters": [
                             [
-                                "バイブ振動",
-                                "首絞め",
-                                "媚薬",
-                                "変身解除",
-                                "バトル終了"
+                                "Vibrator Vibration",
+                                "Choking",
+                                "Aphrodisiac",
+                                "Dispel Transformation",
+                                "Battle End"
                             ],
                             -1,
                             0,
@@ -9962,10 +9906,10 @@
                         "indent": 1,
                         "parameters": [
                             [
-                                "バイブ振動",
-                                "首絞め",
-                                "媚薬",
-                                "バトル終了"
+                                "Vibrator Vibration",
+                                "Choking",
+                                "Aphrodisiac",
+                                "Battle End"
                             ],
                             -1,
                             0,
@@ -10249,11 +10193,11 @@
                         "indent": 1,
                         "parameters": [
                             [
-                                "胸バイブ",
-                                "電撃責め",
-                                "膣バイブ抽送",
-                                "変身解除",
-                                "バトル終了"
+                                "Breast Vibrator",
+                                "Electric Shock Torture",
+                                "Vaginal Vibrator Thrusting",
+                                "Transformation Release",
+                                "Battle End"
                             ],
                             -1,
                             0,
@@ -10402,10 +10346,10 @@
                         "indent": 1,
                         "parameters": [
                             [
-                                "胸バイブ",
-                                "電撃責め",
-                                "膣バイブ抽送",
-                                "バトル終了"
+                                "Breast Vibrator",
+                                "Electric Shock Torture",
+                                "Vaginal Vibrator Thrusting",
+                                "Battle End"
                             ],
                             -1,
                             0,
@@ -10629,11 +10573,11 @@
                         "indent": 1,
                         "parameters": [
                             [
-                                "首絞め",
-                                "股間責め",
-                                "スライム挿入",
-                                "変身解除",
-                                "バトル終了"
+                                "Choking",
+                                "Crotch Torment",
+                                "Slime Insertion",
+                                "Dispel Transformation",
+                                "Battle End"
                             ],
                             -1,
                             0,
@@ -10775,10 +10719,10 @@
                         "indent": 1,
                         "parameters": [
                             [
-                                "首絞め",
-                                "股間責め",
-                                "スライム挿入",
-                                "バトル終了"
+                                "Choking",
+                                "Crotch Torment",
+                                "Slime Insertion",
+                                "Battle End"
                             ],
                             -1,
                             0,
@@ -11002,11 +10946,11 @@
                         "indent": 1,
                         "parameters": [
                             [
-                                "口責め",
-                                "乳首責め",
-                                "触手挿入",
-                                "変身解除",
-                                "バトル終了"
+                                "Mouth Play",
+                                "Nipple Teasing",
+                                "Tentacle Insertion",
+                                "Dispel Transformation",
+                                "End Battle"
                             ],
                             -1,
                             0,
@@ -11148,10 +11092,10 @@
                         "indent": 1,
                         "parameters": [
                             [
-                                "口責め",
-                                "乳首責め",
-                                "触手挿入",
-                                "バトル終了"
+                                "Mouth Play",
+                                "Nipple Teasing",
+                                "Tentacle Insertion",
+                                "Battle End"
                             ],
                             -1,
                             0,
@@ -11496,11 +11440,11 @@
                         "indent": 1,
                         "parameters": [
                             [
-                                "胸揉み",
-                                "膣責め",
-                                "男性器挿入",
-                                "変身解除",
-                                "バトル終了"
+                                "Fondle breasts",
+                                "Vaginal teasing",
+                                "Penis insertion",
+                                "Cancel transformation",
+                                "End battle"
                             ],
                             -1,
                             0,
@@ -11642,10 +11586,10 @@
                         "indent": 1,
                         "parameters": [
                             [
-                                "胸揉み",
-                                "膣責め",
-                                "男性器挿入",
-                                "バトル終了"
+                                "Breast fondling",
+                                "Vaginal teasing",
+                                "Penis insertion",
+                                "Battle finished"
                             ],
                             -1,
                             0,
@@ -11878,11 +11822,11 @@
                         "indent": 1,
                         "parameters": [
                             [
-                                "口虐",
-                                "乳首責め",
-                                "二穴ディルドー挿入",
-                                "変身解除",
-                                "バトル終了"
+                                "Verbal Abuse",
+                                "Nipple Play",
+                                "Double Penetration Dildo Insertion",
+                                "Revert Transformation",
+                                "Battle End"
                             ],
                             -1,
                             0,
@@ -12024,10 +11968,10 @@
                         "indent": 1,
                         "parameters": [
                             [
-                                "口責め",
-                                "乳首責め",
-                                "ディルドー挿入",
-                                "バトル終了"
+                                "Mouth Play",
+                                "Nipple Teasing",
+                                "Dildo Insertion",
+                                "Battle End"
                             ],
                             -1,
                             0,
@@ -12251,11 +12195,11 @@
                         "indent": 1,
                         "parameters": [
                             [
-                                "乳首ローター",
-                                "クリローター",
-                                "ドリルバイブ挿入",
-                                "変身解除",
-                                "バトル終了"
+                                "Nipple rotor",
+                                "Clit rotor",
+                                "Drill vibe insertion",
+                                "Transformation release",
+                                "Battle over"
                             ],
                             -1,
                             0,
@@ -12397,10 +12341,10 @@
                         "indent": 1,
                         "parameters": [
                             [
-                                "乳首ローター",
-                                "クリローター",
-                                "ドリルバイブ挿入",
-                                "バトル終了"
+                                "Nipple rotor",
+                                "Clit rotor",
+                                "Drill vibe insertion",
+                                "Battle over"
                             ],
                             -1,
                             0,
@@ -12624,11 +12568,11 @@
                         "indent": 1,
                         "parameters": [
                             [
-                                "吸収",
-                                "乳首触手責め",
-                                "挿入",
-                                "変身解除",
-                                "バトル終了"
+                                "Absorption",
+                                "Nipple Tentacle Torment",
+                                "Insertion",
+                                "Transformation Release",
+                                "Battle End"
                             ],
                             -1,
                             0,
@@ -12770,10 +12714,10 @@
                         "indent": 1,
                         "parameters": [
                             [
-                                "吸収",
-                                "乳首責め",
-                                "挿入",
-                                "バトル終了"
+                                "Absorb",
+                                "Nipple Play",
+                                "Insertion",
+                                "Battle End"
                             ],
                             -1,
                             0,
@@ -13118,12 +13062,12 @@
                         "indent": 1,
                         "parameters": [
                             [
-                                "ピンクローター",
-                                "乳首責め",
-                                "膣責め",
-                                "電動ディルドー挿入",
-                                "男性器挿入",
-                                "変身解除"
+                                "Pink rotor",
+                                "Nipple teasing",
+                                "Vaginal teasing",
+                                "Electric dildo insertion",
+                                "Penis insertion",
+                                "Transformation release"
                             ],
                             -1,
                             0,
@@ -13275,7 +13219,7 @@
                         "indent": 1,
                         "parameters": [
                             [
-                                "バトル終了"
+                                "Battle End"
                             ],
                             -1,
                             0,
@@ -13323,12 +13267,12 @@
                         "indent": 1,
                         "parameters": [
                             [
-                                "ピンクローター",
-                                "乳首責め",
-                                "膣責め",
-                                "電動ディルドー挿入",
-                                "男性器挿入",
-                                "バトル終了"
+                                "Pink Rotor",
+                                "Nipple Play",
+                                "Vaginal Teasing",
+                                "Electric Dildo Insertion",
+                                "Penis Insertion",
+                                "Battle End"
                             ],
                             -1,
                             0,

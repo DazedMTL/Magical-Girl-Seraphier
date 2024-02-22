@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下牢監視室 VR",
+    "displayName": "Underground Prison Surveillance Room VR",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -4229,21 +4229,14 @@
                                 0,
                                 0,
                                 2,
-                                "監視員"
+                                "Surveillance Officer"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何でさっきから全然カメラ映らねぇんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんと監視しとかねぇとオレが怒られるじゃねぇか。"
+                                "Why the hell isn't the camera working? If I don't keep an\neye on things, I'm the one who's gonna get yelled at."
                             ]
                         },
                         {
@@ -4254,21 +4247,14 @@
                                 0,
                                 0,
                                 2,
-                                "監視員"
+                                "Surveillance Officer"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とりあえず、ザガン様から預かったブレスレットを研究員が取りに来るまでに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カメラ直しておかないとな…"
+                                "Anyway, I've got to fix the camera before the researchers\ncome to collect the bracelet that Lord Zagan entrusted to\nus..."
                             ]
                         },
                         {
@@ -4279,14 +4265,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[10]（ブレスレットって…もしかして…）"
+                                "\\PartyFace[2]\\FaceIndex[10](A bracelet... could it possibly be...)"
                             ]
                         },
                         {
@@ -4427,14 +4413,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[10]（あっ、あった！セラフィックブレス！あれさえあれば…）"
+                                "\\PartyFace[2]\\FaceIndex[10](Ah, there it is! The Seraphic Brace! With that...)"
                             ]
                         },
                         {
@@ -4607,14 +4593,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[10]（よし、これで変身すれば…神霊力を回復できる…！！）"
+                                "\\PartyFace[2]\\FaceIndex[10]\"Alright, if I transform now... I can recover my spiritual\npower...!!\""
                             ]
                         },
                         {
@@ -4676,14 +4662,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[6]（う……後ろ手だと…上手く取れない…）"
+                                "\\PartyFace[2]\\FaceIndex[6]\"Ugh... It's hard to do it with my hands tied behind my\nback...\""
                             ]
                         },
                         {
@@ -4753,14 +4739,14 @@
                                 0,
                                 0,
                                 2,
-                                "監視員"
+                                "Surveillance Officer"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お…お前…どうやってここまで！！"
+                                "\"Wha... How did you get this far!!\""
                             ]
                         },
                         {
@@ -4771,14 +4757,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[6]しまった！"
+                                "\\PartyFace[2]\\FaceIndex[6]\"Damn it!\""
                             ]
                         },
                         {
@@ -4969,21 +4955,14 @@
                                 0,
                                 0,
                                 2,
-                                "監視員"
+                                "Surveillance Officer"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほら、大人しく牢に戻れよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それとも、オレにサービスしてくれるためにそんな恰好でここまで来たのか？"
+                                "\"Hey, get back to your cell quietly! Or did you come all\nthis way in that outfit to give me a little 'service'?\""
                             ]
                         },
                         {
@@ -5006,14 +4985,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[6]いや…こっち来ないで…"
+                                "\\PartyFace[2]\\FaceIndex[6]\"No... don't come any closer...\""
                             ]
                         },
                         {
@@ -5024,14 +5003,14 @@
                                 0,
                                 0,
                                 2,
-                                "監視員"
+                                "Surveillance Officer"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっとくらい味見したっていいよなぁ！"
+                                "\"It wouldn't hurt to have a little taste, right?\""
                             ]
                         },
                         {
@@ -5107,14 +5086,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[6]\\{いやあああっ！！"
+                                "\\PartyFace[2]\\FaceIndex[6]\"Noooo!!\""
                             ]
                         },
                         {
@@ -5363,14 +5342,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[4]セラフィックブレスを取りにいかなきゃ…"
+                                "\\PartyFace[2]\\FaceIndex[4]I have to go get the Seraphic Breath..."
                             ]
                         },
                         {
@@ -6143,21 +6122,14 @@
                                 3,
                                 0,
                                 2,
-                                "女の子"
+                                "Girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お姉ちゃん…大丈夫？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いま拘束解いてあげるね。"
+                                "Big sister... are you okay? I'll untie you now."
                             ]
                         },
                         {
@@ -6373,21 +6345,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[0]ここのロッカーに持ち物全部あって良かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に助かったよ、ありがとう！"
+                                "\\PartyFace[2]\\FaceIndex[0]Everything was in the locker here, that's a relief. You\nreally saved me, thank you!"
                             ]
                         },
                         {
@@ -6405,14 +6370,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お礼なんて必要ない…ボクが騙したせいでお姉ちゃんが…"
+                                "You don't need to thank me... It's my fault that big sister\nended up like this..."
                             ]
                         },
                         {
@@ -6482,21 +6447,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[0]…確かにそうだけど、あなたはこうして助けてくれた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他のリベレイターとは違うみたいだね。"
+                                "\\PartyFace[2]\\FaceIndex[0]...That may be true, but you helped me like this. You seem\ndifferent from the other Liberators."
                             ]
                         },
                         {
@@ -6507,21 +6465,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボクは…「持って生まれた力を自由に使える世界」にするために協力してるだけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お姉ちゃんにひどいことをするなんて聞いてないから…"
+                                "I'm just... cooperating to create a world where we can\nfreely use the powers we're born with. I didn't agree to do\nanything terrible to big sister..."
                             ]
                         },
                         {
@@ -6591,14 +6542,14 @@
                                 1,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[0]アミィちゃんはとってもいい子なんだね。"
+                                "\\PartyFace[2]\\FaceIndex[0]Amy-chan, you're such a good girl."
                             ]
                         },
                         {
@@ -6668,14 +6619,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[0]でもね、ガーディアンズが目指しているのも同じなんだよ。"
+                                "\\PartyFace[2]\\FaceIndex[0]But you know, the Guardians are aiming for the same thing."
                             ]
                         },
                         {
@@ -6686,14 +6637,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え…でもガーディアンズは「力」を持って生まれた人達を管理してるって…"
+                                "Eh... But the Guardians are controlling people born with\n'powers'..."
                             ]
                         },
                         {
@@ -6763,21 +6714,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[0]確かに、ガーディアンズは「力」を持って生まれた人達を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全て把握して注意深く見守るようにしてる。"
+                                "\\PartyFace[2]\\FaceIndex[0]Indeed, the Guardians keep track of all people born with\n'powers' and watch over them carefully."
                             ]
                         },
                         {
@@ -6847,21 +6791,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[0]でも、それは人を傷つけることに「力」を使わないように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "するためであって、決して自由に使っちゃいけないってことじゃないんだよ。"
+                                "\\PartyFace[2]\\FaceIndex[0]But that's to prevent them from using their 'powers' to hurt\nothers, not to say they can't use them freely at all."
                             ]
                         },
                         {
@@ -6872,14 +6809,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わかんない…結局ガーディアンズに管理されてたら自由じゃない気がする…"
+                                "I don't understand... If we're being managed by the\nGuardians, it doesn't feel like we're free..."
                             ]
                         },
                         {
@@ -6949,14 +6886,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[0]人を傷つける「自由」は傷つけられる人の「自由」を奪うんだよ。"
+                                "\\PartyFace[2]\\FaceIndex[0]The 'freedom' to hurt others takes away the 'freedom' of\nthose who get hurt."
                             ]
                         },
                         {
@@ -7026,14 +6963,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[1]ひさなちゃんの受け売りだけどね♪"
+                                "\\PartyFace[2]\\FaceIndex[1]That's something I picked up from Hisana-chan.♪"
                             ]
                         },
                         {
@@ -7103,28 +7040,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[0]「力」で人に迷惑を掛けずに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「力」を持たない人を護るために"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「力」を育てていこう…それがガーディアンズの決めたルールだよ。"
+                                "\\PartyFace[2]\\FaceIndex[0]Let's cultivate 'powers' without causing trouble for others\nand protect those without 'powers'... That's the rule set by\nthe Guardians."
                             ]
                         },
                         {
@@ -7135,14 +7058,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人を護るために…"
+                                "To protect others..."
                             ]
                         },
                         {
@@ -7153,14 +7076,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なら…どうしてガーディアンズは護ってくれなかったの…？"
+                                "Then... why didn't the Guardians protect me...?"
                             ]
                         },
                         {
@@ -7230,14 +7153,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[2]え…？"
+                                "\\PartyFace[2]\\FaceIndex[2]Eh...?"
                             ]
                         },
                         {
@@ -7288,21 +7211,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボクは…「力」を持った男の人達に襲われて…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その後でボクも「力」に目覚めたの…"
+                                "I was... attacked by men who had 'powers'... and afterwards,\nI awakened to my own 'power'..."
                             ]
                         },
                         {
@@ -7353,21 +7269,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もし、ガーディアンズが「力」を持たない人を護るためにあるのなら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしてあの時、助けてくれなかったの！？"
+                                "If the Guardians exist to protect those without 'powers',\nwhy didn't they save me at that time!?"
                             ]
                         },
                         {
@@ -7378,14 +7287,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いくら泣いても、叫んでも…誰も助けてくれなかった…"
+                                "No matter how much I cried or screamed... no one came to\nsave me..."
                             ]
                         },
                         {
@@ -7396,28 +7305,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの人はボクに言ったの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「力」には「力」で抗うしかないって…だからそれを邪魔するガーディアンズを排除して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自由に「力」を震える世界にするんだって…"
+                                "That person told me. The only way to oppose 'power' is with\n'power'... That's why we must eliminate the Guardians who\ninterfere and create a world where we can freely wield our\n'powers'..."
                             ]
                         },
                         {
@@ -7487,28 +7382,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[4]そうだね…結局はわたし達も目の届くところまでしか護れない…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからこそ、ルールをもっと広めて、ガーディアンズじゃなくても「力」のある人が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「力」を持たない人を護れる世界にしなきゃいけないんだよ！"
+                                "\\PartyFace[2]\\FaceIndex[4]That's right... In the end, we can only protect what's\nwithin our sight... That's why we need to spread the rules\nfurther so that even those who aren't Guardians can protect\npeople without 'powers'."
                             ]
                         },
                         {
@@ -7578,14 +7459,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[4]欲望のままに「力」を使うことが「自由」だなんて…絶対に間違ってる！"
+                                "\\PartyFace[2]\\FaceIndex[4]Using 'power' according to one's desires as if it's\n'freedom'... That's absolutely wrong!"
                             ]
                         },
                         {
@@ -7605,28 +7486,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…ボクには…あの人とお姉ちゃんどっちが正しいのかわからない…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも…もしお姉ちゃんの言う「護るための力」が正しいのなら…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの人の言う「欲望のままに振るう力」にも負けないはずだよね。"
+                                "...I don't know... whether that person or big sister is\nright... But if big sister's idea of 'power to protect' is\ncorrect... then it shouldn't lose to that person's idea of\n'power wielded by desire'."
                             ]
                         },
                         {
@@ -7696,14 +7563,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[1]もちろん！絶対絶対、星の果てまでぶっ飛ばしてやるんだから！"
+                                "\\PartyFace[2]\\FaceIndex[1]Of course! I'll definitely send them flying to the ends of\nthe stars!"
                             ]
                         },
                         {
@@ -7714,14 +7581,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なら、ボクと戦って、お姉ちゃんの強さを見せて欲しい。"
+                                "Then, fight me and show me big sister's strength."
                             ]
                         },
                         {
@@ -7800,14 +7667,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[2]アミィちゃんと…？"
+                                "\\PartyFace[2]\\FaceIndex[2]With Amy-chan...?"
                             ]
                         },
                         {
@@ -7818,14 +7685,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボクに勝てないようなら、あの人には勝てないから…"
+                                "If you can't beat me, you won't be able to beat that\nperson..."
                             ]
                         },
                         {
@@ -7907,14 +7774,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[1]わかった！やろう！"
+                                "\\PartyFace[2]\\FaceIndex[1]Understood! Let's do it!"
                             ]
                         },
                         {
@@ -7934,21 +7801,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…即答なんだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こういう時って…普通ためらったりするもんじゃないのかな…"
+                                "...You answered so quickly. Isn't it normal to hesitate in\nsituations like this...?"
                             ]
                         },
                         {
@@ -8018,28 +7878,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[0]そうかなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひさなちゃんともケンカした時はバトルで決着することにしてるし！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普通なんじゃないの？"
+                                "\\PartyFace[2]\\FaceIndex[0]Is it? When Hisana-chan and I fight, we settle it with a\nbattle! Isn't that normal?"
                             ]
                         },
                         {
@@ -8050,14 +7896,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…絶対普通じゃない。"
+                                "...It's definitely not normal."
                             ]
                         },
                         {
@@ -8068,21 +7914,14 @@
                                 3,
                                 0,
                                 2,
-                                "リベレイター【アミィ】"
+                                "Liberator [Amy]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とにかく…ボクはこの先の階段を上ったところにある部屋で待ってるから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "準備が出来たら来て。"
+                                "Anyway... I'll be waiting in the room at the top of the\nstairs ahead, so come when you're ready."
                             ]
                         },
                         {
@@ -8255,14 +8094,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[10]…普通じゃないの？"
+                                "\\PartyFace[2]\\FaceIndex[10]...It's not normal?"
                             ]
                         },
                         {
@@ -8332,14 +8171,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[0]まあいいや、アミィちゃんにわかってもらうためにも、絶対勝たなきゃね。"
+                                "\\PartyFace[2]\\FaceIndex[0]Well, whatever. I have to win to make Amy-chan understand,\nafter all."
                             ]
                         },
                         {
@@ -8552,14 +8391,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[4]セラフィックブレスを取りにいかなきゃ…"
+                                "\\PartyFace[2]\\FaceIndex[4]I have to go get the Seraphic Breath..."
                             ]
                         },
                         {
@@ -8712,14 +8551,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[4]セラフィックブレスを取りにいかなきゃ…"
+                                "\\PartyFace[2]\\FaceIndex[4]I have to go get the Seraphic Breath..."
                             ]
                         },
                         {
@@ -8872,14 +8711,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[2]\\FaceIndex[4]セラフィックブレスを取りにいかなきゃ…"
+                                "\\PartyFace[2]\\FaceIndex[4]I have to go get the Seraphic Breath..."
                             ]
                         },
                         {
@@ -9483,7 +9322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {

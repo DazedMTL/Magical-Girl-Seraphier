@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "研究所1F",
+    "displayName": "Research Lab 1F",
     "encounterList": [],
     "encounterStep": 30,
     "height": 39,
@@ -13502,21 +13502,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<center>この先の戦闘で敗北すると敗北Ｈシーンに移行します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "敗北Ｈを経験したくない場合はセーブしておくことをおススメします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "※戦闘に勝利するだけで敗北Ｈシーンが回想に追加されます。</center>"
+                                "<center>If you are defeated in the upcoming battle, you will\ntransition to a defeat H-scene. If you do not wish to\nexperience the defeat H-scene, we recommend saving your\ngame.※Defeat H-scenes will be added to recollection just by\nwinning the battle.</center>"
                             ]
                         },
                         {
@@ -13544,7 +13530,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<center>この先はボス戦となります。</center>"
+                                "<center>The next challenge will be a boss battle.</center>"
                             ]
                         },
                         {
@@ -13572,21 +13558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<center>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "準備はよろしいですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "</center>"
+                                "<center>Are you prepared?</center>"
                             ]
                         },
                         {
@@ -13594,8 +13566,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13860,14 +13832,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]あれ？エレベーター動かないよ？"
+                                "\\PartyFace[1]\\FaceIndex[2]Huh? The elevator isn't moving?"
                             ]
                         },
                         {
@@ -13878,21 +13850,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さっきの人以外に研究員の姿が見えないし…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "地下で暴れすぎて警戒されちゃってるのかもしれないね。"
+                                "I don't see any researchers other than the one from\nbefore... Maybe they're on alert because we caused too much\nof a commotion underground."
                             ]
                         },
                         {
@@ -13930,14 +13895,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一度、管理室の端末で状況を確認してみる。"
+                                "Let's check the situation once using the terminal in the\ncontrol room."
                             ]
                         },
                         {
@@ -14076,14 +14041,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]エレベーターが動かないなら階段で移動するしかないか…"
+                                "\\PartyFace[1]\\FaceIndex[4]If the elevator isn't working, I guess we have no choice but\nto use the stairs..."
                             ]
                         },
                         {
@@ -14192,14 +14157,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[10]…なんだか嫌な感じがする。"
+                                "\\PartyFace[1]\\FaceIndex[10]...I have a bad feeling about this."
                             ]
                         },
                         {
@@ -14210,21 +14175,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こはねちゃんがそういう時って結構当たることが多いから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気になるならエレベーターに乗らずに\\C[2]階段\\C[0]を使った方がいいかもしれないね。"
+                                "When Kohane-chan has that feeling, she's often right. If it\nbothers you, maybe we should use the \\C[2]stairs\\C[0]\ninstead of the elevator."
                             ]
                         },
                         {
@@ -14241,7 +14199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "行き先を選んでください。"
+                                "Please select a destination."
                             ]
                         },
                         {
@@ -14249,10 +14207,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "３０Ｆ",
-                                    "３Ｆ",
-                                    "２Ｆ",
-                                    "やめる"
+                                    "30F",
+                                    "3F",
+                                    "2F",
+                                    "Cancel"
                                 ],
                                 3,
                                 0,
@@ -15059,7 +15017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "行き先を選んでください。"
+                                "Please choose your destination."
                             ]
                         },
                         {
@@ -15067,10 +15025,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "３０Ｆ",
-                                    "３Ｆ",
-                                    "２Ｆ",
-                                    "やめる"
+                                    "30F",
+                                    "3F",
+                                    "2F",
+                                    "Cancel"
                                 ],
                                 3,
                                 0,
@@ -15896,7 +15854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "行き先を選んでください。"
+                                "Please choose your destination."
                             ]
                         },
                         {
@@ -15904,8 +15862,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "３０Ｆ",
-                                    "やめる"
+                                    "30F",
+                                    "Cancel"
                                 ],
                                 1,
                                 0,
@@ -16260,7 +16218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {
@@ -16397,14 +16355,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]あ！外が見える！！"
+                                "\\PartyFace[1]\\FaceIndex[2]Ah! I can see outside!!"
                             ]
                         },
                         {
@@ -17729,14 +17687,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]上層階行きのエレベーターに行こう。"
+                                "\\PartyFace[1]\\FaceIndex[2]Let's go to the elevator for the upper floors."
                             ]
                         },
                         {
@@ -17889,14 +17847,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]上層階行きのエレベーターに行こう。"
+                                "\\PartyFace[1]\\FaceIndex[2]Let's go to the elevator for the upper floors."
                             ]
                         },
                         {
@@ -18049,14 +18007,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]上層階行きのエレベーターに行こう。"
+                                "\\PartyFace[1]\\FaceIndex[2]Let's go to the elevator for the upper floors."
                             ]
                         },
                         {
@@ -18209,14 +18167,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]上層階行きのエレベーターに行こう。"
+                                "\\PartyFace[1]\\FaceIndex[2]Let's go to the elevator for the upper floors."
                             ]
                         },
                         {
@@ -18369,14 +18327,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]上層階行きのエレベーターに行こう。"
+                                "\\PartyFace[1]\\FaceIndex[2]Let's go to the elevator for the upper floors."
                             ]
                         },
                         {
@@ -18529,14 +18487,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]上層階行きのエレベーターに行こう。"
+                                "\\PartyFace[1]\\FaceIndex[2]Let's go to the elevator for the upper floors."
                             ]
                         },
                         {
@@ -18689,14 +18647,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]上層階行きのエレベーターに行こう。"
+                                "\\PartyFace[1]\\FaceIndex[2]Let's go to the elevator for the upper floors."
                             ]
                         },
                         {
@@ -18849,14 +18807,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]上層階行きのエレベーターに行こう。"
+                                "\\PartyFace[1]\\FaceIndex[2]Let's go to the elevator for the upper floors."
                             ]
                         },
                         {
@@ -19382,14 +19340,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]今は急いで\\c[2]屋上\\c[0]に行こう！"
+                                "\\PartyFace[1]\\FaceIndex[4]Let's hurry to the \\c[2]rooftop\\c[0] now!"
                             ]
                         },
                         {
@@ -19491,14 +19449,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]今は急いで\\c[2]屋上\\c[0]に行こう！"
+                                "\\PartyFace[1]\\FaceIndex[4]Let's hurry to the \\c[2]rooftop\\c[0] now!"
                             ]
                         },
                         {
@@ -20104,14 +20062,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]今は急いで\\c[2]屋上\\c[0]に行こう！"
+                                "\\PartyFace[1]\\FaceIndex[4]Let's hurry to the \\c[2]rooftop\\c[0] now!"
                             ]
                         },
                         {
@@ -20213,14 +20171,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]今は急いで\\c[2]屋上\\c[0]に行こう！"
+                                "\\PartyFace[1]\\FaceIndex[4]Let's hurry to the \\c[2]rooftop\\c[0] now!"
                             ]
                         },
                         {
@@ -20322,14 +20280,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]今は急いで\\c[2]屋上\\c[0]に行こう！"
+                                "\\PartyFace[1]\\FaceIndex[4]Let's hurry to the \\c[2]rooftop\\c[0] now!"
                             ]
                         },
                         {
@@ -20431,14 +20389,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]今は急いで\\c[2]屋上\\c[0]に行こう！"
+                                "\\PartyFace[1]\\FaceIndex[4]Let's hurry to the \\c[2]rooftop\\c[0] now!"
                             ]
                         },
                         {
@@ -20682,21 +20640,14 @@
                                 0,
                                 0,
                                 2,
-                                "システム"
+                                "System"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＨＰ、ＭＰを全回復できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全回復しますか？"
+                                "You can fully recover HP and MP. Would you like to fully\nrecover?"
                             ]
                         },
                         {
@@ -20704,8 +20655,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -21226,21 +21177,14 @@
                                 0,
                                 0,
                                 2,
-                                "システム"
+                                "System"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＨＰ、ＭＰを全回復できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全回復しますか？"
+                                "You can fully recover HP and MP. Would you like to fully\nrecover?"
                             ]
                         },
                         {
@@ -21248,8 +21192,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -22347,21 +22291,14 @@
                                 0,
                                 0,
                                 2,
-                                "受付ロボ"
+                                "Reception Robot"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "現在　この施設内は　侵入者検知のため　警戒モードになっており"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "移動が　制限されています　ご注意ください"
+                                "\"Please be aware that movement within this facility is\ncurrently restricted due to the facility being in alert mode\nfor intruder detection.\""
                             ]
                         },
                         {
@@ -22429,28 +22366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付ロボ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「現在　施設内の警戒モードは　解除され"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　エレベーターを　ご利用いただくことが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　できるようになっております。"
+                                "Reception Robot: \"The facility's security mode is now\ndeactivated, and the elevator is available for use.\""
                             ]
                         },
                         {

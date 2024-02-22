@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "セキュリティセンター",
+    "displayName": "Security Center",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -3089,7 +3089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {
@@ -3160,14 +3160,14 @@
                                 0,
                                 0,
                                 2,
-                                "システムメッセージ"
+                                "System Message"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エレベーターの起動にはセキュリティーキーが５つ必要です。"
+                                "Five security keys are required to activate the elevator."
                             ]
                         },
                         {
@@ -3229,21 +3229,14 @@
                                 0,
                                 0,
                                 2,
-                                "システムメッセージ"
+                                "System Message"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "５つのセキュリティーキーを確認しました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エレベーターを起動します。"
+                                "Five security keys confirmed. Elevator activation in\nprogress."
                             ]
                         },
                         {
@@ -3280,14 +3273,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]これで30Fに向かえるね！"
+                                "\\PartyFace[1]\\FaceIndex[1]Now we can head to the 30th floor!"
                             ]
                         },
                         {

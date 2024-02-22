@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下収容施設ゲートA",
+    "displayName": "Underground Containment Facility Gate A",
     "encounterList": [],
     "encounterStep": 30,
     "height": 22,
@@ -7057,14 +7057,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと待って！！"
+                                "Wait a minute!!"
                             ]
                         },
                         {
@@ -7084,14 +7084,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]どうしたの？ひさなちゃん。"
+                                "\\PartyFace[1]\\FaceIndex[2]What's wrong? Hisana-chan."
                             ]
                         },
                         {
@@ -7102,21 +7102,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何か嫌な感じがする…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[2]ゼロエリア\\c[0]を展開してみて！"
+                                "I have a bad feeling... Let's deploy the \\c[2]Zero\nArea\\c[0]!"
                             ]
                         },
                         {
@@ -7127,14 +7120,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]了解！"
+                                "\\PartyFace[1]\\FaceIndex[0]Roger that!"
                             ]
                         },
                         {
@@ -7145,14 +7138,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]ええいっ！"
+                                "\\PartyFace[1]\\FaceIndex[11]Eei!"
                             ]
                         },
                         {
@@ -7190,14 +7183,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やっぱり、罠が仕掛けられてたみたいね。"
+                                "Just as I thought, it looks like a trap was set."
                             ]
                         },
                         {
@@ -7208,21 +7201,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "引っかかったらたぶんガードシステムが働くと思うから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "飛び越えて進んでいってね。"
+                                "If we get caught, I think the guard system will activate, so\nlet's jump over it and keep going."
                             ]
                         },
                         {
@@ -7233,14 +7219,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "飛び越える時は罠の前で\\c[2]決定ボタン\\c[0]だよ！"
+                                "When jumping over, do it in front of the trap with the\n\\c[2]decision button\\c[0]!"
                             ]
                         },
                         {
@@ -7251,14 +7237,14 @@
                                 10,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]決定ボタン\\c[0]って…何？"
+                                "\\c[2]Decision button\\c[0]... What's that?"
                             ]
                         },
                         {
@@ -7269,14 +7255,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこは気にしない。"
+                                "Don't worry about that."
                             ]
                         },
                         {
@@ -7294,14 +7280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "罠がありそうな場所では"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メニュー内、\\c[2]特殊行動\\c[0]の\\c[2]ゼロエリア\\c[0]コマンドで罠をサーチしよう。"
+                                "In places where there might be traps, use the \\c[2]Special\nAction\\c[0] command of \\c[2]Zero Area\\c[0] in the menu to\nsearch for traps."
                             ]
                         },
                         {
@@ -7319,7 +7298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見つかった罠は\\c[2]決定キー\\c[0]を押してジャンプで回避しよう。"
+                                "If you find a trap, press the \\c[2]decision key\\c[0] to jump\nand avoid it."
                             ]
                         },
                         {
@@ -23207,14 +23186,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[2]ふぅ…罠には気を付けて進まなきゃね"
+                                "\\PartyFace[2]Phew... We have to be careful of traps as we go along."
                             ]
                         },
                         {
@@ -23225,14 +23204,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "最初から気を付けて欲しいな…"
+                                "I wish you'd be careful from the start..."
                             ]
                         },
                         {
@@ -26031,14 +26010,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]ここでレーザートラップをOFFに出来るみたい。"
+                                "\\PartyFace[1]\\FaceIndex[0]It seems we can turn off the laser traps here."
                             ]
                         },
                         {
@@ -26046,8 +26025,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "レーザートラップON",
-                                    "レーザートラップOFF"
+                                    "Laser Trap ON",
+                                    "Laser Trap OFF"
                                 ],
                                 1,
                                 0,
@@ -29454,14 +29433,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゃんとジャンプして避けてね。"
+                                "Make sure to jump and dodge properly."
                             ]
                         },
                         {
@@ -29481,14 +29460,14 @@
                                 10,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[10]わかってるよぅ"
+                                "\\PartyFace[1]\\FaceIndex[10]I know, I know."
                             ]
                         },
                         {
@@ -29635,7 +29614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアのトラップが見えるようになった。"
+                                "The traps in this area have become visible."
                             ]
                         },
                         {

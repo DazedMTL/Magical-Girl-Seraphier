@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "医務室",
+    "displayName": "Infirmary",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -3512,7 +3512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うーん、魔法少女コワイ…"
+                                "Ugh, magical girls are scary..."
                             ]
                         },
                         {
@@ -3523,14 +3523,14 @@
                                 8,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[8]そんなに怯えなくても…"
+                                "\\PartyFace[1]\\FaceIndex[8]You don't have to be so frightened..."
                             ]
                         },
                         {
@@ -3608,7 +3608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんな目にあうなんて、もう組織辞めたい…"
+                                "To go through something like this, I want to quit the\norganization..."
                             ]
                         },
                         {
@@ -3619,14 +3619,14 @@
                                 8,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[8]犯罪組織は辞めた方がいいと思うよ。"
+                                "\\PartyFace[1]\\FaceIndex[8]I think it's better to quit the criminal organization."
                             ]
                         },
                         {
@@ -3704,7 +3704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もっと…もっと魔法ください…"
+                                "More... Please give me more magic..."
                             ]
                         },
                         {
@@ -3715,14 +3715,14 @@
                                 8,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]\\{断る！"
+                                "\\PartyFace[1]\\FaceIndex[11]I refuse!"
                             ]
                         },
                         {
@@ -3800,14 +3800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このオレ様をここまで叩きのめされるなんて…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おもしれー女だぜ。"
+                                "To be beaten this badly by a woman... you're quite\nsomething."
                             ]
                         },
                         {
@@ -3818,14 +3811,14 @@
                                 8,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[8]あ、そういうの結構です。"
+                                "\\PartyFace[1]\\FaceIndex[8]Ah, I'd rather not hear that."
                             ]
                         },
                         {
@@ -3905,21 +3898,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君かね、地下で暴れまくっていた魔法少女というのは！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "警備員が吹き飛ばされまくって次々に運ばれてくるから忙しくてたまらん！"
+                                "So you're the magical girl who's been causing havoc in the\nunderground! The guards are getting blown away left and\nright, and it's been a nightmare dealing with the aftermath!"
                             ]
                         },
                         {
@@ -3930,14 +3916,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[3]ごめんなさい…"
+                                "\\PartyFace[1]\\FaceIndex[3]I'm sorry..."
                             ]
                         },
                         {
@@ -3948,21 +3934,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]って何でわたしが謝らないといけないの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そっちが襲ってくるのが悪いんでしょ！"
+                                "\\PartyFace[1]\\FaceIndex[11]Wait, why am I apologizing! It's your fault for attacking me\nin the first place!"
                             ]
                         },
                         {
@@ -3973,14 +3952,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員が警備して何が悪い！"
+                                "What's wrong with guards doing their job and providing\nsecurity!"
                             ]
                         },
                         {
@@ -3991,14 +3970,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[10]うっ…確かに…"
+                                "\\PartyFace[1]\\FaceIndex[10]Well... that's true..."
                             ]
                         },
                         {
@@ -4009,14 +3988,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]でもすぐにえっちなこととかしてくるし！！"
+                                "\\PartyFace[1]\\FaceIndex[11]But you start doing lewd things right away!!"
                             ]
                         },
                         {
@@ -4034,14 +4013,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{可愛い女の子にえっちなことをして何が悪い！"
+                                "What's wrong with doing lewd things to a cute girl!"
                             ]
                         },
                         {
@@ -4059,14 +4038,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]\\{悪いわ！"
+                                "\\PartyFace[1]\\FaceIndex[11]That's what's wrong!"
                             ]
                         },
                         {
@@ -4077,21 +4056,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]そんなことより…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[2]セキュリティキー\\C[0]持ってない？"
+                                "\\PartyFace[1]\\FaceIndex[2]Anyway... do you have a \\C[2]Security Key\\C[0]?"
                             ]
                         },
                         {
@@ -4102,21 +4074,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "持っていたら何だというんだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…もしかして上層階に行く気かね？"
+                                "What if I do...? Are you planning to go to the upper floors?"
                             ]
                         },
                         {
@@ -4127,14 +4092,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]うん、そうだよ♪"
+                                "\\PartyFace[1]\\FaceIndex[1]Yeah, that's right♪"
                             ]
                         },
                         {
@@ -4145,21 +4110,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガーディアンズに目を付けられたのなら、もうこの研究所も終わりかもしれんな…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よし、いいだろう。"
+                                "If the Guardians have noticed you, this facility might be\nfinished anyway... Alright, fine."
                             ]
                         },
                         {
@@ -4179,14 +4137,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]やった！"
+                                "\\PartyFace[1]\\FaceIndex[1]Yay!"
                             ]
                         },
                         {
@@ -4197,14 +4155,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただし！"
+                                "But!"
                             ]
                         },
                         {
@@ -4215,14 +4173,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]ただし？"
+                                "\\PartyFace[1]\\FaceIndex[2]But?"
                             ]
                         },
                         {
@@ -4233,14 +4191,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "触らせろ。"
+                                "Let me touch you."
                             ]
                         },
                         {
@@ -4251,14 +4209,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]へっ？"
+                                "\\PartyFace[1]\\FaceIndex[2]Huh?"
                             ]
                         },
                         {
@@ -4269,14 +4227,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "身体を触らせろと言っておる。"
+                                "I'm saying let me touch your body."
                             ]
                         },
                         {
@@ -4294,14 +4252,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[3]えーーーーーーーっ！？"
+                                "\\PartyFace[1]\\FaceIndex[3]E-------h!?"
                             ]
                         },
                         {
@@ -4312,14 +4270,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キーが欲しいんじゃないのか？どうするね。"
+                                "You want the key, don't you? What will you do?"
                             ]
                         },
                         {
@@ -4356,14 +4314,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[10]うぅ…どうしよう…"
+                                "\\PartyFace[1]\\FaceIndex[10]Ugh... what should I do..."
                             ]
                         },
                         {
@@ -4371,8 +4329,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "触らせる",
-                                    "触らせない"
+                                    "Let him touch",
+                                    "Don't let him touch"
                                 ],
                                 1,
                                 0,
@@ -4396,14 +4354,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[10]うぅ…ちょっとだけ…だからね…"
+                                "\\PartyFace[1]\\FaceIndex[10]Ugh... just a little bit... okay..."
                             ]
                         },
                         {
@@ -4414,14 +4372,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おぉ、ではどこを触って欲しいのかね？"
+                                "Oh, then where would you like me to touch?"
                             ]
                         },
                         {
@@ -4429,10 +4387,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "胸",
-                                    "股間",
-                                    "尻",
-                                    "やっぱりやめる"
+                                    "Breasts",
+                                    "Crotch",
+                                    "Butt",
+                                    "Actually, never mind"
                                 ],
                                 1,
                                 0,
@@ -4594,14 +4552,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]絶対やだ！"
+                                "\\PartyFace[1]\\FaceIndex[11]Absolutely not!"
                             ]
                         },
                         {
@@ -4612,14 +4570,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キーが必要ではないのかね？"
+                                "Don't you need the key?"
                             ]
                         },
                         {
@@ -4630,14 +4588,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]いざとなったら全部壊しちゃうからいいもん！"
+                                "\\PartyFace[1]\\FaceIndex[11]If it comes down to it, I'll just break everything, so\nthere!"
                             ]
                         },
                         {
@@ -4648,14 +4606,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員達の姿を見ると本当にやりかねんな…"
+                                "Seeing the state of the guards, I wouldn't put it past\nyou..."
                             ]
                         },
                         {
@@ -4666,14 +4624,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "仕方ない…持って行きたまえ。"
+                                "Can't be helped... take it then."
                             ]
                         },
                         {
@@ -4735,14 +4693,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]やったー、ありがとー！"
+                                "\\PartyFace[1]\\FaceIndex[1]Yay, thank you!"
                             ]
                         },
                         {
@@ -4753,14 +4711,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その代わり私の身の安全は保障してくれたまえよ。"
+                                "In exchange, ensure my safety."
                             ]
                         },
                         {
@@ -4771,14 +4729,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]大丈夫！協力してくれたって言っておくね！"
+                                "\\PartyFace[1]\\FaceIndex[0]Don't worry! I'll make sure they know you cooperated!"
                             ]
                         },
                         {
@@ -4855,14 +4813,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや、触らせてくれる気になったのかね？"
+                                "Oh, have you decided to let me touch you?"
                             ]
                         },
                         {
@@ -4896,8 +4854,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "触らせる（各種感度UP）",
-                                    "触らせない"
+                                    "Allow to touch (Sensitivity UP)",
+                                    "Do not allow to touch"
                                 ],
                                 1,
                                 0,
@@ -4921,14 +4879,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おぉ、どこを触って欲しいのかね？"
+                                "Oh, where would you like me to touch?"
                             ]
                         },
                         {
@@ -4936,10 +4894,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "胸",
-                                    "股間",
-                                    "尻",
-                                    "やっぱりやめる"
+                                    "Breasts",
+                                    "Crotch",
+                                    "Butt",
+                                    "Actually, never mind"
                                 ],
                                 1,
                                 0,
@@ -5101,14 +5059,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[8]え…遠慮しておきます…"
+                                "\\PartyFace[1]\\FaceIndex[8]Eh... I'll refrain..."
                             ]
                         },
                         {
@@ -5364,14 +5322,14 @@
                                 10,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]（うぅ…ここまでする必要あるのかな…）"
+                                "\\PartyFace[1]\\FaceIndex[11]\"Ugh... Is it really necessary to go this far...?\""
                             ]
                         },
                         {
@@ -5382,14 +5340,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一度口にしたことは守りたまえ。"
+                                "\"One must honor what has been said.\""
                             ]
                         },
                         {
@@ -5400,14 +5358,14 @@
                                 10,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]（ここまで許した覚えないよ…）"
+                                "\\PartyFace[1]\\FaceIndex[11]\"I don't remember agreeing to this much...\""
                             ]
                         },
                         {
@@ -5418,14 +5376,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "では、さっそく…"
+                                "\"Well then, let's begin...\""
                             ]
                         },
                         {
@@ -5578,14 +5536,14 @@
                                 10,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（あぁ…触られてる…）"
+                                "\\PartyFace[1]\\FaceIndex[6]\"(Ah... I'm being touched...)\""
                             ]
                         },
                         {
@@ -5596,21 +5554,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふむ、大きさは小ぶりだが、良い触りごこちだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "健康的でとても良い。"
+                                "\"Hmm, they're on the smaller side, but they feel nice.\nHealthy and very good.\""
                             ]
                         },
                         {
@@ -5621,14 +5572,14 @@
                                 10,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（感想言わないでよぉ…）"
+                                "\\PartyFace[1]\\FaceIndex[6]\"(Don't give me your commentary...)\""
                             ]
                         },
                         {
@@ -5639,28 +5590,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私の今までのデータからすると、君のような体格の子であれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "将来もそこまで胸は大きくならない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが、形が良いのでそこまで悲観することはないぞ。"
+                                "\"According to my data so far, a girl with your physique is\nunlikely to have much breast growth in the future. However,\nthe shape is good, so there's no need for too much concern.\""
                             ]
                         },
                         {
@@ -5671,14 +5608,14 @@
                                 10,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（…聞きたくなかった………）"
+                                "\\PartyFace[1]\\FaceIndex[6]\"(...I didn't want to hear that...)\""
                             ]
                         },
                         {
@@ -5864,14 +5801,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気が向いたらまた頼むよ。"
+                                "\"If I feel like it, I'll ask you again.\""
                             ]
                         },
                         {
@@ -6128,14 +6065,14 @@
                                 10,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]（うぅ…ここまでする必要あるのかな…）"
+                                "\\PartyFace[1]\\FaceIndex[11]\"(Ugh... Is it really necessary to go this far...)\""
                             ]
                         },
                         {
@@ -6146,14 +6083,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一度口にしたことは守りたまえ。"
+                                "\"Once you've said something, you should stick to it.\""
                             ]
                         },
                         {
@@ -6164,14 +6101,14 @@
                                 10,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]（ここまで許した覚えないよ…）"
+                                "\\PartyFace[1]\\FaceIndex[11]\"(I don't remember agreeing to this much...)\""
                             ]
                         },
                         {
@@ -6182,14 +6119,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "では、さっそく…"
+                                "\"Well then, let's get started...\""
                             ]
                         },
                         {
@@ -6342,14 +6279,14 @@
                                 10,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（あぁ…触られてる…）"
+                                "\\PartyFace[1]\\FaceIndex[6]\"(Ah... I'm being touched...)\""
                             ]
                         },
                         {
@@ -6360,21 +6297,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほほう、これは良い色のオ〇ンコだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "形も弾力もいい。"
+                                "\"Oh ho, this is a nicely colored pussy. The shape and\nelasticity are good too.\""
                             ]
                         },
                         {
@@ -6385,14 +6315,14 @@
                                 10,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（感想言わないでよぉ…）"
+                                "\\PartyFace[1]\\FaceIndex[6]\"(Don't give me your commentary...)\""
                             ]
                         },
                         {
@@ -6403,21 +6333,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "将来は男を悦ばせる名器になりそうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君と添い遂げる男が羨ましいねぇ。"
+                                "\"In the future, it seems like you'll be a treasure that will\nplease men. I envy the man who ends up with you.\""
                             ]
                         },
                         {
@@ -6428,14 +6351,14 @@
                                 10,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（うぅ…恥ずかしいよ………）"
+                                "\\PartyFace[1]\\FaceIndex[6]\"(Ugh... It's embarrassing...)\""
                             ]
                         },
                         {
@@ -6621,14 +6544,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気が向いたらまた頼むよ。"
+                                "\"I'll ask for your help again if I feel like it.\""
                             ]
                         },
                         {
@@ -6885,14 +6808,14 @@
                                 10,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]うぅ…ここまでする必要あるのかな…"
+                                "\\PartyFace[1]\\FaceIndex[11]Ugh... Do we really need to go this far..."
                             ]
                         },
                         {
@@ -6903,14 +6826,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一度口にしたことは守りたまえ。"
+                                "Once you've said something, you should stick to it."
                             ]
                         },
                         {
@@ -6921,14 +6844,14 @@
                                 10,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]ここまで許した覚えないよ…"
+                                "\\PartyFace[1]\\FaceIndex[11]I don't remember agreeing to this much..."
                             ]
                         },
                         {
@@ -6939,14 +6862,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "では、さっそく…"
+                                "Well then, let's get started..."
                             ]
                         },
                         {
@@ -7099,14 +7022,14 @@
                                 10,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（あぁ…触られてる…）"
+                                "\\PartyFace[1]\\FaceIndex[6](Ah... I'm being touched...)"
                             ]
                         },
                         {
@@ -7117,21 +7040,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほほう、これはなかなか良い触り心地だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "弾力、ハリ、つや、全てにおいて申し分ない。"
+                                "Oh ho, this is quite a nice feel. Elasticity, firmness,\nluster, it's perfect in every way."
                             ]
                         },
                         {
@@ -7142,14 +7058,14 @@
                                 10,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（感想言わないでよぉ…）"
+                                "\\PartyFace[1]\\FaceIndex[6](Don't give your commentary...)"
                             ]
                         },
                         {
@@ -7160,21 +7076,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふむ、少々小さいのが惜しいところだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつまででも触っていたくなるような素晴らしい感触だ。"
+                                "Hmm, it's a pity they're a bit small, but the sensation is\nso wonderful I could touch them forever."
                             ]
                         },
                         {
@@ -7185,14 +7094,14 @@
                                 10,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（うぅ…恥ずかしいよ………）"
+                                "\\PartyFace[1]\\FaceIndex[6](Ugh... This is embarrassing...)"
                             ]
                         },
                         {
@@ -7378,14 +7287,14 @@
                                 2,
                                 0,
                                 2,
-                                "医者"
+                                "Doctor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気が向いたらまた頼むよ。"
+                                "I'll ask for your help again when I feel like it."
                             ]
                         },
                         {
@@ -7480,7 +7389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {

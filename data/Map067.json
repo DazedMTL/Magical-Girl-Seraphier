@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下研究室ゲート",
+    "displayName": "Underground Laboratory Gate",
     "encounterList": [],
     "encounterStep": 30,
     "height": 22,
@@ -5872,7 +5872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "観覧シーンをスキップしますか？"
+                                "Would you like to skip the viewing scene?"
                             ]
                         },
                         {
@@ -5880,8 +5880,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5949,7 +5949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "散々暴れてた魔法少女がこいつに捕まっちまったんだな。"
+                                "The magical girl who was rampaging around got caught by this\nthing, huh."
                             ]
                         },
                         {
@@ -5967,14 +5967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たった一人で乗り込んで来て捕まっちまうなんて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "度胸はあるがそりゃ無謀ってもんだぜ。"
+                                "To barge in all alone and get captured, she's got guts but\nthat's just reckless."
                             ]
                         },
                         {
@@ -5992,14 +5985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オレ達が手を出せないのは残念だが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この娘にしてみればオレ達に責められてた方がまだマシだったかもな。"
+                                "It's a shame we can't lay our hands on her, but for this\ngirl, maybe being punished by us would have been better."
                             ]
                         },
                         {
@@ -6017,7 +6003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くくく、こいつは機械だけに責めが容赦がないからなぁ。"
+                                "Heh heh, this thing is merciless in its punishment because\nit's a machine."
                             ]
                         },
                         {
@@ -6035,14 +6021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "中の様子はモニターで見られるからな、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せいぜい楽しませてもらうとしよう。"
+                                "We can watch what's happening inside on the monitor, so\nlet's enjoy it to the fullest."
                             ]
                         },
                         {

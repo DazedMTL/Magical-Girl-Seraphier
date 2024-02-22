@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "警備員控室",
+    "displayName": "Security Guard Break Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 21,
@@ -4784,14 +4784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うーん、むにゃむにゃ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボスの人使いが荒すぎる件について…"
+                                "Mmm, mumble mumble... about the boss being too rough with\nhis people..."
                             ]
                         },
                         {
@@ -4811,21 +4804,14 @@
                                 8,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[8]こんないい部屋を与えられてても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕事は苦労してるんだね…"
+                                "\\PartyFace[1]\\FaceIndex[8]Even with such a nice room provided, work seems to be tough,\nhuh..."
                             ]
                         },
                         {
@@ -4836,14 +4822,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "労働条件の悪さを福利厚生でごまかしているのかな…"
+                                "I wonder if they're trying to distract from the poor working\nconditions with good welfare benefits..."
                             ]
                         },
                         {
@@ -4905,14 +4891,14 @@
                                 8,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]もしかして…この人が鍵を持ってたりして…"
+                                "\\PartyFace[1]\\FaceIndex[2]Could it be... that this person has the key..."
                             ]
                         },
                         {
@@ -4923,21 +4909,14 @@
                                 8,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]ちょっと失礼します…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ごそごそ…あっ！"
+                                "\\PartyFace[1]\\FaceIndex[2]Excuse me for a moment... *rummaging*... Ah!"
                             ]
                         },
                         {
@@ -4977,14 +4956,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]やっぱり持ってた！"
+                                "\\PartyFace[1]\\FaceIndex[0]I knew it, they had it!"
                             ]
                         },
                         {
@@ -5002,7 +4981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ううーん…"
+                                "Mmm-hmm..."
                             ]
                         },
                         {
@@ -5022,14 +5001,14 @@
                                 8,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]やばっ…起きちゃった？"
+                                "\\PartyFace[1]\\FaceIndex[2]Oh no... did they wake up?"
                             ]
                         },
                         {
@@ -5047,7 +5026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうそう…そこ…そこをもっと擦って…ううぅ～ん…いいよぉ…"
+                                "Yes, yes... right there... rub there more... mmm~ yeah,\nthat's good..."
                             ]
                         },
                         {
@@ -5067,14 +5046,14 @@
                                 8,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]幸せな夢を見ているのかな…？"
+                                "\\PartyFace[1]\\FaceIndex[2]Are they having a happy dream...?"
                             ]
                         },
                         {
@@ -5143,7 +5122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うへへぇ…いいよぉ…そこ…なかなか上手いじゃないかぁ…"
+                                "Hehehe... That's good... right there... You're quite\nskilled, aren't you..."
                             ]
                         },
                         {
@@ -5163,14 +5142,14 @@
                                 8,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[8]関わらないでおこう…"
+                                "\\PartyFace[1]\\FaceIndex[8]Let's not get involved..."
                             ]
                         },
                         {
@@ -5257,14 +5236,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]な、なにこの快適そうな部屋…"
+                                "\\PartyFace[1]\\FaceIndex[11]W-What's with this comfortable-looking room..."
                             ]
                         },
                         {
@@ -5275,21 +5254,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員達の控室みたいだね…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この組織…割と待遇いいのかな…"
+                                "It seems like a break room for the guards... This\norganization... maybe they treat their people pretty well..."
                             ]
                         },
                         {
@@ -5668,14 +5640,14 @@
                                 4,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]このテレビ…"
+                                "\\PartyFace[1]\\FaceIndex[4]This TV..."
                             ]
                         },
                         {
@@ -5686,14 +5658,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]\\{欲しい！"
+                                "\\PartyFace[1]\\FaceIndex[11]I want it!"
                             ]
                         },
                         {
@@ -5704,14 +5676,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ストレートな欲望表現だね。"
+                                "That's a pretty straightforward expression of desire."
                             ]
                         },
                         {
@@ -5782,14 +5754,14 @@
                                 4,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]このテレビ…"
+                                "\\PartyFace[1]\\FaceIndex[4]This TV..."
                             ]
                         },
                         {
@@ -5800,14 +5772,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]\\{欲しい！"
+                                "\\PartyFace[1]\\FaceIndex[11]I want it!"
                             ]
                         },
                         {
@@ -5818,14 +5790,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ストレートな欲望表現だね。"
+                                "That's a pretty straightforward expression of desire."
                             ]
                         },
                         {
@@ -5896,21 +5868,14 @@
                                 4,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]こんなに大きなディスプレイがあったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゲームも動画も快適だね！"
+                                "\\PartyFace[1]\\FaceIndex[0]If we had such a big display, games and videos would be so\ncomfortable to watch!"
                             ]
                         },
                         {
@@ -5921,14 +5886,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わたし的にはサブディスプレイも欲しいな。"
+                                "For me, I'd also want a sub-display."
                             ]
                         },
                         {
@@ -5999,14 +5964,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{こ、これは！？"
+                                "Wh-What's this!?"
                             ]
                         },
                         {
@@ -6026,14 +5991,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]\\{どうしたの！？"
+                                "\\PartyFace[1]\\FaceIndex[11]What's wrong!?"
                             ]
                         },
                         {
@@ -6044,21 +6009,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パソコンを床に直置きするのはホコリが入りやすくなって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よろしくないので、速やかに配置換えをお願いしたい！"
+                                "It's not good to place the computer directly on the floor\nbecause it can easily get dusty, so I'd like you to\nrearrange it as soon as possible!"
                             ]
                         },
                         {
@@ -6078,14 +6036,14 @@
                                 8,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[8]そ、そだねー"
+                                "\\PartyFace[1]\\FaceIndex[8]Y-Yeah-"
                             ]
                         },
                         {
@@ -6156,14 +6114,14 @@
                                 4,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]じゅるり。"
+                                "\\PartyFace[1]\\FaceIndex[4]*slurp*"
                             ]
                         },
                         {
@@ -6174,14 +6132,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お菓子は帰って来たら食べてもいいから今は我慢ね。"
+                                "You can have some sweets when we get back, so hold on for\nnow, okay?"
                             ]
                         },
                         {
@@ -6192,14 +6150,14 @@
                                 10,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[10]むむぅ…"
+                                "\\PartyFace[1]\\FaceIndex[10]Mmm..."
                             ]
                         },
                         {
@@ -6270,35 +6228,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]メニューは…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コーヒー、紅茶、コーラ、ジンジャーエール、オレンジジュース、梅こぶ茶、ゆず茶、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カルピス、カルピスソーダ、ウーロン茶、山ぶどうソーダ、生ビール、日本酒、焼酎、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ハイボール、カクテル各種…"
+                                "\\PartyFace[1]\\FaceIndex[2]The menu has... coffee, tea, cola, ginger ale, orange juice,\nplum kelp tea, yuzu tea, Calpis, Calpis soda, oolong tea,\nmountain grape soda, draft beer, sake, shochu, highball,\nvarious cocktails..."
                             ]
                         },
                         {
@@ -6309,14 +6246,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]\\{居酒屋か！！"
+                                "\\PartyFace[1]\\FaceIndex[11]Is this a pub?!!"
                             ]
                         },
                         {
@@ -6387,28 +6324,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]…ジ〇ンプにマ〇ジンにサ〇デー…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な〇よし、マーガ〇ット、花と〇め、エ〇スに電撃〇王、アク〇ョンにゼ〇ン、フラ〇パー…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少年系、少女系、青年系が網羅されている…"
+                                "\\PartyFace[1]\\FaceIndex[2]...Jump, Magazine, Sunday...Nakayoshi, Margaret, Flowers and\nDreams, Ace, Dengeki King, Action, Zenon, Flower Party...\nThey've got shonen, shojo, and seinen all covered..."
                             ]
                         },
                         {
@@ -6419,14 +6342,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]\\{ネットカフェか！"
+                                "\\PartyFace[1]\\FaceIndex[11]An internet cafe?!"
                             ]
                         },
                         {
@@ -6437,14 +6360,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ネットカフェにしても揃いすぎじゃないかな…"
+                                "Even for an internet cafe, isn't this lineup a bit too\nextensive...?"
                             ]
                         },
                         {
@@ -6515,28 +6438,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]…ジ〇ンプにマ〇ジンにサ〇デー…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な〇よし、マーガ〇ット、花と〇め、エ〇スに電撃〇王、アク〇ョンにゼ〇ン、フラ〇パー…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少年系、少女系、青年系が網羅されている…"
+                                "\\PartyFace[1]\\FaceIndex[2]...Jump, Magazine, Sunday...Nakayoshi, Margaret, Flowers and\nYume, Ace to Dengeki King, Action to Zenon, Flower Party...\nThey've got shonen, shojo, and seinen all covered..."
                             ]
                         },
                         {
@@ -6547,14 +6456,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]\\{ネットカフェか！"
+                                "\\PartyFace[1]\\FaceIndex[11]A net cafe, huh!"
                             ]
                         },
                         {
@@ -6565,14 +6474,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ネットカフェにしても揃いすぎじゃないかな…"
+                                "Even for a net cafe, isn't this lineup a bit too\nextensive...?"
                             ]
                         },
                         {
@@ -6643,28 +6552,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]…ジ〇ンプにマ〇ジンにサ〇デー…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な〇よし、マーガ〇ット、花と〇め、エ〇スに電撃〇王、ゼ〇ン、フラ〇パー…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少年系、少女系、青年系が網羅されている…"
+                                "\\PartyFace[1]\\FaceIndex[2]...Jump, Magan, Sadee... Nakayoshi, Margaret, Hana to Yume,\nAce, Dengeki King, Zenon, Flower Paper... They've got\nshonen, shojo, and seinen all covered..."
                             ]
                         },
                         {
@@ -6675,14 +6570,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]\\{ネットカフェか！"
+                                "\\PartyFace[1]\\FaceIndex[11]A net cafe, huh!"
                             ]
                         },
                         {
@@ -6693,14 +6588,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ネットカフェにしても揃いすぎじゃないかな…"
+                                "Even for a net cafe, isn't that too much of a complete\nset..."
                             ]
                         },
                         {
@@ -6771,21 +6666,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]お、ブルーレーがある…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えっと…鬼詰のオ〇コ…君〇縄…ラ〇アイブ…"
+                                "\\PartyFace[1]\\FaceIndex[2]Oh, there's a Blu-ray... let's see... \"Demon-stuffed\nPussy\"... \"Your Rope\"... \"Raw Live\"..."
                             ]
                         },
                         {
@@ -6796,14 +6684,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[11]\\{アダルトかよ！！"
+                                "\\PartyFace[1]\\FaceIndex[11]Is this adult stuff?!!"
                             ]
                         },
                         {
@@ -6814,14 +6702,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "控室で何を見てるんだか…"
+                                "I wonder what you're looking at in the green room..."
                             ]
                         },
                         {
@@ -6892,14 +6780,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]この椅子…"
+                                "\\PartyFace[1]\\FaceIndex[2]This chair..."
                             ]
                         },
                         {
@@ -6910,14 +6798,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何か気になるの？"
+                                "Is there something bothering you?"
                             ]
                         },
                         {
@@ -6928,14 +6816,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]すごくイーッスねぇ。"
+                                "\\PartyFace[1]\\FaceIndex[1]It's a really nice chair, isn't it."
                             ]
                         },
                         {
@@ -6946,14 +6834,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…通信機を叩き壊したくなったよ"
+                                "...I felt like smashing the communicator."
                             ]
                         },
                         {
@@ -7024,14 +6912,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]この椅子…"
+                                "\\PartyFace[1]\\FaceIndex[2]This chair..."
                             ]
                         },
                         {
@@ -7042,14 +6930,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何か気になるの？"
+                                "Is something bothering you?"
                             ]
                         },
                         {
@@ -7060,14 +6948,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]ナイスですねぇ～"
+                                "\\PartyFace[1]\\FaceIndex[1]It's nice, isn't it~"
                             ]
                         },
                         {
@@ -7078,14 +6966,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…イラッ"
+                                "...Grrr."
                             ]
                         },
                         {
@@ -7156,14 +7044,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]写真だ………"
+                                "\\PartyFace[1]\\FaceIndex[2]It's a photo..."
                             ]
                         },
                         {
@@ -7174,14 +7062,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "写真がどうかしたの？"
+                                "What's with the photo?"
                             ]
                         },
                         {
@@ -7192,21 +7080,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]旅館みたいなとこで浴衣姿の人達が数十人で集合写真を撮ってる…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これはもしかして………"
+                                "\\PartyFace[1]\\FaceIndex[4]It looks like a bunch of people in yukatas at an inn taking\na group photo... Could this possibly be..."
                             ]
                         },
                         {
@@ -7217,14 +7098,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "社員旅行…かな…"
+                                "A company trip... maybe..."
                             ]
                         },
                         {
@@ -7235,14 +7116,14 @@
                                 11,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[8]悪の組織も社員旅行するんだね…"
+                                "\\PartyFace[1]\\FaceIndex[8]So even evil organizations go on company trips..."
                             ]
                         },
                         {
@@ -7329,7 +7210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {

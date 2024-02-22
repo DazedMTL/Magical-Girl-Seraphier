@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "研究所B1F西通路",
+    "displayName": "Research Lab B1F West Passage",
     "encounterList": [],
     "encounterStep": 30,
     "height": 34,
@@ -20441,7 +20441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにもうトラップはないようだ。"
+                                "It seems there are no more traps in this area."
                             ]
                         },
                         {
@@ -20579,14 +20579,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]あ、ここのドア直ったみたい！"
+                                "\\PartyFace[1]\\FaceIndex[2]Ah, it looks like this door has been fixed!"
                             ]
                         },
                         {
@@ -25570,14 +25570,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]あれ？"
+                                "\\PartyFace[1]\\FaceIndex[2]Huh?"
                             ]
                         },
                         {
@@ -25588,14 +25588,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしたの？"
+                                "What's wrong?"
                             ]
                         },
                         {
@@ -25606,21 +25606,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]このプレート、反転してない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "西側の他のプレートは反転してるのに。"
+                                "\\PartyFace[1]\\FaceIndex[2]This plate isn't flipped. The other plates on the west side\nare flipped over."
                             ]
                         },
                         {
@@ -25631,21 +25624,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、確かに。よく気付いたね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかしたら何か意味があるのかな。"
+                                "Oh, you're right. Good catch. Maybe it means something."
                             ]
                         },
                         {
@@ -25656,14 +25642,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]プレートの後ろになんかスイッチがあるよ。"
+                                "\\PartyFace[1]\\FaceIndex[2]There's some kind of switch behind the plate."
                             ]
                         },
                         {
@@ -25674,14 +25660,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]えいっ！"
+                                "\\PartyFace[1]\\FaceIndex[1]Ei!"
                             ]
                         },
                         {
@@ -25715,14 +25701,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]なんか音がした。"
+                                "\\PartyFace[1]\\FaceIndex[2]There was a sound."
                             ]
                         },
                         {
@@ -25788,14 +25774,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "これだけじゃ何も起こらない…のかな？"
+                                "Maybe nothing happens with just this...?"
                             ]
                         },
                         {
@@ -26603,14 +26589,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]あれ？"
+                                "\\PartyFace[1]\\FaceIndex[2]Huh?"
                             ]
                         },
                         {
@@ -26621,14 +26607,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしたの？"
+                                "What's wrong?"
                             ]
                         },
                         {
@@ -26639,21 +26625,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]この植木、東と西で配置が反対じゃなきゃおかしいのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おんなじ配置だ。"
+                                "\\PartyFace[1]\\FaceIndex[2]These bushes should be arranged opposite each other from\neast to west, but they're the same."
                             ]
                         },
                         {
@@ -26664,14 +26643,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、ほんとだ。"
+                                "Oh, you're right."
                             ]
                         },
                         {
@@ -26682,14 +26661,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]あ…植木の中にスイッチがある…"
+                                "\\PartyFace[1]\\FaceIndex[2]Ah... there's a switch inside the bush..."
                             ]
                         },
                         {
@@ -26700,14 +26679,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]えいっ！"
+                                "\\PartyFace[1]\\FaceIndex[1]Ei!"
                             ]
                         },
                         {
@@ -26741,14 +26720,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]なんか音がした。"
+                                "\\PartyFace[1]\\FaceIndex[2]I heard something."
                             ]
                         },
                         {
@@ -26814,14 +26793,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "これだけじゃ何も起こらない…のかな？"
+                                "I wonder if nothing happens with just this?"
                             ]
                         },
                         {
@@ -27018,14 +26997,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]あれ？"
+                                "\\PartyFace[1]\\FaceIndex[2]Huh?"
                             ]
                         },
                         {
@@ -27036,14 +27015,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしたの？"
+                                "What's wrong?"
                             ]
                         },
                         {
@@ -27054,14 +27033,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]東側通路にはこんな絵なかったよ。"
+                                "\\PartyFace[1]\\FaceIndex[2]There wasn't a painting like this in the east corridor\nbefore."
                             ]
                         },
                         {
@@ -27072,14 +27051,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "怪しいね。調べてみたら？"
+                                "Suspicious. Why don't you check it out?"
                             ]
                         },
                         {
@@ -27090,14 +27069,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]えっと…お、絵の後ろにスイッチがある。"
+                                "\\PartyFace[1]\\FaceIndex[2]Let's see... oh, there's a switch behind the painting."
                             ]
                         },
                         {
@@ -27108,14 +27087,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]えいっ！"
+                                "\\PartyFace[1]\\FaceIndex[1]Ei!"
                             ]
                         },
                         {
@@ -27149,14 +27128,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]なんか音がした。"
+                                "\\PartyFace[1]\\FaceIndex[2]I heard something."
                             ]
                         },
                         {
@@ -27222,14 +27201,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "これだけじゃ何も起こらない…のかな？"
+                                "Maybe nothing happens with just this... I wonder?"
                             ]
                         },
                         {
@@ -27623,14 +27602,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "一度見た敗北シーンです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "再度見ますか？"
+                                "Would you like to view the defeat scene you've seen before\nagain?"
                             ]
                         },
                         {
@@ -27638,8 +27610,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "見る",
-                                    "見ない"
+                                    "View",
+                                    "Do Not View"
                                 ],
                                 1,
                                 0,
@@ -28329,14 +28301,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "一度見た敗北シーンです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "再度見ますか？"
+                                "Would you like to view the defeat scene again?"
                             ]
                         },
                         {
@@ -28344,8 +28309,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "見る",
-                                    "見ない"
+                                    "View",
+                                    "Do Not View"
                                 ],
                                 1,
                                 0,
@@ -28927,28 +28892,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<center>この先の戦闘で敗北すると敗北Ｈシーンに移行します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "敗北Ｈを経験したくない場合はセーブしておくことをおススメします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "※戦闘に勝利するだけで敗北Ｈシーンが回想に追加されます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[2]※これは特殊イベントであり、スキップしてもストーリーに直接の影響はありません。\\c[0]"
+                                "<center>If you are defeated in the upcoming battle, you will\ntransition to a defeat H-scene. If you do not wish to\nexperience the defeat H-scene, we recommend saving your\ngame.※Just by winning the battle, the defeat H-scene will be\nadded to the recollection.\\c[2]※This is a special event, and\nskipping it will not directly affect the\nstory.\\c[0]</center>"
                             ]
                         },
                         {
@@ -28976,7 +28920,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<center>この先はボス戦となります。</center>"
+                                "<center>This next part will be a boss battle.</center>"
                             ]
                         },
                         {
@@ -29004,21 +28948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<center>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "準備はよろしいですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "</center>"
+                                "<center>Are you prepared?</center>"
                             ]
                         },
                         {
@@ -29026,8 +28956,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -29561,14 +29491,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]この部屋からもいくつか神霊力を感じる…"
+                                "\\PartyFace[1]\\FaceIndex[4]I can feel several divine powers coming from this room..."
                             ]
                         },
                         {
@@ -29579,14 +29509,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…捕まっている人達がいるのかな？"
+                                "...Could there be people captured here?"
                             ]
                         },
                         {
@@ -29597,14 +29527,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]なら、助けないと！"
+                                "\\PartyFace[1]\\FaceIndex[4]If that's the case, we have to save them!"
                             ]
                         },
                         {
@@ -29615,14 +29545,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…わかってると思うけど、気を付けてね。"
+                                "...I think you know this, but be careful, okay."
                             ]
                         },
                         {
@@ -29827,14 +29757,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]この部屋からもいくつか神霊力を感じる…"
+                                "\\PartyFace[1]\\FaceIndex[4]I can feel several divine powers coming from this room..."
                             ]
                         },
                         {
@@ -29845,14 +29775,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…捕まっている人達がいるのかな？"
+                                "...Could there be people captured here?"
                             ]
                         },
                         {
@@ -29863,14 +29793,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[4]なら、助けないと！"
+                                "\\PartyFace[1]\\FaceIndex[4]If that's the case, we have to save them!"
                             ]
                         },
                         {
@@ -29881,14 +29811,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…わかってると思うけど、気を付けてね。"
+                                "...I think you know this, but be careful, okay."
                             ]
                         },
                         {
@@ -30174,21 +30104,14 @@
                                 0,
                                 0,
                                 2,
-                                "システム"
+                                "System"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＨＰ、ＭＰを全回復できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全回復しますか？"
+                                "You can fully recover HP and MP. Would you like to fully\nrecover?"
                             ]
                         },
                         {
@@ -30196,8 +30119,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -30741,7 +30664,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "バインドガードが拘束トラップを防いだ！"
+                                "Bind Guard prevented the restraint trap!"
                             ]
                         },
                         {
@@ -30761,14 +30684,14 @@
                                 10,
                                 0,
                                 2,
-                                "セラフィエール"
+                                "Seraphier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぶなかったなー。気を付けないと。"
+                                "That was close... We need to be more careful."
                             ]
                         },
                         {
@@ -31336,7 +31259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いきなり出現したベルトに拘束されてしまった！"
+                                "Suddenly, a belt appeared and restrained me!"
                             ]
                         },
                         {
@@ -31696,21 +31619,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]ふぅ…あぶなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "罠には気を付けないとだね。"
+                                "\\PartyFace[1]\\FaceIndex[0]Phew... That was close. We really need to be careful of\ntraps, huh?"
                             ]
                         },
                         {
@@ -31721,14 +31637,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ホントだよ…"
+                                "Really..."
                             ]
                         },
                         {
@@ -31945,7 +31861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いまこれ？"
+                                "What's this now?"
                             ]
                         },
                         {
@@ -32233,14 +32149,14 @@
                                 4,
                                 0,
                                 2,
-                                "記録係"
+                                "Record Keeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ、君がうわさの魔法少女だね？"
+                                "Ah, you're the rumored magical girl, aren't you?"
                             ]
                         },
                         {
@@ -32251,21 +32167,14 @@
                                 4,
                                 0,
                                 2,
-                                "記録係"
+                                "Record Keeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はガーディアンズが創設されるに至った記録を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いろいろ調べてデータに残しているんだ。"
+                                "I've been researching and documenting the records of how the\nGuardians were founded."
                             ]
                         },
                         {
@@ -32276,21 +32185,14 @@
                                 4,
                                 0,
                                 2,
-                                "記録係"
+                                "Record Keeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それをちょっとした余興でいろんな場所に隠したんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "例えばこの\\C[2]西通路にも一つ\\C[0]…ね。"
+                                "I've hidden them in various places as a bit of fun, for\nexample, there's one in this\\C[2] western passage\\C[0]...\nyou see."
                             ]
                         },
                         {
@@ -32301,21 +32203,14 @@
                                 4,
                                 0,
                                 2,
-                                "記録係"
+                                "Record Keeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "特にここに隠したものはちょっと見つけにくいと思うから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "がんばって探してごらんよ。"
+                                "The one hidden here is a bit tricky to find, so do your best\nto search for it."
                             ]
                         },
                         {
@@ -32326,21 +32221,14 @@
                                 4,
                                 0,
                                 2,
-                                "記録係"
+                                "Record Keeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒントは\\C[2]３か所の間違い\\C[0]だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "東通路と西通路の違いをよく探してみるといい。"
+                                "The hint is the\\C[2] three discrepancies\\C[0]. It would be\ngood to carefully search for the differences between the\neast and west passages."
                             ]
                         },
                         {
@@ -32351,14 +32239,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[0]（ここにはめんどくさい謎解きを仕掛ける人しかいないんかい）"
+                                "\\PartyFace[1]\\FaceIndex[0](Is everyone here just into setting up annoying puzzles?)"
                             ]
                         },
                         {
@@ -32420,21 +32308,14 @@
                                 4,
                                 0,
                                 2,
-                                "記録係"
+                                "Record Keeper"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見つけたようだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他にもいろんな場所に置いてあるから探してみるといい。"
+                                "It seems you've found it. There are others placed in various\nlocations, so it would be good to search for them."
                             ]
                         },
                         {
@@ -32445,14 +32326,14 @@
                                 0,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[10]（読んで欲しいのか欲しくないのか）"
+                                "\\PartyFace[1]\\FaceIndex[10](I wonder if they want me to read it or not...)"
                             ]
                         },
                         {

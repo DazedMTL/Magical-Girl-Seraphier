@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "スイッチだらけの部屋（東）",
+    "displayName": "Room Full of Switches (East)",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -8744,7 +8744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {
@@ -8882,14 +8882,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]スイッチがいっぱい！"
+                                "\\PartyFace[1]\\FaceIndex[2]There are so many switches!"
                             ]
                         },
                         {
@@ -8900,14 +8900,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この形を覚えておけってことかな。"
+                                "Maybe I'm supposed to remember this shape."
                             ]
                         },
                         {
@@ -8918,21 +8918,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]…よし！覚えた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…ひさなちゃんが。"
+                                "\\PartyFace[1]\\FaceIndex[1]...Alright! I've got it! ...Hisana-chan has."
                             ]
                         },
                         {
@@ -8943,14 +8936,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                "..."
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下隠し部屋",
+    "displayName": "Underground Secret Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -4660,14 +4660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベリアルに敗北したKOHANEは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "研究所地下の隠し部屋へと連れて来られてしまった。"
+                                "Kohane, defeated by Belial, was taken to a hidden room deep\nbeneath the laboratory."
                             ]
                         },
                         {
@@ -4685,14 +4678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僅かに残った力で変身は維持しているものの、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "破れたローブを再生できるほどでは無かった。"
+                                "She managed to maintain her transformation with the little\npower she had left, but it wasn't enough to regenerate her\ntorn robe."
                             ]
                         },
                         {
@@ -4703,21 +4689,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前のおかげでオレの計画も台無しだ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ガーディアンズのエースとやらを甘くみてたぜ。"
+                                "Your interference has ruined my plans... I underestimated\nthe so-called ace of the Guardians."
                             ]
                         },
                         {
@@ -4728,21 +4707,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "安心しろ、ここは神霊力通信も全て遮断された地下深く…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さすがのガーディアンズもここを見つけるのは無理だろうよ。"
+                                "Rest assured, this place is deep underground where all\nspiritual power communications are blocked... Even the\nmighty Guardians won't be able to find this place."
                             ]
                         },
                         {
@@ -4753,21 +4725,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "準備が出来次第オレはここからお前を連れて離脱させてもらう、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが…その前に計画を潰した代償をその身体で支払ってもらわないとな！"
+                                "Once preparations are complete, I'll take you away from\nhere. But before that... you'll have to pay for ruining my\nplans with your body!"
                             ]
                         },
                         {
@@ -5017,14 +4982,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふうぅ…ふう…ぅ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Phew... hah... uhh..."
                             ]
                         },
                         {
@@ -5042,7 +5007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "薄暗い部屋に少女のくぐもった声が響く。"
+                                "The muffled voice of a girl echoes in the dimly lit room."
                             ]
                         },
                         {
@@ -5053,14 +5018,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前の所為で今まで積み上げて来たものが全て台無しだ。"
+                                "It's all your fault that everything I've built up until now\nis ruined."
                             ]
                         },
                         {
@@ -5078,14 +5043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フレームバインダーに素肌を露出した状態で囚われた少女に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男は吐き捨てる。"
+                                "The man spits out his words at the girl, who is exposed in\nher bare skin and trapped in the Frame Binder."
                             ]
                         },
                         {
@@ -5096,14 +5054,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（こんな格好…いやだよ…）"
+                                "\\PartyFace[1]\\FaceIndex[6](I hate being in this state...)"
                             ]
                         },
                         {
@@ -5121,14 +5079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "口枷を嵌められた状態では拒絶の言葉を発することもできずに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔法少女はまだ幼い裸体を晒してしまう。"
+                                "Unable to utter words of rejection with a gag in her mouth,\nthe magical girl ends up exposing her still immature naked\nbody."
                             ]
                         },
                         {
@@ -5139,14 +5090,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふ…うぅ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Hn... uhh..."
                             ]
                         },
                         {
@@ -5157,14 +5108,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フッ、そんな目をしても無駄だよ、ここには誰も助けには来ない"
+                                "Heh, those eyes are useless, no one will come to save you\nhere."
                             ]
                         },
                         {
@@ -5182,14 +5133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "考えていることを見透かされたような言葉に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "KOHANEの背筋がゾクっと震える。"
+                                "Kohane's spine shivers with a chill at the words that seem\nto see right through her thoughts."
                             ]
                         },
                         {
@@ -5200,21 +5144,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは万が一の時のために作られた隠し部屋だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "神霊力も外に漏れることは無い"
+                                "This is a hidden room created for emergencies. No spiritual\npower will leak outside."
                             ]
                         },
                         {
@@ -5225,14 +5162,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前にはこうなった責任を取ってもらう"
+                                "You're going to take responsibility for what has happened."
                             ]
                         },
                         {
@@ -5250,14 +5187,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふうぅっ！"
+                                "\\PartyFace[1]\\FaceIndex[6]Phewww!"
                             ]
                         },
                         {
@@ -5268,14 +5205,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（責任って…あなたたちが悪いことしてるから…）"
+                                "\\PartyFace[1]\\FaceIndex[6](Responsibility... It's because you guys are doing bad\nthings...)"
                             ]
                         },
                         {
@@ -5293,7 +5230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "抗議の言葉すら出せない少女に男は語り続ける。"
+                                "The man continues to speak to the girl who can't even voice\nher protest."
                             ]
                         },
                         {
@@ -5304,21 +5241,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "神霊力を搾り取るだけ搾り取らせてもらった後、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前を人質にしてここから退避させてもらう"
+                                "After I've drained all the spiritual power from you, I'll\ntake you hostage and evacuate from here."
                             ]
                         },
                         {
@@ -5336,14 +5266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男の勝手な言い分に魔法少女は怒りを覚えるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "器具にガッチリと囚われた状態では"
+                                "The magical girl feels anger at the man's selfish reasoning,\nbut she can only glare at him, firmly trapped by the device."
                             ]
                         },
                         {
@@ -5361,14 +5284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただ睨みつけることしかできなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その少女にニヤニヤと一瞥すると、男は注射器を取り出す。"
+                                "With a sneer, the man glances at the girl and then takes out\na syringe."
                             ]
                         },
                         {
@@ -5404,14 +5320,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふううううっ！？"
+                                "\\PartyFace[1]\\FaceIndex[6]Phewww!?"
                             ]
                         },
                         {
@@ -5422,21 +5338,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なぁに、そんなに怖がらなくていい、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは君に気持ちよくなってもらうための薬だからな"
+                                "What's the matter, no need to be so scared, this drug is to\nmake you feel good."
                             ]
                         },
                         {
@@ -5447,14 +5356,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（やだやだ、そんな薬いらない！！）"
+                                "\\PartyFace[1]\\FaceIndex[6](No, no, I don't need such a drug!!)"
                             ]
                         },
                         {
@@ -5472,14 +5381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いくら拒絶の意志を示そうとも、それに構わず男は注射器を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少女の腕に差し、薬を注入していく。"
+                                "Despite her will to refuse, the man disregards it and\ninserts the syringe into the girl's arm, injecting the drug."
                             ]
                         },
                         {
@@ -5497,14 +5399,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]う…うぅ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Uh... uhh..."
                             ]
                         },
                         {
@@ -5522,21 +5424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "注入を終えると、男は注射器を引き抜くと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次は怪しげな器具を取り出し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手際良く少女の身体に貼り付けていく。"
+                                "After the injection is done, the man pulls out the syringe\nand then takes out a suspicious device, attaching it\nskillfully to the girl's body."
                             ]
                         },
                         {
@@ -5565,14 +5453,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふうううっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Phewww!!"
                             ]
                         },
                         {
@@ -5590,21 +5478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "拒絶の声を上げても抵抗することも出来ずに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "起伏の乏しい少女の胸と、曝け出された陰核に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ピンクローターが貼り付けられてしまった。"
+                                "Despite her cries of rejection, she could not resist as a\npink rotor was attached to her modest chest and exposed\nclitoris."
                             ]
                         },
                         {
@@ -5615,14 +5489,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まずはこれで下準備といこうじゃないか"
+                                "Let's start with this as a warm-up, shall we?"
                             ]
                         },
                         {
@@ -5640,7 +5514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男はそう言うと、手元のリモコンのスイッチを入れる。"
+                                "The man says this and turns on the switch of the remote\ncontrol in his hand."
                             ]
                         },
                         {
@@ -5680,14 +5554,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふぐうううぅ！"
+                                "\\PartyFace[1]\\FaceIndex[6]Fuguhuuu!"
                             ]
                         },
                         {
@@ -5698,14 +5572,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（いや、これ、乳首とあそこで震えて…ああ…）"
+                                "\\PartyFace[1]\\FaceIndex[6](No, it's vibrating on my nipples and there... ah...)"
                             ]
                         },
                         {
@@ -5723,21 +5597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小さな器具に敏感な部分を責められた少女は "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "快感から逃れるように身体を揺らすが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その動きによっても ローターの刺激を自らで受けて感じてしまう。"
+                                "The small device torments her sensitive parts, and the girl\nshakes her body trying to escape the pleasure, but even her\nmovements make her feel the stimulation of the rotor more\nintensely."
                             ]
                         },
                         {
@@ -5755,14 +5615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "注入された薬の効果もあるのだろうか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "性に未熟な少女の身体はあっという間に恍惚へと導かれていく。"
+                                "Perhaps due to the effect of the injected drug, the sexually\ninexperienced girl's body is quickly led to ecstasy."
                             ]
                         },
                         {
@@ -5795,14 +5648,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ああ……こんなの続けられたらおかしくなっちゃうよ……）"
+                                "\\PartyFace[1]\\FaceIndex[6]Ahh... if this keeps up, I'm going to go crazy...)"
                             ]
                         },
                         {
@@ -5813,14 +5666,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふうぅ……うふううぅ……"
+                                "\\PartyFace[1]\\FaceIndex[6]Phew... uhuhuu..."
                             ]
                         },
                         {
@@ -5838,21 +5691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔法少女は為す術もなく装置から与えられる快楽に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "耐え続けるしかなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなKOHANEの様子を見て、男の表情がさらに歪む。"
+                                "The magical girl had no choice but to endure the pleasure\ngiven by the device helplessly. Seeing Kohane's state, the\nman's expression twisted even more."
                             ]
                         },
                         {
@@ -5863,14 +5702,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フフフ、いい顔じゃないか"
+                                "Hahaha, what a lovely face you're making."
                             ]
                         },
                         {
@@ -5888,7 +5727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう言いながら男はリモコンのスイッチをいじる。"
+                                "While saying this, the man fiddles with the switch on the\nremote control."
                             ]
                         },
                         {
@@ -5921,14 +5760,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]んふうぅ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Nfuhuu!!"
                             ]
                         },
                         {
@@ -5939,14 +5778,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（いや、ちょっとずつ動きが変わって……ああ！）"
+                                "\\PartyFace[1]\\FaceIndex[6](No, it's changing its movement little by little... ah!)"
                             ]
                         },
                         {
@@ -5964,14 +5803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ピンクローターは少女の膣内でうねりながら振動し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クリトリスを刺激する部分は細かく震えて敏感にされる。"
+                                "The pink rotor undulates inside her vagina while vibrating,\nand the part stimulating her clitoris trembles finely,\nmaking it sensitive."
                             ]
                         },
                         {
@@ -6022,14 +5854,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]うぐううぅっっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]Uguhuuuhhh!!"
                             ]
                         },
                         {
@@ -6040,14 +5872,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（ダメ、こんなの気持ち良すぎるよ！ すぐにイっちゃう！）"
+                                "\\PartyFace[1]\\FaceIndex[6](No, this feels too good! I'm going to cum soon!)"
                             ]
                         },
                         {
@@ -6065,7 +5897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "幼い少女には耐えられないような責めに、性感が高まっていく。"
+                                "It seems like the young girl can't endure such torment, as\nher sensitivity increases."
                             ]
                         },
                         {
@@ -6076,14 +5908,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（ああダメ、こんな恥ずかしい格好で……）"
+                                "\\PartyFace[1]\\FaceIndex[6](Ah no, in such an embarrassing position...)"
                             ]
                         },
                         {
@@ -6101,14 +5933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔法少女は耐えるようにギュッと目を閉じるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "身体はビクビクと反応してしまう。"
+                                "The magical girl tries to endure by tightly closing her\neyes, but her body twitches in response."
                             ]
                         },
                         {
@@ -6133,14 +5958,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（イく…イくーーーッ！！）"
+                                "\\PartyFace[1]\\FaceIndex[6](I'm going to cum... I'm cumming---!!)"
                             ]
                         },
                         {
@@ -6201,14 +6026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "びくんびくんと、フレームに囚われた身体を揺らして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少女は意識を快楽に委ねた。"
+                                "Her body shakes in convulsions, trapped in the frame, as the\ngirl surrenders her consciousness to pleasure."
                             ]
                         },
                         {
@@ -6219,21 +6037,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くくっ、無様だなぁ魔法少女、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな恰好で囚われているというのに簡単に快楽に溺れるとは"
+                                "Heh, how unsightly, magical girl. Even though you're\ncaptured in such a state, you easily drown in pleasure."
                             ]
                         },
                         {
@@ -6251,14 +6062,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふーッ…ふぅ…っ…"
+                                "\\PartyFace[1]\\FaceIndex[6]Huh... huu..."
                             ]
                         },
                         {
@@ -6276,21 +6087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絶頂の波が去り、思考がクリアになると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "憎むべき敵に強制的に絶頂へと追いやられた屈辱が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少女の心にチクチクと針を刺す。"
+                                "As the waves of climax recede and her thoughts clear, the\nhumiliation of being forced to cum by her detestable enemy\npricks at the girl's heart like needles."
                             ]
                         },
                         {
@@ -6301,21 +6098,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし、敗北魔法少女の陵辱劇は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ始まったばかりだった。"
+                                "However, the disgraceful drama of the defeated magical girl\nhas only just begun."
                             ]
                         },
                         {
@@ -6706,14 +6496,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "準備はこんなものでいいだろう…いくぞ…"
+                                "\"I guess this preparation will do... Let's go...\""
                             ]
                         },
                         {
@@ -6731,7 +6521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう口にして、おもむろに男性器を取り出す陵辱者。"
+                                "Having said that, the violator slowly takes out his manhood."
                             ]
                         },
                         {
@@ -6749,14 +6539,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふうううっ、ううううっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]\"Huuuuh, uuuuuh!!\""
                             ]
                         },
                         {
@@ -6767,14 +6557,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（いや、そんなのいやああっ！）"
+                                "\\PartyFace[1]\\FaceIndex[6]\"(No, I don't want this!)\""
                             ]
                         },
                         {
@@ -6792,7 +6582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "KOHANEは首を左右に振って拒絶の意思を示す。"
+                                "KOHANE shakes her head from side to side to show her\nrefusal."
                             ]
                         },
                         {
@@ -6803,14 +6593,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]大丈夫、すぐ良くなる"
+                                "\\PartyFace[1]\\FaceIndex[6]\"It's okay, it'll feel better soon.\""
                             ]
                         },
                         {
@@ -6846,7 +6636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男はそう口にして、少女の秘所を指で開き、男性器をあてがう。"
+                                "The man says this as he spreads the girl's genitals with his\nfingers and positions his manhood."
                             ]
                         },
                         {
@@ -6857,14 +6647,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（いやっ！やめて！それだけはイヤ！！）"
+                                "\\PartyFace[1]\\FaceIndex[6]\"(No! Stop! Anything but that!!)\""
                             ]
                         },
                         {
@@ -6882,7 +6672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし、その願いも虚しく男根が侵入してくる。"
+                                "However, despite her pleas, the phallus invades her."
                             ]
                         },
                         {
@@ -6955,14 +6745,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふうぅッ！！"
+                                "\"Huuuh!!\""
                             ]
                         },
                         {
@@ -6973,14 +6763,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（痛い……苦しいよ……）"
+                                "\\PartyFace[1]\\FaceIndex[6]\"(It hurts... It's so painful...)\""
                             ]
                         },
                         {
@@ -6998,7 +6788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "身体を内側から圧迫される苦しみに喘ぐ魔法少女。"
+                                "The magical girl gasps in pain as she feels the pressure\nfrom inside her body."
                             ]
                         },
                         {
@@ -7091,14 +6881,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ほう、処女だったか…"
+                                "\"Oh, a virgin, were you...?\""
                             ]
                         },
                         {
@@ -7116,7 +6906,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "男はニヤリと笑みを浮かべる。"
+                                "The man smirks with a sneer."
                             ]
                         },
                         {
@@ -7186,14 +6976,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（わたしのはじめてが…こんなのって…う…うぅ…）"
+                                "\\PartyFace[1]\\FaceIndex[6]\"(My first time... to be like this... ugh... uhh...)\""
                             ]
                         },
                         {
@@ -7211,7 +7001,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "無慈悲な処女喪失に、KOHANEの瞳からは大粒の涙が零れ落ちた。"
+                                "Large tears fall from KOHANE's eyes as she endures the\nmerciless defloration."
                             ]
                         },
                         {
@@ -7246,14 +7036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし陵辱者はそんな少女を気にすることもなく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゆっくりと腰を動かし始める。"
+                                "But the violator doesn't care about the girl's feelings and\nslowly starts to move his hips."
                             ]
                         },
                         {
@@ -7301,14 +7084,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（いや……動かさないで……）"
+                                "\\PartyFace[1]\\FaceIndex[6]\"(No... don't move it...)\""
                             ]
                         },
                         {
@@ -7326,7 +7109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "膣内を男性器に擦られる痛みに、KOHANEは涙を流す。"
+                                "As her insides are rubbed by the manhood, KOHANE cries tears\nof pain."
                             ]
                         },
                         {
@@ -7337,14 +7120,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふううぅ！！うぐうぅっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]\"Huuuuh!! Uguuuh!!\""
                             ]
                         },
                         {
@@ -7355,14 +7138,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（痛いよ……助けてよ……）"
+                                "\\PartyFace[1]\\FaceIndex[6]\"(It hurts... someone help me...)\""
                             ]
                         },
                         {
@@ -7380,21 +7163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "膣内の粘膜が男性器に擦られて痛みを発するが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同時に弱点に張り付いたローターの振動も感じてしまい、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少女は身体をひくつかせながら耐えるしかなかった。"
+                                "The mucous membrane inside her vagina hurts as it is rubbed\nby the manhood, but at the same time, she feels the\nvibration of the rotor stuck to her weak spot, and the girl\ncan only twitch and endure."
                             ]
                         },
                         {
@@ -7405,14 +7174,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふぅっ……ふうぅッ……"
+                                "\\PartyFace[1]\\FaceIndex[6]\"Huuuh... huuuuh...\""
                             ]
                         },
                         {
@@ -7423,14 +7192,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほう、感じているのか？"
+                                "\"Oh, are you feeling it?\""
                             ]
                         },
                         {
@@ -7441,14 +7210,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（そんなわけ……ない……）"
+                                "\\PartyFace[1]\\FaceIndex[6]\"(That's not true...)\""
                             ]
                         },
                         {
@@ -7459,14 +7228,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まあいい、これはおまけだ"
+                                "\"Well, this is just a bonus.\""
                             ]
                         },
                         {
@@ -7484,7 +7253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男はそう言うと、手元のリモコンを操作する。"
+                                "The man says this as he operates a remote control."
                             ]
                         },
                         {
@@ -7525,14 +7294,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふうぅっ！"
+                                "\\PartyFace[1]\\FaceIndex[6]\"Huuuh!\""
                             ]
                         },
                         {
@@ -7543,14 +7312,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（いやあっ！また動きを変えて……）"
+                                "\\PartyFace[1]\\FaceIndex[6]\"(No! You're changing it again...)\""
                             ]
                         },
                         {
@@ -7568,21 +7337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "膣内を責める男根の動きに合わせて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クリトリスに貼り付いたローターが振動する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先程までの責めとはまた違った刺激に思わず声が漏れてしまう。"
+                                "The movement of the manhood tormenting her insides syncs\nwith the vibration of the rotor stuck to her clitoris. The\ndifferent stimulation from before inadvertently makes her\nvoice leak out."
                             ]
                         },
                         {
@@ -7593,14 +7348,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふううぅっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]\"Huuuuh!!\""
                             ]
                         },
                         {
@@ -7611,14 +7366,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（こんなのって……もう耐えられないよ……）"
+                                "\\PartyFace[1]\\FaceIndex[6]\"(I can't take it anymore...)\""
                             ]
                         },
                         {
@@ -7629,14 +7384,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふうぅッ！ふううぅっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]\"Huuuh! Huuuuh!!\""
                             ]
                         },
                         {
@@ -7647,14 +7402,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（お願いだから、もう許してよ！）"
+                                "\\PartyFace[1]\\FaceIndex[6]\"(Please, I beg you, stop it!)\""
                             ]
                         },
                         {
@@ -7672,14 +7427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "陵辱者から与えられる快楽に魔法少女は身を捩って抵抗するが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "拘束された状態では全くの無意味だった。"
+                                "The magical girl writhes in pleasure given by the violator,\nbut in her restrained state, it was utterly futile."
                             ]
                         },
                         {
@@ -7690,21 +7438,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（こんな恥ずかしい恰好で無理矢理犯されて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ち良くなんてなりたくないのに……）"
+                                "\\PartyFace[1]\\FaceIndex[6]\"(To be violated against my will in such an embarrassing\nposition... I don't want to feel good...)\""
                             ]
                         },
                         {
@@ -7722,21 +7463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "膣内を男性器によって擦られながらローターから受ける刺激と、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "敏感な部分を張り付いた器具によって責められる刺激と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二重に快感がKOHANEの身体を蝕んでいく。"
+                                "The double stimulation of being rubbed by the manhood inside\nher and the device stuck to her sensitive spot eats away at\nKOHANE's body."
                             ]
                         },
                         {
@@ -7747,14 +7474,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふううッ、ふううぅっ！！"
+                                "\\PartyFace[1]\\FaceIndex[6]\"Huuuuh, huuuuh!!\""
                             ]
                         },
                         {
@@ -7765,14 +7492,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（イ……ク……）"
+                                "\\PartyFace[1]\\FaceIndex[6]\"(I'm... going to...)\""
                             ]
                         },
                         {
@@ -7790,14 +7517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "再び押し寄せる絶頂の予感に抗うように唇を噛んで耐えるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "幼い身体は容赦無く上り詰めさせられてしまう。"
+                                "She bites her lip in an attempt to resist the impending\nclimax, but her young body is mercilessly forced to reach\nits peak."
                             ]
                         },
                         {
@@ -7808,14 +7528,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふうぅ！！んくうぅぅっ！"
+                                "\\PartyFace[1]\\FaceIndex[6]Huuu!! Nkuuuuh!!"
                             ]
                         },
                         {
@@ -7826,14 +7546,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（いやああっ！またイっちゃう！）"
+                                "\\PartyFace[1]\\FaceIndex[6](No, no! I'm going to come again!)"
                             ]
                         },
                         {
@@ -7851,14 +7571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう耐え切れないと目をギュッと瞑り絶頂に備えたところで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "陵辱者の腰の振りがピタリと止まる。"
+                                "Unable to endure any longer, she tightly shuts her eyes in\npreparation for the climax, but then the violator's\nthrusting comes to an abrupt halt."
                             ]
                         },
                         {
@@ -7908,14 +7621,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（え……なんで？）"
+                                "\\PartyFace[1]\\FaceIndex[6](Eh... why?)"
                             ]
                         },
                         {
@@ -7933,14 +7646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "突然のおあずけに戸惑いながら男を見ると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "口元を歪めて下卑た笑みを浮かべていた。"
+                                "Confused by the sudden denial, she looks at the man who was\nnow smirking with a vile smile on his lips."
                             ]
                         },
                         {
@@ -7951,14 +7657,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はははっ、どうしたんだい魔法少女"
+                                "Hahaha, what's the matter, magical girl?"
                             ]
                         },
                         {
@@ -7969,14 +7675,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふうぅ……"
+                                "\\PartyFace[1]\\FaceIndex[6]Huuu..."
                             ]
                         },
                         {
@@ -7987,14 +7693,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（イかせてよ……お願いだから……）"
+                                "\\PartyFace[1]\\FaceIndex[6](Please let me come... I'm begging you...)"
                             ]
                         },
                         {
@@ -8012,14 +7718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絶頂を寸前で止められた少女は苦し気な表情を浮かべていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この後に続く更なる絶望を、まだ少女は知らなかった。"
+                                "The girl, denied her climax at the last moment, wore a\npained expression. She was yet unaware of the further\ndespair that was to follow."
                             ]
                         },
                         {
@@ -8411,14 +8110,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうかそうか、そんなにイキたいのか"
+                                "Oh, you want to climax that badly, huh?"
                             ]
                         },
                         {
@@ -8436,21 +8135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絶頂の手前で止められて、苦悶の表情を浮かべる少女。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな様子を楽しむかのように男は更に言葉を続ける。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし簡単にイってしまっていいのかい？"
+                                "The girl, stopped just short of climax, contorts her face in\nagony. The man, seemingly enjoying her state, continues to\nspeak. \"But is it really okay for you to come so easily?\""
                             ]
                         },
                         {
@@ -8461,14 +8146,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（ど…どういうこと…？）"
+                                "\\PartyFace[1]\\FaceIndex[6](Wh...What do you mean...?)"
                             ]
                         },
                         {
@@ -8486,7 +8171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男の言葉の意味が分からず戸惑う魔法少女。"
+                                "The magical girl is confused by the man's words."
                             ]
                         },
                         {
@@ -8497,21 +8182,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君を拘束しているフレームには神霊力を吸収する機能がある、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして、君が絶頂する度にその吸収量は増える…"
+                                "The frame that's restraining you has the function of\nabsorbing spiritual power, and every time you climax, the\namount absorbed increases..."
                             ]
                         },
                         {
@@ -8529,21 +8207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そのことは少女ももちろん知っていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "心のガードが弱くなると、神霊力を体内に留める力も弱くなる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが神霊力を持つ者の弱点だと教えられていた。"
+                                "Of course, the girl knew this. When one's mental guard is\nweakened, the ability to retain spiritual power inside the\nbody also weakens. She had been taught that this was the\nvulnerability of those who possess spiritual power."
                             ]
                         },
                         {
@@ -8554,21 +8218,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして、さっき打った薬には、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "神霊力が完全に空になった者の身体を硬化させる成分が含まれているのさ"
+                                "And the drug I administered earlier contains a component\nthat hardens the body of those whose spiritual power has\nbeen completely depleted."
                             ]
                         },
                         {
@@ -8586,14 +8243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "口元には笑みを浮かべながらも冷たい目で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少女に衝撃的な言葉を投げかける男。"
+                                "The man, with a smile on his lips but cold eyes, throws\nshocking words at the girl."
                             ]
                         },
                         {
@@ -8604,14 +8254,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（そ…そんな…じゃあ…わたし…イっちゃったら…）"
+                                "\\PartyFace[1]\\FaceIndex[6](Th...That means... if I... if I climax...)"
                             ]
                         },
                         {
@@ -8629,7 +8279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分の身に起こる悲惨な未来を想像して恐怖に顔を歪める少女。"
+                                "The girl distorts her face in fear as she imagines the\ntragic future that awaits her."
                             ]
                         },
                         {
@@ -8640,21 +8290,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "安心しろ、外側が完全に硬化してしまっても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "内部で神霊力を回復させる機能は残る"
+                                "Don't worry, even if the outside completely hardens, the\nfunction to recover spiritual power internally will remain."
                             ]
                         },
                         {
@@ -8665,21 +8308,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうなれば、自動で神霊力を生成するオブジェとして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前が死ぬまで使ってやるぜ"
+                                "Once that happens, you'll serve as an object generating\nspiritual power automatically until you die."
                             ]
                         },
                         {
@@ -8697,7 +8333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "心底愉しそうに残虐な未来を少女に突きつける男。"
+                                "The man presents a cruel future to the girl with genuine\ndelight."
                             ]
                         },
                         {
@@ -8733,14 +8369,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（いやだ…そんなのになりたくない…）"
+                                "\\PartyFace[1]\\FaceIndex[6](I don't want that... I don't want to become such a\nthing...)"
                             ]
                         },
                         {
@@ -8758,7 +8394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自身の置かれた悲惨な状況に少女はボロボロと涙を零す。"
+                                "The girl sheds tears as she faces the dire situation she's\nin."
                             ]
                         },
                         {
@@ -8769,14 +8405,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほら、イきたいんだろ？好きなだけイっていいぞ？"
+                                "Come on, you want to climax, right? Go ahead and come as\nmuch as you like."
                             ]
                         },
                         {
@@ -8794,7 +8430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう言うと男は腰の動きを再開させる。"
+                                "With those words, the man resumes his movements."
                             ]
                         },
                         {
@@ -8842,14 +8478,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふううぅっ！"
+                                "\\PartyFace[1]\\FaceIndex[6]Haaahhh!"
                             ]
                         },
                         {
@@ -8860,14 +8496,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（いやっ、イきたくない！イキたくない！！）"
+                                "\\PartyFace[1]\\FaceIndex[6](No, I don't want to come! I don't want to!!)"
                             ]
                         },
                         {
@@ -8885,14 +8521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絶頂寸前で止められて敏感になった身体は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐに快楽に流されて絶頂を迎えようとする。"
+                                "Her body, made sensitive from being brought to the brink and\nthen stopped, is quickly swept away by pleasure and\napproaches climax."
                             ]
                         },
                         {
@@ -8910,14 +8539,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（だ……め……イク……イっちゃう！！）"
+                                "\\PartyFace[1]\\FaceIndex[6](No... I can't... I'm going to come... I'm going to\nclimax!!)"
                             ]
                         },
                         {
@@ -8935,7 +8564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女の身体に緊張が走る。そしてーーーー。"
+                                "The girl's body tenses up. And then----"
                             ]
                         },
                         {
@@ -8946,14 +8575,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（いやああああッ！！！）"
+                                "\\PartyFace[1]\\FaceIndex[6](Noooaaaahhhhh!!!)"
                             ]
                         },
                         {
@@ -9035,14 +8664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今まで焦らされていたのが嘘のような勢いで絶頂へと駆け上る身体。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変化はすぐに現れた。"
+                                "Her body surges towards climax with a force that belies the\nprevious teasing. The change appears immediately."
                             ]
                         },
                         {
@@ -9090,14 +8712,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（え…あ…足が…）"
+                                "\\PartyFace[1]\\FaceIndex[6](Eh... Ah... My legs...)"
                             ]
                         },
                         {
@@ -9115,14 +8737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "元々フレームに固定されて動かせない足が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感覚すらなくなり、ピクリとも動かなくなる。"
+                                "Her legs, originally immobile due to being fixed in the\nframe, now lose all sensation and don't move an inch."
                             ]
                         },
                         {
@@ -9133,14 +8748,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "足が硬化したか、さあもっとイって綺麗なオブジェになれよ"
+                                "Your legs have hardened? Now keep coming and turn into a\nbeautiful object."
                             ]
                         },
                         {
@@ -9158,7 +8773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう吐き捨てると男は少女の小さな身体を貪る。"
+                                "With a sneer, the man devours the girl's small body."
                             ]
                         },
                         {
@@ -9206,7 +8821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "両手で胸を弄び、膣内に肉の隆起を叩きつける。"
+                                "He fondles her breasts with both hands and slams his\nengorged flesh inside her."
                             ]
                         },
                         {
@@ -9224,14 +8839,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふううんっ、んんんんっ！"
+                                "\\PartyFace[1]\\FaceIndex[6]Hnnnghh, mmmmm!"
                             ]
                         },
                         {
@@ -9242,21 +8857,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（やだぁ…感じたくないのに…イきたくないのに…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ちいいのが止まらない）"
+                                "\\PartyFace[1]\\FaceIndex[6](I don't want this... I don't want to feel it... I don't\nwant to come... but the pleasure won't stop.)"
                             ]
                         },
                         {
@@ -9274,7 +8882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして、すぐにまた絶頂の波に攫われる魔法少女。"
+                                "And soon, the magical girl is swept away by another wave of\nclimax."
                             ]
                         },
                         {
@@ -9285,14 +8893,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]ふうううううううんんんんっ！"
+                                "\\PartyFace[1]\\FaceIndex[6]Hnnnnnnnnghhhhh!"
                             ]
                         },
                         {
@@ -9386,7 +8994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次に変化が現れたのは腕だった。"
+                                "The next change appeared in her arms."
                             ]
                         },
                         {
@@ -9397,14 +9005,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（腕が…動かせない…）"
+                                "\\PartyFace[1]\\FaceIndex[6](My arms... I can't move them...)"
                             ]
                         },
                         {
@@ -9422,14 +9030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次々に自分の身体が失われていくような感覚に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少女の顔が青ざめる。"
+                                "The girl's face pales as she feels like she's losing her\nbody piece by piece."
                             ]
                         },
                         {
@@ -9440,14 +9041,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（これ以上イったら…）"
+                                "\\PartyFace[1]\\FaceIndex[6](If I come any more...)"
                             ]
                         },
                         {
@@ -9465,14 +9066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今まで感じたこともないような恐怖にガクガクと唇が震える。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その少女の悲痛な姿を目にしても男の責めが止まることはない。"
+                                "Her lips tremble with a fear unlike anything she's ever felt\nbefore. Even seeing the girl's pained expression does not\nstop the man's assault."
                             ]
                         },
                         {
@@ -9527,14 +9121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "繰り返されるローターの振動と男の抽送、そして薬効により"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "KOHANEは簡単に何度も絶頂を繰り返させられる。"
+                                "The repeated vibrations of the rotor and the man's\nthrusting, along with the effects of the drug, make KOHANE\nclimax easily over and over again."
                             ]
                         },
                         {
@@ -9545,14 +9132,14 @@
                                 6,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[6]（いや…もうやめて…いやああああ）"
+                                "\\PartyFace[1]\\FaceIndex[6](No... please stop... noooooo)"
                             ]
                         },
                         {
@@ -9649,14 +9236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女の心が完全に折れてしまった瞬間、変身が解除されて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "天川こはねの姿へと戻ってしまった。"
+                                "The moment the girl's spirit completely broke, her\ntransformation was undone, and she reverted back to Amagawa\nKohane."
                             ]
                         },
                         {
@@ -9667,14 +9247,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう抗う気力も失ったか"
+                                "So you've lost the will to resist, huh?"
                             ]
                         },
                         {
@@ -9692,14 +9272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "繰り返される快楽と絶望、悔しさと惨めさ、様々な感情が渦巻く中で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少女の心はズタズタに引き裂かれてしまっていた。"
+                                "In the midst of swirling pleasure, despair, frustration, and\nmisery, the girl's heart was torn to shreds."
                             ]
                         },
                         {
@@ -9761,7 +9334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何度も絶頂を繰り返し、その度に身体を硬化させられていくこはね。"
+                                "With each climax, Kohane's body became increasingly rigid."
                             ]
                         },
                         {
@@ -9772,14 +9345,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これでオブジェの完成だ！"
+                                "Now the objet d'art is complete!"
                             ]
                         },
                         {
@@ -9797,7 +9370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男が最後にひと際強く腰を突き入れる。"
+                                "The man thrusts his hips one last time with exceptional\nforce."
                             ]
                         },
                         {
@@ -9896,7 +9469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "幾度来たかもわからない絶頂の波…"
+                                "The waves of climax that came so many times..."
                             ]
                         },
                         {
@@ -9914,14 +9487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その瞬間、残っていた身体の部分が全て硬化して、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少女は完全に生きるオブジェと化してしまった。"
+                                "In that moment, the remaining parts of her body all\nhardened, and the girl was completely transformed into a\nliving statue."
                             ]
                         },
                         {
@@ -9932,14 +9498,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くくく、この無様な姿…いいねぇ"
+                                "Kukuku, this disgraceful figure... I like it."
                             ]
                         },
                         {
@@ -9957,7 +9523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男はしばらく硬化してしまったこはねの身体を眺めて愉悦に浸る。"
+                                "The man gazes at Kohane's hardened body for a while,\nindulging in his pleasure."
                             ]
                         },
                         {
@@ -9968,14 +9534,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さあ、役に立ってもらうぞ"
+                                "Now, let's put you to good use."
                             ]
                         },
                         {
@@ -10054,14 +9620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地上の研究室ではガーディアンズの部隊が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "首魁であるベリアルとKOHANEの姿を捜索していた。"
+                                "In a laboratory on the surface, a unit of Guardians was\nsearching for Belial and Kohane."
                             ]
                         },
                         {
@@ -10072,14 +9631,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こはねちゃん！！どこにいるの！？"
+                                "Kohane-chan!! Where are you?!"
                             ]
                         },
                         {
@@ -10097,14 +9656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ずっとこはねを通信で呼びかけるひさなだったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに応答が返ってくることは無かった。"
+                                "Hisana had been calling out to Kohane over the communicator\nfor some time, but there was no response."
                             ]
                         },
                         {
@@ -10122,7 +9674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこに、突然声が響く。"
+                                "Suddenly, a voice echoed."
                             ]
                         },
                         {
@@ -10133,14 +9685,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガーディアンズに告ぐ、今回はオレの負けを認めよう、だが…"
+                                "Guardians, I concede defeat this time, but..."
                             ]
                         },
                         {
@@ -10242,14 +9794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次の瞬間、空に映し出されたのは、変わり果てた姿となった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セラフィエール…天川こはねだった。"
+                                "The next moment, what was projected in the sky was the\ndrastically altered form of Seraphier... Amagawa Kohane."
                             ]
                         },
                         {
@@ -10260,14 +9805,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こ…こはねちゃん！！"
+                                "Ko... Kohane-chan!!"
                             ]
                         },
                         {
@@ -10285,7 +9830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "驚愕の光景に目を見開くひさな。"
+                                "Hisana's eyes widen in shock at the sight."
                             ]
                         },
                         {
@@ -10296,21 +9841,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前たちのエースであるセラフィエールはオレが預かった、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安心しろ、命までは奪わない…"
+                                "Your ace, Seraphier, is in my custody. Rest assured, I\nhaven't taken her life..."
                             ]
                         },
                         {
@@ -10321,14 +9859,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（もっとも、これで生きていると言えるのかどうかはわからないがな）"
+                                "(Though whether she can still be said to be alive in this\nstate is another matter.)"
                             ]
                         },
                         {
@@ -10346,7 +9884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう思いながらも男は言葉を続ける。"
+                                "Even as he thought this, the man continued speaking."
                             ]
                         },
                         {
@@ -10357,21 +9895,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さぁ、こいつの命が惜しければ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここから脱出するオレを追跡しないことだな"
+                                "If you care about this girl's life, then don't pursue me as\nI make my escape from here."
                             ]
                         },
                         {
@@ -10389,7 +9920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男が告げた瞬間、島の裏から小型のジェット機が飛び立った。"
+                                "The moment the man finished speaking, a small jet plane took\noff from behind the island."
                             ]
                         },
                         {
@@ -10426,21 +9957,14 @@
                                 0,
                                 0,
                                 2,
-                                "リベレイター【ベリアル】"
+                                "Liberator [Belial]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次こそお前達を壊滅させてやろう、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それまでこいつはオレの役に立ってもらうぞ！"
+                                "Next time I will annihilate you all. Until then, she will\nserve me well!"
                             ]
                         },
                         {
@@ -10458,7 +9982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう言い残し、男を乗せたジェット機は一気に噴射して飛び去って行く。"
+                                "Leaving those words behind, the jet carrying the man blasted\noff and disappeared into the night."
                             ]
                         },
                         {
@@ -10469,14 +9993,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{こ…こはねちゃーーーーーーーん！！"
+                                "Ko... Kohane-chaaaaan!!"
                             ]
                         },
                         {
@@ -10494,14 +10018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夜の孤島に月丘ひさなの悲痛な叫びが響く。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "既に、ジェット機の姿は夜の闇に消えて、"
+                                "Hisana's anguished cry echoed through the lonely island at\nnight. Already, the jet had vanished into the darkness,"
                             ]
                         },
                         {
@@ -10519,7 +10036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あたりには波の音が聞こえるのみとなっていた。"
+                                "and all that could be heard was the sound of the waves."
                             ]
                         },
                         {

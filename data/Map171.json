@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "数字の書かれた部屋（東）",
+    "displayName": "Room with Numbers (East)",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -3305,7 +3305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このエリアにトラップはないようだ。"
+                                "It seems there are no traps in this area."
                             ]
                         },
                         {
@@ -3443,14 +3443,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[2]謎の数字がある。"
+                                "\\PartyFace[1]\\FaceIndex[2]There are some mysterious numbers here."
                             ]
                         },
                         {
@@ -3461,21 +3461,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "研究員さんの話だと、ここと対になる部屋が西にもあるってことだから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何となくこの部屋のこと覚えておいた方がいいかもね。"
+                                "According to the researcher, there's a room that corresponds\nto this one to the west, so it might be a good idea to\nremember something about this room."
                             ]
                         },
                         {
@@ -3486,21 +3479,14 @@
                                 2,
                                 0,
                                 2,
-                                "KOHANE"
+                                "Kohane"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\PartyFace[1]\\FaceIndex[1]…よし！覚えた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…ひさなちゃんが。"
+                                "\\PartyFace[1]\\FaceIndex[1]...Alright! I've got it! ...Hisana-chan has."
                             ]
                         },
                         {
@@ -3511,14 +3497,14 @@
                                 0,
                                 0,
                                 2,
-                                "月丘ひさな"
+                                "Tsukioka Hisana"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…覚えておくね。"
+                                "...I'll remember it."
                             ]
                         },
                         {
