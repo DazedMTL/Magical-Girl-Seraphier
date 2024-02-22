@@ -403,7 +403,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A precious gem imbued with a high density of divine power. It can be detonated\nto break free from restraints.",
+        "description": "A precious gem imbued with a high density of divine power. It can be detonated to break free from\nrestraints.",
         "effects": [
             {
                 "code": 21,
@@ -520,7 +520,7 @@
             "type": 1,
             "variance": 0
         },
-        "description": "Tsukioka Hisana's lovingly made poison... lunchbox. It's so addictive that you'd\nwant to eat it even while restrained, and it's so delicious it could knock you\nout? (Instant incapacitation)",
+        "description": "Tsukioka Hisana's lovingly made poison... lunchbox. It's so addictive that you'd want to eat it even\nwhile restrained, and it's so delicious it could knock you out? (Instant incapacitation)",
         "effects": [
             {
                 "code": 21,
@@ -553,7 +553,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Tsukioka Hisana's lovingly made poison... tea. Drinking it cools your head from\nthe intense stimulation, reducing lewdness to zero.",
+        "description": "Tsukioka Hisana's lovingly made poison... tea. Drinking it cools your head from the intense\nstimulation, reducing lewdness to zero.",
         "effects": [
             {
                 "code": 21,
@@ -1487,7 +1487,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A digital memory containing records of a past battle between a god and twin\ngirls. Can be viewed on the terminal in the VR room.",
+        "description": "A digital memory containing records of a past battle between a god and twin girls. Can be viewed on\nthe terminal in the VR room.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1156,
@@ -1513,7 +1513,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A digital memory containing records of a past battle between a god and twin\ngirls. Can be viewed on the terminal in the VR room.",
+        "description": "A digital memory containing records of a past battle between a god and twin girls. Can be viewed on\nthe terminal in the VR room.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1156,
@@ -1539,7 +1539,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A digital memory containing records of a past battle between a god and twin\ngirls. Can be viewed on the terminal in the VR room.",
+        "description": "A digital memory containing records of a past battle between a god and twin girls. Can be viewed on\nthe terminal in the VR room.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1156,
@@ -1565,7 +1565,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A digital memory containing records of a past battle between a god and twin\ngirls. Can be viewed on the terminal in the VR room.",
+        "description": "A digital memory containing records of a past battle between a god and twin girls. Can be viewed on\nthe terminal in the VR room.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1156,
@@ -1591,7 +1591,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A digital memory containing records of a past battle between a god and twin\ngirls. Can be viewed on the terminal in the VR room.",
+        "description": "A digital memory containing records of a past battle between a god and twin girls. Can be viewed on\nthe terminal in the VR room.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1156,
@@ -1617,7 +1617,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A digital memory containing records of a past battle between a god and twin\ngirls. Can be viewed on the terminal in the VR room.",
+        "description": "A digital memory containing records of a past battle between a god and twin girls. Can be viewed on\nthe terminal in the VR room.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1156,
@@ -1643,7 +1643,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A digital memory containing records of a past battle between a god and twin\ngirls. Can be viewed on the terminal in the VR room.",
+        "description": "A digital memory containing records of a past battle between a god and twin girls. Can be viewed on\nthe terminal in the VR room.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1156,
@@ -1669,7 +1669,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A digital memory containing records of a past battle between a god and twin\ngirls. Can be viewed on the terminal in the VR room.",
+        "description": "A digital memory containing records of a past battle between a god and twin girls. Can be viewed on\nthe terminal in the VR room.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1156,
@@ -1695,7 +1695,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A digital memory containing records of a past battle between a god and twin\ngirls. Can be viewed on the terminal in the VR room.",
+        "description": "A digital memory containing records of a past battle between a god and twin girls. Can be viewed on\nthe terminal in the VR room.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1156,
@@ -1721,7 +1721,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A digital memory outlining the plan for the annihilation of the Guardians. Can\nbe viewed on the terminal in the VR room.",
+        "description": "A digital memory outlining the plan for the annihilation of the Guardians. Can be viewed on the\nterminal in the VR room.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1156,

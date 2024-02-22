@@ -30,7 +30,7 @@
     {
         "id": 2,
         "atypeId": 1,
-        "description": "A robe with a function to assist in the control of Seraphier's divine spirit\npower.",
+        "description": "A robe with a function to assist in the control of Seraphier's divine spirit power.",
         "etypeId": 2,
         "traits": [
             {
@@ -62,7 +62,7 @@
     {
         "id": 3,
         "atypeId": 1,
-        "description": "A smart device issued to Kohane by the organization. In addition to general\ncommunication functions, it can also be remotely operated by divine spirit\npower.",
+        "description": "A smart device issued to Kohane by the organization. In addition to general communication functions,\nit can also be remotely operated by divine spirit power.",
         "etypeId": 3,
         "traits": [
             {
@@ -380,7 +380,7 @@
     {
         "id": 17,
         "atypeId": 1,
-        "description": "[Accessory] A ring that completely prevents restraint ※No effect when unable to\nact",
+        "description": "[Accessory] A ring that completely prevents restraint ※No effect when unable to act",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 846,

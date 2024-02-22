@@ -92,7 +92,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The following is a frame for skills that you want to display above the combat\nskills when the menu is opened.",
+        "description": "The following is a frame for skills that you want to display above the combat skills when the menu\nis opened.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
@@ -3229,7 +3229,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Dispels support magic on the enemy ※Targets: Magic Reflection, Attack Power\nIncrease",
+        "description": "Dispels support magic on the enemy ※Targets: Magic Reflection, Attack Power Increase",
         "effects": [
             {
                 "code": 22,
@@ -3273,7 +3273,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Suppresses the enemy's magical actions with divine power (70% success rate)\nEffective for 5 turns",
+        "description": "Suppresses the enemy's magical actions with divine power (70% success rate) Effective for 5 turns",
         "effects": [
             {
                 "code": 21,
@@ -3734,7 +3734,7 @@
             "type": 0,
             "variance": 0
         },
-        "description": "Gathers surrounding divine power to recover. Once used, it cannot be used again\nfor some time.",
+        "description": "Gathers surrounding divine power to recover. Once used, it cannot be used again for some time.",
         "effects": [
             {
                 "code": 21,
@@ -3816,7 +3816,7 @@
             "type": 3,
             "variance": 0
         },
-        "description": "Can only be used when completely restrained. Recovers HP with an unyielding\nspirit. Requires cooldown time before it can be used again.",
+        "description": "Can only be used when completely restrained. Recovers HP with an unyielding spirit. Requires\ncooldown time before it can be used again.",
         "effects": [
             {
                 "code": 21,
@@ -3860,7 +3860,7 @@
             "type": 0,
             "variance": 0
         },
-        "description": "Releases divine power to escape from restraints. Takes time to activate. Uses\n50% of maximum MP.",
+        "description": "Releases divine power to escape from restraints. Takes time to activate. Uses 50% of maximum MP.",
         "effects": [
             {
                 "code": 44,
@@ -3986,7 +3986,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Regenerates damaged robes with divine power. (Can only be used when not\nrestrained) Requires cooldown time before it can be used again after\nregeneration.",
+        "description": "Regenerates damaged robes with divine power. (Can only be used when not restrained) Requires\ncooldown time before it can be used again after regeneration.",
         "effects": [
             {
                 "code": 44,
@@ -4030,7 +4030,7 @@
             "type": 4,
             "variance": 0
         },
-        "description": "Gathers surrounding divine power to recover. Once used, it cannot be used again\nfor some time.",
+        "description": "Gathers surrounding divine power to recover. Once used, it cannot be used again for some time.",
         "effects": [
             {
                 "code": 21,
@@ -4068,7 +4068,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Regenerates damaged robes with divine power. Requires cooldown time before it\ncan be used again after regeneration.",
+        "description": "Regenerates damaged robes with divine power. Requires cooldown time before it can be used again\nafter regeneration.",
         "effects": [
             {
                 "code": 44,
@@ -4112,7 +4112,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Transform into Seraphier. Once transformed, a cooldown time is required before\ntransforming again.",
+        "description": "Transform into Seraphier. Once transformed, a cooldown time is required before transforming again.",
         "effects": [
             {
                 "code": 44,

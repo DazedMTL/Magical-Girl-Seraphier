@@ -1049,7 +1049,7 @@
         "mainFontFilename": "Corporate-Logo-Medium-ver2.ttf",
         "numberFontFilename": "851Gkktt_005.ttf",
         "fallbackFonts": "Verdana, sans-serif",
-        "fontSize": 26,
+        "fontSize": 22,
         "windowOpacity": 128,
         "screenScale": 1
     },
